@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-13 — Author-decided — Recovered sanctuary relationship scenes
+
+The author approves adapting two previously omitted scenes from the temporary sanctuary and main-story drafts into chapter 16: Ava privately confides in Jenna about wanting Gabriel and fearing that she may harm or burden him, and Ava and Gabriel plant unknown seeds together while Ava directly describes feeling estranged from her changing body. These scenes deepen Ava’s relationships with Jenna and Gabriel without moving the confession, first kiss, or sexual intimacy from chapter 18; Ava does not disclose her romantic feelings to Gabriel in chapter 16, and Gabriel does not promise that her mutation is harmless or cured. The source files remain unchanged. Affected file: `manuscript/016-unspoken.md`.
+
 ### 2026-09-13 — Author-decided — Immediate thought, emotional outcry, and embodied intimacy
 
 The author clarifies that the expanded interiority still explains emotion at too great a distance and requests Ava's own immediate words, first-person thoughts, distress, cries, rage, and physically felt attraction. The continuing style remains close third person with selective italicized direct thought and spoken reactions; it does not become a first-person retelling. Harrow's injury to Gabriel in chapter 31 and the first intimate encounter in chapter 18 are the principal revisions, with the same approach carried through other emotional turning points. Ava's fury does not change Harrow's escape or her eventual choice to help Gabriel. Intimacy remains between consenting adults after their confession. Affected files: `08-prose-style-guide.md` and the manuscript's emotional turning points. This refines the previous interiority brief without changing chronology or biological limits.

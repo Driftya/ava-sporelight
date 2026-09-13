@@ -82,6 +82,58 @@ The confession did not ask Ava to forgive the sealed rooms or the hazmat suit. I
 
 They argued until it became almost pleasant.
 
+Jenna closed the water ledger, but Ava kept one hand on its corner.
+
+“There’s something else.”
+
+Jenna waited. She had a commander’s talent for making silence feel scheduled.
+
+“It isn’t about the greenhouse.” Ava released the ledger. “Or my health.”
+
+“That removes most of my useful expertise.”
+
+“It’s Gabriel.”
+
+Jenna’s expression did not change. Somehow that was worse than surprise.
+
+Ava turned one of the irrigation clamps until its teeth pressed a red crescent into her thumb. “I think about him when he’s gone. I save things to tell him. Stupid things. And when he is here, I—”
+
+*I want him to touch me.*
+
+The rest would not cross her mouth.
+
+“You want something from him,” Jenna said.
+
+“I don’t know if he could want it from me.” Ava looked at the amber lines beneath her wrist. “And if he does, what if I ruin him?”
+
+Jenna set the ledger back on the table.
+
+“Gabriel was making reckless choices long before he found you,” she said. “You don’t get sole credit.”
+
+Ava gave her an irritated look. Jenna let the corner of her mouth move, then became serious again.
+
+“You are dangerous,” Jenna said. “So is a carrier this size. So am I when I give an order people follow into contaminated ground. Danger is something we account for. It is not an answer to every question.”
+
+“That sounds like an answer from a commander.”
+
+“It is the one I have.” Jenna tapped the closed ledger. “Don’t decide what Gabriel feels because you are frightened of hearing it from him. And don’t decide what you feel because you think he needs protecting from the answer.”
+
+Ava’s face had grown hot. She busied herself aligning the seed jars Marcus had brought, though they were already straight.
+
+“I’m not asking you to tell him.”
+
+“Good. I have enough work.”
+
+“I’m serious.”
+
+“So am I.” Jenna picked up the tablet, then paused at the door. “Start with one thing you know is true. You don’t have to solve the rest tonight.”
+
+Ava looked at the empty doorway Gabriel usually filled before entering.
+
+“I miss him,” she said.
+
+Jenna nodded once. “That will do.”
+
 Gabriel returned the following evening with a split lip, a torn glove, and a crate of plumbing seals the carrier actually needed. Ava met him in the vehicle bay before deciding whether she meant to.
 
 He climbed from the transport and saw her between two unloading crews. His exhausted face changed.
@@ -112,7 +164,73 @@ Ava smiled despite herself. Only when he moved past did she see the fatigue in t
 
 He let her take it.
 
-Later, they sat between the greenhouse beds with their backs against the water tank. The grow lamps had dimmed to evening levels. Gabriel ate lettuce straight from a tray while Ava slapped his hand away from the stronger plants.
+Later, Gabriel found the three unlabelled seed jars still lined up on the greenhouse table.
+
+“You waited for me,” he said.
+
+“I waited for time to test them.”
+
+He looked at the cleared trays, the prepared soil, and the folded paper markers beside Ava’s hand. “Of course.”
+
+She opened the first jar and tipped six flat brown seeds into her palm. None looked familiar enough to trust. “One row from each jar. If something germinates, I might identify it from the first leaves.”
+
+Gabriel reached for a seed.
+
+“Not yet.” She showed him how deep to press it. “Twice its width. Gently.”
+
+His first disappeared to the first joint of his finger.
+
+Ava stared at the hole.
+
+“Twice is an imprecise instruction,” he said.
+
+“Only if you’ve never seen a seed.” She dug it out and placed it back in his palm. “Again.”
+
+The next three formed a tight cluster.
+
+“Do plants require personal space?” he asked.
+
+“These will require surgery.”
+
+She laughed before she could preserve the severity of the lesson. Gabriel brushed soil from his knuckle with a pleased expression that made clear he had been aiming for exactly that.
+
+They worked down the tray together. His hands were built for heavier tasks, scarred across the fingers and careful only after she corrected them. Ava knew how much pressure would settle soil without compacting it. The knowledge lived in her hands before she had to think.
+
+Then amber light moved beneath the skin of her wrist.
+
+She stopped with one fingertip resting in the soil.
+
+Gabriel noticed. He did not reach for her. “Pain?”
+
+“No.”
+
+That should have ended it. Instead Ava watched the light fade and said, “Sometimes it doesn’t feel like my hand.”
+
+He waited beside her.
+
+“My whole body,” she said. “I know where everything is. I can use it. But I don’t always know what it will do before I move.” She rubbed soil between her thumb and forefinger until the grains became too fine to separate. “I want to wake up without checking what changed. I want to look in a mirror and not have to find myself in pieces.”
+
+The pumps moved water through the tubes overhead. Gabriel rested his dirty hands on his knees.
+
+“I don’t know how to give you that,” he said.
+
+Relief hurt more than reassurance would have. He had not called her normal or promised that the changes would stop.
+
+“I know.”
+
+“I can listen when it doesn’t feel like yours.” He nodded toward the tray. “And I can keep ruining seeds until your hands remember they know more than mine.”
+
+“You ruined one seed.”
+
+“Three, according to the surgical prognosis.”
+
+Ava nudged his clustered seeds apart. “They may survive.”
+
+“Then I have a gift.”
+
+When the last row was covered, they carried the tray to the warm shelf together. Ava wrote the date on its marker and, beneath it, *contents unknown*.
+
+They sat between the greenhouse beds with their backs against the water tank. The grow lamps had dimmed to evening levels. Gabriel ate lettuce straight from a tray while Ava slapped his hand away from the stronger plants.
 
 “Marcus says you frightened an axle into breaking,” she said.
 

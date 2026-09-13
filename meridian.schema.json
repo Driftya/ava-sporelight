@@ -1,0 +1,484 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://codemeridian.local/schemas/meridian.schema.json",
+  "title": "CodeMeridian project configuration",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "CodeMeridian config format version for additive init refreshes."
+    },
+    "project": {
+      "type": "string",
+      "description": "Project context name used when indexing and querying CodeMeridian."
+    },
+    "codeMeridianUrl": {
+      "type": "string",
+      "description": "CodeMeridian server URL."
+    },
+    "url": {
+      "type": "string",
+      "description": "Alias for codeMeridianUrl."
+    },
+    "allowRepoScripts": {
+      "type": "boolean",
+      "default": true,
+      "description": "Allow diagnostics indexing to run repo-controlled build/lint scripts."
+    },
+    "useGlobalCache": {
+      "type": "boolean",
+      "default": false,
+      "description": "Store indexer runtime cache and generated files outside the repository."
+    },
+    "embedding": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Project expectation for server-side embedding enrichment during ingestion. Provider credentials and endpoints remain server configuration.",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether this project expects the CodeMeridian server to generate embeddings for ingested code nodes."
+        }
+      }
+    },
+    "configurationFiles": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "File-name patterns used by configuration indexing. Supports '*' wildcards such as '.env', 'appsettings.*.json', or 'docker-compose*.yaml'."
+    },
+    "architecture": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "path": {
+          "type": "string",
+          "description": "Relative path to the active architecture rule file used by architecture-violation and smell-path analysis."
+        }
+      }
+    },
+    "indexing": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "fileRoles": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "test": { "type": "array", "items": { "type": "string" } },
+            "migration": { "type": "array", "items": { "type": "string" } },
+            "snapshot": { "type": "array", "items": { "type": "string" } },
+            "generated": { "type": "array", "items": { "type": "string" } },
+            "buildArtifact": { "type": "array", "items": { "type": "string" } },
+            "configuration": { "type": "array", "items": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "analysis": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "staleKnowledge": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "skipHeuristicSourcePrefixes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Documentation source prefixes where stale-knowledge should only trust explicit metadata links."
+            },
+            "ignoredMentionTokens": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Exact mention tokens ignored by stale-knowledge heuristic scanning."
+            },
+            "codeLikeSuffixes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Single PascalCase tokens must end with one of these suffixes to count as code-like."
+            },
+            "ignoredDottedSuffixes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Dotted tokens ending with these suffixes are treated as files/domains/config names, not code references."
+            }
+          }
+        },
+        "ranking": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "preferProductionOverTests": {
+              "type": "boolean",
+              "default": true,
+              "description": "Rank production nodes ahead of tests/namespaces/boilerplate in graph-tool output."
+            },
+            "productionOnlyByDefault": {
+              "type": "boolean",
+              "default": true,
+              "description": "Hide broader heuristic matches inline unless the caller opts in."
+            },
+            "includeBroaderHeuristicMatches": {
+              "type": "boolean",
+              "default": false,
+              "description": "Show broader heuristic matches alongside primary production candidates."
+            },
+            "includeSuppressedNoise": {
+              "type": "boolean",
+              "default": false,
+              "description": "Show suppressed test/config/generated noise inline instead of only summarizing it."
+            },
+            "minimumActionableLineCount": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 3,
+              "description": "Minimum line count used when ranking code nodes as strongly actionable."
+            },
+            "testPathContains": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Case-insensitive substrings used to classify test nodes."
+            },
+            "infrastructureNameSuffixes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Node name suffixes treated as lower-priority infrastructure boilerplate."
+            },
+            "infrastructureNames": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Exact node names treated as lower-priority infrastructure boilerplate.",
+              "examples": [
+                [
+                  "DependencyInjection",
+                  "Program",
+                  "Startup",
+                  "CompositionRoot",
+                  "ServiceCollectionExtensions",
+                  "StartupExtensions",
+                  "ConfigureServices",
+                  "Module",
+                  "AppModule",
+                  "ContainerModule"
+                ]
+              ]
+            },
+            "suppressedFileRoles": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Indexed file roles suppressed from primary low-noise output."
+            },
+            "suppressedNodeTypes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Node kinds suppressed from primary low-noise output."
+            },
+            "broaderHeuristicNodeTypes": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Node kinds that stay available as broader heuristic matches."
+            }
+          }
+        },
+        "communityNoise": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "minimumCommunitySize": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 3
+            },
+            "minimumProductionMemberRatio": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.6
+            },
+            "includeTestCommunities": {
+              "type": "boolean",
+              "default": false
+            },
+            "maximumVisibleCommunities": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 15
+            },
+            "minimumExtractionCandidateMembers": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 3
+            },
+            "minimumPrimaryExtractionScore": {
+              "type": "integer",
+              "default": 5
+            }
+          }
+        },
+        "coverageNoise": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "minimumHighPriorityLineCount": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 8
+            },
+            "lowPriorityNameSuffixes": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "dependencyNoise": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "includeTestDependenciesByDefault": {
+              "type": "boolean",
+              "default": false
+            }
+          }
+        },
+        "similarityNoise": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "preferSameNodeFamily": {
+              "type": "boolean",
+              "default": true
+            },
+            "preferSameLayer": {
+              "type": "boolean",
+              "default": true
+            },
+            "minimumPrimarySimilarity": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.85
+            }
+          }
+        },
+        "duplicateNoise": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "minimumPrimarySimilarity": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.92
+            },
+            "maximumPrimaryCombinedFanIn": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 4
+            },
+            "minimumPrimarySizeRatio": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.5
+            },
+            "preferSameLayer": {
+              "type": "boolean",
+              "default": true
+            }
+          }
+        },
+        "routePlanning": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "preferContractAnchors": {
+              "type": "boolean",
+              "default": false
+            },
+            "preferApplicationOrDomainAnchors": {
+              "type": "boolean",
+              "default": true
+            },
+            "preferInfrastructureAnchors": {
+              "type": "boolean",
+              "default": false
+            },
+            "preferApiAnchors": {
+              "type": "boolean",
+              "default": false
+            },
+            "preferCliAnchors": {
+              "type": "boolean",
+              "default": false
+            },
+            "preferredAnchorBoost": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 2
+            },
+            "highConfidenceCompanionScore": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 12
+            },
+            "sameDirectoryCompanionMinimumScore": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 6
+            },
+            "configurationGoalTerms": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Terms that allow configuration files to remain primary route candidates."
+            }
+          }
+        },
+        "responsibilitySlices": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "defaultServiceSuffix": {
+              "type": "string",
+              "default": "Service"
+            },
+            "maximumMethodsPerProposedSlice": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 24
+            },
+            "minimumSharedEvidenceRatio": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.25
+            },
+            "maximumTargetMethodShare": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "default": 0.7
+            },
+            "minimumCommunityEvidenceMethodsForHighConfidence": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 2
+            },
+            "namespaceRootOverrides": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "matchPrefix": { "type": "string" },
+                  "replaceWith": { "type": "string" }
+                },
+                "required": ["matchPrefix", "replaceWith"]
+              }
+            },
+            "folderRootOverrides": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "matchPrefix": { "type": "string" },
+                  "replaceWith": { "type": "string" }
+                },
+                "required": ["matchPrefix", "replaceWith"]
+              }
+            }
+          }
+        },
+        "precisionFeedback": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "enabled": {
+              "type": "boolean",
+              "default": true
+            },
+            "feedbackFilePath": {
+              "type": "string",
+              "default": ".meridian/precision-feedback.json"
+            },
+            "acceptedFileBoost": {
+              "type": "integer",
+              "default": 4
+            },
+            "acceptedTestBoost": {
+              "type": "integer",
+              "default": 2
+            },
+            "ignoredFilePenalty": {
+              "type": "integer",
+              "default": 3
+            },
+            "fileOnlyPenalty": {
+              "type": "integer",
+              "default": 2
+            },
+            "heuristicPenalty": {
+              "type": "integer",
+              "default": 1
+            },
+            "stalePenalty": {
+              "type": "integer",
+              "default": 2
+            }
+          }
+        },
+        "testCommands": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "strategies": {
+              "type": "array",
+              "description": "Ordered test command strategies. The first strongest strategy whose file-path hints match the focused test files is used.",
+              "items": {
+                "type": "object",
+                "additionalProperties": true,
+                "properties": {
+                  "matchFilePathContains": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "Case-insensitive substrings matched against normalized candidate test file paths."
+                  },
+                  "baseCommand": {
+                    "type": "string",
+                    "description": "Base command used for high-confidence focused test suggestions."
+                  },
+                  "singleTestTemplate": {
+                    "type": "string",
+                    "description": "Template appended to the base command when one focused test node is suggested. Use {value} for the sanitized selector token."
+                  },
+                  "sameDirectoryTemplate": {
+                    "type": "string",
+                    "description": "Template appended to the base command when the focused test nodes collapse to one directory. Use {value} for the sanitized selector token."
+                  }
+                }
+              }
+            },
+            "baseCommand": {
+              "type": "string",
+              "description": "Legacy fallback base command used when no strategies are declared."
+            },
+            "singleTestTemplate": {
+              "type": "string",
+              "description": "Legacy fallback template appended to the base command when one focused test node is suggested. Use {value} for the sanitized selector token."
+            },
+            "sameDirectoryTemplate": {
+              "type": "string",
+              "description": "Legacy fallback template appended to the base command when the focused test nodes collapse to one directory. Use {value} for the sanitized selector token."
+            }
+          }
+        }
+      }
+    }
+  }
+}
