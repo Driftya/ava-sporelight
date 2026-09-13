@@ -48,6 +48,10 @@ Gabriel put his folded coat beside her watch position.
 
 She caught his sleeve before he moved away and kissed him. It was brief, awkward beside the doorframe, and made her want a great deal more than the room allowed. When he touched her cheek afterward she turned into his hand for one private second.
 
+*More.*
+
+The word came with enough heat that she was glad he could not hear it.
+
 “Wake me,” he said.
 
 “When it’s your turn.”

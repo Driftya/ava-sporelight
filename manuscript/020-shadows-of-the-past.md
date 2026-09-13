@@ -44,11 +44,15 @@ The older man pointed the pipe toward Ava, trembling. “That’s no human! Look
 
 Ava stiffened, her heart sinking at the accusation. She opened her mouth to speak, but the words caught in her throat. Gabriel stepped in front of her, his rifle lowered but his stance protective.
 
+*Not here too.*
+
 “Enough,” Gabriel said, his voice sharp. “She’s saved more lives than you can count. So unless you want to find out what’s really lurking out there, you’ll keep quiet and listen.”
 
 The other survivors looked from Harrow to Gabriel. The older man kept his pipe raised.
 
 Ava stepped back before the pipe could reach her. Gabriel touched her elbow, and she held his wrist for a moment. She wanted to leave. Instead, she made herself look beyond the man to the child crouching against the wall.
+
+“I won’t come closer,” Ava told the child. Her voice shook. “I won’t touch you.”
 
 She had become used to being touched without hesitation. A hand at her waist while she worked, knees sharing the space beneath a table. She had let that small circle of ease convince her that something about her had changed enough for strangers to see it too.
 

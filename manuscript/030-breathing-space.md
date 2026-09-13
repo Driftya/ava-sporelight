@@ -38,6 +38,8 @@ Gabriel waited through the rattle of the vehicle.
 
 “After I changed. I wasn’t tired in the same way. I didn’t have to work out what to do.” She looked at her hand. “I wanted that part.”
 
+*What is wrong with me?*
+
 His eyes went to the dressing, then back to her face. “Tell him that too.”
 
 She had hoped he would say everyone felt something like it in a fight. Give it a familiar name, make it small enough to put away. He did not, and she disliked him briefly for leaving her with what she had admitted.
@@ -103,6 +105,8 @@ Ava’s lips twitched into a faint smile, though her eyes remained sad. She lean
 Gabriel stepped closer, his hand brushing against hers before he wrapped his arms around her in a firm embrace. “I’m not going anywhere, Ava,” he murmured, his voice steady and warm.
 
 She rested her head against his chest, listening until she could distinguish his breathing from the wind at the barricade. Ava tilted her face upward, meeting his gaze, and Gabriel leaned down to kiss her. She wanted to be alone with him. The wanting felt almost extravagant after the day they had survived, and she held him closer because she could still feel it.
+
+*I still want him. Even like this.*
 
 She had thought she would want to hide her body after the factory. Part of her did. Another part wanted the familiarity they were only beginning to learn: his weight beside her, the unguarded face he showed when she touched him. She could not explain how both could be true while her skin still hurt. She kissed him again, more firmly, before either of them tried to turn the moment into reassurance.
 

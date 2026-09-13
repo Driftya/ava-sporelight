@@ -22,6 +22,8 @@ If they let her sit up, she could explain. She knew how to handle a specimen, ho
 
 Two people entered in full hazmat suits. Through the visors, Ava could make out a man with sharp features and a woman whose hair was pulled tight behind her head. The woman checked the number above the table against her tablet before looking at Ava.
 
+*Keep looking at me. See me.*
+
 “Subject is awake,” the woman said, not bothering to meet Ava’s frantic gaze. She tapped a few notes into her tablet before glancing at the man. “Vitals are stable. Shall we proceed?”
 
 The man nodded, stepping closer to the table. He reached out, placing a heavily gloved hand on Ava’s arm, ignoring the way she flinched at his touch. “You’ve been selected for an important study,” he said, his voice devoid of emotion. “Your cooperation is… irrelevant. But your survival is critical.”
@@ -35,6 +37,8 @@ He ignored her outburst, motioning to the woman, who handed him a syringe filled
 “Administering dose,” the woman stated flatly. She stepped closer, reaching for Ava’s arm. Ava thrashed against the restraints, her muscles straining, but the straps held firm. The needle pierced her skin, and the liquid burned as it entered her bloodstream.
 
 The burning reached her elbow, then her shoulder. Ava bit the inside of her cheek to keep from screaming and screamed anyway. Her back lifted against the chest strap; the cuffs kept her limbs flat.
+
+“Stop! Please—please, I can’t—”
 
 “Subject response noted,” the woman said, tapping on her tablet. “Heart rate elevated, cellular activity spiking.”
 
@@ -51,5 +55,7 @@ When she could see clearly again, sweat had run into both ears. Someone released
 “Begin spore exposure in the isolation chamber,” the man instructed, stepping back. “Prepare her for the next phase.”
 
 They wheeled her toward the door. Ava tried to memorize the turns: left past a bank of cylinders, right beneath a damaged light. The pain made her lose count.
+
+*Again. Start again. Left. Right. Remember.*
 
 At the next doorway, she let one bleeding hand hang over the side of the table. Perhaps it would leave a mark.

@@ -42,6 +42,10 @@ Ava hesitated, her instincts screaming to stay and fight. But she caught the loo
 
 At the step, her knee failed to lift high enough. The guard caught her elbow and hauled her the rest of the way. Ava let herself be pulled. Her first impulse was to apologize; her second was to hold on until she was certain the floor would stay beneath her.
 
+“Don’t let go yet,” she said.
+
+The guard tightened her grip until Ava was seated.
+
 “Everyone’s in!” the tall guard shouted. “Let’s move!”
 
 Gabriel covered their retreat, his rifle firing until the last possible moment. He jumped onto the vehicle as it began to pull away, the mutants clawing at its armored sides.
@@ -51,6 +55,8 @@ Inside, the survivors sat in tense silence, their breaths heavy with relief. Ava
 “We made it,” he said, his voice low.
 
 “This time,” Ava replied. She laid the knife flat and pressed fresh gauze over her palm. Across the aisle, the child from the garage slept against her mother, the same blanket pulled to her chin.
+
+*I don’t want to be brave again today.*
 
 Ava watched the blanket shift with the vehicle. She had expected saving people to produce a feeling she could recognize as good. Mostly she wanted water and for nobody to ask her to stand again.
 

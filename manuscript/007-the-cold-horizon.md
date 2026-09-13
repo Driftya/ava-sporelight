@@ -42,6 +42,8 @@ A cryopod stood among collapsed equipment racks. Rust covered its lower housing,
 
 He wiped the lid with his glove. A woman lay inside, dark hair spread around her head, silver strands caught against the lining. Her face looked no older than his. He pressed his light nearer the glass, looking for any sign that the status light was telling the truth.
 
+*Please be alive.*
+
 “Gabe, what’s the hold-up?” Jenna’s voice crackled.
 
 “We’ve got a survivor,” he said. “Cold sleep. I don’t know how long.” He checked the life-sign display against the woman behind the frost. The trace moved.

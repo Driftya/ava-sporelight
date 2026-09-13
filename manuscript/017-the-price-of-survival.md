@@ -28,6 +28,8 @@ Back on the ship, Ava dropped the tray she was carrying when she saw him stagger
 
 “Gabriel!” she cried, rushing to his side.
 
+“No, no, no.” She caught his free hand. “Look at me. Gabe, look at me.”
+
 “I’m fine,” he said weakly, though the pain in his voice betrayed him.
 
 “Don’t lie to me,” she whispered, helping him to the medical bay.
@@ -38,7 +40,9 @@ Jenna cut away the ruined shirt and cleaned the wound while Ava stood beside the
 
 The dressing reddened before she had finished fastening it. Ava watched Gabriel try to hide a flinch.
 
-She had been thinking about his mouth that morning. While he was bleeding somewhere beyond the carrier, she had been deciding whether to let her hand stay against his the next time they worked together. The contrast made her feel obscene, though she knew the thought had hurt nobody.
+*I was thinking about kissing you.*
+
+While he was bleeding somewhere beyond the carrier, she had been deciding whether to let her hand stay against his the next time they worked together. The thought had hurt nobody. It felt obscene anyway.
 
 “Two didn’t come back,” he said when Jenna turned to the tray.
 
@@ -96,6 +100,8 @@ One of the creatures lunged at her. She barely moved in time, stumbling backward
 
 “Ava! Move!” Gabriel’s voice cut through her haze.
 
+*Move.*
+
 She tried. She swung at the creature, but her movements were sloppy, panicked. It wasn’t like training—it was chaotic, messy, real.
 
 She almost lost control.
@@ -135,6 +141,8 @@ Ava pointed out the loose seal to Gabriel. He took a spare mask from his pack an
 They were talking to the settlement’s leader when the wall beside the gate buckled. A many-limbed creature forced its bulk through the sheet metal, jaws working around a torn strip of it. The children dropped the wire. Gabriel pushed them behind him; a claw opened his eyebrow before he could duck. Blood ran into one eye.
 
 Ava froze for only a second—then she saw Gabriel among the chaos, trying to help the others. Fear threatened to take hold, but this time, she pushed past it.
+
+*Not him. Not again.*
 
 Heat spread into her hands. She was afraid, and the mutation answered. Ava planted her feet as Gabriel had taught her, then moved before the pressure could choose a shape of its own.
 

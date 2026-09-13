@@ -18,6 +18,8 @@ Gabriel chuckled, though the sound was laced with exhaustion. “Touché.”
 
 Malik began putting the unused dressings away. Ava watched him close one drawer, then another. If she waited for the last one, she could leave without making this visit about her too.
 
+*Say it. Before you become good at hiding it.*
+
 “My hand isn’t sitting right on the knife,” she said.
 
 He left the next drawer open. “Since when?”
@@ -33,6 +35,8 @@ Malik wrote it down without looking at Gabriel to see whether it was true.
 “I can examine the changes and compare them with what we recorded before. I can’t promise more until I know more.”
 
 She agreed to the examination. His uncertainty was difficult to sit through. She had imagined relief once she told someone; instead the facts were now on a page, and neither of them could put them back inside her where she had been able to avoid them.
+
+*That’s me on the page now.*
 
 When he finished, she asked to read the notes. He turned them toward her. She corrected the order of two things: the hand had kept striking before she caught it in the pillar. He changed the entry while she watched.
 
@@ -51,6 +55,8 @@ Jenna’s gaze softened as she looked at him. “Modesty doesn’t suit you, Gab
 Later, Ava found herself wandering the quiet corridors of the ship. The events of the past days played through her mind, each memory sharp and vivid. She stopped by the greenhouse, the familiar scent of soil and growing plants grounding her.
 
 Someone had watered in her absence. Too generously at the shallow trays, but the beans were standing and a new tie held one heavy stem upright. Ava touched the knot. The work had continued without her, which ought to have pleased her. It did, after the first small sting.
+
+*You waited for me anyway.*
 
 She fetched the journal from their quarters and opened it at the planting table. For a while she recorded only the state of the beds, enjoying the familiar argument between what the plants needed and what the carrier could spare. Then she turned the page.
 

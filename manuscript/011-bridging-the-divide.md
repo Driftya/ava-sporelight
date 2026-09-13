@@ -32,6 +32,8 @@ Ava’s lips parted as if to speak, but no words came.
 
 For a moment Ava wanted to make it easy for her. Say it was all right, accept the apology, keep this new version of Jenna from leaving. The wish was so quick she nearly spoke before understanding it.
 
+*Don’t forgive her just because you want her to stay.*
+
 It had not been all right. She still watched the door when she ate. A voice through the intercom could leave her unable to swallow. Jenna was standing here regretting something Ava had to go on feeling, and the difference made her angry. She had not expected an apology to do that.
 
 Ava’s shoulders sagged slightly, and she looked down at her hands. “I didn’t want to hurt you,” she said softly. “I was just… scared.”
@@ -65,6 +67,8 @@ Slowly, Ava nodded. “Thank you.”
 Jenna smiled faintly, then gestured to the scanner on the table. “Would it be okay if I checked you over? Just to make sure you’re okay?”
 
 “Show me what it does first,” Ava said.
+
+The request left her mouth before she could soften it. *Let her say no. Find out now.*
 
 Jenna passed the scanner over her own wrist and turned the display so Ava could see. Only then did Ava extend her arm.
 

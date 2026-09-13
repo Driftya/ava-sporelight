@@ -34,6 +34,8 @@ Dr. Laird shook his head slowly. “We’re doing everything we can to understan
 
 Ava stared at the folder. Dr. Laird had closed it before saying *terminal*, as if there were nothing left to consult.
 
+*No. He skipped something.*
+
 She waited for the rest of the sentence. Terminal unless they tried something. Terminal according to a test that might be wrong. The doctor was still there, still holding the folder; surely he had another word to give her.
 
 Yesterday she had wanted a bath. She had been annoyed about the weight of her equipment. Those complaints now seemed to belong to an impossibly fortunate woman, someone she would have begged to exchange places with. She could not understand how she had been that woman so recently and failed to notice.
@@ -50,6 +52,10 @@ He wrote that down. She wanted him to cross out the diagnosis instead. Two nurse
 
 That night, she watched fluid collect and fall inside the IV chamber. She thought about asking someone to contact her family, then about the words they would have to use. No diagnosis she could explain. No treatment she could ask them to bring her home after. She kept postponing the request until the next nurse came, as though there might be better news by then.
 
+*Call them. Pick up the phone and call them.*
+
+She reached once. Her hand stopped above the receiver. She could not bear to hear a familiar voice become frightened because of her.
+
 Once the footsteps outside passed without stopping, she cried. Quietly at first, because she could hear someone talking in the next room and felt absurdly rude. Then she could no longer manage quietly. She wanted her own bed and the option of wasting another day. She wanted years she had never made plans for.
 
 She counted the drops until she lost her place, started over, and eventually slept. In her dreams she kept trying to close the sample container. The lid would not catch.
@@ -61,3 +67,7 @@ Heavy footsteps woke her. Three figures entered without turning on the overhead 
 She kicked at the mattress, too weak to lift her knee far. The needle entered her arm. Cold spread from the puncture.
 
 They lifted her with the sheet. Her bag of field clothes remained beneath the bed. Ava tried to ask for it, for Dr. Laird, for anyone who knew she was here. Her mouth would no longer form the words.
+
+“Help—”
+
+The masked face above her did not turn.

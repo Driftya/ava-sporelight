@@ -26,6 +26,10 @@ Ava settled into a chair Gabriel had repaired twice before admitting it needed t
 
 She had wanted an hour alone this morning. The thought had come while the baby cried and Gabriel searched for a clean cloth: an hour in which no one needed any part of her body. Then the crying stopped, and she felt guilty for having wanted it.
 
+*I don’t want anyone to touch me.*
+
+The thought had been true for perhaps three breaths. She loved her daughter during all three. Knowing both things could exist together hurt almost as much as the exhaustion.
+
 Here, with the child asleep, she could admit she was tired. The greenhouse had survived missed waterings, ill-judged repairs, her absence. She looked at the labels other hands had written and asked Gabriel to move a cushion behind her back. It was easier than explaining why she had almost cried at the prospect of sitting down.
 
 “She’s breathing,” Gabriel said.
@@ -79,6 +83,10 @@ Jenna tucked the tablet more firmly under her arm. “I have a briefing.”
 Jenna put the tablet on the table and held out her arms. Ava transferred the baby carefully, supporting her neck until Jenna had her. The commander sat with rigid concentration.
 
 With her hands empty, Ava felt the ache of missing her parents so suddenly that she could not speak. She wanted to show them. That was all, an ordinary wish with nowhere to go. There would be no message she could send, no belated introduction, nobody to tell her what she herself had looked like at six days old.
+
+*Mum, look. I made it. I made her.*
+
+Ava pressed her lips together. The word had come easily; the face would not come at all.
 
 Her daughter would ask about them one day. Ava would have fragments and a few pages about plants. She hoped she could tell the child what she remembered without filling the gaps with kinder inventions.
 

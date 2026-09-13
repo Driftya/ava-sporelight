@@ -16,6 +16,8 @@ His thumb moved once against hers before he released her. Nobody stopped carryin
 
 That morning he had kissed her while looking for a clean shirt. An absent-minded kiss, part of getting dressed. She had been thinking about it ever since. She wanted a hundred mornings casual enough to be forgotten, and could already tell she would remember this one too carefully.
 
+*He kissed me because it was morning.*
+
 In the docking bay below, Jenna stood at the center of the bustling activity, clipboard in hand, her sharp eyes scanning every detail. She was a commanding presence, her voice cutting through the noise with practiced authority.
 
 “Ava, Gabriel,” Jenna called, spotting them as they approached. “We need to go over the plan one last time.”
@@ -43,6 +45,8 @@ Ava stayed beside the map for a moment. The Ruined Heartland spread beneath Jenn
 Jenna checked the margin. “This copy doesn’t say.”
 
 The omission hurt in a way Ava could not justify to a woman counting supplies. People had once given addresses here. Met someone at a corner, complained about the journey home. Now a city could be reduced to the things it might surrender before killing you.
+
+*You had a name. You deserved to keep it.*
 
 She traced the route without touching the fragile paper. At the hospital she would look for something that still bore its name.
 

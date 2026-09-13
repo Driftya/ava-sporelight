@@ -9,6 +9,7 @@ Write close to the body and close to the person. The world is vast, altered, and
 ## Point of View
 
 - Use close third person, normally one viewpoint per scene.
+- Allow brief italicized direct thoughts in first person within that viewpoint. Use quotation marks for audible speech, not as an interchangeable marker for thoughts. A direct thought is the character's immediate language, not a polished explanation of the scene.
 - Filter description through the viewpoint character’s knowledge, habits, and immediate concern.
 - Ava notices growth, contamination, texture, and biological change. Her botanist’s attention should survive her fear.
 - Gabriel notices routes, structural hazards, breathing, weight, equipment, and people who need help. His firefighter and rescue training shapes his attention.
@@ -57,6 +58,10 @@ Do not repeat an image unchanged. Stars are not automatically freedom; spores ar
 Give Ava an interior life as well as an observable response. Close third person may enter her unfinished thoughts, private associations, contradictory wants, and memories; physical detail is not a substitute for that access. Let her sometimes know what she feels and sometimes discover it late. Her grief needs time on the page, including ordinary losses that neither rescue nor romance can repair.
 
 Her womanhood is particular to her: scientific ambition, bodily privacy, vanity, anger, attraction, sexual wanting, and later motherhood may coexist without defining a universal female response. Preserve curiosity, humor, impatience, and pleasure alongside vulnerability. Do not make suffering her only claim on the reader.
+
+At emotional peaks, let the reader encounter feeling before the character can explain it. Ava may plead, swear, cry out, repeat a name, fail to finish a sentence, or think something ugly and immediate. Do not replace every strong reaction with composed reflection or a practical task. Let regulation take effort and time. Quiet scenes and recovery can carry the later understanding; a crisis should not sound as though she has already finished processing it.
+
+Replace explanatory distance where possible rather than stacking a direct thought beneath a paragraph that already explains it. Use direct thoughts selectively, including anticipation and delight as well as distress. Characters do not need to speak every private thought aloud, and rawness does not require every scene to reach the same volume.
 
 Render emotion as a sequence:
 

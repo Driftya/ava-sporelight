@@ -32,6 +32,12 @@ One of the transport team’s leaders shouted over the chaos, their voice breath
 
 “Go! I’ll hold them!” Gabriel fired at the nearest creature blocking the retreat. Ava hesitated, but the forward-team leader caught her sleeve and pointed toward the injured civilians.
 
+“Gabriel, no!”
+
+He did not look back. “Move them!”
+
+*Don’t leave him. Don’t you dare leave him.*
+
 “Help me move them.” The leader released her sleeve. “That side.”
 
 Gabriel was still firing. Ava wanted to turn toward him so badly that the injured civilian became, for one shameful instant, a weight keeping her from the person she loved.
@@ -41,6 +47,8 @@ The man tried to stand without her and nearly fell. She caught him beneath the a
 Ava put a civilian’s arm over her shoulder and followed the retreating team, forcing a reaching claw aside with her blade. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
 
 Gabriel appeared moments later, his rifle smoking as he backed into the alley. “Let’s move!” he ordered, his voice sharp with urgency.
+
+“You bastard,” Ava said, half a sob beneath the words. Then she seized the injured man’s arm again.
 
 The team regrouped in an old maintenance tunnel, their breaths heavy and weapons low on ammunition. Over the crackling radio, Jenna’s voice was steady but laced with urgency as she addressed her team. “Status report. How many made it?” Though they couldn’t see her, the weight of exhaustion and determination was evident in her tone.
 

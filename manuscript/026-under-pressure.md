@@ -40,7 +40,9 @@ Harrow nodded, his face pale. “I just… I hope it’s worth it.”
 
 Ava looked at Harrow’s notebook. She had needed Gabriel to help wrap her hand; Harrow had not once offered to carry her pack.
 
-She could ask. The thought irritated her because it was true. She had been waiting for him to notice, storing each failure as another reason to distrust him, while pretending the weight was nothing.
+*Ask him. Stop waiting to be noticed.*
+
+She had been storing each failure as another reason to distrust him while pretending the weight was nothing.
 
 “Hold this while I adjust the strap.”
 
@@ -59,6 +61,8 @@ The trio bolted into the adjoining room, their breaths ragged as they barricaded
 “You okay?” he asked, his voice tight.
 
 She nodded, though her hands trembled slightly. “Just… tired.”
+
+*I can’t keep doing this.*
 
 “We can’t stay here,” Harrow said, his voice rising in panic. “They’ll find a way in.”
 

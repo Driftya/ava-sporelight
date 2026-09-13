@@ -24,6 +24,8 @@ Behind the reception desk, half a name remained on the wall. She tried joining t
 
 The desk itself unsettled her more. She could imagine standing there with her field notes ready, explaining symptoms carefully enough to avoid sounding frightened. She had trusted a place like this to know what to do with her. Even now, looking at the empty space behind it, she felt a small, senseless disappointment that nobody would come to help.
 
+*Someone should be here.*
+
 “We need to find the lab,” Harrow said, his voice trembling. “It’s on the lower level.”
 
 Gabriel glanced at him, his expression unreadable. “We’ll get there. Stay focused.”
@@ -45,6 +47,8 @@ Gabriel stepped closer, his rifle slung but ready. “We’ll find something,”
 In one room, Ava spotted a fragment of a notebook half-buried under debris. She carefully extracted it, flipping through its smudged pages. Rough sketches of DNA strands and notes written in a hurried hand filled the pages. “Harrow,” she called, holding up the notebook. “Does this look familiar?”
 
 Harrow’s eyes widened as he took the notebook. “This is hers,” he said, his voice trembling. “She was close to something. I knew it.” He hesitated, then added, “These notes could be worth a fortune. People out there would pay anything for a chance at reversing the mutation. It could change everything.”
+
+*He would sell hope by the page.*
 
 Ava held onto the corner of the notebook. “A fortune? That’s what you see here?”
 

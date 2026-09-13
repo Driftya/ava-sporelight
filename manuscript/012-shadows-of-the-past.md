@@ -54,6 +54,8 @@ Gabriel said nothing.
 
 “The doctor said I was dying. Then people came at night. I thought—” She stopped. For a moment she had hoped they were taking her somewhere that could help. She hated remembering that hope.
 
+“I thought they were saving me.” Her voice broke on the last word. “God, Gabriel, I went with them in my head. I was relieved.”
+
 In the laboratory they had called her a subject. Her name had made no difference. Neither had saying no.
 
 Ava clenched her fists, her nails digging into her palms.
@@ -66,9 +68,13 @@ It was only partly true. She wanted the person who had walked into the hospital.
 
 She could not bear the thought that the men who took her might remain clearer than anyone who had loved her. She held the rail until the cold hurt and tried again for the greenhouse labels. For a moment she could see the tilt of her own writing. She stayed with it as long as she could.
 
+*I want my mother.*
+
+The thought came without a face to answer it. Ava bent over the rail and sobbed once, hard enough to hurt, then again.
+
 Gabriel placed a hand on her shoulder, careful not to startle her. “It’s okay to feel that way. Whatever happened to you, it wasn’t fair. You didn’t deserve it.”
 
-Ava’s amber eyes met his, glistening with unshed tears. “They… treated me like I wasn’t human. Like I didn’t matter.”
+Ava’s amber eyes met his through tears. “They… treated me like I wasn’t human. Like I didn’t matter.”
 
 Gabriel gripped the railing until the leather of his glove creaked. “You do matter,” he said firmly. “More than they ever realized.”
 

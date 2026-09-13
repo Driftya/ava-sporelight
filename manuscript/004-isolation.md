@@ -18,6 +18,8 @@ She had undressed without thinking in her own room, left damp clothes over a cha
 
 She nearly asked politely. The habit disgusted her, and she pulled the gown tighter instead.
 
+*Stop looking at me.*
+
 Ava pressed her palm against the glass. “What is this? Where am I?” she demanded, her voice hoarse. “Let me out!”
 
 No one responded. One of the figures—a woman, judging by her frame—briefly glanced at Ava before turning back to her tablet. Ava slammed her fist against the glass, but it didn’t even shudder under the force.
@@ -46,6 +48,8 @@ Through the haze, she saw the scientists watching her intently, their visors ref
 
 “Spore exposure?” She tried holding her breath, but the cough forced her to inhale again. There was nowhere inside the enclosure the mist had not reached.
 
+“Turn it off!” She struck the glass with both palms. “Please! I’ll do whatever you want. Just turn it off!”
+
 She fell to her knees. Light threaded the black veins, dim at first, then bright enough to show through her sleeve. The pressure shifted beneath her skin as if something were testing where it could grow. She dug her fingers into the floor seam and screamed.
 
 Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
@@ -55,3 +59,5 @@ The intercom crackled again. “Subject 017’s resistance levels are remarkable
 Ava dragged herself back to the door. A faint current of air touched her damp face at the bottom seam. She laid her cheek against the floor and watched that narrow gap.
 
 The next time it opened, she would have to be able to stand.
+
+*Get up. Get up before they come back.*

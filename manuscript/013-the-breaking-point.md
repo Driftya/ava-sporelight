@@ -26,13 +26,17 @@ The officer ignored him, signaling the guards. Gabriel was restrained, his prote
 
 “Ava!” he shouted as they dragged him away. “I’ll find you! Don’t give up!”
 
-But Ava couldn’t respond. Two guards grabbed her arms, their grip unyielding.
+“Gabriel!” Ava fought the hands on her arms. “No—take me! Leave him here! Gabriel!”
+
+Two guards tightened their grip and hauled her toward the opposite corridor.
 
 “Please,” she pleaded, her voice breaking. “Don’t do this.”
 
 Her cries went unanswered as she was escorted to a heavily secured holding cell.
 
 Ava measured time by the guards changing outside her cell. Neither would tell her where they had taken Gabriel. She had seen them drag him away. Still, as the hours passed, she began to wonder whether he would stop asking for her if they offered to release him.
+
+*Let him go. Even if he leaves me. Let him go.*
 
 She pictured it with a shameful thoroughness: a door opened, his equipment returned, someone telling him he had done enough. She wanted him to refuse. She wanted him free. Thinking both things made her feel as if she were the one holding him here.
 
@@ -61,6 +65,8 @@ By the time Ava regained her senses, the halls were eerily silent. She looked do
 “No,” she whispered, her voice shaking. “What have I done?”
 
 One body lay with a hand tucked beneath the chest. She found herself waiting for him to pull it free. The waiting continued after she saw how badly he was hurt.
+
+“Please move,” she whispered. “Please. I’m sorry.”
 
 She had wanted the guards afraid. In the cell, with Gabriel taken away and nobody answering her, she had wanted them to understand what fear felt like. That memory remained where the killings should have been. She could not turn it into proof of what she had intended, or make herself stop treating it as proof.
 

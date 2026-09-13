@@ -44,9 +44,13 @@ A mutant lunged at Ava from the side, its claws grazing her shoulder before she 
 
 “I… I can’t,” she whispered, her breath ragged. Her body convulsed as her mutation took over, spiked appendages erupting from her arms and back. The pain was searing, but her senses sharpened as the transformation completed. She let out a guttural growl, her glowing eyes locking onto the mutants.
 
+*Then take it. Take the fear. Kill them.*
+
 She hit the first creature hard enough to drive it into the one behind it. A spike caught in bone. Ava wrenched it free and felt skin tear along her own back, barely a distraction from the need to strike again. The creatures collapsed around her without releasing fresh spores. She kept looking for something that was still moving.
 
 Moving was easier now. She no longer had to bargain with her wounded hand or think through the next three steps. The ease was appalling. Some frightened part of her welcomed it before she could object.
+
+*Don’t make me want this.*
 
 Then her arm reached farther than she expected, and she could not find the familiar stopping place at the elbow. Her body kept solving problems by becoming less recognizable. She wanted the clumsy hand back, the exhaustion, even the need to ask for help. But wanting those things took thought, and the next creature gave her no time to finish one.
 
@@ -55,6 +59,8 @@ Gabriel was shouting from beside the stairs. “Ava, pull back!”
 She heard the words but could not make herself turn toward them.
 
 When nothing lunged at her, Ava discovered she was still swinging. She drove one hand against a support pillar and held it there until the urge passed. The spikes along her wrist caught in the metal. Pulling free hurt enough to make her cry out.
+
+“Get it out!” She wrenched again and tore her own skin wider. “Get it out of me!”
 
 Gabriel approached from the stairs. She could see him watching her hands.
 
@@ -75,6 +81,8 @@ He moved close enough to support her. A remaining spike scored his sleeve and ca
 She waited until it withdrew before letting him touch her again. The team leader patched his sleeve while Ava sat on the lowest stair, holding a cloth to the skin her own growth had torn. Above her, the survivors were quiet. One lowered his weapon when she looked up; another did not.
 
 Her clothes hung open at the shoulder and down part of her back. She tried pulling the torn edges together, then stopped because the movement hurt and exposed more than it covered. She had no spare hand for modesty.
+
+*Don’t look at me. Please don’t look away.*
 
 Gabriel reached into his pack. She saw the coat coming and almost said she did not need it. She did need it. That was what made the words rise so quickly.
 

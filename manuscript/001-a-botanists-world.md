@@ -16,6 +16,10 @@ She liked herself best at this hour, before she had to make the work sound impre
 
 Even so, she imagined her name beneath a photograph of the caps. She caught herself arranging the sentence that would announce the discovery and smiled at her own vanity. First identify the damn thing. Publication could wait until she knew whether she was kneeling beside something remarkable or something another botanist had described a hundred years ago.
 
+*Please be new.*
+
+The wish was embarrassingly childish. It was also hers.
+
 - Bioluminescent fungus; identification pending. Decaying wood nearby. Check roots for possible mycorrhizal association.
 
 - Potential biochemical adaptation for survival in high-toxicity soil.
@@ -25,6 +29,8 @@ Even so, she imagined her name beneath a photograph of the caps. She caught hers
 Her pencil stopped halfway through the date. She had forgotten the month. A moment later it returned, absurdly ordinary, and she blamed the long day. She sealed the sample in its sterile container and checked the lid twice.
 
 When she stood, the pressure behind her breastbone made her bend over the notebook. She waited for it to pass before putting the pencil away. Cicadas buzzed overhead; the birds she had heard earlier had stopped.
+
+*Not here. Not when nobody knows where I am.*
 
 Since the meteor struck far to the north, she had been crossing out measurements in her old field records. Shoots grew beyond their marked lengths between visits. Leaves appeared where she expected bare stems. Each change had seemed worth investigating on its own. Together, they were filling a second notebook.
 
@@ -43,3 +49,7 @@ The specimen still glowed. She switched on the bench lamp and reached for a fres
 Ava turned off the lamp. Her reflection vanished from the glass, but the foliage beyond remained too dense to see through. She waited until her fingers cramped around the gloves.
 
 The scrape did not come again. She set the gloves down beside the sample, careful to make no sound.
+
+“Hello?” she called.
+
+The jungle gave her nothing back.

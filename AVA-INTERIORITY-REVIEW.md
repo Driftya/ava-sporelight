@@ -1,6 +1,14 @@
 # Ava’s Inner Life — Revision Review, 2026-09-13
 
-The revision expands all 35 chapters while retaining the publishing copyedit’s structure, chronology, rescue logistics, research custody, and mature content. Approximately 8,100 words have been added, increasing the numbered manuscript from about 30,800 to 39,000 words, or roughly 26%. These approximate counts include chapter headings and metadata. Expansion is concentrated where an experience needs time to register; chapters have not been mechanically doubled.
+The first revision expanded all 35 chapters while retaining the publishing copyedit’s structure, chronology, rescue logistics, research custody, and mature content. Approximately 8,100 words were added, increasing the numbered manuscript from about 30,800 to 39,000 words, or roughly 26%. These approximate counts include chapter headings and metadata. Expansion was concentrated where an experience needed time to register; chapters were not mechanically doubled.
+
+## Second pass — immediate voice and raw feeling
+
+The author found that the expanded prose still described Ava’s emotions more often than it let the reader experience their unprocessed language. The second pass retains the first revision and adds about 1,000 words, bringing the 35 numbered chapters to approximately 40,000 words. Brief first-person direct thoughts now interrupt the close-third narration at pressure points, while cries, unfinished sentences, anger, pleading, and less composed dialogue carry the peaks themselves.
+
+The main changes are deliberately uneven. Captivity and awakening use short survival thoughts and repeated refusals; grief is allowed to become a sob or an impossible appeal to an absent parent; crew rejection produces impulses to flee, hide, or demand an answer; combat includes the frightening wish to surrender to the mutation as well as the shame afterward. Chapter 18 renders Ava’s attraction and orgasm through her own bodily attention without changing consent or turning intimacy into a clinical checklist. Chapter 31 now lets Harrow’s injury to Gabriel provoke immediate disbelief, screaming rage, a wish to kill Harrow, panic over Ava’s changing hands, and pleading before Ava can recover enough to choose care over pursuit. Labour and early motherhood likewise include pain, anger, touch aversion, guilt, and love at the same time.
+
+The temporary origin, sanctuary, main-story, and hospital drafts were revisited for their self-talk, longing, vulnerability, erotic openness, and emotional volume. Their generalized summaries, duplicate reassurance, continuity errors, omniscient leakage, and noncanonical claims remain excluded. No additional game location or faction was promoted in this pass; the earlier limited worldbuilding promotions remain sufficient for the present novel.
 
 ## What was missing
 

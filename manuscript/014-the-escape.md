@@ -16,6 +16,8 @@ Ava nodded, pulling open cabinets and stuffing medical kits, food rations, and w
 
 Ava kept looking behind them. At each intersection she waited for the others she had heard screaming. No one followed.
 
+*I left them.*
+
 Her bag struck her hip as she walked. Food, water, medical kits: things a person took because she expected another day. The weight of them felt presumptuous. Somewhere behind her were people who would never need anything again.
 
 She checked a half-open doorway while Gabriel watched the junction. An overturned chair, an empty coat, nobody she could reach. She called once, quietly. When no answer came, she followed him, carrying supplies she had already begun to think of as theirs.
@@ -103,6 +105,8 @@ The survivors murmured among themselves, uneasy glances darting toward Ava. Whis
 Gabriel’s jaw tightened. “You don’t know that,” he snapped, his frustration boiling over. “If it weren’t for her, none of us would even be here!”
 
 No one answered. One survivor drew a child behind his coat. Ava looked down at the red crescents still beneath her nails.
+
+*Don’t look at my hands.*
 
 She wanted to tell the child she would not hurt her. Her mouth had already begun forming the words when she remembered the guard’s hand trapped beneath his body. She folded her fingers into her sleeves instead.
 

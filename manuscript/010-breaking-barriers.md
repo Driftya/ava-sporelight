@@ -30,6 +30,8 @@ Ava pulled her knees closer.
 
 He paused, choosing the next truth with care. “A meteor brought the organism to Earth roughly two hundred years ago. Plants changed first. Then animals. Then us. Some people die during mutation. Some lose themselves. No one I know survives it the way you have.”
 
+Ava stared at him. “No. Say a different number.”
+
 Ava’s fingers tightened around her knees. Her voice was barely above a whisper when she finally spoke. “Am I… one of them?”
 
 Gabriel hesitated. He wasn’t sure how to answer. “You’re… different,” he said carefully. “But you’re not like them. Not completely.”
@@ -109,3 +111,5 @@ She tried to summon a face. Instead she remembered the feeling of being expected
 There were people beyond the wall, eating and arguing about a loose fastening. One laughed. Ava wanted them to stop. For a moment she hated them for continuing so easily, then hated herself because their world had been ruined too.
 
 She lay down facing the door. Tomorrow Gabriel would come back. She wanted that so badly it frightened her. There was already one part of the day she could lose.
+
+*Come back tomorrow. Please.*

@@ -94,13 +94,21 @@ As the due date approached, the entire ship buzzed with anticipation. Malik and 
 
 When labour began, Gabriel carried the bag Ava had packed and forgot the blanket lying on top of it. She sent him back for it between contractions. Hours later, beside the bed, he let her grip his hand hard enough to hurt and fetched water whenever she asked.
 
+“I can’t do this,” she cried when another contraction folded her around the pain. “Gabriel, I can’t. It fucking hurts.”
+
+He put his forehead against hers. “I know.”
+
+“No, you don’t.” She shoved at his shoulder, then dragged him back before he could move away. “Don’t leave. Just stop talking.”
+
 “Stop telling me I’m doing well,” she said at last.
 
 He shut his mouth and stayed.
 
-Hours later, their daughter was born—a tiny, perfect bundle of life. Gabriel held her in his arms, tears streaming down his face as he looked at Ava.
+At last, their daughter was born—a tiny, perfect bundle of life. Gabriel held her in his arms, tears streaming down his face as he looked at Ava.
 
 Ava listened for the next cry. Relief had arrived before any thought she would later be able to put into words: the child was out, someone was holding her, the room was working around them without that dreadful pause. Then exhaustion washed through, leaving Ava unable even to lift her head for a better look.
+
+*Cry again. Please, baby. Let me hear you again.*
 
 “Bring her here,” she said.
 

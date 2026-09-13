@@ -42,6 +42,8 @@ It irritated her that she knew which shirt he wore off duty. She could remember 
 
 “Safe, irritated, and one axle short of a smooth ride home. Jenna expects them tomorrow.” Marcus watched her turn one of the seed jars in her hands. “You know, you could ask him why he does this.”
 
+*Come home.*
+
 “Does what?”
 
 “Leaves places where people need him, finds other places where people need him, then acts surprised that anybody worries.”
@@ -83,6 +85,8 @@ They argued until it became almost pleasant.
 Gabriel returned the following evening with a split lip, a torn glove, and a crate of plumbing seals the carrier actually needed. Ava met him in the vehicle bay before deciding whether she meant to.
 
 He climbed from the transport and saw her between two unloading crews. His exhausted face changed.
+
+*He came back.*
 
 “Hey,” he said.
 
@@ -155,6 +159,8 @@ The plainness of it undid her.
 She had spent the afternoon arguing about water with a woman who could still say *my sister* and remember a cooking pot. Ava wanted one object that belonged that certainly to her parents. A voice, a coat, the way one of them would have stood in a doorway. The harder she reached, the less reliable each fragment became.
 
 “I’m forgetting them,” she said. “I don’t even know how much I’ve forgotten.”
+
+The words tore loose faster after that. “I want them back. I want one day—one stupid ordinary day where they’re angry I worked late and I know which one of them is speaking.”
 
 Gabriel shifted beside her, but there was no answer he could offer. She was grateful and furious that he understood that.
 

@@ -56,6 +56,8 @@ She stabbed the body a second time.
 
 And a third.
 
+*Again.*
+
 Gabriel said her name. He did not grab her. He moved into her line of sight and raised both empty hands.
 
 “The route, Ava. We still need the route.”
@@ -67,6 +69,8 @@ Water knocked through the pipes. Harrow whimpered behind her. Gabriel stood clos
 Ava lowered the blade.
 
 She had stopped because he gave her something to do. Find the route. Leave. The instruction remained simple while she obeyed it; afterward she would have to remember that she had needed an instruction to stop stabbing something already dead.
+
+*What if he hadn’t spoken?*
 
 The identification band lay against the floor. She could not read it. She did not try. That refusal would stay with her too.
 
@@ -86,7 +90,15 @@ For a second she imagined handing him the knife and offering her palm. Show her 
 
 She kept the knife. The anger made speaking easier, but she did not want him to see how near she was to crying.
 
-Ava looked at the cut she had made. “It isn’t free.”
+Ava looked at the cut she had made. “Then use yours.”
+
+Harrow recoiled. “That isn’t what I meant.”
+
+“Cut your hand every time we meet one. Open it again before it heals.” She held the wet blade toward him, hilt first. “Show me how little it costs.”
+
+He did not take it.
+
+“No,” Ava said. “You only want mine to be free.”
 
 Something struck metal deeper in the tunnel. The clicking multiplied.
 

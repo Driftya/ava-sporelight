@@ -22,6 +22,8 @@ Karrow uncapped the marker and circled an assay result. “They did not have a s
 
 “A subject,” Ava repeated.
 
+*No. Not again. Not from him too.*
+
 The marker stopped.
 
 “Ava,” he corrected. “They did not have you.”
@@ -128,6 +130,8 @@ Gabriel said nothing.
 
 She did.
 
+*Mine. Every condition is mine.*
+
 Five millilitres. One draw. Gabriel would handle the needle under Jenna’s direction. Ava could stop the procedure at any point. No restraints. No one behind observation glass. The remaining sample would be destroyed or retained only by a new decision. Jenna would keep the results with the carrier’s medical records, and Ava would decide when they were shared.
 
 The next morning, Karrow read the list and signed without negotiation. Jenna signed beneath him. Gabriel signed as witness.
@@ -149,6 +153,8 @@ She breathed through the first surge of memory. “Ask me again.”
 He tied the band above her elbow. Jenna confirmed the vein and talked him through the angle, though rescue work had made his hands familiar with blood. The needle hurt. Ava watched it enter because looking away felt too much like surrender.
 
 Dark red climbed the short tube and entered the vial.
+
+*I said yes. I am still here.*
 
 “Five,” Jenna said.
 

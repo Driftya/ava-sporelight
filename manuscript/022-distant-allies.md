@@ -32,7 +32,9 @@ Harrow kept looking at her naked face.
 
 He turned away.
 
-Ava regretted snapping at him, then resented the regret. She could feel sweat running beneath her collar. She was tired of explaining that the things which spared her could still hurt.
+*I still hurt.*
+
+Ava regretted snapping at him, then resented the regret. Sweat ran beneath her collar. She had explained the bargain so many times that even her exhaustion could be mistaken for ingratitude.
 
 Above the alley, a curtain hung through a broken window, caught in leaves that had grown around the fabric. The flowers were small and translucent. She slowed before she could help it. Light passed through their petals almost without colour, picking out the branching veins.
 
@@ -105,6 +107,8 @@ His eyes stayed on the hospital. “I needed to.”
 Ava understood that answer well enough to distrust it.
 
 Since Harrow said *cure*, she had been imagining her hands without the light beneath them. It was a foolish picture: no evidence, no method, barely a claim. Still she had gone further. A mirror in which she recognized her eyes. Gabriel asleep close enough that she did not have to consider where a spike might grow.
+
+*Let it be true. Just this once, let someone be right.*
 
 She brought her attention back to Harrow’s worn mask. He did not know what was in the building. Neither did she. Wanting him to be right would make him easier to believe, and she could already feel herself doing it.
 

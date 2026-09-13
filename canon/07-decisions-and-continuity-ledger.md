@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-13 — Author-decided — Immediate thought, emotional outcry, and embodied intimacy
+
+The author clarifies that the expanded interiority still explains emotion at too great a distance and requests Ava's own immediate words, first-person thoughts, distress, cries, rage, and physically felt attraction. The continuing style remains close third person with selective italicized direct thought and spoken reactions; it does not become a first-person retelling. Harrow's injury to Gabriel in chapter 31 and the first intimate encounter in chapter 18 are the principal revisions, with the same approach carried through other emotional turning points. Ava's fury does not change Harrow's escape or her eventual choice to help Gabriel. Intimacy remains between consenting adults after their confession. Affected files: `08-prose-style-guide.md` and the manuscript's emotional turning points. This refines the previous interiority brief without changing chronology or biological limits.
+
 ### 2026-09-13 — Author-decided — Ava’s interior life and emotional expansion
 
 The author asks for a richer manuscript that retains the recent publishing copyedit while deepening Ava’s inner thoughts, sadness, vulnerabilities, personal experience as a woman, and sexual emotions within the adult romance. Expansion follows the needs of each scene rather than a mandatory doubling of chapter length. The supplied anime and manga comparisons are emotional touchstones for attachment, bodily struggle, grimness, openness, and romance, not sources of plot, identities, or prose imitation. Affected files: all 35 manuscript chapters and `08-prose-style-guide.md`. This extends the existing voice standard: concrete action and sensory detail should accompany, not displace, access to Ava’s thoughts. Source files remain unchanged.

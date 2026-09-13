@@ -36,7 +36,7 @@ Ava’s head came up. She looked at the visor, then the gloves. Her heels scrape
 
 Jenna raised her hands, palms outward in a careful, deliberate motion. “Ava, it’s okay,” she assured her, her voice measured yet tinged with an edge of urgency. “I’m not here to hurt you. I just need to take a quick look—”
 
-“No!” Ava’s tone wavered, breaking under the weight of her fear, and she scrambled further into the corner, her entire body trembling. “Stay away!”
+“No!” Ava scrambled farther into the corner. “No needles. Don’t touch me. Please, just leave me alone!”
 
 Jenna hesitated, glancing down at the medical scanner in her hand. “Ava, I promise, this will only take a minute. You’re safe—”
 
@@ -50,7 +50,7 @@ Ava caught Jenna’s suit at the chest. Reinforced fabric drew tight between her
 
 Her face was inches away, her features twisted with fear and fury, her glowing veins pulsing beneath her skin like embers beneath cracked glass.
 
-“Please,” Ava whispered, her tone fracturing with desperation. “Don’t hurt me.”
+“Please,” Ava whispered. “I said no. Why won’t anyone hear me?”
 
 “I’m not—I swear,” Jenna stammered, but her words were drowned out by the sound of the door slamming open.
 

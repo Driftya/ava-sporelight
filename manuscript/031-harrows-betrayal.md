@@ -74,29 +74,61 @@ Concrete and rusted pipe came down in a single grey wave. Something tore across 
 
 When Ava could hear again, the tunnel had changed shape.
 
-Rubble sealed half the chamber. Harrow’s lamp jerked away through a gap on the far side, then vanished. Gabriel lay motionless under her, blood running from his temple into the dust.
+Rubble sealed half the chamber. Harrow’s lamp jerked through a gap on the far side. Beneath Ava, Gabriel did not move. Blood ran from his temple into the dust.
 
-The mutation answered her terror. Amber light threaded both arms. Broken tissue in her back pulled together around grit and cloth while pressure built beneath her shoulder blades, demanding more room.
+“Gabriel?”
 
-She could tear through the blockage. She could follow Harrow. The thought arrived whole and bright: catch him, open him, take back what was theirs.
+She pushed herself off him. Her back tore against a pipe and she barely felt it. His eyes were closed behind the dust-streaked visor.
 
-Gabriel made a wet sound when he breathed.
+“Gabriel. Look at me.”
 
-She knew him breathing in sleep, the faint interruption before he rolled onto his side. This sound belonged to somebody hurt beyond anything she could judge. She wanted him to complain, to tell her she was leaning too hard on his ribs. Anything she could answer.
+No answer. She wiped the visor with her sleeve, as if clearing it would make him see her.
 
-The bright thought of pursuit remained. She could feel how readily she might follow it if she looked away from him. She kept her eyes on the dust moving near his mouth.
+*No. I got to him. I covered him.*
 
-Ava chose him.
+“Please—Gabriel, say something.”
 
-She rolled the fallen pipe from his leg and pressed two fingers to his throat. A pulse. Too fast, but present. The outpost guard shouted from the other side of the debris.
+Harrow’s light vanished.
 
-“Medical kit,” Ava called. Her voice did not sound human enough. She tried again. “Bring the kit. Now.”
+“HARROW!”
 
-She knelt over Gabriel and counted his breaths until the spikes beneath her skin withdrew.
+She screamed his name into the gap. The sound scraped her throat; she dragged in air and screamed again. “Come back! You fucking coward! Look what you did!”
+
+Amber light flooded her arms. The torn flesh of her back pulled together around grit and cloth. Something hard pressed beneath her shoulder blades, spreading them apart.
+
+*I’ll kill him.*
+
+She drove a hand into the fallen concrete. An edge broke away. Another blow, and she could get through. She could still catch him.
+
+Gabriel’s mask valve rattled behind her.
+
+Ava turned so quickly her growing wrist struck the rubble. He dragged in another breath, a thin, obstructed sound that bore no resemblance to the way he slept beside her.
+
+“I’m here.” She dropped to her knees. “I’m here, I’m sorry.”
+
+Her fingers would not fit together. She stared at them, at the light between the joints.
+
+*I need my hands. Please. I need my hands.*
+
+She rolled the fallen pipe from his leg, then forced two fingers against his throat. For a moment she could feel only herself shaking. Then a pulse moved beneath them.
+
+“He’s alive!” Her voice broke. “Somebody help me!”
+
+The outpost guard shouted from beyond the debris.
+
+“The kit! Bring the medical kit!” She could not hear his answer. “Hurry!”
+
+She bent over Gabriel, keeping the growing points of her arms clear of his suit. One breath. Then another. On the next she lost count and sobbed against her own shoulder.
+
+“Don’t leave me here,” she whispered. “Please, Gabe. I can’t—”
+
+She watched the valve until it moved again.
+
+The pressure in her wrists eased, returned, eased a little more. She kept her hands where she could see them. Across the chamber the gap was dark. She did not look for Harrow’s light again.
 
 By the time the crew opened a path into the chamber, he had begun to stir. His eyes opened without focusing.
 
-“Don’t move,” Ava said.
+“There you are.” Ava laughed once, a broken, breathless sound. “Don’t move. Please don’t move.”
 
 “Wasn’t planning to.” His words slurred at the edges. “Harrow?”
 
@@ -106,10 +138,18 @@ By the time the crew opened a path into the chamber, he had begun to stir. His e
 
 The guard relayed the message while another crew member braced Gabriel’s injured leg. Ava held the dressing against his temple.
 
-“He didn’t take everything,” she told him.
+“I thought you were dead.” She could barely get the words out. “You wouldn’t answer me.”
+
+Gabriel tried to lift his hand. She caught it before it fell.
+
+“I’m here,” he said.
+
+She pressed his knuckles against her cheek, crying hard enough that she had to turn away to see the dressing. “I know. I know, just—stay.”
+
+The guard confirmed that the remaining binders were secure.
 
 Gabriel reached for her wrist. His grip was weak but deliberate. “Then we protect what’s left.”
 
-No vow of revenge followed. There were wounds to bind, a blocked tunnel to shore up, and frightened people above them who needed to know whether the outpost was secure.
+When they lifted him, Ava stood too fast and staggered. A guard reached for her; she caught the wall instead, then followed the stretcher with one hand still holding Gabriel’s.
 
 When they carried Gabriel back into the outpost, the storage guard opened the remaining cases for Ava to check. Gaps showed where Harrow had pulled the thin folders free. The binders were still there. She shut the lids and waited until she heard the lock turn.

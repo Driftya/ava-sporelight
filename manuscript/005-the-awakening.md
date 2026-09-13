@@ -20,7 +20,13 @@ Hard plates formed beneath her skin. When she struck the wall, a spike tore out 
 
 For an instant she felt glad. The glass had moved. The people beyond it were finally moving too, backing away from her instead of deciding how close to come.
 
-Then someone fell under her arm, and the relief had nowhere to go. She tried to open her hand. The new weight at her wrist pulled it sideways. She could not tell where her fingers ended in the blood. Stop, she thought, but the thought was slower than her body, arriving after the next blow.
+Then someone fell under her arm, and the relief had nowhere to go. She tried to open her hand. The new weight at her wrist pulled it sideways. She could not tell where her fingers ended in the blood.
+
+*Stop.*
+
+Her body struck again.
+
+*STOP.*
 
 The nearest monitor broke under her hand. Red alarm light swept over people slipping in the mist. Guards pushed through the doorway and fired. A man whose neck had already swollen against his collar burst apart at the shoulder; spores billowed from the damaged tissue. Ava flinched from the gunshot and drove an arm through the console beside him.
 
@@ -41,5 +47,7 @@ She wanted the jungle with an urgency that hurt more than the dragging. Mud agai
 The man was speaking again. She could not understand him. It frightened her that understanding had become an effort, that a voice could reach her and fail to become words. She fixed on the one she had carried into every room: Ava. She would tell him. She would keep telling him until he answered to it.
 
 The lid closed. Cold spread from the surface beneath her back. On the other side of the glass, the scientist slumped out of sight. Ava tried to say her name. Frost gathered before her mouth.
+
+“Ava,” she managed. “My name is Ava.”
 
 The alarms kept sounding after she could no longer see the room. Then the cold took those too.

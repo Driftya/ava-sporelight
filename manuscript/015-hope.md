@@ -104,6 +104,8 @@ Another voice answered, too low for the words to carry. Cole did not lower his.
 
 Ava placed the cup down before her grip dented it. She had already measured the distance to the door.
 
+*Stay in the chair.*
+
 “Ask me,” she said.
 
 Cole stared at her.
@@ -131,6 +133,8 @@ The room loosened by degrees. No one apologized. No one offered Ava another seat
 Afterward, Ava hid in an unused cargo hold.
 
 Before she reached it, she stopped in a washroom and checked that it was empty. There was food caught between two teeth. She stared at it in the scratched mirror, then began to cry with an anger that made the first sound almost a laugh. She had sat before all those people trying to answer for the dead, and part of her was humiliated because she had looked untidy.
+
+“This?” she demanded of the woman in the mirror. “This is what breaks me?”
 
 She rinsed her mouth. Her face was still her face in small places: the asymmetry when she pressed her lips together, the way she lifted her chin to inspect a mark. She could recognize those things and dislike the unfamiliar eyes above them. No one was here to tell her they were beautiful.
 
@@ -195,6 +199,8 @@ Once she stood there with an empty tray in her hands, unable to remember what sh
 The first green hook broke the soil on the eleventh day.
 
 Ava was alone when she saw it. She knelt until her knees hurt, afraid that standing might disturb the thing. The stem was crooked and one cotyledon had split inside the seed coat. It was not beautiful. It was alive.
+
+*Please live.*
 
 Gabriel came in with a parcel under one arm and stopped when he saw her face.
 
