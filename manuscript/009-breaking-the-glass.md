@@ -6,7 +6,7 @@ title: "Breaking the Glass"
 
 # Chapter 9: Breaking the Glass
 
-Gabriel leaned against the wall of the observation room, arms crossed, watching Ava through the thick glass window. She sat in the far corner of the quarantine chamber, her knees pulled to her chest, trembling. Every so often, her amber eyes darted toward the camera in the corner, her face a mixture of fear and exhaustion.
+The transport’s observation room was too narrow to pace in. Gabriel stood beside the glass, watching Ava track the camera whenever its lens moved. She had chosen the corner farthest from the chamber door.
 
 “I’m going in,” Jenna announced, breaking the tense silence.
 
@@ -14,7 +14,7 @@ Gabriel straightened, his brow furrowing. “What do you mean, you’re going in
 
 Jenna adjusted the straps on her hazmat suit, her movements brisk and methodical. “We’ve gotten as much as we can from external scans. If she’s carrying anything infectious—or if there’s something unique about her biology—we won’t know unless I run a few tests directly.”
 
-Gabriel’s jaw tightened. “And you think walking in there, looking like some lab tech from a horror movie, is going to make her cooperate?”
+Gabriel looked at her sealed gloves. “She flinches when someone opens a medical kit. What do you think that suit will do?”
 
 Jenna sighed, her hands pausing over the clasps of her suit. “I know it’s risky, but we don’t have time to wait until the checkpoint. If she’s dangerous—or worse, if she’s contagious—we need to know now. The safety of everyone else on this transport depends on it.”
 
@@ -22,17 +22,17 @@ Jenna sighed, her hands pausing over the clasps of her suit. “I know it’s ri
 
 “What do you suggest? That we just wait and hope for the best?” Jenna snapped.
 
-Gabriel didn’t answer. His gaze drifted back to Ava, who hadn’t moved from her spot. Her shoulders shook with each unsteady breath, and something about the way she clutched herself made his chest ache.
+Gabriel looked at Ava, then at the scanner. “Ask her before you get close.”
 
-Jenna took his silence as resignation and finished sealing her suit. “I’ll keep my distance,” she assured him, injecting as much confidence into her tone as she could muster. “This is just a preliminary check. If it gets too dangerous, I’ll pull out immediately.”
+Jenna finished sealing her suit. “I’ll keep my distance. If it gets dangerous, I’ll pull out.”
 
-Gabriel watched her for a long moment, his gut twisting. “Be careful,” he murmured at last, the words barely escaping past the tension tightening his throat.
+Gabriel checked the chamber’s emergency release. “I’ll be here.”
 
-The quarantine chamber was eerily silent as Jenna stepped inside, the door hissing shut behind her. The soft hum of her respirator filled the space, and the suit’s synthetic fabric crinkled with every movement.
+Through the glass, Gabriel watched Jenna step inside, the door hissing shut behind her. The intercom picked up the rasp of her respirator and the crinkle of the suit.
 
-Ava’s head shot up at the sound, her entire body tensing as adrenaline surged through her. Her amber eyes widened, locking onto the figure standing before her, their form distorted by the sterile glow of the room. The hazmat suit’s reflective visor hid the stranger’s face, turning them into a faceless specter from the nightmares clawing at the edges of her fragmented memory.
+Ava’s head came up. She looked at the visor, then the gloves. Her heels scraped against the floor as she pushed farther into the corner, although there was no room left behind her.
 
-“No,” she whispered, her tone raw, barely more than a breath. A shiver ran through her as she pressed herself further against the wall, her fingers digging into the thin fabric of her sleeves.
+“No,” she whispered. Gabriel had to lean toward the speaker to hear it.
 
 Jenna raised her hands, palms outward in a careful, deliberate motion. “Ava, it’s okay,” she assured her, her voice measured yet tinged with an edge of urgency. “I’m not here to hurt you. I just need to take a quick look—”
 
@@ -46,7 +46,7 @@ Jenna stumbled backward, her scanner clattering to the floor. Ava’s movements 
 
 “Jenna!” Gabriel’s shout thundered through the intercom, urgent and commanding, reverberating off the sterile walls of the quarantine chamber.
 
-Ava’s entire body trembled, her breath coming in ragged gasps as something primal surged within her. The panic in her eyes warred with something deeper—something raw and uncontainable. Her muscles tensed, her fingers curling into claws before she seized Jenna’s suit, her grip like a vice. The reinforced material groaned under the strain, stretching taut between them.
+Ava caught Jenna’s suit at the chest. Reinforced fabric drew tight between her fists. Jenna’s boots slid forward across the floor; she could not break the grip.
 
 Her face was inches away, her features twisted with fear and fury, her glowing veins pulsing beneath her skin like embers beneath cracked glass.
 
@@ -54,25 +54,17 @@ Her face was inches away, her features twisted with fear and fury, her glowing v
 
 “I’m not—I swear,” Jenna stammered, but her words were drowned out by the sound of the door slamming open.
 
-Gabriel rushed in, his heart pounding. Without thinking, he grabbed Jenna by the arm and pulled her out of Ava’s grasp. The motion startled Ava, who stumbled back, her glowing eyes flickering.
+Gabriel pulled his mask into place and hit the release. He rushed in, he grabbed Jenna by the arm and pulled her out of Ava’s grasp. The motion startled Ava, who stumbled back, her glowing eyes flickering.
 
 The door hissed shut behind them, leaving Ava alone.
 
-Hours later, Gabriel sat in the dim glow of the observation room, his head buried in his hands. The memory of the young woman’s wild, desperate eyes haunted him, playing on a relentless loop in his mind. The sheer terror in her tone still echoed in his ears—not just fear, but something deeper, something fractured. He had seen survivors terrified before, had witnessed men and women broken by the horrors of this world, but this was different.
+Hours later, Jenna’s discarded suit lay on a chair between them. Ava had stretched the chest seam until pale threads showed through. Gabriel kept looking at it. Another pull might have opened the suit, or broken the ribs beneath it.
 
-Ava had been more than afraid—she had been cornered, like an animal forced into a fight it never wanted. And yet, beneath the panic, there had been strength—raw, unrelenting, and inhuman. A strength that both awed and unsettled him. She was dangerous, unpredictable. But it wasn’t her power that lingered with him the most.
-
-It was her pain.
-
-The way she had clutched herself after nearly losing control, the silent tremors that had racked her body, the look in her eyes—one of someone who had fought for too long, who had survived too much, and yet still feared what she was becoming.
-
-Gabriel exhaled sharply, dragging a hand down his face. He should have reported everything immediately. Should have followed protocol. But instead, all he could think about was that moment, when she had looked at him—not as a monster, not as a threat—but as someone desperately seeking an anchor in the chaos.
-
-And against every rational thought in his mind, he wanted to be that anchor.
+Inside the chamber, Ava stared at her hands. He had heard her begging Jenna not to hurt her while she nearly crushed her. He did not know how to put both facts in the same report.
 
 “She almost killed me, Gabe,” Jenna murmured, her tone unsteady, the weight of the moment pressing down on her. She hugged her arms around herself as if trying to shake off the lingering fear.
 
-“But she didn’t,” he countered, though the hesitation in his response betrayed his own doubts. His words were firm, yet something in his expression wavered, as if he were trying to convince himself just as much as Jenna.
+“She stopped,” he said. Then, looking at the seam again, “When I pulled you away.”
 
 “She could have,” Jenna insisted. “You saw what she did. She’s not in control, and if she snaps again—”
 
@@ -84,11 +76,7 @@ Gabriel didn’t respond. His gaze drifted back to Ava, who sat huddled in the c
 
 “She’s changing,” Jenna breathed, her words barely more than a ghost of sound, tinged with apprehension.
 
-Gabriel swallowed hard, his throat tightening as unease coiled in his gut. Fear gnawed at the edges of his mind, urging him to look away—to let someone else handle it, to pretend he hadn’t seen. But then his gaze locked onto her tear-streaked face, the silent plea hidden in the way she clutched herself, fingers digging into her arms as if she could physically contain whatever was happening inside her.
-
-She wasn’t just changing—she was unraveling, caught in a battle between what she had been and what she was becoming.
-
-Without thinking, Gabriel moved toward the chamber door.
+Gabriel put his mask back on. The ridges beneath Ava’s skin pushed up again; she pressed both palms over them as if she could force them down. He checked that Jenna could still reach the emergency release, then moved toward the door.
 
 “Gabe, don’t,” Jenna said sharply.
 

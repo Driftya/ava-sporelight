@@ -6,6 +6,7 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 
 - Read the novel from [`manuscript/000-front-matter.md`](manuscript/000-front-matter.md).
 - Consult authoritative story rules from [`canon/README.md`](canon/README.md).
+- Continue the established voice with [`canon/08-prose-style-guide.md`](canon/08-prose-style-guide.md).
 - Read contributor and agent constraints in [`AGENTS.md`](AGENTS.md).
 
 ## Repository Structure
@@ -63,7 +64,7 @@ The narrative red line is:
 3. Check `canon/07-decisions-and-continuity-ledger.md` for earlier conflict resolutions.
 4. Make the smallest change that satisfies the story goal without breaking canon.
 5. Update canon and its decision ledger if the author intentionally changes continuity.
-6. Verify numbering, stable IDs, links, encoding, and the manuscript invariants in `AGENT.md`.
+6. Verify numbering, stable IDs, links, encoding, and the manuscript invariants in `AGENTS.md`.
 
 ## External Reference Material
 

@@ -6,19 +6,21 @@ title: "Bridging the Divide"
 
 # Chapter 11: Bridging the Divide
 
-Jenna stood outside the quarantine chamber, her arms crossed tightly over her chest. Through the glass, she could see Gabriel and Ava sitting together, their heads close as they spoke in hushed tones. It had become a familiar sight over the past few days, and though it still made her uneasy, she couldn’t deny the results.
+Jenna had been outside the glass for several minutes. Ava watched her look from Gabriel to the results on her tablet. He had submitted to a health check every morning; every morning he came back and told Ava it was clear.
 
-Gabriel’s health checks had come back clean every day. No signs of infection, no mutations—nothing to suggest Ava was contagious. Against all odds, the situation seemed stable.
+This time Jenna spoke through the intercom.
 
-Jenna sighed, running a hand through her hair. She hated admitting when she was wrong, but after days of observation, she had to face the truth: Ava wasn’t the threat she had feared.
+“May I come in?”
 
-With a deep breath, Jenna gathered her equipment and stepped toward the door.
+Ava looked at the scanner in her hand. “For what?”
 
-Ava looked up as the door hissed open. Her amber eyes widened slightly when Jenna stepped inside, holding a small medical scanner.
+“To talk.”
 
-Gabriel stood, his protective instincts kicking in. “Jenna, what are you—”
+After a moment, Ava nodded.
 
-“It’s fine,” Jenna interjected quickly, raising a hand to stop him. “I’m just here to talk.” She glanced at Ava, her expression softening. “And to apologize.”
+Jenna entered and put the scanner on the table before moving closer. Gabriel stood, but Ava lifted a hand. He sat down again.
+
+“I owe you an apology,” Jenna said.
 
 Ava stiffened, her gaze darting between Jenna and Gabriel.
 
@@ -36,33 +38,35 @@ Ava glanced up, her expression uncertain.
 
 “To be fair, Gabriel here isn’t exactly following protocol,” Jenna added, shooting him a pointed look.
 
-Gabriel shrugged. “Protocol didn’t save us in the woods. Ava did.”
+Gabriel shrugged. “Protocol didn’t stop that thing outside the pod. Ava did.”
 
 Jenna rolled her eyes but didn’t argue. Instead, she turned back to Ava. “I’ve been running tests on Gabriel every day since he started coming in here. No signs of infection, no mutations. Nothing. And I have to admit, that’s… remarkable.”
 
-Ava blinked, her brow furrowing. “You’ve been testing him?”
+“He tells me when he gets the results,” Ava said. “Is that enough for you?”
 
-“Of course,” Jenna said. “It’s my job to make sure everyone on this transport is safe. But the fact that he’s fine—that no one else has gotten sick—means you’re not contagious. At least, not in the way we feared.”
+“Enough to reconsider,” Jenna said. “He’s shown no symptoms, and the tests keep coming back clear. I haven’t found evidence that ordinary contact with you spreads the infection.”
 
 Ava seemed to relax a little, though her gaze was still wary.
 
-“And I’ve been paying attention to how you interact with Gabriel,” Jenna continued. “You’re not a monster, Ava. You’re… different, yes, but that doesn’t mean you’re dangerous.”
+“And I’ve been paying attention to how you interact with Gabriel,” Jenna continued. “You’re not a monster, Ava. You can be dangerous—I won’t lie to you about that—but you’re not choosing to threaten us.”
 
 Ava swallowed hard, her voice trembling as she spoke. “I don’t want to be dangerous. I just want to understand what’s happening to me.”
 
-Jenna’s expression softened further, a quiet sincerity settling in her features. “We’ll figure it out. Together. But for now, I just want you to know that I don’t see you as a threat—not anymore.”
+“I can help you keep track of it,” Jenna said. “The readings, and what they feel like to you. I should have listened before I brought the scanner in.”
 
-Ava hesitated, her fingers tightening slightly around the fabric of her sleeve. She had spent so long being feared, being studied like something unnatural, that the shift in Jenna’s demeanor felt almost surreal. But there was no hesitation in the scientist’s voice, no lingering doubt in her gaze.
+Ava kept hold of her sleeve. Jenna had apologized, but the scanner was still on the table. She needed to see what happened when she asked for something.
 
 Slowly, Ava nodded. “Thank you.”
 
 Jenna smiled faintly, then gestured to the scanner on the table. “Would it be okay if I checked you over? Just to make sure you’re okay?”
 
-Ava looked to Gabriel, who gave her an encouraging nod. Taking a deep breath, she extended her arm toward Jenna.
+“Show me what it does first,” Ava said.
+
+Jenna passed the scanner over her own wrist and turned the display so Ava could see. Only then did Ava extend her arm.
 
 The examination was brief, and Jenna worked in silence, her movements careful and deliberate. When she finished, she set the scanner aside and looked at Ava.
 
-“Your vitals are… stable,” she noted, though a trace of curiosity lingered in her tone. “Actually, more than stable. Your heart rate is lower than normal, but it’s steady. Oxygen levels, circulation—everything reads as if your body has adapted perfectly to whatever’s inside you.”
+“Your vitals are… stable,” she noted, though a trace of curiosity lingered in her tone. “Actually, more than stable. Your heart rate is lower than normal, but it’s steady. Oxygen levels, circulation—the readings are steady today. That doesn’t tell us whether they’ll stay that way.”
 
 She hesitated, glancing at Ava before setting the tablet down. “But readings only tell me so much. How do you feel?”
 
@@ -80,7 +84,7 @@ Jenna smiled faintly. “That’s Gabriel for you. Always trying to save the day
 
 Gabriel crossed his arms, feigning offense. “I can hear you, you know.”
 
-Ava let out a quiet laugh, and Jenna’s smile widened. For the first time, the tension in the room felt less suffocating.
+Ava let out a quiet laugh, and Jenna’s smile widened. Ava noticed she had let go of her sleeve.
 
 As Jenna gathered her equipment and prepared to leave, she turned to Ava one last time. “If you ever want to talk—or if you need anything—let me know, okay?”
 
@@ -96,4 +100,4 @@ Ava tilted her head, her amber eyes thoughtful. “She’s… not as scary as I 
 
 Ava looked at him, her expression unreadable. Then, slowly, she leaned her head against his shoulder. Gabriel stayed still, letting her take comfort in the moment.
 
-For the first time since this journey began, it felt like they were truly moving forward.
+Ava stayed beside Gabriel when the camera turned. She did not retreat to the corner.

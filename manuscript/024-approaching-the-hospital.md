@@ -6,13 +6,13 @@ title: "Approaching the Hospital"
 
 # Chapter 24: Approaching the Hospital
 
-The jagged silhouette of the hospital grew larger with every step, its broken windows and crumbling facade a stark reminder of the chaos that had overtaken the world. The air felt heavier, charged with an unseen tension that made Ava’s skin prickle. Gabriel, leading the trio, Gabriel halted at the edge of an open courtyard, his rifle steady as he assessed their surroundings. His sharp gaze darted from shadowed alleys to the wreckage-strewn ground, searching for any sign of movement. The silence felt unnatural, pressing in around them like a held breath.
+Gabriel halted at the edge of the hospital courtyard. A wheelchair lay on its side beside the entrance, one wheel still turning in the wind. Ava followed his line of sight upward. Growth packed the broken windows, leaving dark gaps between the leaves.
 
-“We’re close,” he said, his voice low but resolute. “Let’s make this quick. No unnecessary risks.
+“We’re close,” he said, his voice low but resolute. “Let’s make this quick. No unnecessary risks.”
 
-Ava and Harrow nodded, the weight of the mission pressing down on them. The hospital stood as a beacon of both hope and danger, a place that could hold answers or bring their journey to a swift and violent end.
+Harrow started across before Gabriel signalled. Ava caught his sleeve. He stopped, looking first at her hand, then at the entrance.
 
-The courtyard was eerily silent, the only sounds coming from the faint rustling of wind through debris. Gabriel moved cautiously, motioning for Ava and Harrow to follow. As they crossed the cracked pavement, Ava couldn’t shake the feeling that they were being watched—not by intelligent eyes, but by the primal awareness of the mutant life forms that seemed to haunt every shadow.
+They crossed beside a line of concrete planters, using them for cover. Ava watched the growth overhead. One dead stem fell and struck the paving behind them; all three stopped until it lay still.
 
 The trio reached the hospital’s main entrance, its doors hanging askew on rusted hinges. Gabriel stopped, signaling for silence. He peered inside, his sharp gaze sweeping over the dimly lit lobby.
 
@@ -34,37 +34,41 @@ The trio reached the lower level, the corridor stretching out before them like a
 
 “Let’s find that lab,” Gabriel said, his voice steady. “And stay alert. This place feels wrong.”
 
-The first few rooms they checked were empty, their contents either looted or destroyed. Harrow grew increasingly anxious, his movements quick and jerky as he sifted through the wreckage, his eyes darting from one broken fragment to the next. Ava noticed him linger over a shattered monitor, his fingers brushing against the cracked screen. "She used to work here," he murmured, almost to himself. "This was her station."
+The first few rooms they checked were empty, their contents either looted or destroyed. Harrow grew increasingly anxious, his movements quick and jerky as he sifted through the wreckage, his eyes darting from one broken fragment to the next. Ava noticed him linger over a shattered monitor, his fingers brushing against the cracked screen. “She used to work here,” he murmured, almost to himself. “This was her station.”
 
-Gabriel stepped closer, his rifle slung but ready. "We’ll find something," he said firmly. "Keep looking."
+Gabriel stepped closer, his rifle slung but ready. “We’ll find something,” he said firmly. “Keep looking.”
 
-In one room, Ava spotted a fragment of a notebook half-buried under debris. She carefully extracted it, flipping through its smudged pages. Rough sketches of DNA strands and notes written in a hurried hand filled the pages. "Harrow," she called, holding up the notebook. "Does this look familiar?"
+In one room, Ava spotted a fragment of a notebook half-buried under debris. She carefully extracted it, flipping through its smudged pages. Rough sketches of DNA strands and notes written in a hurried hand filled the pages. “Harrow,” she called, holding up the notebook. “Does this look familiar?”
 
-Harrow’s eyes widened as he took the notebook. "This is hers," he said, his voice trembling. "She was close to something. I knew it." He hesitated, then added, "These notes could be worth a fortune. People out there would pay anything for a chance at reversing the mutation. It could change everything."
+Harrow’s eyes widened as he took the notebook. “This is hers,” he said, his voice trembling. “She was close to something. I knew it.” He hesitated, then added, “These notes could be worth a fortune. People out there would pay anything for a chance at reversing the mutation. It could change everything.”
 
-Ava stiffened at his words, a pang of anger flashing through her. Gabriel, too, gave Harrow a sharp look, his expression hardening. "A fortune? That’s all you’re thinking about?" Ava asked, her tone biting.
+Ava held onto the corner of the notebook. “A fortune? That’s what you see here?”
 
-Harrow recoiled slightly. "No—I mean, yes. Look, I know how it sounds, but this could save lives too. If the right people get it, they can use it."
+Harrow recoiled slightly. “No—I mean, yes. Look, I know how it sounds, but this could save lives too. If the right people get it, they can use it.”
 
-"We’re not just handing this over," Gabriel said firmly. "If you want these notes, you’re giving us a copy first. Non-negotiable."
+“We’re not just handing this over,” Gabriel said firmly. “If you want these notes, you’re giving us a copy first. Non-negotiable.”
 
-Harrow hesitated, his gaze shifting between them. His grip on the notebook tightened for a moment, his eyes darting toward the room’s exit. But he quickly realized he had no chance of escaping Gabriel and Ava. Reluctantly, he muttered, "Fine. You can have a copy. But this stays with me."
+Harrow looked toward the exit, then down at Ava’s hand on the page. “Fine. You can have a copy. But this stays with me.”
+
+Gabriel used his field scanner on the legible pages. Harrow turned them impatiently; Gabriel made him go back whenever a corner obscured the writing. The copied fragment ended halfway through a table. Whatever completed it was still missing.
+
+Harrow tucked the notebook under his coat and led them down the corridor.
 
 “It should be here,” he muttered, stopping outside a door marked ‘Research Lab 4B.’ The window in the door was cracked but intact, offering a glimpse of the chaos inside: overturned tables, shattered equipment, and papers scattered across the floor.
 
-Gabriel tested the door, but it didn’t budge. The keypad next to it blinked faintly, its screen cracked but functional. "Looks like it’s locked," Gabriel muttered.
+Gabriel tested the door, but it didn’t budge. The keypad next to it blinked faintly, its screen cracked but functional. “Looks like it’s locked,” Gabriel muttered.
 
-Ava stepped forward, examining the keypad. "There might be a code nearby," she said. Her eyes scanned the room until they landed on a faint series of numbers scrawled on the wall beside a desk: 4512.
+Ava stepped forward, examining the keypad. “There might be a code nearby,” she said. Beside the corridor desk, a worn maintenance label carried four handwritten digits: 4512.
 
-"Worth a shot," she said, punching the numbers into the keypad. The lock clicked, and the door creaked open, revealing a scene of destruction. Ava stepped inside first, her blade drawn as her eyes swept the room. There were no signs of life—mutant or otherwise—but the tension in the air was palpable.
+“Worth a shot,” she said, punching the numbers into the keypad. The lock clicked, and the door creaked open, revealing a scene of destruction. Ava stepped inside first, her blade drawn as her eyes swept the room. There were no signs of life—mutant or otherwise—but the tension in the air was palpable.
 
-“Start looking,” Gabriel said, moving to the nearest table. “Anything that looks important, grab it. But don’t take too long."
+“Start looking,” Gabriel said, moving to the nearest table. “Anything that looks important, grab it. But don’t take too long.”
 
-Harrow moved to a cabinet, his hands shaking as he rifled through its contents. Ava found a stack of folders on a desk, their pages yellowed but intact. She flipped through them, her heart racing as she caught glimpses of diagrams and notes that hinted at genetic research. The handwriting was rushed, and several pages were marked with the word "Failed" in bold, underlined letters. Ava’s brow furrowed as she realized the research was incomplete—but it hinted at something critical, a potential breakthrough that hadn’t been realized.
+Harrow moved to a cabinet, his hands shaking as he rifled through its contents. Ava found folders and bound assay ledgers on a desk, their pages yellowed but intact. She flipped through them, her heart racing as she caught glimpses of diagrams and notes that hinted at genetic research. The handwriting was rushed, and several pages were marked with the word “Failed” in bold, underlined letters. She compared two dates and found a gap. A method continued on a page that was no longer in the folder. She knew the frustration of incomplete field records; these might be impossible to repeat without the missing steps.
 
 “This could be it,” she said, holding up the folders.
 
-Gabriel moved to her side, scanning the pages quickly. His jaw tightened as he took in the notes. "The tests failed," he muttered, pointing to the bold, underlined letters. "They ran out of time—and something’s missing," he added, gesturing to a scrawled note in the margin: 'Need alternative stabilizing agent.' "Let’s pack it up and move. We don’t want to linger here."
+Gabriel moved to her side, scanning the pages quickly. His jaw tightened as he took in the notes. “The tests failed,” he muttered, pointing to the bold, underlined letters. “They ran out of time—and something’s missing,” he added, gesturing to a scrawled note in the margin: 'Need alternative stabilizing agent.' “Let’s pack it up and move. We don’t want to linger here.”
 
 As they worked, a faint noise reached their ears—a distant clicking sound that made the hairs on the back of Ava’s neck stand up.
 

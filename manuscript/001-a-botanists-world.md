@@ -6,32 +6,32 @@ title: "A Botanist’s World"
 
 # Chapter 1: A Botanist’s World
 
-The jungle hummed with life, a vibrant symphony of chirping cicadas and distant bird calls. Every inch of the rainforest seemed alive, from the shimmering canopy above to the moss-covered floor below. Ava knelt in the dirt, her gloved hands carefully prying back a tangle of vines to expose her latest find. Her breath caught as the glowing fungus came into view, a delicate cluster of bioluminescent caps nestled against the base of an ancient tree.
+The jungle hummed with cicadas and distant bird calls. From the high canopy to the moss-covered floor, every layer competed for light. Ava knelt in the dirt and eased back a tangle of vines. Beneath them, a cluster of bioluminescent caps glowed at the base of an ancient tree.
 
-"You’re a beauty," she whispered, adjusting the lamp strapped to her head to cast a gentle light over the specimen. The fungus glowed faintly, a pale blue hue that pulsed softly, almost as if it were breathing. It was unlike anything she’d cataloged before, a potential breakthrough in her study of plants thriving in polluted or extreme environments.
+“You’re a beauty,” she whispered, tilting her headlamp away. The fungus kept its pale blue glow when the beam moved off it. Ava watched until her own shadow stopped confusing the observation. If it could grow in this soil, she wanted to know how.
 
-Sweat trickled down her temple as the thick, humid air clung to her like a second skin. She ignored the discomfort, reaching for her field notebook and jotting down her observations.
+Sweat ran into her eye. She wiped it with her sleeve, leaving a smear of soil at her temple, and balanced the field notebook on her knee.
 
-• Bioluminescent species, likely new genus. Found in proximity to decayed organic matter, possible mycorrhizal relationship?
+- Bioluminescent fungus; identification pending. Decaying wood nearby. Check roots for possible mycorrhizal association.
 
-• Potential biochemical adaptation for survival in high-toxicity soil.
+- Potential biochemical adaptation for survival in high-toxicity soil.
 
-• Initial sample taken, approximately 10 grams.
+- Initial sample taken, approximately 10 grams.
 
-Her pencil hesitated as a sudden wave of fatigue washed over her. She shook her head, dismissing it. Long hours in the field, she thought. That’s all it was. Ava slid the sample into a sterile container and sealed it carefully. This discovery was too important to risk contamination.
+Her pencil stopped halfway through the date. She had forgotten the month. A moment later it returned, absurdly ordinary, and she blamed the long day. She sealed the sample in its sterile container and checked the lid twice.
 
-Pushing herself to her feet, she glanced around. The jungle, though dense, felt strangely empty. A shiver ran up her spine, and she scolded herself for her nerves. You’re alone, she reminded herself. Alone with your thoughts, your work. And the endless buzzing of insects.
+When she stood, the pressure behind her breastbone made her bend over the notebook. She waited for it to pass before putting the pencil away. Cicadas buzzed overhead; the birds she had heard earlier had stopped.
 
-For months, ever since the meteor struck far to the north, Ava had felt the world shifting in subtle, unsettling ways. Plants she had studied for years were changing—growing faster, developing strange adaptations. Even the air felt heavier, charged with an almost imperceptible energy. She’d brushed it off at first, chalking it up to her imagination or the paranoia of overwork. But deep down, she couldn’t shake the feeling that something fundamental had changed.
+Since the meteor struck far to the north, she had been crossing out measurements in her old field records. Shoots grew beyond their marked lengths between visits. Leaves appeared where she expected bare stems. Each change had seemed worth investigating on its own. Together, they were filling a second notebook.
 
-As she began the trek back to her lab, the foliage seemed to close in around her, the shadows deepening as the sun dipped lower. The path she’d cleared earlier in the day now felt unfamiliar, her boots sinking slightly into the damp, loamy soil with each step. Every crack of a branch or rustle of leaves made her heart race, but when she turned to look, there was nothing there.
+On the return path, she checked each strip of survey tape before trusting the turn. The jungle looked different in the lowering light. Twice she stopped at a rustle behind her; twice she found only leaves settling against leaves.
 
-Back in her lab, Ava peeled off her gloves and collapsed into her chair, her body aching from the day’s exertion. She placed the container holding the fungal sample onto her desk, its faint glow casting eerie shadows on the walls. Taking a deep breath, she leaned back and closed her eyes, just for a moment.
+Back in the lab, she put the sample on a clear corner of the desk and peeled off her gloves. The cuff snapped against her wrist. She meant to record the collection time before sitting down. Instead, she woke in the chair with the notebook open on her lap.
 
-A sharp pang in her chest jolted her awake. Her hand flew to her ribcage, where the pain radiated in dull pulses. She winced and brushed it off as muscle strain from lugging her equipment through the jungle.
+Pain gripped her chest. Ava pressed a hand beneath her ribs and tried a careful breath. Carrying too much equipment, she told herself. Tomorrow she would leave half of it behind.
 
-Her gaze drifted back to the fungal sample. Its glow seemed brighter now, more insistent. She shook her head and stood, determined to process the sample before exhaustion claimed her completely. But as she reached for her tools, a faint rustling sound outside the lab caught her attention. It was subtle, almost imperceptible beneath the constant hum of the jungle. Still, it was enough to make her pause.
+The specimen still glowed. She switched on the bench lamp and reached for a fresh pair of gloves. Outside, something scraped against the window frame.
 
-Ava’s eyes darted to the window. The dense foliage outside obscured her view, but something about the movement—or the lack of it—set her on edge. The jungle was alive, yes, but it was never this quiet. She dismissed the thought, chalking it up to paranoia after a long day in the field.
+Ava turned off the lamp. Her reflection vanished from the glass, but the foliage beyond remained too dense to see through. She waited until her fingers cramped around the gloves.
 
-She had no way of knowing that in the shadows beyond her lab, figures watched her with cold, calculating precision, their faces hidden beneath masks. The agents moved silently, their dark uniforms blending seamlessly with the jungle. They waited, emotionless and efficient, for the perfect moment to strike.
+The scrape did not come again. She set the gloves down beside the sample, careful to make no sound.

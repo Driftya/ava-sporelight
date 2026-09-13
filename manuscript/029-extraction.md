@@ -26,13 +26,15 @@ The transport team worked quickly, helping the survivors into the vehicle and se
 
 “They’re coming,” Gabriel said, his voice grim. He turned to Ava. “You ready?”
 
-Ava nodded, though her body still ached from her earlier transformation. “Let’s do this.”
+Ava nodded, though her body still ached from her earlier transformation. “Keep the door clear for me.”
 
-The first mutants emerged from the shadows, their grotesque forms scuttling toward the station. Gabriel fired his rifle, the sharp cracks cutting through the morning air. The survivors, now equipped with gas masks, added their firepower to the defense. Ava moved alongside Gabriel, her blade glinting as she struck down a mutant that lunged too close.
+The blood on Ava’s blade had dried since the factory. She worked the dressing loose and wet the edge again, using only what the reopened wound would give.
+
+The first mutants emerged from the shadows, their grotesque forms scuttling toward the station. Gabriel fired his rifle, the sharp cracks cutting through the morning air. Spores rose where the shots tore mutant tissue. The armed survivors kept their masks sealed and fired from beside the vehicle while the others climbed aboard. Ava moved alongside Gabriel, her blade glinting as she struck down a mutant that lunged too close.
 
 “Keep them off us!” one of the transport team members shouted from the vehicle. “Almost done here!”
 
-The battle intensified as more mutants poured in, their screeches echoing off the station walls. Ava fought with a mix of precision and desperation, her blade coated with her toxic blood. Each strike sent another creature crumpling to the ground, but the effort left her trembling.
+The battle intensified as more mutants poured in, their screeches echoing off the station walls. Ava fought with a mix of precision and desperation, the fresh blood still wet along her blade. Each strike sent another creature crumpling to the ground, but the effort left her trembling.
 
 Gabriel’s voice cut through the chaos. “Fall back! They’re closing in too fast!”
 
@@ -46,4 +48,4 @@ Inside, the survivors sat in tense silence, their breaths heavy with relief. Ava
 
 “We made it,” he said, his voice low.
 
-“This time,” Ava replied, her tone somber. She looked out the small window at the receding station, her mind already bracing for the challenges ahead.
+“This time,” Ava replied. She laid the knife flat and pressed fresh gauze over her palm. Across the aisle, the child from the garage slept against her mother, the same blanket pulled to her chin.

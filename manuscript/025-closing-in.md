@@ -6,92 +6,106 @@ title: "Closing In"
 
 # Chapter 25: Closing In
 
-The distant clicking grew louder, a haunting rhythm echoing through the hospital’s cold, empty halls. Gabriel gestured for Ava and Harrow to stay close as he led them toward the far end of the lab. Their movements were deliberate, each step calculated to avoid making noise. The weight of the research notes, now safely packed into Ava’s bag, seemed heavier with every passing second.
+The clicking followed them out of the laboratory.
 
-“They’re moving fast,” Ava whispered, her blade glinting faintly in the dim emergency lighting. “We need a way out.”
+It travelled through the hospital walls in quick, uneven bursts: claws inside a ventilation shaft, then silence, then claws again. Ava carried the research folders in a sealed bag against her back. Harrow had refused to surrender the notebook he called his sister’s and held it beneath his coat with one hand.
 
-Gabriel scanned the room, his sharp gaze landing on a partially collapsed wall near the back. “There,” he said, pointing. “Looks like it leads to another hallway. Could give us a chance to circle around them.”
+Gabriel stopped at a junction. The service elevators waited to the left, their doors furred with rust. A maintenance sign pointed right.
 
-Harrow nodded, his hands trembling as he clutched the notebook. “Let’s just go. I don’t want to end up like the others.”
+“Tunnels,” he said.
 
-Ava shot him a glare but didn’t say anything. Gabriel motioned for them to move, his rifle raised as he approached the opening. They slipped through the gap one by one, emerging into a narrower, darker corridor.
+“The elevators are faster,” Harrow whispered.
 
-The new hallway was eerily silent, the air thick with tension. Ava took the lead, her movements fluid and quiet as she scouted ahead. Gabriel stayed close behind, his rifle trained on the shadows, while Harrow brought up the rear, his breaths shallow and uneven.
+Gabriel pressed the call button. Nothing lit. “Not today.”
 
-“This place feels wrong,” Harrow muttered, his voice barely audible. “Like it’s alive.”
+They passed through a warped fire door and descended a concrete stairwell. At the bottom, pipes crowded a passage barely wide enough for Gabriel’s shoulders. Condensation ticked from the ceiling. The detector on his wrist showed green, then blinked once to amber.
 
-Ava ignored him, her focus fixed on the path ahead. The corridor twisted and turned, each corner revealing more of the hospital’s decayed interior. Broken gurneys and medical equipment littered the floor, their shapes casting unsettling shadows in the flickering light.
+“Masks sealed,” he said.
 
-They reached a junction where the corridor split into two paths. Gabriel paused, his eyes narrowing as he studied the options.
+Harrow fumbled with his strap. Gabriel fixed it with one hard pull and sent him ahead toward the exterior ladder marked on the map.
 
-“Which way?” Ava asked, keeping her voice low.
+Ava remained beside Gabriel. The spores could not infect her as they infected him, but she could already feel the colony inside her answering the contaminated air: heat beneath her nails, an ache along her spine, hunger without an object.
 
-“Left leads to the service elevators,” Gabriel replied. “Right heads toward the maintenance tunnels. The elevators are faster, but if the power’s out…”
+“I’m still here,” she said.
 
-Ava’s jaw tightened. “Then we’d be trapped.”
+Gabriel looked at her amber-bright eyes. “Tell me if that changes.”
 
-Gabriel nodded. “Maintenance tunnels it is—unless we take the elevators and risk the power being on. It’d be faster, but we’d be trapped if anything goes wrong.”
+The next scrape came from a side passage.
 
-[Player Choice: Tunnels or Elevators]
+A human-shaped mutant unfolded from behind the pipes. Its head hung at a broken angle. Black veins corded its throat, and pale fungus packed the hollow where one cheek had been. One hand still wore a hospital identification band.
 
-1. Maintenance Tunnels – The trio opts for the safer but longer route, braving the narrow, claustrophobic passageways.
+It charged Harrow.
 
-2. Elevators – They gamble on the elevators, hoping the power will hold long enough to reach the exit.
+Ava caught the back of his coat and threw him behind her. Her first strike with the flat of the blade knocked the creature into the wall. It rebounded without pain, fingers snapping for her face.
 
-Outcome 1: Maintenance Tunnels
+Ordinary steel would kill it badly. Gabriel could not fire in the passage without filling the tunnel with fresh spores.
 
-The tunnels were a stark contrast to the hospital above, their walls narrow and lined with rusting pipes. The air was damp and carried a metallic tang, the faint hum of distant machinery echoing through the space. Ava led the way, her blade ready as they navigated the winding passages.
+Ava drew the blade across her palm.
 
-A sudden clang echoed through the tunnels, freezing them in place. Ava held up a hand, signaling for silence. The clicking had returned, louder now, and accompanied by the sound of scraping metal. Gabriel motioned for them to move quickly, but before they could reach the ladder, a grotesque mutant emerged from a side passage.
+Pain came clean and immediate. Blood sheeted over her grip and ran along the metal. She drove the wet blade beneath the mutant’s ribs.
 
-Ava stepped forward instinctively, her mutation flaring as her veins glowed faintly amber, casting an eerie light against the walls. With a roar, she lunged at the creature, her speed and strength overwhelming it as her blade struck true. The mutant let out a guttural screech, its body collapsing in a grotesque heap, but Ava wasn’t done. Her mutated strength had sent her into a frenzy, her blade carving through its form again and again until the creature was unrecognizable.
+The creature seized. Fungal tissue collapsed inward around the wound instead of bursting. The body struck the floor with a sound too soft for its size.
 
-Gabriel rushed forward, grabbing her by the shoulders. "Ava! Stop! It’s dead!" he shouted, his voice echoing in the narrow passage.
+Gabriel checked the detector. Amber. No worse.
 
-Her breaths were ragged, her eyes wide with fear—not of the creature, but of herself. The glowing amber veins pulsing across her skin began to fade, leaving her trembling. "I... I couldn’t stop," she whispered, her voice cracking as she backed away from the mutilated body.
+“It’s neutralized,” he said. “Ava, step back.”
 
-Gabriel pulled her into a protective embrace, his jaw tight with frustration and guilt. "I’m so sorry," he murmured, his voice low. "You shouldn’t have been forced to do that."
+She heard him, but the strength inside her had not finished. Her wounded hand had already closed around the knife again. The mutant’s ruined face became a scientist’s visor, a guard raising his rifle, Cole asking for a promise she could not make.
 
-Ava shook her head against his chest, tears threatening to spill. "What if I lose control next time? What if I hurt you?"
+She stabbed the body a second time.
 
-"You won’t," Gabriel said firmly, pulling back to look her in the eyes. "You stopped when I shouted. Even if you felt out of control, you still listened to me. That means something, Ava. You’re not alone in this."
+And a third.
 
-Gabriel placed a hand on her shoulder, his face lined with frustration and guilt. "You shouldn’t have had to do that," he said quietly. "I’m sorry."
+Gabriel said her name. He did not grab her. He moved into her line of sight and raised both empty hands.
 
-Ava shook her head, her voice strained. "It’s done," she whispered, her shoulders slumping as the adrenaline drained from her. She glanced at Gabriel, her expression heavy with guilt. "I was the one who insisted on always following you after you got hurt going alone. And now... now I’m the weak one. I’m sorry."
+“The route, Ava. We still need the route.”
 
-Gabriel frowned, stepping closer to her. "Ava, don’t. You’re not weak. You stopped that thing, and you stopped yourself when it mattered most. That’s strength."
+Her arm locked above another strike.
 
-They reached the ladder, their nerves frayed but determined, and climbed toward the exit, the sound of distant clicks fading behind them.
+Water knocked through the pipes. Harrow whimpered behind her. Gabriel stood close enough that one uncontrolled movement could open his suit.
 
-Outcome 2: Elevators
+Ava lowered the blade.
 
-The trio stepped into the elevator, the walls scratched and dented. Gabriel pressed the button for the lower level, and the car shuddered to life. The faint hum of the machinery was a welcome sound—until the lights flickered and the elevator jolted to a halt halfway down. A clicking sound echoed from the shaft above, followed by the unmistakable screech of a mutant. The air was damp and carried a metallic tang, the faint hum of distant machinery echoing through the space. Ava led the way again, her blade ready as they navigated the winding passages.
+The cut in her palm was already pulling shut, leaving blood drying between her fingers. Nausea replaced the violent clarity. She turned from the body and vomited against the wall.
 
-“How much further?” Harrow asked, his voice cracking under the weight of his fear.
+Gabriel waited until she could breathe before offering a cloth. “Can you walk?”
 
-Gabriel glanced at his map, the faint glow of his wrist device illuminating his features. “Another hundred meters. There should be a service ladder leading to an exterior exit.”
+“Yes.”
 
-A sudden clang echoed through the tunnels, freezing them in place. Ava held up a hand, signaling for silence. The clicking had returned, louder now, and accompanied by the sound of scraping metal.
+“Are you sure?”
 
-“They’re in the tunnels,” Gabriel said, his voice grim. “Stay close and keep moving.”
+“No.” She wiped her mouth. “But I can walk.”
 
-The trio moved quickly but cautiously, the oppressive atmosphere bearing down on them. Ava’s heart raced as the sounds grew nearer, the unmistakable presence of the mutants closing in.
+Harrow stared at the inert mutant. “You could have done that from the start.”
 
-They reached the ladder, its metal frame coated in rust. Gabriel motioned for Harrow to go first. “Climb. Now.”
+Ava looked at the cut she had made. “It isn’t free.”
 
-Harrow hesitated, his gaze darting toward the darkness behind them, but a sharp look from Gabriel spurred him into action. He scrambled up the ladder, his movements clumsy but quick.
+Something struck metal deeper in the tunnel. The clicking multiplied.
 
-Ava was next, her blade sheathed as she climbed. Gabriel brought up the rear, his rifle slung over his shoulder. As he ascended, the clicking grew deafening, accompanied by guttural growls that sent chills down their spines.
+They ran.
 
-Just as Gabriel reached the top, a mutant emerged from the shadows below. Its grotesque form moved with unnerving speed, its claws scraping against the ladder’s metal rungs. Gabriel swung his rifle around, firing a single shot that echoed through the tunnel. The mutant screeched, its body jerking violently before collapsing to the ground.
+At the exterior ladder, Harrow climbed first with the notebook clenched between his teeth. Ava followed, one-handed, while Gabriel guarded the passage below. The detector flickered amber twice more.
 
-“Move!” Gabriel barked, pulling himself over the edge and slamming the hatch shut behind him. He twisted the latch, securing it as more clicks and growls sounded from below.
+“Gabriel.”
 
-The trio found themselves in a small maintenance yard outside the hospital. The air was cool, the stars above offering a brief respite from the suffocating tension of the tunnels. Harrow collapsed against a wall, his chest heaving as he tried to catch his breath.
+“Keep climbing.”
 
-“That was too close,” Ava said, her voice tight.
+She reached the hatch and forced its corroded wheel until the seal cracked. Cool evening air spilled down the shaft. Ava pulled herself into a maintenance yard, dragged Harrow clear, then turned and reached back through the opening.
 
-Gabriel nodded, his expression grim. “We’re not out of this yet. Let’s keep moving.”
+Gabriel took her wrist. Together they hauled him into the open as claws struck the lowest ladder rungs.
 
-As they slipped into the shadows, the faint sounds of mutants clawing at the sealed hatch echoed in the distance, a haunting reminder of how thin the line between survival and death truly was.
+He slammed the hatch and locked the wheel. The metal jumped once beneath their hands, then held.
+
+For several seconds none of them moved.
+
+Gabriel’s mask filter hissed. Harrow lay on the concrete, hugging the notebook. Blood from Ava’s palm marked the hatch in a partial red print.
+
+“We keep moving,” she said.
+
+Gabriel looked at the blood, then at her. “After I wrap that hand.”
+
+“It’s almost closed.”
+
+“It’ll split on the next thing you grab.” He held up the dressing.
+
+Ava offered her hand.

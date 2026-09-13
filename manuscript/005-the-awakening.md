@@ -6,17 +6,19 @@ title: "The Awakening"
 
 # Chapter 5: The Awakening
 
-Ava’s body felt like it had been pulled apart and stitched back together, the phantom pain of her transformation lingering in every nerve. She lay on the cold, hard floor of the chamber, her breaths shallow and labored. Her mind was a tempest of fear, anger, and confusion. Whatever the scientists had done to her, it had changed her in ways she couldn’t yet comprehend.
+Ava could still feel the shape of the floor seam pressed into her cheek. She had tried to reach the door. Now she could not lift her head. The skin along her forearms tugged each time she moved her fingers, too tight for whatever was growing beneath it.
 
-The intercom crackled, jolting Ava from her daze. “Begin phase two,” the same detached voice announced, devoid of emotion or hesitation. The hum of the surrounding machinery deepened into a low, mechanical growl, vibrating through the walls like a beast awakening. A fine mist hissed into the chamber, curling around her like ghostly tendrils. Ava coughed, the acrid metallic tang burning her throat and coating her tongue with something unnatural. The temperature plummeted, and goosebumps prickled across her skin as the mist thickened, turning the air dense and suffocating.
+“Begin phase two,” the intercom said.
 
-Her body convulsed as heat surged through her limbs. Ava screamed, clutching her arms as pain wracked her body. The mist thickened, and she could feel it invading her lungs, her cells, her very essence. Her vision blurred, but through the haze, she could see the scientists watching her intently from beyond the glass, their hazmat suits reflecting the sterile light.
+The vent opened before she could beg them to wait. Machinery shook the glass around her. Mist rolled across the floor and entered her mouth with the first cough. She tried pulling the gown over her nose; the thin cloth grew damp against her lips.
 
-The pain reached an unbearable crescendo. Ava’s frame twisted uncontrollably, her back arching as her veins glowed an eerie amber. Her green eyes burned, their color shifting and solidifying into a molten gold hue. Something deep within her snapped, and a guttural scream escaped her lips as her body transformed.
+Heat drove her upright. She clutched her arms, trying to keep the swelling still. Through the mist, the woman with the tablet moved closer to the glass. Ava could see her own bent reflection in the visor.
 
-Her skin hardened in places, jagged amber-colored spikes erupting from her arms and back. She flailed wildly, her strength amplified to monstrous levels. The spikes pierced the glass walls of the chamber and, more terrifyingly, punctured the hazmat suits of the scientists who had dared to step closer. Panic spread like wildfire as the spores contained in the lab were released from shattered vials. The mist turned thick and alive, spreading rapidly through the air.
+The pain reached an unbearable crescendo. Ava’s frame twisted uncontrollably, her back arching as her veins glowed an eerie amber. Her eyes burned. In the glass, the green of her irises disappeared beneath amber light. Something deep within her snapped, and a guttural scream escaped her lips as her body transformed.
 
-Ava’s mind was a chaotic blur of rage and confusion. She swiped at the machinery, shattering monitors and sending sparks flying. The alarms blared, red lights casting the room in an ominous glow. Scientists screamed, their voices drowned out by the chaos. Guards rushed in, weapons drawn, but their fear made them reckless. Shots rang out, some striking infected scientists, causing their mutated bodies to explode in a cloud of spores. The infection spread rapidly, consuming the facility.
+Hard plates formed beneath her skin. When she struck the wall, a spike tore out along her forearm and punched through the glass. Cracks spread from it. She struck again. The wall broke, and her next wild swing caught the suits of the scientists crowding the breach. Vials shattered beneath the falling glass.
+
+The nearest monitor broke under her hand. Red alarm light swept over people slipping in the mist. Guards pushed through the doorway and fired. A man whose neck had already swollen against his collar burst apart at the shoulder; spores billowed from the damaged tissue. Ava flinched from the gunshot and drove an arm through the console beside him.
 
 Through the mayhem, Ava’s monstrous form rampaged, her amber spikes tearing through steel and flesh alike. She couldn’t control herself; her body moved on instinct, driven by the agony and the overwhelming surge of power. Her breaths came in ragged gasps, each exhalation fogging the air around her with heat.
 
@@ -24,14 +26,12 @@ One of the scientists, a middle-aged man clutching his side where blood seeped t
 
 Ava roared, her body convulsing as the tranquilizer took hold. Her vision blurred, the searing heat of her transformation ebbing as her spikes slowly retracted. The glow in her veins flickered and dimmed, leaving her weak and disoriented. She collapsed to her knees, her amber eyes filled with exhaustion and the fading remnants of resistance.
 
-The scientist, his breaths shallow and his body trembling from the effort, turned toward a nearby pod. Blood loss and infection were taking their toll, but he forced himself to keep moving. His fingers shook as he activated the cold sleep sequence, the pod’s systems whirring to life.
+The scientist crawled toward a pod built into the wall. He dragged one leg behind him and left a smear of blood at every push. Ava tried to move in the other direction. Her hand slid on the floor.
 
-“You… you have to… survive,” he rasped, barely audible over the chaos unfolding around them. With the last of his strength, he slammed the activation button. The pod hissed open, cold mist spilling out like an exhale from the abyss.
+“You have to survive,” he rasped.
 
-The remaining guards hesitated, their weapons still trained on Ava, but fear flickered in their eyes. Around them, the spores continued to spread, consuming the facility in a relentless tide. The scientist, knowing he had little time left, gritted his teeth and pulled Ava’s limp form toward the pod.
+He activated the pod, then caught her beneath the arms. She could still feel his gloves as he hauled her inside, but she could not make him stop.
 
-As the door sealed shut around her, frost crept across the reinforced glass, encasing her in a frozen cocoon. The scientist slumped to the floor, his body convulsing as the infection overtook him. His vision darkened, but before everything faded, his gaze locked onto the pod’s status indicator.
+The lid closed. Cold spread from the surface beneath her back. On the other side of the glass, the scientist slumped out of sight. Ava tried to say her name. Frost gathered before her mouth.
 
-A soft green light blinked steadily, confirming what little solace remained—Ava was secure.
-
-The facility descended into chaos. Infected scientists and guards alike tore through the remaining survivors, their bodies twisted and grotesque. The air was thick with spores, ensuring that nothing within the walls would remain untouched. The alarms continued to wail as the lab became a tomb, its secrets buried beneath the weight of its own destruction.
+The alarms kept sounding after she could no longer see the room. Then the cold took those too.

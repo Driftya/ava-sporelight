@@ -21,7 +21,7 @@
 | Following weeks or months | 17–18 | Gabriel is injured; Ava trains and joins missions; the factory settlement proves her control; Ava and Gabriel confess their love. |
 | After the confession | 19–32 | Ava and Gabriel undertake the hospital research mission. Harrow betrays them, but part of the research survives. |
 | Soon afterward | 33 | Jenna’s review of the recovered notes leads into Dr. Elias Karrow’s proposal to study Ava’s blood with her consent. |
-| Two years later | 34–35 | A vaccine derived from Ava’s blood is helping survivors. Ava and Gabriel await their daughter and choose a shared future. |
+| Two years later | 34–35 | A vaccine derived from Ava’s blood is helping survivors. Ava and Gabriel welcome their daughter and choose a shared future. |
 
 ## Part I — The Last Experiment
 
@@ -95,7 +95,7 @@ The ethical center is consent. Ava has been used as a specimen before. This time
 
 Two years later, a vaccine derived from Ava’s blood is effective in limited production. Humanity is not restored overnight, but communities have a credible path away from extinction.
 
-Ava is pregnant with Gabriel’s child. The ending completes her movement from stolen body and stolen future to chosen love, chosen scientific participation, and a family she can help protect.
+Ava gives birth to Gabriel’s child, and the epilogue follows six days later. The ending completes her movement from stolen body and stolen future to chosen love, chosen scientific participation, and a family she can help protect. The child’s long-term biology remains unknown.
 
 ## Required Ordering Rules
 
@@ -107,4 +107,3 @@ Ava is pregnant with Gabriel’s child. The ending completes her movement from s
 - Harrow’s theft and the recovered hospital notes must precede Karrow’s proposal.
 - Harrow and Karrow are different people.
 - The two-year jump begins only after Ava consents to the blood research.
-

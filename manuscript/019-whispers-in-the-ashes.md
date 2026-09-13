@@ -6,7 +6,11 @@ title: "Whispers in the Ashes"
 
 # Chapter 19: Whispers in the Ashes
 
-The hum of the engines reverberated through the ship’s hull, a steady reminder of the fragile bubble of safety they were about to leave behind. Ava leaned against the cold metal railing of the observation deck, her gaze fixed on the stars beyond. Around her, the crew moved with purpose, preparing for the mission ahead.
+Ava found Gabriel checking his pack beneath the observation-deck stairs. He looked up, and she had to resist touching the place at his collar where she had kissed him that morning. Around them, crew members carried sealed supplies down to the docking bay.
+
+“Ready?” he asked.
+
+She caught his hand briefly before they went down. “For the briefing.”
 
 In the docking bay below, Jenna stood at the center of the bustling activity, clipboard in hand, her sharp eyes scanning every detail. She was a commanding presence, her voice cutting through the noise with practiced authority.
 
@@ -16,9 +20,9 @@ Gabriel adjusted the strap of his rifle and nodded. “We’re ready.”
 
 Jenna’s gaze lingered on Ava, softening slightly. “How are you holding up? This isn’t going to be an easy run.”
 
-“I’m fine,” Ava replied, keeping her tone steady. Jenna had been one of the first to advocate for her inclusion in the crew, but Ava still felt the weight of proving herself every day.
+“I’m fine,” Ava replied, keeping her tone steady. Jenna had supported her training, but Ava still heard the quarantine intercom sometimes when the commander asked about her health.
 
-“Good,” Jenna said. “The hospital is at least few days away by foot. We’ve mapped the safest route we could, but you know how quickly things can change out there. Stick together, avoid unnecessary risks, and keep communication open.”
+“Good,” Jenna said. “The hospital is at least a few days away on foot. We’ve mapped the safest route we could, but you know how quickly things can change out there. Stick together, avoid unnecessary risks, and keep communication open.”
 
 Gabriel gave a mock salute. “Yes, ma’am.”
 
@@ -26,13 +30,13 @@ Jenna shot him a look that was equal parts amusement and warning before turning 
 
 Ava nodded, the words both reassuring and a reminder of the burden she carried. “Understood.”
 
-“Good,” Jenna said, stepping back as the crew loaded the last of the supplies onto the transport vehicle. “Watch each other’s backs out there.”
+“Good,” Jenna said, stepping back as the crew loaded the last of the supplies onto the transport vehicle. “Watch each other’s backs out there. The vehicle takes you to the road break; after that, you walk.”
 
-The sun hung low over the jagged skyline of a forgotten city, casting long shadows across the cracked pavement. Ruined skyscrapers loomed like skeletons, their glass windows shattered and frames twisted by time and chaos. The air smelled of decay and damp, mingled with the faint metallic tang that always seemed to accompany alien corruption.
+Two days later, the sun reached the street through gaps in a collapsed tower. Ava picked her way between panes of glass welded together by old heat. The vehicle was long behind them. Beside her, Gabriel checked his detector and shifted the weight of his pack.
 
-Ava adjusted the straps of her backpack, her sharp eyes observing the street ahead. Beside her, Gabriel walked with a deliberate pace, his rifle slung across his shoulder. His movements were fluid but cautious, a reminder of countless hours spent navigating hostile terrain.
+Ava adjusted the straps of her backpack, her sharp eyes observing the street ahead. Gabriel walked beside her with his mask sealed, watching the windows above their route.
 
-It had been two days since they had left the safety of the ship, and though the hospital was their ultimate goal, it still felt maddeningly far away. Every block they crossed seemed to present a new challenge: rubble-strewn streets, collapsed buildings, and the omnipresent threat of alien life forms lurking in the shadows.
+The map put the hospital beyond three more blocked avenues. They had already detoured around two collapsed buildings. Ava wanted to sit down somewhere that did not need checking first.
 
 “You holding up?” Gabriel asked, his voice low but steady.
 
@@ -56,18 +60,14 @@ Ava stiffened, the accusation stinging despite its familiarity. “I’m here to
 
 Harrow’s eyes darted back to Gabriel, as if seeking reassurance. “I ran. I had to. There was nothing else I could do.”
 
-Gabriel exchanged a glance with Ava. It wasn’t uncommon for survivors to exaggerate or outright lie to gain sympathy, but there was a haunted look in Harrow’s eyes that was hard to fake.
+Gabriel looked at Ava, waiting for her assessment. Harrow had kept his hands where they could see them, but she noticed how often he checked the street behind him.
 
 “We’re heading to the hospital,” Ava said after a pause. “If you’re lying, you won’t make it far.”
 
 Harrow’s head snapped up, hope flickering in his expression. “I’ll keep up. I swear.”
 
-Gabriel lowered his rifle but didn’t sling it back over his shoulder. “Stay close, but don’t try anything.”
+Gabriel lowered his rifle and offered Harrow a spare mask. “Put this on. Stay close, but don’t try anything.”
 
-The sun dipped below the horizon as they pressed onward, the fading light casting the city in hues of orange and purple. The hospital was still miles away, a distant promise of safety and answers. For now, all they could do was move forward, step by cautious step.
+Harrow put the mask on and followed. At the next corner, Ava stopped him from stepping on a swollen growth between two paving stones. He looked down, then lifted his foot carefully over it.
 
-As the first stars appeared in the darkening sky, Ava couldn’t help but glance at Gabriel. His focus was unshakable, his steps deliberate. She envied his resolve, even as doubt and exhaustion gnawed at her own.
-
-“We’ll make it,” he said quietly, as if sensing her thoughts. “One way or another.”
-
-Ava nodded, drawing strength from his words. She tightened her grip on her blade, her resolve hardening. The journey was far from over, and the night promised challenges they could only begin to imagine.
+For the next block, he walked where she walked.

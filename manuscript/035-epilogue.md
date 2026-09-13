@@ -6,40 +6,96 @@ title: "Epilogue"
 
 # Chapter 35: Epilogue
 
-The sky was painted in hues of gold and crimson as the sun dipped below the horizon, casting long shadows over the rebuilt settlement. A soft breeze carried the scent of blooming flowers—plants Ava had cultivated aboard their ship and shared with the people they helped. Gabriel stood at the edge of the settlement, watching as their daughter, a lively toddler with wild chestnut curls and a mischievous grin, toddled after a butterfly in the garden.
+Six days after the birth, Ava carried her daughter into the greenhouse.
 
-Her laugh rang out, clear and pure, a sound so foreign during the dark days of survival but now a symbol of a brighter future. Gabriel’s heart swelled with pride and a trace of disbelief. How had they come so far?
+Gabriel walked beside her with both hands raised beneath the bundle, never quite touching it. He had maintained this position from their quarters through two corridors and a lift.
 
-Ava appeared beside him, her steps light and graceful. She rested a hand on his arm, her other hand cradling a woven basket filled with fresh fruits from their latest harvest. “She’s so full of energy,” Ava said with a soft laugh, her voice carrying a warmth that melted Gabriel’s lingering fears.
+“If I drop her,” Ava said, “your hands will not become faster because you’ve held them there for ten minutes.”
 
-“She gets that from you,” he replied, wrapping an arm around her waist. “Determined. Fearless. A little troublemaker.”
+“This isn’t about speed. It’s preparedness.”
 
-Ava nudged him playfully. “And she gets her heart from you.”
+“You’re making Cora nervous.”
 
-They stood in silence for a moment, watching their daughter pluck a flower and hold it up triumphantly. Around them, life had slowly begun to flourish again. Small settlements like theirs were springing up, interconnected by the vaccine distribution efforts and the ship’s continued missions to deliver supplies and hope.
+Behind them, Cora stepped out of the lift. “He’s making everybody nervous.”
 
-Inside the settlement, survivors bustled around, working together to reinforce homes, prepare meals, and care for children. Their ship now served as a mobile hub, traveling between settlements to share knowledge and resources. Jenna had taken on a leadership role, her sharp mind and softened demeanor earning the respect of everyone aboard. The doctor, once so cautious and clinical, now laughed alongside the survivors, dedicating his time to training others in medical care.
+Cora left a small parcel on the planting table. Gabriel opened it for Ava: infant socks knitted from orange wool unravelled from an old sweater. One was larger than the other.
 
-Ava’s thoughts drifted. The memories of pain, fear, and isolation that once haunted her now felt distant, overshadowed by the life she and Gabriel had built together. She glanced up at him, her heart full.
+The greenhouse had outgrown the cargo hold’s original boundaries. Bean vines climbed cable trellises. Trays of medicinal herbs occupied the warmer wall, each tagged for one of the settlements on Jenna’s distribution map. Near the water tank stood the descendant of the first crooked seedling, now dry-podded and waiting to be harvested.
 
-“You ever think about how we got here?” she asked.
+Ava settled into a chair Gabriel had repaired twice before admitting it needed to be replaced. Their daughter slept against her chest, one fist tucked beneath a round cheek.
 
-“All the time,” Gabriel said, his voice low and steady. “Every fight, every loss—it was all worth it. For her. For us.”
+“She’s breathing,” Gabriel said.
 
-As if on cue, their daughter ran toward them, her arms full of flowers. She handed a few to Ava, then looked up at Gabriel with wide, curious eyes. “Papa, will the monsters ever come back?”
+“I know.”
 
-Gabriel knelt, his hands resting on her tiny shoulders. “We don’t know, sweetheart,” he said gently. “But if they do, we’ll be ready. And you—you’re going to grow up in a world where people stand together to face anything.”
+“Just checking.”
 
-The little girl nodded solemnly before running off again, her laughter echoing in the evening air.
+Ava loosened the blanket enough to show him the small rise and fall. Wonder rearranged his face every time. It made him look younger than the man who had pulled her from the ruins and older than the man who believed he could protect everyone by standing in the doorway.
 
-Ava leaned against Gabriel, her hand brushing over her stomach—a gesture she’d begun making recently. Gabriel noticed and smiled, his eyes shining with quiet joy. Another child. Another reason to keep fighting for this fragile, beautiful world.
+He sat beside her. “Karrow sent the morning results.”
 
-Above them, the first stars began to twinkle. Ava tilted her head back, gazing at the vast expanse of the sky. Somewhere out there, the remnants of the alien life forms still lingered, but for the first time in years, the fear they inspired had diminished. Humanity was no longer on the brink.
+The words tightened something in Ava before she could prevent it. Gabriel waited, giving her room to ask.
 
-“We did it,” Ava whispered.
+“And?”
 
-Gabriel kissed the top of her head. “Yeah, we did.”
+“Healthy. Nothing unusual in the screens they know how to run.”
 
-As the stars illuminated the darkening sky, the couple stood together, their hearts full of love and hope for the future. Their ship loomed in the distance, a beacon of resilience and unity, ready to carry them into whatever came next.
+They both understood the limit of that answer. Ava’s biology had broken too many certainties for either of them to build another around their child.
 
-For the first time, the future didn’t feel like a battle—it felt like a promise.
+“Good,” she said.
+
+“Good,” he agreed.
+
+Outside, *Haven’s Vanguard* rested on a basalt shelf above the settlement. Its engines were silent for maintenance, and without them the greenhouse seemed too still. Through the reinforced window, Ava could see people moving between the carrier and the new clinic. They hauled vaccine coolers down the ramp and returned with empty water drums, damaged filters, and a child on a stretcher whose mother refused to release his hand.
+
+The vaccine had not healed the world. It had made different work possible.
+
+Jenna entered with a tablet under one arm. “Departure moved to eighteen hundred. Weather front from the west.”
+
+Gabriel looked through the glass. “We can clear it.”
+
+“Cora says the aft fan needs another hour.”
+
+“Then we wait.”
+
+Jenna’s attention shifted to the baby. Her command expression lasted almost three seconds.
+
+“Would you like to hold her?” Ava asked.
+
+Jenna tucked the tablet more firmly under her arm. “I have a briefing.”
+
+“In twenty minutes.”
+
+“Eighteen.”
+
+Jenna put the tablet on the table and held out her arms. Ava transferred the baby carefully, supporting her neck until Jenna had her. The commander sat with rigid concentration.
+
+“You’ve carried unstable reactor components with less fear,” Gabriel said.
+
+“Reactors have manuals.”
+
+Their daughter opened dark, unfocused eyes and caught one of Jenna’s coat fastenings in her fist.
+
+Jenna stopped breathing.
+
+Ava laughed. Six days ago, that sound had hurt. It still pulled at the healing muscles of her abdomen, but she did not stop.
+
+An announcement sounded through the carrier: the west clinic needed two more hands at the loading ramp. Gabriel glanced toward the door by reflex.
+
+“Go,” Ava said.
+
+He looked at her and the baby.
+
+“We are both breathing. Jenna has eighteen minutes. Go.”
+
+Gabriel kissed Ava’s forehead and left at a run. Jenna eased her own coat fastening out of the baby’s fist.
+
+Jenna watched him go. “He’ll never learn.”
+
+“I hope not.”
+
+Below them, the clinic doors opened. Gabriel crossed the ramp toward the waiting stretcher as the first hard grains of snow struck the glass.
+
+Ava took her daughter back and carried her to the oldest bean plant. A dry pod split beneath Ava’s thumb. Three mottled seeds rolled into her palm, each filling one of the creases in her palm.
+
+She placed them in the journal Gabriel had given her and wrote the date.

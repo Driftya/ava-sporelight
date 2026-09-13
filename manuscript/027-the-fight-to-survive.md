@@ -6,21 +6,23 @@ title: "The Fight to Survive"
 
 # Chapter 27: The Fight to Survive
 
-The sound of gunfire shattered the oppressive silence as the trio moved through the labyrinth of ruined buildings. Gabriel led the way, his rifle raised and senses sharp. Ava followed close behind, her blade ready, while Harrow clutched the notebook to his chest, his wide eyes darting toward every shadow.
+Ava heard a burst of gunfire, a pause, then three separate shots. Gabriel hurried toward the subway entrance with his rifle raised. Harrow stayed behind Ava, close enough to strike her pack whenever she stopped.
 
-“That has to be the part of the transport team Jenna dispatched,” Gabriel said, glancing over his shoulder. His voice was calm, but Ava could sense the tension beneath it. “Stay close. If they’re in trouble, we’ll need to help.”
+“That’s Jenna’s forward team,” Gabriel said, glancing over his shoulder. His voice was calm, but Ava could sense the tension beneath it. “Stay close. If they’re in trouble, we’ll need to help.”
 
 The trio picked up their pace, weaving through the wreckage of abandoned streets. The gunfire grew louder, accompanied by guttural screeches and the unmistakable clicking of mutants. Ava’s heart pounded as they rounded a corner and spotted the firefight ahead.
 
-The transport team was pinned down in the remnants of an old subway entrance, their backs against the crumbling wall as they fired at an advancing horde of mutants. The creatures moved with terrifying speed, their grotesque forms illuminated by the muzzle flashes of the team’s weapons.
+The forward team was pinned against the wall of an old subway entrance. Behind them, a handful of civilians crouched on the stairs. They must have found more people while checking the route. A crew member held a spare mask against an injured man’s face as the others fired at the advancing mutants. The creatures moved with terrifying speed, their grotesque forms illuminated by the muzzle flashes of the team’s weapons.
 
 Gabriel didn’t hesitate. “Ava, flank them on the right. Harrow, stay behind cover. I’ll take the left.”
 
-Ava nodded, her grip tightening on her blade as she moved swiftly along the edge of the battle. Gabriel opened fire, the sharp cracks of his rifle cutting through the chaos. One mutant collapsed mid-lunge, but two more took its place, their claws scraping against the pavement as they charged.
+Ava nodded, her grip tightening on her blade as she moved swiftly along the edge of the battle. Gabriel opened fire, the sharp cracks of his rifle cutting through the chaos. One mutant collapsed mid-lunge. Spores rose from its torn chest and drifted across the steps. Gabriel shouted a seal check over the radio; Ava heard the team answer one by one.
 
-Ava reached the right flank, her blade trembling slightly as she raised it. She had prepared for this, coating her weapon with her toxic blood, but the sight of the mutant lunging toward one of Jenna’s team members made her chest tighten. Summoning her courage, she struck with a powerful swing. The blade sliced through the creature’s side, and her blood’s toxic effect caused it to collapse with a guttural screech.
+At the right flank, Ava pulled back the soaked dressing and pressed fresh blood along her blade. The older coating had dried uselessly against the metal. Her stomach rolled when the cut opened again. She had to get close before the new blood lost its strength.
 
-The soldier she saved gave her a wide-eyed nod of thanks before turning back to the fight. Ava paused for a moment, her breath unsteady, before pushing herself to refocus. She wasn’t trained, but she had done enough to make a difference—this time.
+A mutant lunged toward the crew member holding the mask. Ava struck across its side, driving the wet edge into tissue. It collapsed against the steps without adding to the spore cloud.
+
+The soldier she saved gave her a wide-eyed nod of thanks before turning back to the fight. Ava paused for a moment, her breath unsteady, before pushing herself to refocus. She reset her feet as Gabriel had taught her. The next creature was already coming.
 
 Gabriel’s voice rang out over the din. “Jenna! What’s your status?”
 
@@ -28,11 +30,11 @@ One of the transport team’s leaders shouted over the chaos, their voice breath
 
 “Cover us!” Gabriel shouted, motioning for Ava to regroup. She sprinted back, her breath coming in sharp bursts as mutants closed in on the team’s position.
 
-“Go! I’ll hold them!” Gabriel barked, his rifle spitting fire as he laid down suppressive shots. Ava hesitated, her instincts screaming to stay, but Jenna grabbed her arm.
+“Go! I’ll hold them!” Gabriel fired at the nearest creature blocking the retreat. Ava hesitated, but the forward-team leader caught her sleeve and pointed toward the injured civilians.
 
-“We need you alive,” Jenna said firmly on her radio, her grip unyielding. “Move!”
+“Help me move them.” The leader released her sleeve. “That side.”
 
-Ava reluctantly followed the retreating team, her blade slashing at a mutant that got too close. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
+Ava put a civilian’s arm over her shoulder and followed the retreating team, forcing a reaching claw aside with her blade. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
 
 Gabriel appeared moments later, his rifle smoking as he backed into the alley. “Let’s move!” he ordered, his voice sharp with urgency.
 
@@ -42,7 +44,9 @@ The team regrouped in an old maintenance tunnel, their breaths heavy and weapons
 
 Gabriel nodded, his expression unreadable. “We’re not safe yet. How’s your ammo?”
 
-“Running dry,” Jenna’s voice came through the radio, laced with static. “We need to find shelter and regroup.”
+“Running dry,” the team leader said.
+
+Jenna answered over the radio. “The factory refuge is closest. Check it before you bring anyone inside. Main transport has the garage group and is holding at the railway station.”
 
 Ava glanced at the team, her gaze settling on a young soldier clutching a bandaged arm. “We can’t keep fighting like this,” she said quietly. “We need a plan.”
 
@@ -50,4 +54,4 @@ The transport team leader nodded. “We fall back to the safe zone. It’s not f
 
 Gabriel exchanged a glance with Ava, his jaw tight. “Then let’s move. Stay sharp, and stay close.”
 
-The group moved as one, their resolve unshaken despite the mounting odds. The fight wasn’t over, but together, they had a chance to survive.
+Ava helped retighten the injured man’s mask before they left. He could walk if someone kept an arm around him. She passed her research pack to Gabriel and took the man’s weight.

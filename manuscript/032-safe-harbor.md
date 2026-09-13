@@ -6,9 +6,9 @@ title: "Safe Harbor"
 
 # Chapter 32: Safe Harbor
 
-The gentle vibration from the ship’s core resonated beneath their feet, filling the silence, a comforting contrast to the chaos they had left behind. Ava leaned against the window of the medical bay, watching the dark expanse of space stretch out before her. The faint glow of distant stars reflected in her amber eyes, a reminder of both how far she had come and how much still lay ahead.
+By the time they reached *Haven’s Vanguard*, Gabriel’s temple dressing had dried stiff at the edges. Malik took him straight from decontamination to the medical bay. Ava stood at the window while the medic checked his leg. Below the carrier, engine wash chased snow across a dark ridge.
 
-Gabriel sat on the edge of a nearby cot, his leg freshly bandaged. His rifle rested against the wall, a silent testament to the battles they had fought. The tension in his posture softened as he looked at Ava, his expression tinged with gratitude and something deeper.
+Gabriel sat on a cot with his leg freshly bandaged and supported. When Malik finished checking his eyes, he turned toward Ava.
 
 “You should rest,” he said gently, his voice cutting through the quiet.
 
@@ -30,26 +30,24 @@ Jenna’s gaze softened as she looked at him. “Modesty doesn’t suit you, Gab
 
 Later, Ava found herself wandering the quiet corridors of the ship. The events of the past days played through her mind, each memory sharp and vivid. She stopped by the greenhouse, the familiar scent of soil and growing plants grounding her.
 
-Gabriel joined her moments later, his steps quiet but sure. “Thought I’d find you here,” he said, leaning casually against the doorframe.
+Gabriel arrived later on crutches, pausing at the doorway to rest his weight on the pads. “Thought I’d find you here.”
 
 Ava glanced at him, a small laugh escaping her. “Not much of a surprise, is it?”
 
-He stepped closer, the faintest of smiles curving his lips. “It’s where you belong. Making things grow. Bringing life back to a world that needs it.”
+“Your watering cans were gone from outside our quarters.” He shifted a crutch. “Strong evidence.”
 
 She turned to face him fully, her expression thoughtful. “Sometimes it feels like I’m caught between two worlds. The one I had, and the one I’m fighting for now.”
 
-Gabriel reached out, his fingers brushing against hers. “Then we’ll build a bridge between them. Together.”
+Gabriel reached for her hand, then caught his crutch before it fell. Ava brought a chair over. He sat with a grateful grunt.
 
-Ava’s heart swelled at his words, the weight of her fears lifting slightly. She squeezed his hand gently, finding comfort in the warmth of his touch.
+She took the crutches from him and leaned them against the planting table. “You could have called me.”
 
-As the ship moved steadily through the void, the crew gathered in the central lounge. Jenna stood at the center, addressing them with her usual authority. “This mission was hard, and we’ve lost more than we should have. But we’ve gained something just as important: hope. The notes, the survivors, and the lessons we’ve learned—they’ll guide us forward.”
+“I wanted to be here too.”
 
-The room was quiet, the weight of her words settling over them. Then, one by one, the crew began to nod, a quiet determination building among them.
+As the carrier moved steadily over the night-dark terrain, the crew gathered in the central lounge. Jenna stood at the center, addressing them with her usual authority. “This mission was hard, and we’ve lost more than we should have. But we brought back survivors and part of the research. We learn from what failed, and we keep working.”
 
-Ava sat beside Gabriel, her gaze drifting to the stars beyond the window. She thought of Harrow, his betrayal still fresh in her mind. But she also thought of the survivors, the lives they had saved, and the future they were fighting for.
+A crew member asked about replacing the filters used at the subway. Another wanted the outpost’s damaged alarm added to the repair list. Jenna wrote both down.
 
-Gabriel leaned close, his voice low and steady. “Whatever comes next, we’ll face it.”
+Ava sat beside Gabriel with his crutches against her knee. When the briefing ended, she stayed while people carried the recovered cases through to the laboratory. One latch still bore a smear of her blood.
 
-Ava nodded, her fingers brushing against his. “Together.”
-
-The ship hummed onward, carrying them toward whatever lay ahead. Their journey wasn’t over—it was the start of something greater, a path forged from loss and hope, carrying them toward an uncertain but promising future.
+Jenna checked each seal before signing the cases in.

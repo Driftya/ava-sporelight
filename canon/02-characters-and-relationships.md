@@ -59,7 +59,7 @@ Jenna begins from protocol. At the fortress and during quarantine, that makes he
 
 She carries responsibility for everyone aboard the carrier. Her decisions can appear cold because she weighs collective survival, but she is capable of apology and changed behavior. She becomes an important guard on the ethics of Karrow’s proposal.
 
-Supporting canon not yet dramatized in detail: Jenna lost a younger sister to the infection, helping explain why rescue and mutation research are inseparable for her.
+Jenna lost a younger sister to the infection, helping explain why rescue and mutation research are inseparable for her. She shares this with Ava in the greenhouse without using the loss to excuse her earlier treatment of Ava.
 
 ## Dr. Elias Karrow
 
@@ -81,6 +81,8 @@ Karrow is not granted automatic moral trust by his expertise. The canonical safe
 Harrow survives through caution, evasiveness, improvisation, and opportunism rather than strength. He can display flashes of sympathy, but self-preservation wins when he steals part of the hospital research and abandons the group.
 
 Harrow’s betrayal should remain human in scale. He is neither a scientific mastermind nor a mutant. He demonstrates that desperation, greed, and fear can threaten survivors as seriously as the alien ecology.
+
+He claims that his sister worked on mutation research at the hospital and that a recovered notebook is hers. Her identity and fate, and the truth of his account, remain unverified. This does not establish a connection to Dr. Elias Karrow.
 
 ## Supporting Crew
 
@@ -116,4 +118,3 @@ The line is **subject of fear → uneasy passenger → useful crewmate → perso
 ### Ava and the crew
 
 Acceptance is gradual and uneven. The greenhouse changes opinion because it reveals knowledge, patience, and contribution, but it does not make the danger disappear. Some crew members may continue to fear Ava even while accepting that she belongs.
-

@@ -8,6 +8,8 @@ type: front-matter
 
 *A light novel of science fiction, post-apocalyptic horror, action, and romance*
 
+*Intended readership: 17+*
+
 ## Epigraph
 
 > The spores unmade the world, but even at the end of everything, a fragile light can take root.

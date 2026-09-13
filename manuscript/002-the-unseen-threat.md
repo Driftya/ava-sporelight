@@ -6,23 +6,23 @@ title: "The Unseen Threat"
 
 # Chapter 2: The Unseen Threat
 
-Ava’s heart raced as she stared out the window, her fingers gripping the edge of the lab counter. The faint rustling she’d heard moments ago had stopped, leaving behind an oppressive silence. She told herself it was just a passing animal, but her instincts screamed otherwise. The jungle wasn’t supposed to be this quiet.
+Ava stayed at the window until her eyes ached from trying to distinguish one patch of darkness from another. Nothing moved. She turned back toward the bench, leaving the window at the edge of her vision.
 
-The soft glow of the fungal sample on her desk was the only source of light, casting long, flickering shadows across the room. Ava forced herself to focus. She pulled on a fresh pair of gloves and began preparing her tools to analyze the specimen. Work always calmed her nerves, and right now, she needed that calm more than ever.
+She switched the bench lamp on again. Its light caught the sample container and the unused slide beside it. A sequence she knew: gloves, scalpel, specimen, cover slip. Her hands could still do that.
 
-The microscope’s lens clicked into place as Ava positioned a small sliver of the glowing fungus onto a slide. Adjusting the focus, she leaned in, her fatigue momentarily forgotten. The structures she saw were mesmerizing—intricate networks of filaments that seemed to pulse faintly with light. It was as if the fungus were alive in a way she couldn’t yet explain.
+The objective clicked into place. Ava adjusted the focus over a sliver of fungus and found branching filaments, their faint light visible when she lowered the microscope’s illumination. She sketched a junction, then another. The pattern resisted the categories she knew.
 
 She grabbed her notebook and scribbled furiously:
 
-• Luminescent filaments… biological energy transfer?
+- Luminescent filaments… biological energy transfer?
 
-• Cellular structures suggest unique adaptation… possibly extraterrestrial influence?
+- Cellular structures suggest unique adaptation… possibly extraterrestrial influence?
 
-Ava paused, the thought of extraterrestrial influence sending a shiver down her spine. She’d heard the rumors about the meteor—wild speculation of alien spores and mutations—but she’d dismissed them as sensationalism. Now, though, staring at the fungus, she wasn’t so sure.
+She underlined the question mark after *extraterrestrial*. A meteor and an unfamiliar fungus did not prove a connection. Still, she left the question on the page. By the time she put the tools down, she was too tired to wash the soil from her sleeve.
 
-The next morning, Ava woke drenched in sweat, her chest heavy and her body aching. Her reflection in the mirror startled her—her skin was pallid, her eyes sunken, and faint black veins snaked up her arms. Alarmed, she contacted the nearest hospital and was immediately transported there for further evaluation.
+The next morning, Ava woke drenched in sweat. At the sink she found faint black veins running up her forearms. She rubbed one, then held it beneath the tap. It was under the skin. When she called the nearest hospital, she read the exposure notes aloud so she would not forget anything. They sent transport.
 
-The hospital’s stark white walls were a far cry from the vibrant greens of her jungle lab. Gone were the tangled vines and the rich, earthy scent of damp soil—replaced instead by a hollow, artificial cleanliness that felt lifeless. The air was cold and stagnant, carrying only the faintest trace of antiseptic, a sharp contrast to the wild, untamed energy of the rainforest she had once called home.
+The hospital gown smelled of hot laundry. Her field clothes lay folded in a bag beneath the examination table, a brown stain from yesterday’s soil showing through the plastic. She kept looking at it while the staff changed gloves between tests.
 
 Ava lay on the examination table as doctors performed countless tests. Their faces grew more grim with each result. Finally, her attending physician, Dr. Laird, entered the room with a folder in his hands, his expression heavy with concern.
 
@@ -32,12 +32,18 @@ Ava’s heart sank. “Unidentified? What does that even mean? Is there a treatm
 
 Dr. Laird shook his head slowly. “We’re doing everything we can to understand it, but the prognosis isn’t good. Your condition is… terminal. I’m so sorry.”
 
-The weight of his words hit her like a physical blow. Ava’s mind raced, trying to make sense of what she’d just heard. She thought of her work, her research, the glowing fungus. Could this… thing… have come from that sample? Her thoughts were interrupted by the arrival of two nurses, who escorted her to a private room to rest.
+Ava stared at the folder. Dr. Laird had closed it before saying *terminal*, as if there were nothing left to consult.
 
-That night, as Ava lay in the dimly lit hospital room, she stared at the IV drip slowly releasing fluids into her veins. The faint sound of machines beeping was the only thing breaking the silence. She drifted into a restless sleep, haunted by dreams of her jungle lab and the glowing fungus that had seemed so beautiful just days ago.
+“The sample,” she said. “Someone needs to seal my lab.”
 
-She woke to the sound of heavy footsteps outside her door. Groggy and disoriented, she sat up, her heart pounding as the door creaked open. Three figures entered, their faces obscured by masks. They moved silently, their dark uniforms blending into the shadows. Ava’s initial confusion turned to terror as she realized they weren’t hospital staff.
+He wrote that down. She wanted him to cross out the diagnosis instead. Two nurses arrived to take her to a private room.
 
-“What… who are you?” she stammered, her voice weak. The figures said nothing, their movements precise and deliberate. One of them approached with a syringe, and despite Ava’s attempts to struggle, her weakened body couldn’t put up much resistance. The needle pricked her arm, and a cold sensation spread through her veins.
+That night, she watched fluid collect and fall inside the IV chamber. She counted the drops until she lost her place, started over, and eventually slept. In her dreams she kept trying to close the sample container. The lid would not catch.
 
-Darkness claimed her as she was lifted from the hospital bed and carried out into the night, the beeping of the machines fading behind her. The last thing she remembered was the face of her doctor, a fleeting image of concern that dissolved into nothingness.
+Heavy footsteps woke her. Three figures entered without turning on the overhead light. Their masks were not the ones the nurses wore. Ava reached for the call button.
+
+“Who are you?” Her thumb found the button, but one of the figures pinned her wrist before she could press it. Another approached with a syringe. “No. Get the fuck away from me.”
+
+She kicked at the mattress, too weak to lift her knee far. The needle entered her arm. Cold spread from the puncture.
+
+They lifted her with the sheet. Her bag of field clothes remained beneath the bed. Ava tried to ask for it, for Dr. Laird, for anyone who knew she was here. Her mouth would no longer form the words.

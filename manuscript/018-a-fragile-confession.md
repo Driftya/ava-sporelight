@@ -6,78 +6,158 @@ title: "A Fragile Confession"
 
 # Chapter 18: A Fragile Confession
 
-The months following the settlement rescue were quieter but laden with an unspoken tension. Gabriel spent most of his time inspecting the ship and planning their next moves, while Ava busied herself in the greenhouse. Each time they crossed paths, there was a charged awkwardness—a shy exchange of glances, a lingering silence.
+Three nights after the factory settlement, Ava found Gabriel repairing a greenhouse trellis he had no business touching.
 
-For both of them, the events of the past few weeks or months had left a profound impact. Near-death experiences, the fragility of survival, and the growing bond between them were impossible to ignore.
+“That isn’t broken,” she said.
 
-Gabriel found himself replaying moments in his mind—the way Ava’s hair caught the light in the greenhouse, her fierce determination when she fought to protect them all, and the vulnerability in her eyes when she thought no one was looking.
+He looked at the copper joint between his fingers. “It was loose.”
 
-Ava, in turn, couldn’t stop thinking about Gabriel’s steady presence, his selflessness, and the warmth of his touch when he comforted her. Each memory made her heart ache with emotions she hadn’t dared to name.
+“It moves because the carrier moves.”
 
-That evening, the ship drifted silently through the night, the stars above a brilliant tapestry of light. Ava was in the greenhouse, tending to the plants, when Gabriel found her. He leaned against the doorway as usual, watching her in silence for a moment before clearing his throat.
+“Poor design.”
 
-“I figured I’d find you here,” he said, his voice soft.
+“You built it.”
 
-She turned, startled, but her expression softened when she saw him. “Couldn’t sleep?”
+Gabriel set down the wrench.
 
-“Something like that.” He stepped inside, the faint scent of soil and greenery surrounding them. “I needed to talk to you.”
+The cut above his eyebrow had sealed into a dark line. Ava had watched a mutant’s claw open that same skin. She had watched him stand between the creature and a child after the blood had already blinded one eye. In the days since, every ordinary sight of him—eating, arguing with Cora, sleeping through half a briefing—had carried the unbearable knowledge that it could have been absent.
 
-Her hands froze over a small pot she was adjusting. “About what?”
+She returned to pinching dead leaves from a tomato plant. “You’re avoiding something.”
 
-He hesitated, running a hand through his hair. “About us.”
+“So are you.”
 
-Her breath caught, and she turned fully to face him. “Us?”
+“I’m working.”
 
-“Yeah,” he said, stepping closer. “Ava, these past few weeks… I can’t stop thinking about how close we’ve come to losing everything. And every time I think about what I’d miss most, it’s you.”
+“At midnight.”
 
-Her eyes widened, and she opened her mouth to respond, but he held up a hand.
+“Plants don’t respect shifts.”
 
-“Let me finish,” he said, his voice trembling slightly. “You’ve been through so much, and you’re still here, still fighting. You’ve changed my life, Ava. I don’t know when it happened, but I realized I don’t just care about you—I… I love you.”
+He came to the other side of the table. Between them stood six tomato seedlings, a tray of surgical clamps repurposed as plant ties, and everything they had not said beneath the leaking water tank weeks ago.
 
-The words hung in the air between them, and for a moment, Ava couldn’t speak. Tears welled in her eyes as her heart pounded.
+“When that thing came through the factory wall,” Gabriel said, “I thought I was going to die.”
 
-“I… I love you too,” she whispered, her voice barely audible. “I’ve been so scared to say it because everything feels so uncertain, but I can’t ignore it anymore. You mean everything to me, Gabriel.”
+Ava’s fingers closed around a dead leaf.
 
-Relief washed over his face, and before she could say anything more, he closed the distance between them, pulling her into a gentle embrace. She melted into him, her arms wrapping around his waist as her head rested against his chest.
+“I wasn’t thinking about the settlement. Or the carrier. I was angry because I hadn’t told you.”
 
-The moment stretched, their breaths mingling as they pulled back just enough to look into each other’s eyes. Slowly, Gabriel leaned in, and their lips met in a tender, hesitant kiss. Ava’s hands tightened against his shirt as the kiss deepened, their emotions spilling over in the quiet intimacy of the greenhouse.
+“Told me what?”
 
-When they finally pulled apart, both were flushed, their breaths shaky.
+He laughed once, without humor. “I had a better version of this speech on the walk here.”
 
-“We should—” Gabriel began, but Ava silenced him with a small, nervous laugh.
+“Was it very heroic?”
 
-“Stay,” she said softly, her eyes searching his.
+“Embarrassingly.”
 
-“Are you sure?” he asked, his voice low.
+“Then this version is already better.”
 
-She nodded, her cheeks pink. “I’ve never been more sure of anything.”
+Gabriel came around the table. He stopped an arm’s length away, close enough for her to see where exhaustion had bruised the skin beneath his eyes.
 
-The rest of the evening was a blur of soft touches and whispered words. They moved from the greenhouse to Gabriel’s quarters, the air between them charged with nervous excitement.
+“I love you,” he said. “I don’t know when it stopped being gratitude or responsibility or me refusing to leave one more person behind. I only know it did.”
 
-As they stood by his bed, Ava hesitated for a moment, her fingers brushing against the hem of her shirt. “I… I don’t know if I—”
+Ava had wanted the words. Now that they existed, fear arrived with them.
 
-“It’s okay,” Gabriel said, stepping closer. He cupped her cheek, his thumb brushing against her skin. “We don’t have to rush anything.”
+“You’ve seen what happens to me.”
 
-His reassurance gave her the courage to lean into him, and soon they were lost in each other once more. Clothes were shed piece by piece, their kisses growing deeper and more passionate.
+“Yes.”
 
-Ava shivered under his touch, her skin alight with sensation as his hands explored her. For the first time in what felt like forever, she felt truly alive, her fears and insecurities melting away in the warmth of his embrace.
+“It’s getting worse.”
 
-Gabriel was equally captivated, his heart pounding as he traced the delicate curves of her body. Every soft gasp and sigh from Ava sent a thrill through him, and he found himself utterly lost in her.
+“I know.”
 
-They came together in the quiet of the room, their movements tentative at first but growing bolder as they found a rhythm. It was a moment of vulnerability and trust, a union that spoke of the love and connection they had both been too afraid to acknowledge until now.
+“I might not come back one day.”
 
-Later, as they lay tangled in the sheets, Ava rested her head on Gabriel’s chest, listening to the steady beat of his heart.
+Gabriel did not cover the fear in his face. “I know that too.”
 
-“Thank you,” she murmured, her voice drowsy.
+The dead leaf broke inside her fist. “And you still—”
 
-“For what?” he asked, his hand trailing lazily along her back.
+“Yes.”
 
-“For loving me,” she said simply.
+She opened her hand. The crushed leaf left its sharp green smell on her skin.
 
-He pressed a kiss to her hair. “Always.”
+“I love you,” she said. Her voice did not sound transformed or ancient or dangerous. It sounded small and entirely hers. “I have for longer than I wanted to admit.”
 
-The following days were filled with stolen glances and shy smiles. Every time they bumped into each other, the memory of that night would surface, leaving them both flushed and a little awkward.
+Gabriel reached toward her face and stopped. “Can I kiss you?”
 
-Jenna noticed the change almost immediately but said nothing, though a knowing smile would occasionally cross her face when she caught them exchanging looks.
+“You took long enough to ask.”
 
-Despite the awkwardness, the bond between Gabriel and Ava grew stronger, their love giving them a renewed sense of hope and purpose in the bleakness of their world. For the first time, they allowed themselves to dream of a future—together.
+His first attempt caught the corner of her mouth because she was smiling. The second did not.
+
+He kissed her carefully at first, as though care meant holding back. Ava caught the front of his shirt and pulled him closer until the table pressed into her hip. Soil spilled from a pot behind them. Neither looked.
+
+When they separated, Gabriel rested his forehead against hers.
+
+“I’m still injured,” he said.
+
+“I noticed.”
+
+“That sounded less threatening in my head.”
+
+She kissed the uncut side of his mouth. “Your quarters.”
+
+He searched her face. “Are you sure?”
+
+“I want to be somewhere the tomatoes aren’t watching.”
+
+The walk there was short and excruciatingly public. They passed Malik, who looked at Gabriel’s eyebrow, looked at their joined hands, and developed a sudden interest in the opposite wall.
+
+Inside Gabriel’s quarters, certainty became harder.
+
+The room contained a narrow bed, a rescue coat hooked beside the door, and a stack of manuals under one leg of a crooked desk. Ava had imagined something more revealing. Perhaps this was: he owned almost nothing he could not abandon during an alarm.
+
+Gabriel removed his shirt and winced when the fabric pulled at the bruising along his ribs. Ava touched the yellow edge of the injury.
+
+“Tell me if I hurt you.”
+
+“Same rule for you.”
+
+She nodded, but her hands had begun to shake.
+
+He noticed. “We can stop.”
+
+“I don’t want to stop.” Ava sat on the bed and made herself say the more difficult part. “I need us to go slowly.”
+
+“Then slowly.”
+
+He knelt to remove her boots. The second buckle refused him.
+
+“You can dismantle a barricade,” Ava said. “It’s a boot, Gabriel.”
+
+“Your encouragement is invaluable.”
+
+When it finally came loose, she caught his face between her hands and kissed him before he could make a speech about it.
+
+They undressed without grace. Her shirt caught in her hair. Gabriel’s belt struck the floor louder than expected, and they both froze, listening for footsteps in the corridor. None came.
+
+When he saw her fully, his attention stopped at the scars the laboratory had left: pale lines at her wrists, puncture marks along her inner arms, a thicker seam below her ribs where something had once been inserted or removed.
+
+Ava almost covered herself.
+
+“Don’t look at me like I survived something beautiful,” she said.
+
+“I wasn’t.” Gabriel touched the scar below her ribs only after she guided his hand there. “I was thinking I hate whoever did this.”
+
+“Good.”
+
+She drew him up and kissed him again.
+
+The worn sheets caught beneath Ava’s knee. Gabriel laughed into her shoulder when his injured ribs objected, and she called him an idiot before kissing him again. They made love slowly, telling each other what hurt and what they wanted. Fear returned in brief, unwelcome flashes. Desire remained her own.
+
+When pain sharpened unexpectedly, she said, “Wait,” and he stopped at once.
+
+They breathed together until she pulled him back.
+
+Afterward, Ava lay on her side with one leg across his. Sweat cooled at the back of her neck. Gabriel rested his hand on her arm. She moved it to her waist and kept it there.
+
+“Thank you,” she said.
+
+He looked offended. “For the trellis repair?”
+
+“For stopping.”
+
+His expression changed. “That should never require thanks.”
+
+“I know.” She tucked her face against his shoulder. “I’m learning.”
+
+Beyond the wall, *Haven’s Vanguard* changed engine pitch. A cup rattled across the crooked desk and fell into the stack of manuals.
+
+Neither of them moved to catch it.

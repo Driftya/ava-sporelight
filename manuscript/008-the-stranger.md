@@ -6,11 +6,11 @@ title: "The Stranger"
 
 # Chapter 8: The Stranger
 
-Gabriel pressed forward, sweat dripping down his neck as the guttural sounds of the creatures drew closer. He had managed to push the cart with the cryopod out of the building, but the pod’s occupant was still unconscious. The transport vehicle was only a few meters away, but those meters felt like miles.
+Gabriel rammed the cart toward the transport. Jenna had sent two crew members back to help haul the pod upstairs; they were ahead now, clearing the ramp. Disconnecting the pod’s old supply had started its emergency revival sequence. The indicator above the lid counted down while a wheel dragged sideways through the rubble.
 
-Behind him, one of the creatures lunged, its twisted claws raking across his arm and slicing through the fabric of his suit. Gabriel let out a sharp hiss of pain but forced himself to keep moving.
+A creature struck from behind. Its claws tore his sleeve and scored the protective layer beneath it. Pain ran down his arm, but he kept both hands on the cart. He could inspect the damage if he reached the ramp.
 
-Just then, the woman in the cryopod stirred. Her eyes fluttered open, and she gasped—sharp and terrified. She tried to sit up, her movements jerky and disoriented. The cart’s uneven wheels hit a crack in the pavement, causing the pod to tilt. The woman tumbled out, landing heavily on the ground.
+The pod vented and its lid lifted. Inside, the woman stirred. Her eyes fluttered open, and she gasped—sharp and terrified. She tried to sit up, her movements jerky and disoriented. The cart’s uneven wheels hit a crack in the pavement, causing the pod to tilt. The woman tumbled out, landing heavily on the ground.
 
 “Stay down!” Gabriel yelled, pulling his knife with his free hand as he tried to steady the cart with the other.
 
@@ -20,7 +20,7 @@ The creature lunged again, aiming for Gabriel’s exposed side. He braced himsel
 
 The alien’s claw raked across her arm, drawing blood. The effect was immediate and shocking.
 
-The creature convulsed, its body locking up as her blood seeped into its wound. Within seconds, the alien collapsed, its twisted form dissolving into a harmless, inert mass.
+The creature convulsed, its body locking up as her blood ran over the raw tissue between its claws. Within seconds, the alien collapsed, its twisted form dissolving into a harmless, inert mass.
 
 Gabriel froze, staring at the remains. “What… the hell?”
 
@@ -28,21 +28,27 @@ The woman looked at him, her amber eyes wide with terror. “I didn’t… I did
 
 “No spores,” he muttered, more to himself than to her. “That thing should’ve released spores.”
 
-The growls in the distance were getting louder, snapping him out of his shock. Gabriel scrambled to his feet and grabbed her hand. “We need to move. Now!”
+The growls in the distance were getting louder, snapping him out of his shock. Gabriel caught his balance and grabbed her hand. “We need to move. Now!”
 
 She nodded, her body trembling as she struggled to stand. Together, they reached the transport, where Jenna was already waiting, waving them in frantically.
 
 “What took you so—who the hell is that?” Jenna asked, her eyes darting between Gabriel and the stranger.
 
-“Long story,” he muttered, ushering the woman into the back of the vehicle. “Drive. Now.”
+“The woman from the pod,” he said, helping her up the ramp. “Drive. Now.”
 
-The quarantine tent was stark and sterile, its white walls illuminated by the harsh glow of floodlights. The cold, clinical atmosphere only amplified the tension pressing down on Gabriel as he leaned against the wall, arms crossed, watching through the observation window. Inside, the woman sat on the cot, arms wrapped tightly around herself, her body trembling as if she were trying to hold herself together.
+She kept looking at her arm, where the bleeding had already slowed. “I was dying,” she said. “At the hospital. They said I was dying.”
 
-Jenna stood beside him, her gaze fixed on the monitor displaying Ava’s vitals. She had spent the past hour trying to get answers, speaking to the woman through the intercom, asking simple questions in a calm, measured tone.
+Gabriel looked from her wound to the empty cart outside. “We’ll get you checked.”
 
-“She doesn’t remember anything,” Jenna explained, her voice carrying a mix of concern and curiosity. “When I asked her name, she hesitated—like she was searching for something just out of reach. Finally, she said ‘Ava,’ but even then, she wasn’t sure. It was like she was saying it more to see if it felt right rather than because she knew for certain.”
+At the evacuation staging point, Gabriel stood outside the quarantine tent while a medic inspected his arm. The claw had scored him through the damaged inner layer; the wound was shallow, but the medic cleaned it and sealed a dressing over it before taking exposure samples. Gabriel kept his mask on until decontamination was complete.
 
-Gabriel’s jaw tightened. His thoughts kept circling back to what Ava had told him earlier. “She said she was dying,” he murmured, his brow furrowing. “Some disease.”
+Through the tent’s observation panel, he could see the woman sitting on a cot. She had tucked both hands beneath her arms. When someone approached the entrance, she drew her feet up too.
+
+Jenna joined him with the monitor she had been using inside. She had spent the past hour asking the woman simple questions through the intercom.
+
+“She gave me a name. Ava,” Jenna said. “Nothing else she’s certain of. I’ve asked them to prepare the transport’s quarantine compartment for the journey north.”
+
+Gabriel looked at the new dressing beneath his sleeve. “She said she was dying,” he murmured, his brow furrowing. “Some disease.”
 
 Jenna frowned. “Well, she’s not dying now. In fact, her vitals are… unusual. Elevated heart rate, but no signs of infection. And then there’s the alien she killed.”
 

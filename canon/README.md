@@ -33,6 +33,7 @@ Read these in order for the clearest “red line” through the project:
 6. [Haven’s Vanguard, Rescue Operations, and Combat](05-ship-rescue-and-combat.md) — the carrier, crew practice, and tactical rules.
 7. [Continuity and Writing Guide](06-continuity-and-writing-guide.md) — terminology, tone, and checks for future revisions.
 8. [Decisions and Continuity Ledger](07-decisions-and-continuity-ledger.md) — author decisions, resolved contradictions, consolidation choices, and reserved material.
+9. [Prose Style Guide](08-prose-style-guide.md) — the binding voice, viewpoint, dialogue, rhythm, and revision standard for manuscript prose.
 
 ## One-Sentence Canon
 

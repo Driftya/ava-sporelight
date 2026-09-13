@@ -37,6 +37,7 @@ Use this routing table:
 | Setting, society, location, or economy | `canon/04-world-locations-and-society.md` |
 | Haven’s Vanguard, rescue procedure, equipment, or combat | `canon/05-ship-rescue-and-combat.md` |
 | Voice, terminology, mature content, or continuity checks | `canon/06-continuity-and-writing-guide.md` |
+| Prose voice, viewpoint, dialogue, rhythm, or line editing | `canon/08-prose-style-guide.md` |
 | Uncertainty, resolved contradictions, or prior decisions | `canon/07-decisions-and-continuity-ledger.md` |
 
 ## Manuscript Invariants

@@ -6,64 +6,148 @@ title: "The Scientist’s Proposal"
 
 # Chapter 33: The Scientist’s Proposal
 
-The research recovered from the hospital did not remain sealed away. In the days after Harrow’s betrayal, Jenna catalogued the surviving notes and cross-referenced their blood assays with Ava’s medical scans. The work was incomplete, but it was enough to show that the answer might lie not only in the spores, but in Ava herself.
+Jenna covered the briefing-room wall with the pages Harrow had failed to steal.
 
-The atmosphere on the ship had shifted with the arrival of the latest group of survivors. Among them was Dr. Elias Karrow, a biologist who had worked for decades on experimental treatments for diseases caused by environmental changes. His sharp intellect and calm demeanor quickly earned him the respect of the group, but Gabriel remained wary.
+Hospital blood assays hung beside Ava’s medical scans. Notes climbed around them in Jenna’s compact handwriting, linked by lines of blue cord because the briefing display had died halfway through the work. The arrangement looked less like an answer than the anatomy of an obsession.
 
-Dr. Karrow’s fascination with Ava was evident from the start. He observed her with a mix of awe and curiosity, asking Jenna and Gabriel endless questions about her abilities, her blood, and the way she fought the alien life forms.
+Dr. Elias Karrow stood beneath it with a capped marker in one hand.
 
-One evening, during a meeting in the ship’s modest briefing room, Dr. Karrow made his intentions clear.
+He had arrived aboard *Haven’s Vanguard* with the survivors from the eastern outpost: forty-two years old, thin from rationing, and too interested in Ava to hide it well. He introduced himself as Dr. Elias Karrow and immediately asked to see the recovered assay tables.
 
-“I believe Ava’s blood may hold the key to saving humanity,” he said, his voice steady but impassioned. “The antibodies in her system might be capable of neutralizing the mutation at its source, halting the spread of infection. With the proper analysis, we could potentially develop a cure.”
+“The hospital team was searching for a stabilizing agent,” he said. “They tested blood from patients whose mutations progressed unusually slowly. None of it worked.”
 
-The room fell silent. Ava, seated next to Gabriel, felt a knot tighten in her stomach. She wanted to help, to contribute to the fight against the alien mutation, but the idea of being subjected to experiments sent a chill down her spine.
+Ava sat nearest the door. Gabriel occupied the chair beside her, his injured leg extended beneath the table. Jenna remained standing.
 
-Gabriel’s jaw tightened as he leaned forward, his eyes boring into Karrow. “And what happens to Ava in the process? You’re talking about using her as some kind of lab rat.”
+Karrow uncapped the marker and circled an assay result. “They did not have a subject whose body neutralizes mutated tissue.”
 
-“I’m not suggesting that,” Karrow said quickly, his tone defensive. “I would never harm her. But this… this is too important to ignore. With her consent, we could make controlled, careful extractions—minimal impact, I assure you.”
+“A subject,” Ava repeated.
 
-Jenna crossed her arms, frowning. “And what if it doesn’t work? What if she ends up suffering for nothing? You don’t know the limits of her abilities or the risks involved.”
+The marker stopped.
 
-“I understand your concerns,” Karrow said, his gaze shifting to Ava. “But Ava, this is your choice. You have the power to decide whether or not to help.”
+“Ava,” he corrected. “They did not have you.”
 
-All eyes turned to her. Ava’s hands trembled slightly as she clenched them in her lap. “I… I don’t know,” she admitted, her voice soft. “I want to help, but I’m scared. I’ve been used before, by people who said they wanted to help humanity. It didn’t end well.”
+Her old laboratory returned in fragments: white light, restraints, a gloved hand describing her survival as useful. She pressed both feet into the floor until the briefing room held.
 
-Gabriel reached for her hand, his touch grounding her. “You don’t owe anyone anything,” he said firmly, glaring at Karrow. “If you don’t want to do this, you don’t have to.”
+“Say exactly what you want.”
 
-Dr. Karrow’s expression softened. “I understand your hesitation. But I’m not like those people who hurt you. I swear, I’ll do everything in my power to keep you safe. And if it helps, Gabriel can oversee every step of the process. You have my word.”
+Karrow placed the marker on the table. “A small blood sample. Jenna and I would compare it with the recovered assay methods. If the reaction is stable, we test it against inactive spore material, then cultured mutant tissue. Nothing enters your body.”
 
-That night, Ava sat with Gabriel in their quarters, staring out of the small window at the vast darkness beyond.
+“How small?”
 
-“Do you think I should do it?” she asked quietly.
+“Ten millilitres to begin.”
 
-Gabriel hesitated, his hand resting on her shoulder. “I think you should do what feels right to you. But I won’t lie—I don’t trust him. I’ve seen too many people lose their humanity in the name of science. I don’t want anyone taking advantage of you.”
+Jenna spoke before Ava could. “Five.”
 
-She leaned into him, her voice barely above a whisper. “But if my blood could really help… shouldn’t I try?”
+“Five limits replication.”
 
-Gabriel sighed, pulling her closer. “Only if you’re sure. And only if I’m there with you. No one touches you without your consent, Ava. Not ever again.”
+“Then your first result will be limited.”
 
-His words gave her strength, and after a long moment, she nodded. “Okay. But you have to be the one to do it. I trust you, Gabriel. Only you.”
+Karrow’s mouth tightened. “Every delay costs lives.”
 
-The next day, Ava made her decision. In the ship’s medical bay, surrounded by Gabriel, Jenna, and Dr. Karrow, she explained her terms.
+Gabriel leaned forward. “Don’t put them on her.”
 
-“I’ll let you take my blood,” she said, her voice steady despite the fear in her eyes. “But only if Gabriel is the one who handles everything. I don’t want anyone else touching me.”
+“I’m stating the scale of the problem.”
 
-Dr. Karrow nodded solemnly. “Agreed.”
+“You’re making strangers’ deaths part of whether she can say no.”
 
-Gabriel frowned but didn’t argue. He had spent years as a firefighter and rescuer, and while medical procedures weren’t his specialty, he knew enough to draw blood safely under Jenna’s guidance.
+Karrow looked at Ava. “That was not my intention.”
 
-As Ava lay on the medical table, Gabriel prepared the equipment, his hands steady but his heart racing. He glanced at her, offering a reassuring smile. “You okay?”
+“It was still what you did,” she said.
 
-She nodded, though her hands gripped the edges of the table tightly. “I trust you.”
+He lowered himself into the chair opposite her. Some of the certainty left his posture. “You’re right.”
 
-The procedure was quick and painless, though Ava’s heart raced with anxiety throughout. Gabriel worked with precision, his every movement careful and deliberate.
+No justification followed. That mattered more than the apology.
 
-When it was over, Dr. Karrow took the vials of blood with a look of reverence. “Thank you,” he said sincerely. “You’ve done something incredible today, Ava.”
+Ava examined the wall again. One page bore a brown thumbprint at its corner. Ava wondered whether its writer had been bleeding. Beneath the mark, someone had written *alternative stabilizing agent* and expected enough tomorrow to test one.
 
-News of the ship’s accomplishments began to spread. Survivors whispered about the team that not only fought off alien life forms but also braved the ruins of cities to save people. Ava’s role in these missions became legendary—her strength and determination to protect others, combined with her unique abilities, inspired hope in those who had none.
+“What happens to my blood after the first test?” she asked.
 
-But fame brought complications. Some people saw Ava as a savior, a beacon of hope, while others viewed her with suspicion and fear. Whispers of her blood being the key to humanity’s survival spread quickly, amplifying her reputation and placing even more weight on her shoulders.
+“Whatever you authorize,” Jenna said. “We can destroy the remainder in front of you. No secondary use. No shared data without your approval.”
 
-Gabriel and Jenna worked tirelessly to protect her, keeping the ship a symbol of unity rather than division. Ava, despite her fears, found solace in their unwavering support.
+“And if I say no now?”
 
-Deep down, she knew her journey was far from over. But for the first time, she felt like she had a purpose—a chance to truly make a difference. With Gabriel and Jenna by her side, she dared to hope that humanity might still have a future.
+“The samples are never taken,” Karrow said.
+
+“If I say yes and change my mind while the needle is in?”
+
+“It comes out,” Jenna said.
+
+Ava turned to Gabriel. “What do you think?”
+
+His answer took time. “I think Karrow sees a discovery when he looks at you. I don’t like it.”
+
+Karrow accepted that without looking away.
+
+“I also think the notes are real,” Gabriel continued. “If you want to try, I’ll help you make them follow every condition you set. If you don’t, I’ll help Jenna burn the forms.”
+
+It was not permission. It was the answer she had asked for.
+
+“I need tonight,” Ava said.
+
+Jenna began taking pages down from the wall. The meeting was over because Ava had said it was.
+
+In their quarters, she opened the journal to the entry about the first bean seedling. Gabriel sat on the floor with his back against the bed, giving his injured leg the space Malik had ordered.
+
+“The people who took me said I could save lives,” Ava said.
+
+“I remember.”
+
+“Part of me hates that they might have been right.”
+
+Gabriel looked up. “They weren’t.”
+
+“My blood—”
+
+“What your blood can do doesn’t make what they did right.” He adjusted the brace on his leg. “If a thief steals a seed and somebody else grows food from it, the theft doesn’t become farming.”
+
+Ava glanced at him. “That metaphor was terrible.”
+
+“I live with a botanist. It creates pressure.”
+
+She smiled, then returned to the blank page. “I want to do it.”
+
+Gabriel said nothing.
+
+“Not because Karrow asked. Not because people will die if I don’t.” She pressed the pencil hard enough to dent the paper. “I want one thing they made inside me to belong to my decision.”
+
+“Then write the conditions.”
+
+She did.
+
+Five millilitres. One draw. Gabriel would handle the needle under Jenna’s direction. Ava could stop the procedure at any point. No restraints. No one behind observation glass. The remaining sample would be destroyed or retained only by a new decision. Jenna would keep the results with the carrier’s medical records, and Ava would decide when they were shared.
+
+The next morning, Karrow read the list and signed without negotiation. Jenna signed beneath him. Gabriel signed as witness.
+
+In the medical bay, Malik had removed the nearest instrument trolley to give Ava a clear path to the door. No straps crossed the examination chair.
+
+Gabriel opened a sealed needle packet. “Left arm?”
+
+Ava offered it, then withdrew it before he touched her.
+
+Everyone stopped.
+
+She breathed through the first surge of memory. “Ask me again.”
+
+“May I take the sample from your left arm?”
+
+“Yes.”
+
+He tied the band above her elbow. Jenna confirmed the vein and talked him through the angle, though rescue work had made his hands familiar with blood. The needle hurt. Ava watched it enter because looking away felt too much like surrender.
+
+Dark red climbed the short tube and entered the vial.
+
+“Five,” Jenna said.
+
+Gabriel released the band and removed the needle. “Done.”
+
+Ava pressed gauze to the puncture. Her body had already begun closing it.
+
+Karrow did not reach for the vial. He waited until Jenna placed it in a coded carrier and Ava nodded.
+
+“Thank you,” he said.
+
+“Don’t thank me yet.” Ava stood. Her knees held. “Do careful work.”
+
+Karrow inclined his head. “We will.”
+
+She watched Jenna enter *Ava* beside the sample number in the log. Then she left the medical bay with Gabriel, her signed conditions tucked into the journal.

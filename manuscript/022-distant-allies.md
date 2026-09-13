@@ -6,46 +6,106 @@ title: "Distant Allies"
 
 # Chapter 22: Distant Allies
 
-The heat of the midday sun bore down on the trio as they traversed the uneven terrain of the ruined city. The distant hum of alien corruption lingered in the air, a reminder of the danger that surrounded them. Gabriel led the way, his rifle at the ready, while Ava kept a watchful eye on Harrow, her blade at her side. The survivors had stayed behind at the secured camp Gabriel had set up, leaving only Harrow to join their journey. His gaze flitted nervously to every shadow.
+Jenna’s scouts arrived the following morning. Gabriel checked their call sign over the radio before Ava moved the cabinet. The older man carried the child’s blankets; her mother fastened the replacement mask the scouts had brought.
 
-“We’re making good time,” Gabriel said, glancing at his map. “If we keep this pace, we can reach the outskirts of the hospital by dusk.”
+“We’ll take them to the railway station,” the detail leader said. “Vehicle meets us there. Our forward pair will check your rendezvous route.”
 
-Ava nodded but said nothing, her focus on the survivors. They moved with a hesitant determination, their fear barely masked by the hope of safety. She felt their unease and knew it stemmed from her as much as the dangers outside. Her thoughts drifted back to the morning’s conversation with Gabriel and his unwavering reassurance. The weight of his words stayed with her, grounding her amid the uncertainty.
+Gabriel passed over the count and waited for the leader to repeat it. Only after the last survivor had left with the detail did he turn toward the hospital.
 
-“Over here,” Gabriel called, motioning toward a narrow alleyway. “This should cut a few blocks off our route.”
+By midday, the ruined city had become an oven.
 
-They followed him into the alley, the towering walls on either side casting a welcome shade. Harrow quickened his pace to catch up with Gabriel.
+Heat lifted tar from the road in black strings. Gabriel’s mask rasped with every breath, the filter already grey around its rim. Harrow wore his badly, one strap twisted above his ear, and kept tugging the seal loose to wipe sweat from his mouth.
 
-“What are you looking for at the hospital?” Gabriel asked quietly, his tone careful.
+“Touch it again,” Gabriel said, “and we go back.”
 
-Harrow hesitated, his eyes darting to Ava before answering. “There’s a lab there. It belonged to my sister. She was working on something—some kind of cure or suppressant for the mutation. I don’t know if anything’s left, but I have to try.”
+Harrow flattened the mask against his face.
 
-Gabriel nodded, his expression unreadable. “We’ll see what we can find.”
+Ava walked without one. The air carried hot stone, old fuel, and the faint sweetness of mutated vines, but no fresh spore bloom. Gabriel’s detector agreed: three green bars on the device at his wrist, steady since they had handed the survivors over at the garage.
 
-The alley opened into a small courtyard littered with debris. Gabriel held up a hand, signaling the group to stop. He scanned the area, his sharp gaze sweeping over every corner.
+Harrow kept looking at her naked face.
 
-“Clear,” he said, but his tone lacked certainty. “Let’s keep moving.”
+“It still affects me,” she said.
 
-As they crossed the courtyard, Ava felt a prickle at the back of her neck—a sensation she couldn’t quite place. Her grip tightened on her blade, her steps careful. The feeling grew stronger, and she glanced at Gabriel, who met her eyes with a questioning look.
+“I didn’t ask.”
 
-“I don’t like this,” she murmured.
+“You’ve been asking for six blocks.”
 
-Before he could respond, a faint clicking noise echoed through the air. Gabriel’s hand shot up, his fist clenched—a signal to stop. Harrow froze, his breaths shallow. He looked around wildly, his fear palpable.
+He turned away.
 
-“Mutants,” Gabriel whispered, his voice barely audible. “They’re close.”
+Gabriel checked the paper map against the hollow towers ahead. “At this pace, we reach the hospital before dark.”
 
-[Player Choice: Defensive or Decisive Action]
+He led them into the shade of a narrow alley. Ava watched the vines instead of the windows. Most leaves had turned their pale undersides toward the heat. Near the far end, one creeper trembled against the still air.
 
-1. Defensive – The group fortifies their position, using debris to create makeshift barriers and prepares to hold out if needed.
+She caught Gabriel’s sleeve.
 
-2. Decisive – Gabriel and Ava lead a stealthy maneuver to distract the mutants and draw them away from the group.
+His fist rose: stop.
 
-Outcome 1: Defensive
+A dry clicking travelled between the buildings. Harrow’s breathing quickened until his mask valve fluttered.
 
-The trio moves quickly, piling up debris to block entry points and crouching low behind their makeshift barriers. Ava positions herself at the front, her blade glinting in the faint light. The clicking grows louder, accompanied by the faint rustle of movement. The mutants don’t appear, but their presence is a chilling reminder of the danger lurking just beyond the shadows. After what feels like an eternity, the sounds fade, leaving them tense but unharmed.
+“Mutants?” he whispered.
 
-Outcome 2: Decisive
+Gabriel nodded toward a service courtyard on their right. They crossed one at a time and crouched behind the shell of a delivery van. The clicking followed, joined by claws ticking over glass.
 
-Gabriel gestures for Ava to follow him. The two slip away together, moving with practiced stealth toward the source of the noise. They spot the mutants—a small pack of them, their grotesque forms moving erratically through the shadows. Gabriel throws a small stone, the clatter drawing the mutants’ attention. As the creatures scuttle toward the noise, Ava and Gabriel return to Harrow. The path ahead is clear, but the risk lingers in the air.
+Harrow pressed his back to the van. “We should barricade the alley.”
 
-When they finally emerged from the courtyard, the hospital’s silhouette loomed in the distance, a stark reminder of their goal. Harrow quickened his pace at the sight of their destination, his earlier fear replaced by nervous determination. Gabriel and Ava exchanged a glance, their unspoken resolve strengthening as they pressed on.
+“With what?” Ava asked.
+
+“Anything. That door. The bins.”
+
+“And when they climb?”
+
+He had no answer.
+
+Gabriel studied the courtyard. A fire escape zigzagged up the opposite wall. Beneath it, a rain gutter sagged under a clot of dead leaves. “We draw them east, we leave west. No shots unless the route closes.”
+
+“I can do it,” Ava said.
+
+“We do it together.”
+
+His answer irritated her less than it once would have. Not *stay here*. Not *let me*. Together.
+
+They moved along the van’s blind side. Ava eased a loose wheel brace from the debris while Gabriel unwound a length of cord from his pack. He tied the brace, fed the cord through the lowest rung of the fire escape, and handed her the free end.
+
+“On three.”
+
+He counted against her wrist. On the third tap, she pulled.
+
+The brace shot across the courtyard and struck the gutter with a noise like dropped scaffolding. Metal tore loose. The gutter crashed into the eastern alley, spilling leaves and rust.
+
+Three shapes burst from the shadow behind them—former dogs, perhaps, though their shoulders moved too high and their jaws had split well past the hinge. They wheeled toward the impact and vanished east in a clatter of claws.
+
+Gabriel pointed west. Harrow ran first.
+
+They did not stop until two blocks lay between them and the courtyard. Gabriel checked the detector. Still green.
+
+Harrow bent over with both hands on his knees. “You people do that often?”
+
+“Avoid dying?” Gabriel asked. “Whenever possible.”
+
+Harrow gave a breathless, unwilling laugh. It made him look younger and more tired.
+
+They crossed the next street beneath the shadow of a collapsed rail line. As the hospital rose between the buildings—a broad concrete tower furred with vines—Harrow slowed.
+
+“The laboratory was on the lower research level,” he said. “My sister worked there. Suppressants, blood assays, anything that might slow the change.”
+
+“A cure?” Ava asked.
+
+“That’s what she called it. I don’t know how close she got.”
+
+“And you believed her?”
+
+His eyes stayed on the hospital. “I needed to.”
+
+Ava understood that answer well enough to distrust it.
+
+Gabriel folded the map and checked the seal of his mask. “We find the records. We copy what we can. If the building turns, we leave.”
+
+Harrow nodded too quickly.
+
+They reached the end of the rail line and found the street collapsed into a flooded cutting. The hospital stood beyond it, close enough for Ava to read part of its sign. There was no way across.
+
+Gabriel unfolded the map again. He drew a finger along a longer route while Harrow stared at the water.
+
+“Before dark?” Harrow asked.
+
+“Not from here.” Gabriel turned them toward the detour.

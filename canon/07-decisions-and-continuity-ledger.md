@@ -15,6 +15,34 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-13 — Author-decided — Intended readership and mature voice
+
+The author specifies an intended readership of 17+ and asks that the novel retain its daring style, including adult sexual intimacy, profanity, violence, and body horror. This is an audience designation, not an externally awarded rating. Ava and Gabriel remain adults; their first sexual relationship remains after the confession in chapter 18. Copyediting may improve specificity, consent, and rhythm without treating mature content as an error. Affected files: `canon/06-continuity-and-writing-guide.md`, `canon/08-prose-style-guide.md`, `manuscript/000-front-matter.md`, and the chapter-by-chapter copyedit. This clarifies the existing mature-content rule without changing character ages or relationship order.
+
+### 2026-09-13 — Established — Rescue transitions and hospital handoffs
+
+The copyedit makes existing rescue events physically continuous: the pod opens during emergency revival before Ava falls out; Gabriel's damaged protection receives examination and follow-up checks; Ava opens his fortress cell; Jenna returns the rescue transport to Haven’s Vanguard before their reunion. In the hospital arc, scouts take custody of the garage survivors before Ava, Gabriel, and Harrow leave; the main transport takes that group to the railway station, while the forward team encounters a separate group at the subway. Jenna commands this operation by radio from the carrier. The trio approaches the hospital through chapter 23, enters in chapter 24, and exits in chapter 25. These repairs follow `01-story-and-timeline.md`, `03-spores-mutation-and-ava.md`, and `05-ship-rescue-and-combat.md`; they introduce no new infection immunity or remote physical presence. Affected manuscript chapters: 7–14 and 19–30.
+
+### 2026-09-13 — Established — Training, injuries, and recovered research
+
+Ava's training in chapter 17 remains effective in later chapters; Gabriel's practical route instructions help her act without curing the mutation. The factory rescue now shows the eyebrow wound recalled in chapter 18. His leg injury occurs in the chapter 31 explosion, not before the chase. At the hospital, Gabriel copies the legible fragment of the notebook Harrow identifies as his sister's; those incomplete pages do not replace the missing research. The main folders and assay ledgers travel in Ava's pack, which Gabriel carries when she is injured, and are transferred into two cases at the outpost. Harrow steals portable records; the surviving binders remain in storage and are later delivered to Jenna. The cases are not recovered from the explosion site. Affected chapters: 17–18 and 24–33. These changes repair continuity under the existing chronology and preserve both Harrow's theft and the partial basis for Karrow's proposal.
+
+### 2026-09-13 — Unknown — Harrow’s account of his sister
+
+Harrow claims his sister worked on mutation research at the hospital and identifies a notebook as hers. The claim is present in the source story and manuscript, but her identity, fate, and authorship are not independently verified. The copyedit retains his account as dialogue and motive without establishing a completed cure or any relationship to Dr. Elias Karrow. Affected chapters: 22–25 and 31.
+
+### 2026-09-13 — Author-decided — Prose style standard
+
+Future manuscript work follows `08-prose-style-guide.md`: close, character-filtered third person; concrete human detail; physically grounded action and body horror; earned intimacy; and active removal of development artifacts, generic emotional shorthand, and accidental repetition. This extends the tone rules in `06-continuity-and-writing-guide.md` without changing story continuity. Affected files: `canon/06-continuity-and-writing-guide.md`, `canon/08-prose-style-guide.md`, and all future manuscript revisions.
+
+### 2026-09-13 — Established — Jenna’s sister
+
+Jenna lost her younger sister to infection. Chapter 16 now establishes the loss through a private conversation with Ava; it explains Jenna’s investment in protocol and rescue work but does not excuse her earlier treatment of Ava. Affected files: `canon/02-characters-and-relationships.md` and `manuscript/016-unspoken.md`.
+
+### 2026-09-13 — Established — Epilogue timing and first child
+
+Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after the blood research; chapter 35 follows six days later. The earlier toddler scene and second-pregnancy implication were removed because they created an unmarked additional time jump and contradicted the canonical end state. The daughter is healthy by available tests, but her long-term inheritance remains unknown. Affected files: `canon/01-story-and-timeline.md`, `manuscript/034-a-new-dawn.md`, and `manuscript/035-epilogue.md`.
+
 1. **Haven’s Vanguard is not a spacecraft.** It is a terrestrial/atmospheric Titan-class hover carrier. Star and void language in the manuscript is night imagery.
 2. **Ava is immune to the ordinary fatal mutation process, not to transformation.** Her body survives and integrates the mutation, but she continues becoming more monstrous over time and can lose control. Ordinary mutants degrade; Ava’s anomaly lets her survive the progression, creating the risk of a permanent monster state.
 3. **`canon/` constrains `manuscript/`.** Manuscript additions may elaborate canon but cannot contradict it without a deliberate author-approved canon change.
@@ -47,6 +75,7 @@ This ledger preserves decisions that a future editor or agent must understand be
 - Combat techniques shown in the manuscript are distinguished from techniques that are merely available for later use.
 - Editorial constraints are kept in `06-continuity-and-writing-guide.md` rather than mixed with world facts.
 - Repeated introductions, greenhouse explanations, and equivalent emotional beats were removed during the chapter 15–16 integration.
+- Interactive player-choice branches were removed from chapters 22 and 25; the novel now follows one continuous, canon-compliant route through those scenes.
 - Mature language and content were retained rather than softened.
 
 ## Reserved or Unestablished Material

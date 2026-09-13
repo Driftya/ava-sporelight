@@ -12,7 +12,7 @@ The group moved cautiously through the crumbling alleyways, the safe zone just a
 
 “Easier said than done,” one of the transport team members replied, their voice strained with fatigue. “These survivors can’t keep up.”
 
-Ava glanced back at the survivors, her chest tightening. Most of them looked exhausted, their faces pale and drawn. The sound of distant clicking echoed in the air, sending a shiver down her spine.
+The civilians from the subway stopped whenever the injured man did. Ava adjusted her arm beneath his shoulder. Behind them, clicking carried along the brick walls; she could not tell how far away it was.
 
 The safe zone came into view—a makeshift fortification built within an old factory. The sight of its steel barricades brought a flicker of hope, but it was short-lived. The faint smell of decay lingered in the air, and Gabriel’s sharp eyes caught the dark smears of blood near the entrance.
 
@@ -22,9 +22,13 @@ The group entered cautiously, the survivors huddling close as Gabriel and Ava sw
 
 “It’s been breached,” Gabriel muttered, pointing to a collapsed barricade near the back. “The mutants have already been here.”
 
-“What about the survivors?” Harrow asked, his voice trembling. “The ones from the camp?”
+“The camp group didn’t come through here?” Harrow asked.
 
-“We’ll check,” Ava said firmly, moving toward the back of the factory. Her blade felt heavy in her hand, her heart pounding as she stepped through the debris-strewn corridors.
+“Straight to the station,” the team leader said. “Jenna confirmed it. This place had people of its own.”
+
+“We’ll check for them,” Ava said, easing the injured man onto a bench before moving toward the back of the factory. Her blade felt heavy in her hand, her heart pounding as she stepped through the debris-strewn corridors.
+
+She drew fresh blood from the torn skin beneath her dressing and wiped it along the blade. Her fingertips had begun to feel cold. The next fight would have to be short.
 
 The first attack came without warning. A mutant burst through a side door, its claws slashing through the air. Ava reacted instinctively, her blade slicing through its arm, her toxic blood taking hold. The creature screeched and collapsed, but its cry echoed through the building, drawing more of its kind.
 
@@ -34,32 +38,38 @@ Ava stayed behind with Gabriel, her blade cutting through the mutants as they fl
 
 Then it happened.
 
-A mutant lunged at Ava from the side, its claws grazing her shoulder before she could react. Pain shot through her body as she stumbled, her blade slipping from her grasp. Gabriel’s rifle cracked, the mutant falling lifeless to the ground, but Ava was already shaking, her amber veins glowing faintly.
+A mutant lunged at Ava from the side, its claws grazing her shoulder before she could react. Pain shot through her body as she stumbled, her blade slipping from her grasp. Gabriel’s rifle cracked. The mutant fell, spores streaming from its ruptured neck. His detector sounded as he backed clear. Ava was already shaking; the ache beneath her shoulder blades spread into her jaw.
 
 “Ava!” Gabriel shouted, his voice laced with panic. “Hold on!”
 
 “I… I can’t,” she whispered, her breath ragged. Her body convulsed as her mutation took over, spiked appendages erupting from her arms and back. The pain was searing, but her senses sharpened as the transformation completed. She let out a guttural growl, her glowing eyes locking onto the mutants.
 
-Ava launched herself into the fray, her spiked limbs tearing through the creatures with brutal efficiency. The sight was both awe-inspiring and terrifying, her movements feral and precise as the mutants fell one by one.
+She hit the first creature hard enough to drive it into the one behind it. A spike caught in bone. Ava wrenched it free and felt skin tear along her own back, barely a distraction from the need to strike again. The creatures collapsed around her without releasing fresh spores. She kept looking for something that was still moving.
 
-Gabriel watched in a mixture of horror and helplessness, his grip tightening on his rifle. “Ava, pull back!” he shouted, but she didn’t respond, her focus solely on the fight.
+Gabriel was shouting from beside the stairs. “Ava, pull back!”
 
-When the last mutant fell, Ava stood amidst the carnage, her breath coming in short, ragged gasps. Her spiked form slowly receded, leaving her trembling and weakened. Gabriel was at her side in an instant, his heart pounding with frustration and guilt. He had done everything he could, firing his rifle and distracting the mutants, but it hadn’t been enough to stop Ava from being pushed to this point. The survivors had taken cover, watching from the shadows as Ava’s frenzy finally subsided.
+She heard the words but could not make herself turn toward them.
 
-Her spiked form hadn’t fully receded, the amber glow of her veins still pulsing faintly. Gabriel didn’t hesitate, stepping closer despite the risk. His arms wrapped around her trembling frame, pulling her into a firm embrace.
+When nothing lunged at her, Ava discovered she was still swinging. She drove one hand against a support pillar and held it there until the urge passed. The spikes along her wrist caught in the metal. Pulling free hurt enough to make her cry out.
 
-“Ava, it’s over,” he murmured, his voice thick with emotion. “You stopped them.”
+Gabriel approached from the stairs. She could see him watching her hands.
 
-Ava stiffened in his arms, her spikes still partially extended. One of them brushed against his arm, leaving a shallow scratch. She gasped, trying to push him away. “I hurt you!” she cried, her voice trembling.
+“Stay there,” she said.
 
-Gabriel tightened his hold, his voice low but resolute. “No, Ava.“
+He stopped. The mask hid his mouth, but he was breathing hard.
 
-She shook her head, tears welling in her eyes. “I’m dangerous. You should’ve left me.”
+She counted the stair treads behind him. Lost count. Began again. The pressure beneath her skin eased in uneven jerks, leaving her arms too heavy to lift.
 
-“I’m never leaving you,” Gabriel said fiercely, his grip unyielding. “We’ll get through this, together.”
+“Now,” she said.
 
-Ava finally relaxed against him, her breath coming in shaky sobs as her spikes receded completely. Gabriel held her until her breathing steadied, the room heavy with the weight of what had just transpired. The survivors stared at her from the upper level, their expressions a mix of gratitude and fear. Some who had weapons clutched their weapons tighter, while others exchanged uneasy glances, uncertain whether to see her as a savior or a threat.
+He moved close enough to support her. A remaining spike scored his sleeve and caught his arm. Ava pulled away.
+
+“I hurt you.”
+
+“Yes. It’s shallow.” He kept the torn sleeve clear of the spike. “Give that one room.”
+
+She waited until it withdrew before letting him touch her again. The team leader patched his sleeve while Ava sat on the lowest stair, holding a cloth to the skin her own growth had torn. Above her, the survivors were quiet. One lowered his weapon when she looked up; another did not.
 
 “Let’s move,” Gabriel said, his voice steady. “The safe zone’s compromised. We’ll regroup at the extraction point.”
 
-As the group left the factory, Ava couldn’t shake the feeling of their eyes on her. Gratitude. Fear. Awe. It didn’t matter. She had done what needed to be done, but at what cost?
+Before leaving, Ava retrieved the knife from beneath a fallen creature. Gabriel carried the research pack; she could barely lift her own arms. Outside, she tried to close her hand around it. Her fingers would not settle in their old places. She adjusted the grip twice before following the others.

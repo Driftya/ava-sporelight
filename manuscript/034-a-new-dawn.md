@@ -6,21 +6,23 @@ title: "A New Dawn"
 
 # Chapter 34: A New Dawn
 
-Two years had passed since the harrowing days of survival, and the world had begun to heal, albeit slowly. The vaccine derived from Ava’s blood had proven effective, and although production was limited, it was enough to make a difference. Each dose brought hope to communities ravaged by the alien mutation, allowing humanity to claw its way back from the brink.
+Two years after the first blood draw, Ava watched a vaccine cooler being strapped onto a supply cart outside the lounge. The crew checked the contents against a list and crossed out the settlements that would have to wait for the next batch. The vaccine worked. There was still never enough of it.
 
-Aboard the ship, life had shifted. The crew, once consumed by constant battles and survival, now focused on aiding the scattered remnants of civilization. With every town they visited, every person they vaccinated, the legend of the ship—and its heroic crew—grew. But for Ava and Gabriel, their focus had turned inward, to something far more personal.
+Producing it had taken more work than the first vial promised: assays repeated, methods revised, further samples taken only when Ava agreed. Now the carrier brought doses to the same places it had once visited only to evacuate. People could begin repairing a home without knowing they would have to abandon it. Filters and quarantine checks remained part of every stop.
 
 Ava sat in the ship’s small lounge, her hands resting protectively over her rounded belly. She smiled as Jenna placed a gentle hand on her shoulder.
 
-“How are you feeling today?” Jenna asked, her voice warm and maternal.
+“How are you feeling today?” Jenna asked, pulling a chair close enough to sit without blocking the aisle.
 
 Ava’s smile widened. “Excited. Nervous. Everything, all at once.” She glanced down at her stomach. “I can’t believe we’re so close to meeting her.”
 
-Jenna chuckled. “You’ve been through so much, Ava. This little girl is going to have one incredible mother.”
+Jenna glanced at the folded list on Ava’s knee. “Malik has checked the delivery supplies three times. I’ve checked them twice.”
 
-“And father,” Ava added, her cheeks flushing as she thought of Gabriel. “He’s so… careful. Like he’s afraid to even breathe near me sometimes.”
+“Gabriel’s working through his own list,” Ava said. “Mostly things he thinks I shouldn’t carry. He tried to take a pillow off me this morning.”
 
-Jenna laughed softly. “He’s just nervous. Give him time—he’ll settle into it.”
+“Give him something useful to carry.” Jenna took her tablet back. “There’s a cooler outside that weighs considerably more than a pillow.”
+
+***
 
 In the ship’s maintenance bay, Gabriel worked on a broken ventilation system, his hands moving with practiced efficiency. But his thoughts were elsewhere. He couldn’t stop thinking about Ava, about the life they’d created together.
 
@@ -28,11 +30,13 @@ In the ship’s maintenance bay, Gabriel worked on a broken ventilation system, 
 
 Gabriel snapped out of his daze, shaking his head with a sheepish smile. “Yeah, just… thinking.”
 
-The crew member smirked. “About the baby, huh? Can’t blame you. Gotta admit, I didn’t think you had it in you to settle down, let alone with someone like Ava.”
+The crew member took the loose bolt from him. “About the baby? Cora said if you strip another thread, she’s putting you on blanket duty.”
 
-Gabriel’s expression softened. “She’s… everything. I don’t know how I got this lucky.”
+Gabriel looked down at the damaged thread. “Does blanket duty come with instructions?”
 
 The teasing continued throughout the day, with the crew affectionately ribbing Gabriel about becoming a father. Despite his initial embarrassment, he couldn’t stop smiling.
+
+***
 
 That evening, Gabriel joined Ava in their quarters. She was sitting on their bed, flipping through a worn notebook filled with sketches and plans for the ship’s garden. Gabriel paused in the doorway, just watching her for a moment.
 
@@ -46,25 +50,35 @@ He sat beside her, resting a hand on her belly. The baby kicked, and his eyes wi
 
 Gabriel chuckled, but his smile faltered slightly. “I just… I’m scared, Ava. What if something happens during the delivery? What if I can’t protect you?”
 
-Ava placed her hand over his. “Gabriel, you’ve protected me from everything—aliens, scientists, the world itself. You’ve given me a life I never thought I’d have. I trust you. And Jenna and Dr. Karrow will be there, too. We’ll be okay.”
+Ava placed her hand over his. “You can be scared with me. You don’t have to fix that.”
+
+He looked down at their hands.
+
+“Malik and Jenna will be there,” she continued. “Karrow knows what to watch for with my blood. I want you where I can reach you.”
+
+“That I can do.”
 
 Her reassurance seemed to ease his fears, and they spent the rest of the evening talking about their daughter. They imagined what she might look like, what her first words would be, and how they’d teach her about the world.
 
-“She’s completely immune, isn’t she?” Gabriel asked.
+“The scans are still normal?” Gabriel asked.
 
-Ava nodded. “Dr. Karrow said her tests were perfect. No alien genetics, no mutations—just a healthy, human baby girl.”
+“Everything they know how to test,” Ava said. “Karrow was careful about that wording.”
 
-Gabriel let out a shaky breath, relief washing over him. “She’s a miracle, Ava. You both are.”
+Gabriel let out a measured breath. They had learned not to mistake an encouraging result for certainty. “Healthy is enough.”
 
-The news of Ava’s pregnancy had spread across the regions they’d visited, and the fame of the ship grew even more. People saw it as a symbol of hope—not just because of the vaccine, but because of the lives they were building aboard it.
+“More than enough.”
 
-Crew members teased Gabriel mercilessly, calling him “Superdad” and joking about how Ava had managed to tame the once stoic and cautious man. Gabriel took it all in stride, his happiness too overwhelming to be diminished by their teasing.
+Word of the pregnancy travelled with the vaccine deliveries. Folded baby clothes arrived in a supply crate; someone sent a wooden rattle repaired along one seam. Ava checked each item, then put it away in the drawer they had cleared for their daughter.
 
-Ava, meanwhile, continued to work tirelessly on the ship’s ecosystem, determined to create a better future for their daughter. She felt a sense of peace she hadn’t known in years, her once-fragile mind now strong and resolute.
+Ava continued working in the greenhouse while following Malik’s advice to rest, though by the final week she mostly sat at the planting table and corrected other people’s labels. Preparing for their daughter did not erase her fear. It gave the fear a crib, a stack of folded cloth, and a list of practical things to do before morning.
 
-As the due date approached, the entire ship buzzed with anticipation. Jenna and Dr. Karrow prepared the medical bay for the delivery, while the crew rallied around Ava and Gabriel, offering their unwavering support.
+As the due date approached, the entire ship buzzed with anticipation. Malik and Jenna prepared the medical bay, with Karrow reviewing Ava’s latest blood results, while the crew rallied around Ava and Gabriel, offering their unwavering support.
 
-When the day finally came, Gabriel was by Ava’s side, holding her hand and whispering words of encouragement. Despite his initial fear, he found strength in her determination, in the love they shared.
+When labour began, Gabriel carried the bag Ava had packed and forgot the blanket lying on top of it. She sent him back for it between contractions. Hours later, beside the bed, he let her grip his hand hard enough to hurt and fetched water whenever she asked.
+
+“Stop telling me I’m doing well,” she said at last.
+
+He shut his mouth and stayed.
 
 Hours later, their daughter was born—a tiny, perfect bundle of life. Gabriel held her in his arms, tears streaming down his face as he looked at Ava.
 
@@ -72,10 +86,8 @@ Hours later, their daughter was born—a tiny, perfect bundle of life. Gabriel h
 
 Ava smiled, her exhaustion overshadowed by pure joy. “She’s ours.”
 
-The ship celebrated the birth of their newest member, the atmosphere filled with laughter and hope. For the first time in years, it felt like humanity had a real chance at survival.
+Someone cheered outside the medical bay and was immediately hushed. Ava barely heard it. She was watching Gabriel learn to support the baby’s head, his broad hand moving with a care that made her ache in a different way.
 
-As Ava and Gabriel cradled their daughter, they knew that this was just the beginning. Together, they would face whatever challenges lay ahead, armed with love, determination, and the unbreakable bond of their family.
+Their daughter closed one hand around Gabriel’s finger. He looked at Ava over the child’s head, laughing and crying at once.
 
-For the first time, the future didn’t seem so bleak. And as their daughter slept peacefully in their arms, they dared to dream of a brighter tomorrow.
-
-The end of one journey marked the beginning of another—a journey of hope, love, and the promise of a better world.
+Outside the medical bay, the carrier continued its night watch. Inside, the three of them learned the shape of one another.

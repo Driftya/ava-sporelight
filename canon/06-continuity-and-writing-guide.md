@@ -19,6 +19,8 @@ Action should expose character. Romance should change decisions. Worldbuilding s
 
 ## Point of View and Tone
 
+For the detailed, binding prose standard, see [Prose Style Guide](08-prose-style-guide.md).
+
 - Primary mode: close third person, most often through Ava or Gabriel.
 - Genre balance: post-apocalyptic science fiction, body horror, action, and romance.
 - Emotional register: intimate and vulnerable without making danger decorative.
@@ -28,6 +30,8 @@ Action should expose character. Romance should change decisions. Worldbuilding s
 - Hope: material and earned—food grown, people rescued, consent respected, research recovered—not merely declared.
 
 Do not soften the manuscript’s violence, sexual intimacy, fear, or emotional intensity. Revision may sharpen language, remove repetition, or improve consent and continuity, but it must not euphemize the intended content.
+
+The author’s intended audience is **17+**. This is an editorial audience designation, not a certification by a retailer or ratings board. Adult sexual intimacy, desire, nudity, profanity, brutal violence, and body horror belong within the novel’s range. Keep Ava and Gabriel’s adult ages and mutual consent clear. Copyediting should preserve the daring voice and the emotional consequences of intimacy rather than automatically cutting away from it.
 
 ## Terminology
 
@@ -90,4 +94,3 @@ Before accepting a revision, check:
 *Sporelight Gabriel*, *Daughter of the New Dawn*, Aeris, Kael, Nyra, faction campaigns, and game mission chains are reserved series material. They may draw on this canon, but they do not retroactively establish facts in *Ava: Sporelight*.
 
 The phrase blacklist and inspiration notes are editorial aids, not story facts. Use them to challenge clichés, but do not let mechanical phrase avoidance erase the novel’s recurring images of spores, roots, light, cold, and growth.
-

@@ -6,11 +6,11 @@ title: "Shadows of the Past"
 
 # Chapter 20: Shadows of the Past
 
-The moon cast a pale glow over the crumbling cityscape as the group trudged onward, their silhouettes blending into the jagged shadows of the ruins. The hospital was still miles away, a distant beacon of hope overshadowed by the immediate need for safety. Ava’s muscles ached with every step, but she kept her blade at the ready, her senses alert for any sign of danger.
+By moonrise, Harrow was dragging one foot. Ava had counted three turns since the hospital disappeared behind the buildings. At each one, Gabriel stopped to check the map. They were covering less ground each time.
 
 “We can’t keep going all night,” Gabriel said, his voice breaking the silence. He glanced back at Ava and Harrow, his features hard in the dim light. “We need to set up camp.”
 
-Ava nodded, her gaze sweeping over the desolate street. The skeletal remains of abandoned vehicles jutted out like gravestones, offering little in the way of cover. Buildings loomed on either side, their shattered windows staring back like empty eyes. A gust of wind stirred the dust and debris, carrying with it the distant, haunting echo of something shifting in the ruins.
+Ava checked the vehicles nearest them. Their windows were gone, their doors hanging open. None offered a place to sleep that she could defend from more than one side.
 
 “We need somewhere defensible,” she murmured, tightening her grip on her blade. “Mutants won’t ignore us if we’re out in the open.”
 
@@ -22,7 +22,7 @@ Gabriel’s eyes narrowed. “You said something attacked your camp. How do we k
 
 Gabriel exchanged a glance with Ava, his expression unreadable. Finally, he nodded. “Lead the way. But if it looks bad, we’re out of there. No heroics.”
 
-The journey to Harrow’s camp took them through a maze of alleyways and side streets, the detour adding precious hours to their trek. By the time they reached the outskirts, the night air was thick with tension. The camp had been built in the shell of an old parking garage, its entrance fortified with rusted metal sheets and wooden planks. Or at least, it had been.
+The journey to Harrow’s camp took them through a maze of alleyways and side streets, each blocked passage forcing them farther from the hospital route. By the time they reached the outskirts, the night air was thick with tension. The camp had been built in the shell of an old parking garage, its entrance fortified with rusted metal sheets and wooden planks. Or at least, it had been.
 
 The barricades were shattered, the gate hanging limply on its hinges. Inside, the dim glow of the moon revealed a scene of chaos: overturned crates, bloodstains smeared across the concrete, and the unmistakable stench of decay. Yet, the silence was unsettling—there were no mutants in sight.
 
@@ -34,9 +34,9 @@ The group moved cautiously, their footsteps echoing off the concrete walls. Gabr
 
 A faint noise—a shuffling, wet sound—drifted from deeper within the garage. Ava tensed, her grip tightening on her blade. Gabriel signaled for silence, his gaze fixed on the darkened corridor ahead.
 
-The group advances cautiously, their nerves taut as they follow the faint sounds. In a corner of the garage, they find survivors—a small group of people huddled together in the shadows. Their faces are gaunt and dirt-streaked, their eyes wide with fear. One man, older and clutching a broken pipe, steps forward. As his gaze fell on Ava, his expression twisted in terror.
+They followed the sound to a recess beneath the garage ramp. People huddled behind stacked crates, their mouths and noses covered with whatever cloth they had found. An older man raised a broken pipe. When his gaze reached Ava, he lurched backward.
 
-"Monster!" he screamed, stumbling backward. His voice echoed through the garage, drawing startled gasps from the others. A woman shrieked, pulling a child closer to her as her eyes locked on the faint amber veins visible on Ava’s cheek.
+“Monster!” he screamed, stumbling backward. His voice echoed through the garage, drawing startled gasps from the others. A woman shrieked, pulling a child closer to her as her eyes locked on the faint amber veins visible on Ava’s cheek.
 
 “No! She’s not—” Harrow started, his voice cracking as he raised his hands to calm them. “She and Gabriel saved me! Gabriel let me follow, and she protected me!”
 
@@ -46,33 +46,37 @@ Ava stiffened, her heart sinking at the accusation. She opened her mouth to spea
 
 “Enough,” Gabriel said, his voice sharp. “She’s saved more lives than you can count. So unless you want to find out what’s really lurking out there, you’ll keep quiet and listen.”
 
-The survivors exchanged uneasy glances, their fear palpable. Recognition flickered in some of their eyes as they took in Harrow’s words, but the older man still hesitated. Slowly, he lowered the pipe, though his wary gaze didn’t leave Ava.
+The other survivors looked from Harrow to Gabriel. The older man kept his pipe raised.
 
-Ava turned away, the sting of their rejection settling deep. Gabriel placed a hand on her shoulder, Gabriel hesitated, his eyes searching Ava’s face. He wanted to say something, anything to ease the weight he saw in her expression, but he knew words wouldn’t help. Instead, he stepped closer, wrapping his arms around her in a firm, protective hug. Ava tensed for a moment, then let herself sink into the comfort he offered, the warmth of his presence cutting through the chill of rejection.
+Ava stepped back before the pipe could reach her. Gabriel touched her elbow, and she held his wrist for a moment. She wanted to leave. Instead, she made herself look beyond the man to the child crouching against the wall.
 
-The ache in her chest remained, but it dulled slightly as they broke apart. Gabriel stayed close, his protective stance never wavering, as the group hurried to gather the survivors. Urgency soon replaced fear as a faint screech echoed through the night.
+“Lower the pipe,” she said. “You’re frightening her.”
 
-“You’re human?” he mutters, his voice shaky. “We… we thought everyone was gone.”
+He looked behind him. His arm dropped.
 
-“We’re here to help,” Gabriel says, lowering his rifle slightly. “How many of you are left?”
+“You’re human?” the older man asked Gabriel, his voice shaky. “We… we thought everyone was gone.”
 
-“Just us,” the man replies, his voice trembling. “The others… they tried to fight or ran outside. They didn’t make it.”
+“We’re here to help,” Gabriel said, lowering his rifle slightly. “How many of you are left?”
 
-Ava glanced over the room, her heart sinking at the desperation etched on their faces. “You’re safe for now, but we need to move. It’s not safe to stay here.”
+“Just us,” the man replied, his voice trembling. “The others… they tried to fight or ran outside. They didn’t make it.”
+
+Ava glanced over the room, her heart sinking at the desperation etched on their faces. “We need a better position. That broken gate won’t keep anything out.”
 
 A sudden screech pierced the air, and one of the survivors flinched. Gabriel raised his rifle, tracking the shadows. A chill settled over the group as unease crept in.
 
-"Stay quiet," he ordered. "We hold our ground tonight."
+“Stay quiet,” he ordered. “We hold our ground tonight.”
 
-The group remains inside the camp, barricading themselves in a defensible area for the night. Ava can’t shake the unsettling feeling of being surrounded by a silent, lurking presence. It wasn’t a thought born of logic, but a primal sense, as though the mutants could feel their movements even without sight or sound.
+They moved deeper into the same garage, into a store room with one doorway and a narrow ventilation grille. Gabriel checked the air while Ava helped shift a cabinet across the entrance. The survivors carried blankets and the last dry supplies in after them.
 
-The group finds a secluded corner of a crumbling building to set up camp. Gabriel and Ava work quickly to secure the area, using debris to block entrances and setting makeshift alarms with tin cans and string. Harrow huddles near a small, flickering fire, his expression vacant.
+They left a gap to watch through and hung cans on a string beyond it. Harrow coaxed a small fire into life in a metal tray beneath the open grille. Its smoke drew outward. Gabriel kept the detector beside him until the reading settled, then told the survivors they could uncover their faces.
+
+Ava could hear claws somewhere beyond the shattered gate. Each time they stopped, she looked toward the cans.
 
 “Get some rest,” Gabriel said, his tone softer than before. “I’ll take first watch.”
 
 Ava hesitated, glancing at Harrow before stepping closer to Gabriel. She didn’t say anything at first, her thoughts too tangled to form words. Gabriel noticed her hesitation and, instead of speaking, he gave her a small nod and sat down beside her near the fire.
 
-Without asking, he draped his jacket over her shoulders, the warmth a quiet gesture of reassurance. Ava looked down at the fabric, her fingers brushing against it as a faint smile tugged at her lips. For a moment, they sat in silence, the distant hum of the night their only company.
+He laid his jacket beside her. She put it on, pulling her hands inside the sleeves, and watched him replace the filter in his mask. He tested the seal before returning to the doorway.
 
 “Thank you,” she said quietly, her voice barely audible.
 

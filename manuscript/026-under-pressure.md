@@ -6,15 +6,15 @@ title: "Under Pressure"
 
 # Chapter 26: Under Pressure
 
-The trio moved through the quiet streets on the outskirts of the hospital, the air heavy with tension. The faint clicks and growls of mutants still echoed in their ears, a reminder of how close they had come to disaster. Ava kept her blade ready, her sharp eyes traced the crumbling walls and broken doorways, searching for the slightest movement, the telltale glint of something unnatural lurking in the ruins, while Gabriel took point, his rifle raised. Harrow lagged slightly behind, clutching the precious notebook as though it were a lifeline.
+Beyond the hospital’s maintenance yard, Gabriel led them along the wall until they could no longer hear claws striking the hatch. Ava kept her wrapped hand against her pack. Every step jarred the cut. Harrow followed with the notebook held beneath his coat.
 
 “How far to the next safe zone?” Harrow asked, his voice shaky.
 
-Gabriel didn’t look back. “There isn’t one. We push through to the rendezvous point Jenna mentioned. We can’t stop again until we meet up with her team.”
+Gabriel didn’t look back. “None cleared on this route. Jenna’s forward team is checking the rendezvous. We meet them, then get back to the transport.”
 
 Ava glanced at Gabriel, her jaw tightening. “Do you think they’ll make it in time?”
 
-“They have to,” he replied, his tone resolute. “We don’t have a choice.”
+“I’m calling them again at the next open junction.” He checked the radio. “If they can’t get through, we need another route.”
 
 As they pressed forward, the streets narrowed into an alleyway, its walls lined with graffiti and broken pipes. The air felt heavier here, a dampness clinging to their skin. Ava’s steps slowed, her instincts flaring.
 
@@ -38,13 +38,13 @@ Gabriel’s gaze flicked toward her. “Doesn’t matter why they failed. What m
 
 Harrow nodded, his face pale. “I just… I hope it’s worth it.”
 
-Ava’s jaw tightened, but she said nothing. The weight of their mission was suffocating, and the constant threat of danger left little room for reflection.
+Ava looked at Harrow’s notebook. She had needed Gabriel to help wrap her hand; Harrow had not once offered to carry her pack.
 
 A sudden noise shattered the quiet—the unmistakable clicking of a mutant echoing through the hallway. Gabriel motioned for silence, his rifle trained on the door. Ava gripped her blade tightly, her muscles coiled and ready to strike.
 
-The door creaked open slowly, and a grotesque form stepped into view. The mutant’s twisted body moved with unnerving speed, its glowing eyes locking onto the trio. Without hesitation, Gabriel fired, the sharp crack of his rifle reverberating through the room.
+The door creaked open slowly, and a grotesque form stepped into view. The mutant’s twisted body moved with unnerving speed, its glowing eyes locking onto the trio. Gabriel fired when it blocked the only clear exit. Spores lifted from the wound as it fell. His detector chirped; Harrow clamped both hands over his mask seal.
 
-“Move!” he barked, shoving Harrow toward the opposite door. Ava followed, her blade slashing at a second mutant that lunged at them from the shadows. The creature screeched as her strike landed, but more clicking sounds echoed from the hallway.
+“Move!” he barked, shoving Harrow toward the opposite door. Ava followed, using the flat of her blade to knock a second mutant’s reaching arm aside. Its claws scraped the doorframe as she pulled clear. Behind her, more feet struck the floor.
 
 The trio bolted into the adjoining room, their breaths ragged as they barricaded the door with a heavy desk. Gabriel’s chest heaved as he reloaded his rifle, his eyes darting to Ava.
 
@@ -56,8 +56,10 @@ She nodded, though her hands trembled slightly. “Just… tired.”
 
 Gabriel placed a hand on Harrow’s shoulder, his grip firm. “Keep it together. We’ll get through this.”
 
-The faint sound of distant gunfire echoed from outside, drawing their attention. Gabriel’s expression hardened. “That has to be Jenna’s team. They’re close.”
+The faint sound of distant gunfire echoed from outside, drawing their attention. Gabriel’s expression hardened. “Could be the forward team.” He pressed the radio switch. “Identify. We’re south of your gunfire.”
+
+A reply broke through the static: the call sign Jenna had given them, then a request for help at the subway entrance.
 
 “Then let’s not waste time,” Ava said, her voice steady despite the exhaustion in her eyes.
 
-Gabriel nodded, leading them toward the sound. The tension in the air was palpable as they moved, their every step a gamble in the crumbling labyrinth of the city. But as the gunfire grew louder, so did their hope—a fragile thread pulling them toward salvation.
+Gabriel checked his remaining magazine before leading them toward the subway. Ava followed, counting the shots ahead. The gaps between them were getting longer.
