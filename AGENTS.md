@@ -1,0 +1,85 @@
+# Agent Working Agreement
+
+This file governs work throughout the *Ava: Sporelight* repository.
+
+## Prime Constraint
+
+**`canon/` constrains `manuscript/`.**
+
+Manuscript prose may add scene-level texture, dialogue, sensory detail, and characterization, but it must not contradict canonical biology, chronology, identities, relationships, locations, technology, or author decisions.
+
+When a proposed manuscript change conflicts with canon:
+
+1. Do not silently rationalize the conflict.
+2. Identify the exact canon rule and affected chapter.
+3. Preserve the existing manuscript until the conflict is deliberately resolved.
+4. If the author approves a continuity change, update canon first or in the same change.
+5. Record the decision and its reason in `canon/07-decisions-and-continuity-ledger.md`.
+
+An explicit current instruction from the author may change canon. Agent inference may not.
+
+## Required Reading
+
+Before changing any manuscript file, read:
+
+1. `README.md`
+2. `canon/README.md`
+3. The canon document governing the proposed change
+
+Use this routing table:
+
+| Change concerns | Required canon reference |
+| --- | --- |
+| Plot order, chapter placement, or time | `canon/01-story-and-timeline.md` |
+| Character identity, motive, or relationship | `canon/02-characters-and-relationships.md` |
+| Spores, Ava’s immunity, transformation, blood, or vaccine | `canon/03-spores-mutation-and-ava.md` |
+| Mutant anatomy, abilities, or naming | `canon/03b-mutant-bestiary.md` |
+| Setting, society, location, or economy | `canon/04-world-locations-and-society.md` |
+| Haven’s Vanguard, rescue procedure, equipment, or combat | `canon/05-ship-rescue-and-combat.md` |
+| Voice, terminology, mature content, or continuity checks | `canon/06-continuity-and-writing-guide.md` |
+| Uncertainty, resolved contradictions, or prior decisions | `canon/07-decisions-and-continuity-ledger.md` |
+
+## Manuscript Invariants
+
+- The novel contains 35 continuously numbered chapters, followed by nonchapter back-cover material.
+- Stable chapter IDs use `ava-sporelight-chapter-NNN` and must not change when titles or filenames change.
+- `manuscript/000-front-matter.md` contains the canonical epigraph, teaser, copyright notice, and linked table of contents.
+- `manuscript/back-cover.md` contains canonical marketing copy and is not chapter 36.
+- Chapter files must not contain `source:` metadata fields.
+- *A Fragile Sanctuary* is integrated into chapters 15–16.
+- *Scavengers in the Shadows* occupies chapters 19–32 and occurs after the love confession.
+- Harrow’s betrayal and the surviving hospital research precede Dr. Elias Karrow’s proposal.
+- Haven’s Vanguard is a terrestrial/atmospheric Titan-class hover carrier, not a spacecraft.
+- Ava survives ordinary mutation degradation but is not immune to transformation. Her mutation continues progressing and can lead to permanent monstrous loss of control.
+- Harrow and Dr. Elias Karrow are separate, unrelated characters.
+- Do not soften violence, sexual intimacy, profanity, fear, or emotional intensity from the source material.
+
+## Canon Boundaries
+
+Do not assume that external drafts, prior versions, game material, sequel plans, alternate names, or brainstorming ideas are part of this repository’s continuity.
+
+The author may provide outside reference material in a prompt. Use it only for the requested task. Material becomes canonical only through an explicit author decision and a corresponding update under `canon/`.
+
+## Editing Rules
+
+- Preserve existing source files unless the task explicitly calls for source maintenance.
+- Prefer the smallest prose change that restores continuity.
+- Do not remove mature or harsh language merely to make it gentler.
+- Remove genuine repetition without erasing intentional thematic echoes.
+- Keep one Markdown file per numbered chapter.
+- Use UTF-8 and preserve typographic punctuation.
+- Keep Markdown links relative inside repository documents.
+- When adding a canon document, add it to `canon/README.md`.
+- When changing chapter titles or filenames, update the front-matter table of contents in the same change.
+
+## Verification
+
+After manuscript or canon changes, verify:
+
+- chapter numbers run from 1 through 35 without gaps or duplicates;
+- all stable IDs are present and unique;
+- every table-of-contents link resolves;
+- no `source:` metadata has returned to manuscript files;
+- files contain no corrupted UTF-8 sequences or replacement characters;
+- changed prose complies with the relevant canon documents;
+- new decisions are recorded in `canon/07-decisions-and-continuity-ledger.md` with a clear status: established, author-decided, supporting canon, unknown, or reserved.

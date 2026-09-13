@@ -75,7 +75,6 @@ The setting combines rare surviving high technology with widespread scarcity.
 
 ## Reserved World Material
 
-The large regional list, named factions, shops, equipment economies, and mission hubs in `temp_source/dataset/game` belong to game or sequel development. They are not automatically canon to this novel.
+Large regional lists, named factions, shops, equipment economies, and mission hubs from game or sequel development are not automatically canon to this novel.
 
 The following names are specifically reserved until used or approved: The Northern Coalition, The Crimson Syndicate, The Horizon Initiative, The Frostborn Vanguard, The Sporelands, The White Graveyard, The Lost Ocean, and the wider region taxonomy.
-
