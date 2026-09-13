@@ -1,22 +1,37 @@
 # Ava: Sporelight — Image Consistency Guideline
 
 > **Purpose**  
-> This document defines the visual guardrails for image generation in **Ava: Sporelight**.  
-> Its goal is to keep characters, environments, creatures, mood, and presentation consistent across concept art, keyframes, promotional art, VN assets, and future story illustrations.
+> This document defines the visual and production guardrails for image generation in **Ava: Sporelight**.
+> Its primary production use is creating consistent illustrations for the novel under `manuscript/images/`; it also governs future concept art, keyframes, promotional art, and reusable assets.
 
 ---
 
-### Suggested split
+## Authority and Documentation Red Line
 
-Use two layers:
+Visual work uses two connected layers:
 
-1. **Story canon**  
-   Lore, characters, timeline, places, mutation rules, factions, tech, etc.
+1. **Story canon and chapter prose** define what is true and what occurs.
+2. **Visual / production canon** defines how that material is rendered consistently.
 
-2. **Visual / production canon**  
-   How Ava, Gabriel, Jenna, the Spore, creatures, gear, and locations should be rendered.
+The production red line is:
 
-That means this file belongs in the **canon ecosystem**, but under a **visual** or **production** subsection.
+```text
+README.md and canon/README.md
+              ↓
+ target chapter + governing story canon
+              ↓
+       this visual guideline
+              ↓
+   relevant concepts/ references
+              ↓
+ generation → review → approved chapter image
+              ↓
+       manuscript/images/NNN/
+```
+
+If any visual reference conflicts with written canon or the target chapter, the written source wins. Do not silently reconcile the conflict in the prompt or image. Flag it and preserve the existing manuscript until the author resolves it.
+
+Files in `concepts/` are visual anchors, not independent story canon. A generated image is a production candidate, not a new canonical fact. Only an approved image that passes the checks in this document belongs under `manuscript/images/`.
 
 ---
 
@@ -39,7 +54,7 @@ When in doubt:
 ```text
 canon/
   visual/
-    ava-sporelight-image-guideline.md
+    01-ava-sporelight-image-guideline.md
 concepts/
   ava_definitive_character_turnaround.png
   ava_expressions_and_emotional_range.png
@@ -53,8 +68,17 @@ concepts/
   spore_creature_taxonomy_field_guide.png
   the_spore_visual_language_guide.png
   ava_gabriel_bond_body_language.png
-  ava_cryopod_scene.png
+  ava_cryopod_scene.png.png
+manuscript/
+  images/
+    001/
+    002/
+    ...
+    035/
+    shared/
 ```
+
+Create numbered image directories as chapters receive approved artwork; empty placeholder directories are not required.
 
 ---
 
@@ -69,7 +93,7 @@ These are the current recommended anchor references.
 
 - [Ava — Definitive Character Turnaround](../../concepts/ava_definitive_character_turnaround.png)
 - [Ava — Expression & Emotional Range](../../concepts/ava_expressions_and_emotional_range.png)
-- [Ava — Mutation Progression / 5 Forms](../concepts/ava_reference_sheet_5_forms.png)
+- [Ava — Mutation Progression / 5 Forms](../../concepts/ava_reference_sheet_5_forms.png)
 - [Ava — Before the Fall](../../concepts/ava_botanist_before_the_fall.png)
 - [Gabriel — Character Sheet](../../concepts/gabriel_character_sheet.png)
 - [Jenna — Character Sheet](../../concepts/jenna_character_sheet.png)
@@ -77,8 +101,8 @@ These are the current recommended anchor references.
 ### Relationship / Story References
 
 - [Ava + Gabriel — Bond & Body Language](../../concepts/ava_gabriel_bond_body_language.png)
-- [Ava — Cryopod Scene](../../concepts/ava_cryopod_scene.png)
-- [Subject 017 — Laboratory Origins](../concepts/subject_017_laboratory_origins.png)
+- [Ava — Cryopod Scene](../../concepts/ava_cryopod_scene.png.png)
+- [Subject 017 — Laboratory Origins](../../concepts/subject_017_laboratory_origins.png)
 
 ### World / Environment References
 
@@ -92,27 +116,19 @@ These are the current recommended anchor references.
 
 ---
 
-## Reference Priority Order
+## Reference Authority and Selection
 
-If multiple references are available, use this priority order:
+Apply this authority order:
 
-1. **Ava — Definitive Character Turnaround**
-2. **Ava — Expression & Emotional Range**
-3. **Ava — Mutation Progression / 5 Forms**
-4. **Gabriel — Character Sheet**
-5. **Jenna — Character Sheet**
-6. **Ava + Gabriel — Bond & Body Language**
-7. **Sporelight — World Concepts**
-8. **Haven’s Vanguard — Interior Bible**
-9. **Spore Creature Taxonomy**
-10. **The Spore — Visual Language Guide**
-11. **Ava — Before the Fall**
-12. **Subject 017 — Laboratory Origins**
-13. **Ava — Cryopod Scene**
+1. **Written story canon** — chronology, identities, biology, world, equipment, relationships, and author decisions.
+2. **Target chapter prose** — the moment, location, emotional state, clothing, injuries, and action actually depicted.
+3. **This guideline** — production style, placement, prompting, and review requirements.
+4. **Ava — Visual Direction** — overall visual language and rendering direction.
+5. **Subject-specific concept references** — identity, anatomy, costume, environment, creature, or relationship anchors relevant to the image.
 
-### Priority Rule
+Use the smallest useful reference set. Within a subject, prefer the most specific reference: the mutation sheet for Ava’s form, the definitive turnaround for her identity, the expression sheet for emotion, a named character sheet for Gabriel or Jenna, the carrier bible for its interior, and the taxonomy or Spore guide for infected biology.
 
-If a new image conflicts with the core references, the **higher-priority reference wins**.
+When two same-level concept references disagree, do not invent a compromise. Follow the reference most specific to the depicted chapter state and record the ambiguity for author review if it could alter continuity.
 
 ---
 
@@ -522,6 +538,21 @@ Explicitly define:
 - camera angle
 - lighting
 - environmental situation
+
+### Step 5 — Review against the chapter
+
+Before approval, compare the candidate with the target chapter and governing story canon. Confirm that it does not reveal a later event, use a later mutation stage, relocate a scene, change a relationship beat, or turn a visual invention into an implied story fact.
+
+## Chapter Illustration Placement
+
+- Put each approved chapter-specific image in `manuscript/images/NNN/`, using the chapter’s three-digit stable number.
+- Use `manuscript/images/shared/` only when the same asset is intentionally used in more than one chapter or belongs to book-level presentation.
+- Use descriptive lowercase kebab-case filenames, such as `ava-wakes-in-cryopod.png`; the parent directory already carries the chapter number.
+- Link from the chapter Markdown with a relative path such as `images/009/ava-wakes-in-cryopod.png`.
+- Keep generation prompts, rejected candidates, and production notes out of numbered chapter files.
+- Do not move a chapter image merely because its chapter title or Markdown filename changes; the stable chapter number controls its directory.
+
+An illustration may interpret framing, lighting, pose, and incidental texture, but it must not add a consequential event, character, object, injury, transformation, or location that the chapter and canon do not support.
 
 ---
 

@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-13 — Author-decided — Chapter illustration documentation and placement
+
+The author establishes `canon/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused or book-level assets. Written story canon and the target chapter govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, and `canon/visual/01-ava-sporelight-image-guideline.md`.
+
 ### 2026-09-13 — Author-decided — Recovered sanctuary relationship scenes
 
 The author approves adapting two previously omitted scenes from the temporary sanctuary and main-story drafts into chapter 16: Ava privately confides in Jenna about wanting Gabriel and fearing that she may harm or burden him, and Ava and Gabriel plant unknown seeds together while Ava directly describes feeling estranged from her changing body. These scenes deepen Ava’s relationships with Jenna and Gabriel without moving the confession, first kiss, or sexual intimacy from chapter 18; Ava does not disclose her romantic feelings to Gabriel in chapter 16, and Gabriel does not promise that her mutation is harmless or cured. The source files remain unchanged. Affected file: `manuscript/016-unspoken.md`.

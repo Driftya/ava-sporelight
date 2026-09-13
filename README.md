@@ -7,6 +7,7 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 - Read the novel from [`manuscript/000-front-matter.md`](manuscript/000-front-matter.md).
 - Consult authoritative story rules from [`canon/README.md`](canon/README.md).
 - Continue the established voice with [`canon/08-prose-style-guide.md`](canon/08-prose-style-guide.md).
+- For chapter illustrations, follow [`canon/visual/01-ava-sporelight-image-guideline.md`](canon/visual/01-ava-sporelight-image-guideline.md) and use the anchors in [`concepts/`](concepts/).
 - Read contributor and agent constraints in [`AGENTS.md`](AGENTS.md).
 
 ## Repository Structure
@@ -14,7 +15,10 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 | Path | Purpose | Authority |
 | --- | --- | --- |
 | `manuscript/` | The publishable novel: front matter, 35 numbered chapters, and back-cover copy. | Canonical prose, constrained by `canon/`. |
+| `manuscript/images/` | Approved publishable illustrations, grouped in zero-padded chapter folders (`001/`–`035/`) with `shared/` for genuinely reusable assets. | Canonical presentation assets, constrained by story and visual canon. |
 | `canon/` | Authoritative chronology, characters, biology, world, combat, continuity rules, and decision history. | Governs manuscript changes. |
+| `canon/visual/` | Visual and production rules for depicting the novel consistently. | Governs image generation without overriding story canon. |
+| `concepts/` | Character, creature, environment, and style reference images used as generation anchors. | Development references; not publishable manuscript assets or independent story canon. |
 
 ## Canon and Manuscript Relationship
 
@@ -31,6 +35,26 @@ explicit author decision
 The manuscript can dramatize and elaborate canon, but it cannot silently contradict it. If an intentional story revision changes a canonical fact, update the relevant canon document and the decision ledger before or alongside the manuscript revision.
 
 External drafts, game material, sequel plans, alternate profiles, and brainstorming ideas do not sit in this authority chain. They become canonical only when the author explicitly promotes them and the relevant canon document is updated.
+
+## Chapter Illustration Workflow
+
+Chapter images follow this production red line:
+
+```text
+story canon + chapter prose
+            ↓
+      visual guideline
+            ↓
+ selected concept references
+            ↓
+ generation and consistency review
+            ↓
+ manuscript/images/NNN/
+```
+
+Read the target chapter and every canon document governing what the image depicts before generation. Use only the relevant files from `concepts/` as visual anchors. Concepts may clarify appearance, palette, composition, and production style, but they cannot introduce or override story facts.
+
+Place an approved chapter-specific image in the matching zero-padded directory—for example, chapter 7 assets belong in `manuscript/images/007/`. Reserve `manuscript/images/shared/` for assets intentionally reused across multiple chapters or book-level presentation. Link chapter images from Markdown with paths relative to the chapter file, such as `images/007/example-scene.png`.
 
 ## Novel Reading Order
 
@@ -65,6 +89,8 @@ The narrative red line is:
 4. Make the smallest change that satisfies the story goal without breaking canon.
 5. Update canon and its decision ledger if the author intentionally changes continuity.
 6. Verify numbering, stable IDs, links, encoding, and the manuscript invariants in `AGENTS.md`.
+
+For image work, also verify the target chapter, mutation stage, character identity, location, equipment, chronology, reference links, and final `manuscript/images/` placement against the visual guideline.
 
 ## External Reference Material
 
