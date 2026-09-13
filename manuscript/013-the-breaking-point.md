@@ -34,6 +34,16 @@ Her cries went unanswered as she was escorted to a heavily secured holding cell.
 
 Ava measured time by the guards changing outside her cell. Neither would tell her where they had taken Gabriel. She had seen them drag him away. Still, as the hours passed, she began to wonder whether he would stop asking for her if they offered to release him.
 
+She pictured it with a shameful thoroughness: a door opened, his equipment returned, someone telling him he had done enough. She wanted him to refuse. She wanted him free. Thinking both things made her feel as if she were the one holding him here.
+
+At the next change she stood before the guard could turn away.
+
+“Is he being fed?”
+
+The guard glanced at her untouched tray. “Worry about yourself.”
+
+She sat down and tried a mouthful. Perhaps someone would note that she had eaten, that she was behaving, and it would count in his favour. Halfway through swallowing, she understood the bargain she was making with an empty room. Nobody had offered her anything.
+
 A radio outside crackled. “Civilian quarantine. Active transformation. We need containment down here.”
 
 One guard ran. The other drew his weapon and faced the corridor. Gunshots followed, then a warning to shut the ventilation. The fan above Ava’s door kept turning.
@@ -49,6 +59,12 @@ When the guards came to check on her, they didn’t stand a chance.
 By the time Ava regained her senses, the halls were eerily silent. She looked down at her hands, trembling as she saw the blood staining her claws.
 
 “No,” she whispered, her voice shaking. “What have I done?”
+
+One body lay with a hand tucked beneath the chest. She found herself waiting for him to pull it free. The waiting continued after she saw how badly he was hurt.
+
+She had wanted the guards afraid. In the cell, with Gabriel taken away and nobody answering her, she had wanted them to understand what fear felt like. That memory remained where the killings should have been. She could not turn it into proof of what she had intended, or make herself stop treating it as proof.
+
+Blood cooled between her toes. She tried to remember which of these men had brought the food. Their faces would not match the fragment she had kept.
 
 She stepped over bodies, her bare feet splashing in pools of crimson. Most of the guards were dead, their expressions frozen in terror. The air smelled of death and decay.
 

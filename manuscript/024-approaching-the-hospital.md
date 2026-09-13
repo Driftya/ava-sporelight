@@ -20,6 +20,10 @@ The trio reached the hospital’s main entrance, its doors hanging askew on rust
 
 Ava followed, her blade at the ready, while Harrow lingered behind, his breaths shallow. The lobby was a scene of devastation: overturned furniture, shattered glass, and dark stains smeared across the floor. The faint scent of decay hung in the air, making Ava’s stomach turn.
 
+Behind the reception desk, half a name remained on the wall. She tried joining the surviving letters into something she knew, remembering her promise to look. Nothing came. Someone had painted a direction arrow beneath them long after the original lettering fell: lower level, water. The newer message had outlived whoever needed it.
+
+The desk itself unsettled her more. She could imagine standing there with her field notes ready, explaining symptoms carefully enough to avoid sounding frightened. She had trusted a place like this to know what to do with her. Even now, looking at the empty space behind it, she felt a small, senseless disappointment that nobody would come to help.
+
 “We need to find the lab,” Harrow said, his voice trembling. “It’s on the lower level.”
 
 Gabriel glanced at him, his expression unreadable. “We’ll get there. Stay focused.”
@@ -53,6 +57,18 @@ Harrow looked toward the exit, then down at Ava’s hand on the page. “Fine. Y
 Gabriel used his field scanner on the legible pages. Harrow turned them impatiently; Gabriel made him go back whenever a corner obscured the writing. The copied fragment ended halfway through a table. Whatever completed it was still missing.
 
 Harrow tucked the notebook under his coat and led them down the corridor.
+
+“Who buys things like that?” Ava asked Gabriel quietly.
+
+“Settlements with laboratories. Traders. The Crimson Syndicate deals in medical supplies when there’s a shortage they can profit from.”
+
+“You think he knows them?”
+
+“I don’t know who he knows.” Gabriel watched Harrow try a door. “He wouldn’t have to know the person who eventually used the pages.”
+
+Ava pictured the notebook changing hands while its meaning grew smaller: a method to its writer, passage north to a seller, something locked away until the price rose. She understood wanting food. She could not bear the ease with which that want might swallow everyone else’s.
+
+Ahead, Harrow beckoned them onward. She caught up with her own hand still empty, feeling for the corner of the page she had let him take.
 
 “It should be here,” he muttered, stopping outside a door marked ‘Research Lab 4B.’ The window in the door was cracked but intact, offering a glimpse of the chaos inside: overturned tables, shattered equipment, and papers scattered across the floor.
 

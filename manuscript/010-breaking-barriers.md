@@ -95,3 +95,17 @@ Ava’s smile faded, and she hugged her knees to her chest. “I don’t want to
 “I know,” Gabriel said. He moved closer, sitting beside her. “And I’ll do everything I can to make sure no one hurts you either.”
 
 Ava leaned against him, her head resting lightly on his shoulder. Gabriel stayed still. When the transport banked, he braced one hand on the floor so she would not slide.
+
+***
+
+After he left, Ava sat where his shoulder had been. The floor was warmer there, or she imagined it was. She kept her hand on the place until the warmth became impossible to distinguish.
+
+Two hundred years. She had heard the number when he said it. She had even nodded. Only now, without his voice giving her the next thing to listen to, did she try to live inside it.
+
+She had been waiting to remember enough to tell them where to take her. There would be a name, a road, someone who would answer when they called. She could endure another journey if it ended there. But Gabriel had spoken of the meteor as something older than his family. Wherever she came from, it had gone on without her until there could be nobody left to ask.
+
+She tried to summon a face. Instead she remembered the feeling of being expected: having to explain why she was late, resenting the question because she had been working. Who had asked? The memory would not turn toward her. She pressed the heels of her hands into her eyes, angry that she could remember the irritation and not the person she owed it to.
+
+There were people beyond the wall, eating and arguing about a loose fastening. One laughed. Ava wanted them to stop. For a moment she hated them for continuing so easily, then hated herself because their world had been ruined too.
+
+She lay down facing the door. Tomorrow Gabriel would come back. She wanted that so badly it frightened her. There was already one part of the day she could lose.

@@ -15,6 +15,18 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-13 — Author-decided — Ava’s interior life and emotional expansion
+
+The author asks for a richer manuscript that retains the recent publishing copyedit while deepening Ava’s inner thoughts, sadness, vulnerabilities, personal experience as a woman, and sexual emotions within the adult romance. Expansion follows the needs of each scene rather than a mandatory doubling of chapter length. The supplied anime and manga comparisons are emotional touchstones for attachment, bodily struggle, grimness, openness, and romance, not sources of plot, identities, or prose imitation. Affected files: all 35 manuscript chapters and `08-prose-style-guide.md`. This extends the existing voice standard: concrete action and sensory detail should accompany, not displace, access to Ava’s thoughts. Source files remain unchanged.
+
+### 2026-09-13 — Supporting canon — Selected regional and faction background
+
+Under the author's explicit invitation to expand world context using development/game locations and factions where appropriate, this revision selectively promotes the Frozen North, the Ruined Heartland, the Northern Coalition, and the Crimson Syndicate in the limited forms documented in `04-world-locations-and-society.md`. Affected chapters: 12, 15, 19, 24, and 34. These additions explain refuge geography, scarcity, supply administration, and the possible market for stolen research without adding a faction campaign, assigning the fortress or carrier a faction allegiance, or identifying Harrow's buyer. Other development geography and factions remain reserved. This supersedes the blanket reservation only for these four names and the explicitly described background.
+
+### 2026-09-13 — Established — Private recollection and mutation reporting
+
+The interiority revision adds scene-level recollections and private journal entries without resolving Ava's parents' names, faces, fate, or knowledge of her disappearance. In chapter 32, Ava reports her altered grip, difficulty stopping at the pillar, and fear of enjoying the transformed strength to Malik; no effective treatment or cure for her progression is established. The later pregnancy remains chosen, and the daughter's long-term biology remains unknown. Affected chapters: 1–5, 10–18, 28, and 30–35. These details elaborate existing character and biological canon.
+
 ### 2026-09-13 — Author-decided — Intended readership and mature voice
 
 The author specifies an intended readership of 17+ and asks that the novel retain its daring style, including adult sexual intimacy, profanity, violence, and body horror. This is an audience designation, not an externally awarded rating. Ava and Gabriel remain adults; their first sexual relationship remains after the confession in chapter 18. Copyediting may improve specificity, consent, and rhythm without treating mature content as an error. Affected files: `canon/06-continuity-and-writing-guide.md`, `canon/08-prose-style-guide.md`, `manuscript/000-front-matter.md`, and the chapter-by-chapter copyedit. This clarifies the existing mature-content rule without changing character ages or relationship order.

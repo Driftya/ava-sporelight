@@ -46,6 +46,10 @@ A mutant lunged at Ava from the side, its claws grazing her shoulder before she 
 
 She hit the first creature hard enough to drive it into the one behind it. A spike caught in bone. Ava wrenched it free and felt skin tear along her own back, barely a distraction from the need to strike again. The creatures collapsed around her without releasing fresh spores. She kept looking for something that was still moving.
 
+Moving was easier now. She no longer had to bargain with her wounded hand or think through the next three steps. The ease was appalling. Some frightened part of her welcomed it before she could object.
+
+Then her arm reached farther than she expected, and she could not find the familiar stopping place at the elbow. Her body kept solving problems by becoming less recognizable. She wanted the clumsy hand back, the exhaustion, even the need to ask for help. But wanting those things took thought, and the next creature gave her no time to finish one.
+
 Gabriel was shouting from beside the stairs. “Ava, pull back!”
 
 She heard the words but could not make herself turn toward them.
@@ -69,6 +73,16 @@ He moved close enough to support her. A remaining spike scored his sleeve and ca
 “Yes. It’s shallow.” He kept the torn sleeve clear of the spike. “Give that one room.”
 
 She waited until it withdrew before letting him touch her again. The team leader patched his sleeve while Ava sat on the lowest stair, holding a cloth to the skin her own growth had torn. Above her, the survivors were quiet. One lowered his weapon when she looked up; another did not.
+
+Her clothes hung open at the shoulder and down part of her back. She tried pulling the torn edges together, then stopped because the movement hurt and exposed more than it covered. She had no spare hand for modesty.
+
+Gabriel reached into his pack. She saw the coat coming and almost said she did not need it. She did need it. That was what made the words rise so quickly.
+
+“Across my shoulders,” she said. “Don’t catch the torn skin.”
+
+He laid it there and let her arrange the front. She kept her face down while he finished. The survivors had seen her body open itself into a weapon. Soon someone might thank her, and she would have to decide what expression to wear.
+
+For now she pressed the cloth to her back and listened to the team leader asking who could still walk. She raised her hand only as far as it would go.
 
 “Let’s move,” Gabriel said, his voice steady. “The safe zone’s compromised. We’ll regroup at the extraction point.”
 

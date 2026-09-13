@@ -16,6 +16,10 @@ Her shout scraped her throat raw. No one answered. She remembered reaching for t
 
 Ava worked a thumb under the cuff. The joint would not pass. Blood slicked the metal, making it harder to grip.
 
+She tried to make herself stop pulling. A broken thumb would be one more thing to survive. But the idea of lying still while someone watched was worse, and she pulled again, hating herself for the sound that came out.
+
+If they let her sit up, she could explain. She knew how to handle a specimen, how to record a result, how to ask a useful question. There had to be someone here who could speak to her about what was happening. She assembled the facts of her illness as if preparing for a meeting. Her mind kept returning to the hospital bag beneath the bed. Had anyone found it? Were they looking for a missing patient, or had someone already told them she was dead?
+
 Two people entered in full hazmat suits. Through the visors, Ava could make out a man with sharp features and a woman whose hair was pulled tight behind her head. The woman checked the number above the table against her tablet before looking at Ava.
 
 “Subject is awake,” the woman said, not bothering to meet Ava’s frantic gaze. She tapped a few notes into her tablet before glancing at the man. “Vitals are stable. Shall we proceed?”
@@ -37,6 +41,10 @@ The burning reached her elbow, then her shoulder. Ava bit the inside of her chee
 Through the haze of agony, Ava managed to spit out, “You’re killing me.”
 
 The man leaned over her, his expression unreadable. “No,” he said coldly. “We’re learning.”
+
+She knew that word. She had used it to explain long days, failed samples, the reason she needed to go back into the jungle. Hearing it here made her feel briefly stupid for having expected it to protect her.
+
+Across the room the woman was still recording. Ava tried to catch her eye. She wanted her to look long enough to become ashamed. When the visor turned away, Ava found herself wishing the woman could feel even one second of the burning in her arm. The wish frightened her less than the next syringe.
 
 When she could see clearly again, sweat had run into both ears. Someone released the cuffs. She could not lift her hands to the raw places they had left.
 

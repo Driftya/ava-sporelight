@@ -16,6 +16,12 @@ Gabriel pressed the button on his chest rig. “All quiet for now, Captain. Citi
 
 He stepped back to cover the street while the last civilians boarded. A shape stirred beneath the vines on the far side of the square. He kept his rifle low. No shot unless it came for them.
 
+At the ramp, a woman was trying to bring a planting box aboard. Someone had told her there was no space for the soil. She held it against her coat while a crew member waited with an empty sack for the roots. Gabriel watched her loosen her grip one finger at a time.
+
+He knew that delay. People who had followed every order could stop at a doorway over an object that looked worthless. He had once argued for a whole minute about a man’s broken kettle before learning it had belonged to his wife. Since then he tried to leave room for an explanation, though some days there was no room and no minute.
+
+The woman tipped the soil out beside the ramp and gathered the plants into the sack herself. Gabriel looked back toward the vines. He could do his job better if he stopped watching her.
+
 “Gabe!” a voice called. Jenna, commanding the evacuation on the ground, waved him over. “We’ve got another group lagging behind. Block A, building four.”
 
 “Great,” he muttered under his breath. “Just what we needed.”

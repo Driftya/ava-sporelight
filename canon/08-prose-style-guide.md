@@ -54,6 +54,10 @@ Do not repeat an image unchanged. Stars are not automatically freedom; spores ar
 
 ## Emotion
 
+Give Ava an interior life as well as an observable response. Close third person may enter her unfinished thoughts, private associations, contradictory wants, and memories; physical detail is not a substitute for that access. Let her sometimes know what she feels and sometimes discover it late. Her grief needs time on the page, including ordinary losses that neither rescue nor romance can repair.
+
+Her womanhood is particular to her: scientific ambition, bodily privacy, vanity, anger, attraction, sexual wanting, and later motherhood may coexist without defining a universal female response. Preserve curiosity, humor, impatience, and pleasure alongside vulnerability. Do not make suffering her only claim on the reader.
+
 Render emotion as a sequence:
 
 1. trigger;
@@ -90,6 +94,8 @@ Treat intimacy as character action, not reward. Attraction should change what Av
 Use concrete, individual details in intimate scenes: a scar one of them has learned, a nervous joke that fails, the awkward work of removing damaged gear. Avoid generic montages of touches, gasps, racing hearts, or bodies moving in perfect rhythm.
 
 The intended audience is 17+. Tenderness, sexual desire, nudity, and adult sexual intimacy may coexist with awkwardness, anger, humor, and trauma. Do not make every romantic beat a clinical exchange or a lesson about consent; establish choice clearly and let the characters experience one another. Preserve the source’s mature intensity while sharpening its language.
+
+Ava should experience attraction from inside, rather than appearing primarily as the object of Gabriel’s gaze. Give her anticipation, curiosity about him, private embarrassment, pleasure, and the ability to initiate. Intimacy can bring delight without erasing fear; every touch need not trigger a trauma recollection. Carry the relationship into ordinary mornings and field decisions after the confession.
 
 ## Worldbuilding
 

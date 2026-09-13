@@ -20,6 +20,12 @@ Under the fallen laboratory, Ava’s cryopod kept running. Soil washed into the 
 
 Over two centuries, roads disappeared beneath growth and settlements formed around whatever shelter remained. Humanity retreated toward the cold, where spores spread more slowly. Rescue crews learned to travel between those refuges and the people stranded beyond them. Filters, fuel, and an open route home mattered more than the number of creatures a squad could kill.
 
+The first evacuees carried keys. Even when a road closed, even when the house behind them could no longer be seen through the growth, they kept a small piece of metal in a pocket. Later generations carried spare filter seals, sewing needles, the part a mechanic had said could not be made again. Children learned which possessions to fetch at an alarm and which to leave.
+
+In the cold settlements, growing rooms became as necessary as walls. People queued outside them with empty containers, breathing the damp warmth whenever a door opened. A failed lamp could mean a missed harvest. A mechanic keeping it alive through the winter might never learn the name of the botanist who had once catalogued the plant beneath it.
+
+Ava’s working world vanished unevenly. Words for plants survived in books after the plants disappeared from the places described. The useful measurements were copied; the names at the top of a page sometimes were not. Two hundred years held enough ordinary mornings for a whole life to be lived and forgotten more than once. None reached the woman beneath the frost.
+
 Gabriel’s squad worked two hundred years after the breach. They ferried survivors north in repaired transports, sometimes returning for people they had lacked room to carry on the first trip. Masks passed from gloved hands to smaller hands. At each departure, someone counted the empty seats.
 
 Forests shone at night. In abandoned streets, living growth pulled buildings apart from within. Elsewhere, people mended roofs, raised children, and marked the routes where a rescue vehicle had last got through.

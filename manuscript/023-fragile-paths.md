@@ -38,6 +38,22 @@ Jenna had sent them after reports of blood research. Ava could not yet tell whet
 
 Harrow nodded, though his hands fidgeted in his lap. “Thanks. Both of you.”
 
+When he bent over his blanket, Ava moved to the doorway with Gabriel. Shelves had been taken apart to cover the lower window; beneath the desk someone had once arranged tins to catch rain. The people who used this room before them had tried to stay. She examined the old water marks, wondering which leak had finally driven them out.
+
+Gabriel put his folded coat beside her watch position.
+
+“You’ll want that,” she said.
+
+“So will you.”
+
+She caught his sleeve before he moved away and kissed him. It was brief, awkward beside the doorframe, and made her want a great deal more than the room allowed. When he touched her cheek afterward she turned into his hand for one private second.
+
+“Wake me,” he said.
+
+“When it’s your turn.”
+
+She watched him settle on the floor. A few nights ago she had learned the weight of him beside her; now the space between their blankets felt chosen by someone else. She took the coat and put it beneath her elbow, where she could feel it while watching the stairs.
+
 Ava took the first watch. When Gabriel tried to stay beside her, she pointed him toward his blanket. He slept until she woke him for the changeover. Neither heard the cans move. At dawn they packed the lantern and took the alarms down.
 
 Morning exposed what darkness had hidden: buckled streets, stripped towers, and vines spanning whole intersections. When the mist thinned, the hospital emerged ahead, its upper floors sagging beneath alien growth.

@@ -56,6 +56,10 @@ Gabriel came around the table. He stopped an arm’s length away, close enough f
 
 Ava had wanted the words. Now that they existed, fear arrived with them.
 
+She could no longer pretend she had misunderstood a glance. Nor could she retreat into the comfortable misery of believing he would never want her. He stood close enough to touch, tired and badly prepared, offering something she could actually lose.
+
+Part of her wanted to ask him to say it again. A more frightened part began assembling reasons he should take it back. She hated how quickly that part could sound sensible.
+
 “You’ve seen what happens to me.”
 
 “Yes.”
@@ -82,7 +86,11 @@ Gabriel reached toward her face and stopped. “Can I kiss you?”
 
 His first attempt caught the corner of her mouth because she was smiling. The second did not.
 
-He kissed her carefully at first, as though care meant holding back. Ava caught the front of his shirt and pulled him closer until the table pressed into her hip. Soil spilled from a pot behind them. Neither looked.
+For weeks she had imagined what she would do. None of the imagined versions included the absurd difficulty of knowing where to put her nose. Then his hand settled at the back of her neck, and thinking became less useful.
+
+She liked the roughness of his cheek. She liked finding him less certain than he sounded across a radio, the small adjustment he made when she tilted her head. He wanted this too. She could feel him trying to get closer without crowding her, and a quick, almost giddy satisfaction passed through her. She had done that to him by wanting him back.
+
+His next kiss was still careful. Ava caught the front of his shirt and pulled him closer until the table pressed into her hip. Soil spilled from a pot behind them. Neither looked.
 
 When they separated, Gabriel rested his forehead against hers.
 
@@ -105,6 +113,14 @@ Inside Gabriel’s quarters, certainty became harder.
 The room contained a narrow bed, a rescue coat hooked beside the door, and a stack of manuals under one leg of a crooked desk. Ava had imagined something more revealing. Perhaps this was: he owned almost nothing he could not abandon during an alarm.
 
 Gabriel removed his shirt and winced when the fabric pulled at the bruising along his ribs. Ava touched the yellow edge of the injury.
+
+She knew his body through damage before she knew it through anything else. Dressings, torn sleeves, the places he guarded when he stood. Now she let herself look at the unhurt parts too: the slope of his shoulder, a pale patch where clothing usually covered him, the uncertain smile he gave when he caught her staring.
+
+“What?” he asked.
+
+“Nothing.” She stopped herself. “I like looking at you.”
+
+The admission felt more exposing than the clothes she was about to take off. He smiled properly then, and she wanted to be the reason for that again.
 
 “Tell me if I hurt you.”
 
@@ -140,13 +156,31 @@ Ava almost covered herself.
 
 She drew him up and kissed him again.
 
+His attention had been so careful that she had nearly mistaken it for reluctance. Now she could feel the effort in that care. She wanted to tell him that he did not have to make himself distant to be kind. The words came out less neatly.
+
+“You can want me.”
+
+Gabriel drew back just enough to look at her. “I do.”
+
+“Then let me notice.”
+
+He kissed her without the earlier hesitation. Ava stopped keeping track of how she must look, the angle that concealed a scar, the light behind her. She was still shy. She could be shy and draw him nearer. There was pleasure in discovering that her own wanting could be answered without being taken out of her hands.
+
 The worn sheets caught beneath Ava’s knee. Gabriel laughed into her shoulder when his injured ribs objected, and she called him an idiot before kissing him again. They made love slowly, telling each other what hurt and what they wanted. Fear returned in brief, unwelcome flashes. Desire remained her own.
 
 When pain sharpened unexpectedly, she said, “Wait,” and he stopped at once.
 
 They breathed together until she pulled him back.
 
+The pause had not emptied the room of desire. That surprised her. She had expected a broken mood, awkward apologies, perhaps the end of the night she had wanted so badly. Instead she could still hear him close to her and feel her own wish to remain close. She did not have to begin again as a braver woman.
+
 Afterward, Ava lay on her side with one leg across his. Sweat cooled at the back of her neck. Gabriel rested his hand on her arm. She moved it to her waist and kept it there.
+
+She was hungry. The discovery made her laugh under her breath; after everything she had been afraid to want, her body had produced an ordinary complaint. Gabriel asked what was funny, and she told him. He offered half a ration from the desk drawer as if it were a delicacy.
+
+They ate it in bed, catching crumbs in a fold of the sheet. Ava found herself thinking about tomorrow’s corridor, the mess hall, whether he would reach for her hand with other people watching. She wanted the private night to survive daylight. She was not ready to ask how.
+
+Instead she kept her leg across his when he reached to put the wrapper away. He settled back against her without being called.
 
 “Thank you,” she said.
 

@@ -34,6 +34,10 @@ One of the transport team’s leaders shouted over the chaos, their voice breath
 
 “Help me move them.” The leader released her sleeve. “That side.”
 
+Gabriel was still firing. Ava wanted to turn toward him so badly that the injured civilian became, for one shameful instant, a weight keeping her from the person she loved.
+
+The man tried to stand without her and nearly fell. She caught him beneath the arm. He was frightened too; she could hear him trying to apologize for how slowly his feet moved. She told him where to put the next one. Gabriel had given her the same kind of instruction when she could manage nothing larger.
+
 Ava put a civilian’s arm over her shoulder and followed the retreating team, forcing a reaching claw aside with her blade. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
 
 Gabriel appeared moments later, his rifle smoking as he backed into the alley. “Let’s move!” he ordered, his voice sharp with urgency.
@@ -55,3 +59,7 @@ The transport team leader nodded. “We fall back to the safe zone. It’s not f
 Gabriel exchanged a glance with Ava, his jaw tight. “Then let’s move. Stay sharp, and stay close.”
 
 Ava helped retighten the injured man’s mask before they left. He could walk if someone kept an arm around him. She passed her research pack to Gabriel and took the man’s weight.
+
+The man tried to keep his damaged side away from her. When she told him to lean, he did, with an abrupt trust that frightened her more than his hesitation. He could not know how tired her hand had become.
+
+She asked the team leader to watch them on the turns. Then she shortened her stride until his feet could follow. Gabriel’s back remained visible ahead, moving each time she looked up.

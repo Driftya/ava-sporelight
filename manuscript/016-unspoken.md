@@ -34,6 +34,10 @@ Ava’s hand stopped above the jars. “You could have started with that.”
 
 Gabriel had been gone for six days on a supply run to two abandoned outposts. Six days was not long by the crew’s measure. It was long enough for Ava to notice the absence of his boots outside the greenhouse, his habit of stealing the bitter leaves she told him were not ready, and the way every unfamiliar engine note made her look toward the docking bay.
 
+She had begun saving things to tell him. Marcus’s wrench. A leaf that smelled unexpectedly of lemon when crushed. The argument she had won with Cora and the better answer she had thought of afterward. By evening the list could make his absence feel crowded.
+
+It irritated her that she knew which shirt he wore off duty. She could remember the stretched collar, the dark patch where he had carried something wet against his shoulder. Yesterday, washing soil from her forearms, she had imagined his hands there and turned the tap off too hard. There had been nothing frightening about the thought until she realized she wanted to keep it.
+
 “They’re safe?” she asked.
 
 “Safe, irritated, and one axle short of a smooth ride home. Jenna expects them tomorrow.” Marcus watched her turn one of the seed jars in her hands. “You know, you could ask him why he does this.”
@@ -148,6 +152,12 @@ Gabriel did not tell her they would have been proud. He looked down at his injur
 
 The plainness of it undid her.
 
+She had spent the afternoon arguing about water with a woman who could still say *my sister* and remember a cooking pot. Ava wanted one object that belonged that certainly to her parents. A voice, a coat, the way one of them would have stood in a doorway. The harder she reached, the less reliable each fragment became.
+
+“I’m forgetting them,” she said. “I don’t even know how much I’ve forgotten.”
+
+Gabriel shifted beside her, but there was no answer he could offer. She was grateful and furious that he understood that.
+
 She covered her face. Gabriel moved closer, then stopped before touching her.
 
 “May I?” he asked.
@@ -177,6 +187,16 @@ Gabriel swore and jerked upright. Ava laughed so hard she had to brace a hand ag
 He pointed at her as if promising retaliation, but he was laughing too.
 
 The almost-kiss remained between them, altered but not erased.
+
+In her quarters that night, Ava undressed and stood before the small mirror with her shirt still in her hands. The silver in her hair was brighter here than beneath the grow lamps. She gathered it back, let it fall, tried the face she thought she had made when he looked at her mouth. It looked ridiculous practiced alone. She smiled anyway.
+
+Then she saw the marks below her ribs and lowered the shirt in front of them. Did wanting to be seen mean she had to be ready for him to see everything? She had no idea what she would do if his expression changed. Pity might be worse than disappointment. She could imagine surviving disappointment by being angry.
+
+Someone passed outside. Ava pulled the shirt back on, though the door was shut, then sat on the bed with her bare legs tucked beneath her. She opened the journal past the crop records.
+
+*I wanted him to kiss me.*
+
+There it was. No mention of being rescued, no argument about whether she deserved it. She touched the end of the sentence with the pencil, tempted to add an explanation, and closed the book instead.
 
 Over the next several days, Ava found reasons to work near the vehicle bay when Gabriel had a shift. He found reasons to inspect irrigation fittings that had not leaked once. Neither mentioned the water tank.
 

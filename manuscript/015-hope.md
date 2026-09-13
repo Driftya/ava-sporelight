@@ -42,6 +42,22 @@ For a second, only the fans spoke. Then one corner of Cora’s mouth lifted.
 
 It was not welcome. It was a rule, cleanly given, with room inside it for a future invitation. Ava found she could live with that.
 
+While Cora went to fetch a pair of smaller boots, Ava studied the crates outside engineering. Several carried the same shipping name beneath crossed-out destinations: Northern Coalition. On one, three different hands had amended the count.
+
+“They supply us?” she asked when Cora returned.
+
+“Sometimes. They keep settlements running up north. We bring parts, they have things we need. When the inventory agrees with what’s in the box.” Cora set the boots down. “Those cost us a repaired pump.”
+
+Ava drew back her foot.
+
+“The crate,” Cora said. “I’m not charging you rent on your toes.”
+
+She crouched to try them. Someone had worn the leather smooth inside the heel. Another woman had needed these, tied them before a shift, perhaps hated the same seam now pressing against Ava’s ankle. She found herself wondering where that woman was and then made herself stop. Every object aboard could become a missing person if she let it.
+
+“Better,” she said, standing.
+
+Cora watched her take three steps. “Tell me if they rub.”
+
 Dr. Malik was easier. He met them in the medical bay and asked how she felt without reaching for an instrument.
 
 “Fine,” Ava said.
@@ -114,6 +130,12 @@ The room loosened by degrees. No one apologized. No one offered Ava another seat
 
 Afterward, Ava hid in an unused cargo hold.
 
+Before she reached it, she stopped in a washroom and checked that it was empty. There was food caught between two teeth. She stared at it in the scratched mirror, then began to cry with an anger that made the first sound almost a laugh. She had sat before all those people trying to answer for the dead, and part of her was humiliated because she had looked untidy.
+
+She rinsed her mouth. Her face was still her face in small places: the asymmetry when she pressed her lips together, the way she lifted her chin to inspect a mark. She could recognize those things and dislike the unfamiliar eyes above them. No one was here to tell her they were beautiful.
+
+On the way out she smoothed her hair, then let her hand fall. She was tired of preparing a version of herself other people might tolerate.
+
 It smelled of dust, machine oil, and old canvas. Empty rack frames divided the room into narrow aisles. The carrier’s vibration came through the floor here without carpet or wall panels to soften it.
 
 Gabriel arrived carrying her abandoned cup and a tray gone cold.
@@ -166,7 +188,11 @@ Cora inspected the hold that afternoon. She complained about drainage, power dra
 
 Marcus brought tubing and mismatched planting trays. Rhea found a coil of copper line. Malik surrendered a dented water tank after making Ava swear she would not drink from it. Even Cole appeared once in the doorway, left a sack of compost without speaking, and did not return.
 
-The first green hook broke the soil eleven days later.
+For ten days, Ava imagined having to tell Cora she had wasted the power. She measured the dampness with a fingertip long after the readings agreed, then worried that checking had disturbed the seeds. There were evenings when the work felt so much like her old life that she turned toward the door expecting to go home afterward.
+
+Once she stood there with an empty tray in her hands, unable to remember what she had intended to do next. Home was a few corridors away, she told herself. It was still an instruction she had to give.
+
+The first green hook broke the soil on the eleventh day.
 
 Ava was alone when she saw it. She knelt until her knees hurt, afraid that standing might disturb the thing. The stem was crooked and one cotyledon had split inside the seed coat. It was not beautiful. It was alive.
 

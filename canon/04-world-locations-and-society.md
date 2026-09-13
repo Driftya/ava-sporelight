@@ -6,7 +6,8 @@
 2. [Established Locations](#established-locations)
 3. [Survivor Society](#survivor-society)
 4. [Technology Level](#technology-level)
-5. [Reserved World Material](#reserved-world-material)
+5. [Regional Names and Faction Background](#regional-names-and-faction-background)
+6. [Reserved World Material](#reserved-world-material)
 
 ## The Fallen World
 
@@ -73,8 +74,19 @@ The setting combines rare surviving high technology with widespread scarcity.
 - Advanced systems are difficult to replace. A functioning device is more often inherited or repaired than newly manufactured.
 - Technology should feel physical, worn, rationed, and dependent on skilled crew.
 
+## Regional Names and Faction Background
+
+The author's 2026-09-13 request permits selective use of development/game locations and factions while expanding the novel. The following limited background is supporting canon, introduced in chapters 12, 15, 19, 24, and 34:
+
+- **The Frozen North:** a survivor name for the cold refuge region, where fortified settlements and research stations contend with scarce supplies. Cold suppresses spores; it does not guarantee safety. This does not establish a country, continent, or the fortress's proper name.
+- **The Ruined Heartland:** a regional name used on the hospital mission map for the broken urban and highway landscape through which the team travels. The hospital city's name and coordinates remain unknown.
+- **The Northern Coalition:** an organization maintaining order and human settlements in the cold regions. Its supply administration is part of the wider world. This does not establish that it commands Haven’s Vanguard or controlled the destroyed fortress.
+- **The Crimson Syndicate:** black-market resource traders who use scarcity to gain power. Crew knowledge of that trade gives context to the potential sale of medical research. No Syndicate membership, contact, purchaser, or commission is established for Harrow.
+
+Scene-level examples of barter, repaired equipment, shared growing space, and supply records elaborate existing scarcity and survivor society. They do not establish universal prices or currency. The manuscript introduces no faction campaign or new destination beyond its established journey.
+
 ## Reserved World Material
 
 Large regional lists, named factions, shops, equipment economies, and mission hubs from game or sequel development are not automatically canon to this novel.
 
-The following names are specifically reserved until used or approved: The Northern Coalition, The Crimson Syndicate, The Horizon Initiative, The Frostborn Vanguard, The Sporelands, The White Graveyard, The Lost Ocean, and the wider region taxonomy.
+The Horizon Initiative, The Frostborn Vanguard, The Sporelands, The White Graveyard, The Lost Ocean, and the remaining region taxonomy are reserved. The limited promotions above do not import game alignments, faction rivalries, headquarters, capture plots, equipment systems, or sequel events.

@@ -32,6 +32,8 @@ She entered the command room and touched Gabriel’s boot. He woke with his hand
 
 They found the picked lock, the open case, and Harrow’s empty bedroll. Gabriel pulled his mask from its pouch and sealed it before they went beyond the perimeter.
 
+Ava looked at the place where Harrow had slept. She remembered the relief when he defended her in the garage, how gratefully she had accepted a few words from a frightened stranger. Now she wanted to go back and refuse them. It angered her that he could take that small memory from her along with the pages.
+
 Gabriel did not waste time swearing. “North maintenance corridor. He asked about it when we arrived.”
 
 They caught sight of Harrow at the far barricade. He had disabled one section of the perimeter alarm and squeezed through a drainage gap beyond it.
@@ -79,6 +81,10 @@ The mutation answered her terror. Amber light threaded both arms. Broken tissue 
 She could tear through the blockage. She could follow Harrow. The thought arrived whole and bright: catch him, open him, take back what was theirs.
 
 Gabriel made a wet sound when he breathed.
+
+She knew him breathing in sleep, the faint interruption before he rolled onto his side. This sound belonged to somebody hurt beyond anything she could judge. She wanted him to complain, to tell her she was leaning too hard on his ribs. Anything she could answer.
+
+The bright thought of pursuit remained. She could feel how readily she might follow it if she looked away from him. She kept her eyes on the dust moving near his mouth.
 
 Ava chose him.
 

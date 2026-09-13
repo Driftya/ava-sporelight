@@ -40,6 +40,14 @@ Harrow nodded, his face pale. “I just… I hope it’s worth it.”
 
 Ava looked at Harrow’s notebook. She had needed Gabriel to help wrap her hand; Harrow had not once offered to carry her pack.
 
+She could ask. The thought irritated her because it was true. She had been waiting for him to notice, storing each failure as another reason to distrust him, while pretending the weight was nothing.
+
+“Hold this while I adjust the strap.”
+
+Harrow looked up. She eased the pack down between them before he could misunderstand. He took it with his free hand, the other still pressed over the notebook.
+
+For a moment her shoulder lifted without resistance. The relief was so great she wanted to sit and leave the pack with him. Instead she tightened the fastening, took it back, and said, “Thanks.” He had done one thing she asked. She could allow that much without deciding he was safe.
+
 A sudden noise shattered the quiet—the unmistakable clicking of a mutant echoing through the hallway. Gabriel motioned for silence, his rifle trained on the door. Ava gripped her blade tightly, her muscles coiled and ready to strike.
 
 The door creaked open slowly, and a grotesque form stepped into view. The mutant’s twisted body moved with unnerving speed, its glowing eyes locking onto the trio. Gabriel fired when it blocked the only clear exit. Spores lifted from the wound as it fell. His detector chirped; Harrow clamped both hands over his mask seal.

@@ -10,11 +10,25 @@ Ava stood inside the transport’s open loading hatch while the crew checked a l
 
 Jenna had cleared her to move through the staff compartments. The hatch was as far as she could go. Ava put one hand around the rail and felt the difference between a boundary she could see over and a locked door.
 
+Plants grew behind the settlement’s only lit windows. She could see trays raised on blocks to keep them off the cold floor, a reflector pieced together from dull metal. Someone moved between the leaves carrying a jug. Ava followed that figure until it disappeared behind a curtain. She wanted to know what they were growing. The wish came before she remembered she could not go down and ask.
+
 Gabriel waited a few paces away. He had been quiet since they arrived. Whenever she looked toward him, he found something on the landing pad to inspect.
 
 She turned to him, the wind tugging at her silver-threaded hair. “It’s… quiet out here,” she said softly.
 
 “It is,” Gabriel replied, stepping closer. “You don’t get much peace like this anymore. Not with what’s out there.”
+
+“What do they call this place?”
+
+“This settlement? I’d have to check the landing log. The maps put all of this in the Frozen North.”
+
+All of this. She had once written the position of a single tree carefully enough to find it again. Now she had a name that covered an unknown expanse of snow.
+
+“And people live here by choice?”
+
+“Some. Some stay wherever the transport can put them down.” He pointed to a patched roof beyond the growing room. “Hard to leave once you’ve made a place warm.”
+
+Ava looked at the lit windows again. From the hatch the settlement had seemed empty. Someone had carried water through that cold, kept the lamp working, hung a curtain for the night. She had mistaken a life she did not recognize for an absence of life.
 
 Ava nodded, her gaze drifting back to the horizon. But her mind wasn’t on the present—it was on fragments of something else, something buried deep in her memory.
 
@@ -47,6 +61,10 @@ Ava clenched her fists, her nails digging into her palms.
 Gabriel noticed her distress and moved closer, his voice gentle. “You don’t have to talk about it if you’re not ready.”
 
 “I don’t want to remember,” Ava said, her voice cracking.
+
+It was only partly true. She wanted the person who had walked into the hospital. She wanted to hear herself complain about waiting, remember the last thing she had eaten, know whether she had left a light on at home. Instead her mind offered the pressure of a thumb against her wrist with terrible precision.
+
+She could not bear the thought that the men who took her might remain clearer than anyone who had loved her. She held the rail until the cold hurt and tried again for the greenhouse labels. For a moment she could see the tilt of her own writing. She stayed with it as long as she could.
 
 Gabriel placed a hand on her shoulder, careful not to startle her. “It’s okay to feel that way. Whatever happened to you, it wasn’t fair. You didn’t deserve it.”
 

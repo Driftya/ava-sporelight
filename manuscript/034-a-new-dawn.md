@@ -10,11 +10,21 @@ Two years after the first blood draw, Ava watched a vaccine cooler being strappe
 
 Producing it had taken more work than the first vial promised: assays repeated, methods revised, further samples taken only when Ava agreed. Now the carrier brought doses to the same places it had once visited only to evacuate. People could begin repairing a home without knowing they would have to abandon it. Filters and quarantine checks remained part of every stop.
 
+On the cart, a Northern Coalition supply form had been fastened beneath the carrier’s own list. The same settlements appeared in different orders. Ava had learned how much work could hide inside the word *distribution*: a road lost to weather, a cooler waiting for a repaired connection, an argument over how long a clinic could hold its remaining stock.
+
+She asked the crew member strapping down the cooler to leave her a copy of the final route. There were places she had only learned by growing herbs for them. She wanted to know which would have to wait.
+
 Ava sat in the ship’s small lounge, her hands resting protectively over her rounded belly. She smiled as Jenna placed a gentle hand on her shoulder.
 
 “How are you feeling today?” Jenna asked, pulling a chair close enough to sit without blocking the aisle.
 
 Ava’s smile widened. “Excited. Nervous. Everything, all at once.” She glanced down at her stomach. “I can’t believe we’re so close to meeting her.”
+
+Some days she meant exactly that. Others she lay awake rehearsing the moment the baby arrived and someone failed to speak. She had learned to read a medical room by its silences. Pregnancy had given that old skill new things to frighten her with.
+
+She and Gabriel had talked about the uncertainty before choosing this. Choosing had not settled it forever. She could still wake angry that a decision other people made in hope required her to imagine all the ways her own body might betray a child.
+
+Then the baby would shift, pressing against her ribs with what felt like an impatient heel, and Ava would put her hand there. Whoever this small person became, she already had a talent for interrupting an argument.
 
 Jenna glanced at the folded list on Ava’s knee. “Malik has checked the delivery supplies three times. I’ve checked them twice.”
 
@@ -38,7 +48,7 @@ The teasing continued throughout the day, with the crew affectionately ribbing G
 
 ***
 
-That evening, Gabriel joined Ava in their quarters. She was sitting on their bed, flipping through a worn notebook filled with sketches and plans for the ship’s garden. Gabriel paused in the doorway, just watching her for a moment.
+That evening, Ava was sitting on their bed with the garden notebook open on her knees when Gabriel stopped in the doorway. She held a page with one thumb and waited for him to come in.
 
 “You okay?” he asked, stepping inside.
 
@@ -57,6 +67,14 @@ He looked down at their hands.
 “Malik and Jenna will be there,” she continued. “Karrow knows what to watch for with my blood. I want you where I can reach you.”
 
 “That I can do.”
+
+She leaned across to kiss him. The baby moved between them, and Ava had to change the angle with a muttered complaint. Gabriel laughed, then kissed her properly.
+
+Lately everyone touched her with a purpose: to help her stand, check a measurement, feel the child move. She wanted his hand against her because he liked having it there. When he started to ask whether she needed another pillow, she caught his wrist and drew it around her waist as far as it would comfortably go.
+
+“Stay for a minute.”
+
+He did. She rested against him, relieved that she could still want this ordinary nearness without having to be cheerful about her aching back.
 
 Her reassurance seemed to ease his fears, and they spent the rest of the evening talking about their daughter. They imagined what she might look like, what her first words would be, and how they’d teach her about the world.
 
@@ -82,9 +100,17 @@ He shut his mouth and stayed.
 
 Hours later, their daughter was born—a tiny, perfect bundle of life. Gabriel held her in his arms, tears streaming down his face as he looked at Ava.
 
+Ava listened for the next cry. Relief had arrived before any thought she would later be able to put into words: the child was out, someone was holding her, the room was working around them without that dreadful pause. Then exhaustion washed through, leaving Ava unable even to lift her head for a better look.
+
+“Bring her here,” she said.
+
+Gabriel moved close enough that she could see the damp crease beside one closed eye. Ava touched the baby’s cheek with the back of a finger. She had imagined recognition, a certainty that would make her a mother at once. Instead she met someone entirely new. She would have to learn what each sound meant, where to put her hands, how to give care while being this tired.
+
+The baby turned toward the touch. Ava began to cry.
+
 “She’s beautiful,” he said, his voice thick with emotion.
 
-Ava smiled, her exhaustion overshadowed by pure joy. “She’s ours.”
+Ava smiled through the tears, too tired to wipe her face. “She’s ours.”
 
 Someone cheered outside the medical bay and was immediately hushed. Ava barely heard it. She was watching Gabriel learn to support the baby’s head, his broad hand moving with a care that made her ache in a different way.
 

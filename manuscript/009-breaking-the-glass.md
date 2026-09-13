@@ -62,6 +62,16 @@ Hours later, Jenna’s discarded suit lay on a chair between them. Ava had stret
 
 Inside the chamber, Ava stared at her hands. He had heard her begging Jenna not to hurt her while she nearly crushed her. He did not know how to put both facts in the same report.
 
+She rubbed her palms on her knees, then stopped to examine them. Gabriel had seen people do that after pulling someone from wreckage: searching for the moment when a useful movement had become an injury. He could not know what she remembered. The intercom gave him only the small drag of fabric and, once, a word too low to distinguish.
+
+He leaned toward the speaker.
+
+“Sorry,” she said again.
+
+Jenna looked up. Ava was facing the empty place where the scanner had fallen, apparently unaware they could hear her.
+
+Gabriel took his hand off the volume control. He had wanted her to explain, to say something that would make the torn suit easier to look at. Now he felt he had opened a door she had tried to close. He turned the speaker down far enough to leave her whisper alone.
+
 “She almost killed me, Gabe,” Jenna murmured, her tone unsteady, the weight of the moment pressing down on her. She hugged her arms around herself as if trying to shake off the lingering fear.
 
 “She stopped,” he said. Then, looking at the seam again, “When I pulled you away.”

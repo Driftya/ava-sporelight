@@ -32,6 +32,12 @@ Harrow kept looking at her naked face.
 
 He turned away.
 
+Ava regretted snapping at him, then resented the regret. She could feel sweat running beneath her collar. She was tired of explaining that the things which spared her could still hurt.
+
+Above the alley, a curtain hung through a broken window, caught in leaves that had grown around the fabric. The flowers were small and translucent. She slowed before she could help it. Light passed through their petals almost without colour, picking out the branching veins.
+
+She wanted a lens. A minute to look without somebody watching the street for teeth. The old eagerness returned so cleanly that for a few steps she forgot to be ashamed of finding the growth beautiful. Then Gabriel stopped at the corner, and she caught up without reaching for a specimen.
+
 Gabriel checked the paper map against the hollow towers ahead. “At this pace, we reach the hospital before dark.”
 
 He led them into the shade of a narrow alley. Ava watched the vines instead of the windows. Most leaves had turned their pale undersides toward the heat. Near the far end, one creeper trembled against the still air.
@@ -97,6 +103,10 @@ They crossed the next street beneath the shadow of a collapsed rail line. As the
 His eyes stayed on the hospital. “I needed to.”
 
 Ava understood that answer well enough to distrust it.
+
+Since Harrow said *cure*, she had been imagining her hands without the light beneath them. It was a foolish picture: no evidence, no method, barely a claim. Still she had gone further. A mirror in which she recognized her eyes. Gabriel asleep close enough that she did not have to consider where a spike might grow.
+
+She brought her attention back to Harrow’s worn mask. He did not know what was in the building. Neither did she. Wanting him to be right would make him easier to believe, and she could already feel herself doing it.
 
 Gabriel folded the map and checked the seal of his mask. “We find the records. We copy what we can. If the building turns, we leave.”
 

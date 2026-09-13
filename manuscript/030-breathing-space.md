@@ -32,11 +32,25 @@ Ava sighed, her fingers tightening around the hilt of her blade. “I just… I 
 
 Ava nodded. She would tell Malik about the pillar. She would also have to tell him how long she had needed to hold herself against it.
 
+“There was a moment when it felt easier,” she said.
+
+Gabriel waited through the rattle of the vehicle.
+
+“After I changed. I wasn’t tired in the same way. I didn’t have to work out what to do.” She looked at her hand. “I wanted that part.”
+
+His eyes went to the dressing, then back to her face. “Tell him that too.”
+
+She had hoped he would say everyone felt something like it in a fight. Give it a familiar name, make it small enough to put away. He did not, and she disliked him briefly for leaving her with what she had admitted.
+
+Then the vehicle jolted and his knee steadied hers. She left it there.
+
 The transport slowed as they approached a temporary checkpoint—a small outpost built into the remnants of an old warehouse. The team inside waved them through, their weapons at the ready. The vehicle pulled to a stop, and the survivors began to disembark, their movements slow and weary.
 
 Gabriel and Ava stepped out last. The outpost crew took them through decontamination and checked the air in the inner court before clearing them to remove their masks. Cool evening air reached Ava’s sweat-damp collar. Beyond the courtyard, guards stood behind reinforced steel barricades.
 
-Harrow emerged from the vehicle, clutching the notebook tightly. His eyes darted around the outpost, taking in every detail. “What now?” he asked, his voice tinged with unease.
+The crew found her a clean shirt while her torn things went with the contaminated gear. Gabriel’s coat came back from cleaning damp at the seams; she returned it without trying to brush the damage smooth. It had covered her when she could not bear being seen. She wanted to thank him for that, but he was already fastening it, and she let the moment pass.
+
+Harrow joined them in the inner court, clutching the notebook tightly. His eyes darted around the outpost, taking in every detail. “What now?” he asked, his voice tinged with unease.
 
 “We regroup,” Gabriel replied. “Jenna’s arranging for reinforcements. Until then, we wait.”
 
@@ -57,6 +71,14 @@ Gabriel’s brow furrowed. “Sometimes. But it doesn’t help much.”
 “When we get back.”
 
 He nodded. “I’ll leave the journal out.”
+
+She had begun to remember the reason she had left the washing. A specimen, a long day, the thought that tomorrow would have room for whatever she failed to do tonight. She could almost feel the impatience of that woman. It pleased her to remember an impatience nobody had caused by hurting her.
+
+“I wasn’t always very sensible,” she said.
+
+Gabriel glanced at her. “That part survived.”
+
+She laughed before deciding whether to be offended. For once he had answered as though her old life belonged in an ordinary conversation.
 
 She hesitated, her fingers brushing over the hilt of her blade. “I just worry… When I lose control, it feels like I’m slipping away. Like the person I used to be is fading, and all that’s left is—”
 
@@ -80,7 +102,9 @@ Ava’s lips twitched into a faint smile, though her eyes remained sad. She lean
 
 Gabriel stepped closer, his hand brushing against hers before he wrapped his arms around her in a firm embrace. “I’m not going anywhere, Ava,” he murmured, his voice steady and warm.
 
-She rested her head against his chest, listening to the steady rhythm of his heartbeat. For a moment, the chaos of the world seemed to fade. Ava tilted her face upward, meeting his gaze, and without hesitation, Gabriel leaned down, their lips meeting in a gentle but lingering kiss. The kiss was a quiet promise, filled with unspoken words they didn’t need to say.
+She rested her head against his chest, listening until she could distinguish his breathing from the wind at the barricade. Ava tilted her face upward, meeting his gaze, and Gabriel leaned down to kiss her. She wanted to be alone with him. The wanting felt almost extravagant after the day they had survived, and she held him closer because she could still feel it.
+
+She had thought she would want to hide her body after the factory. Part of her did. Another part wanted the familiarity they were only beginning to learn: his weight beside her, the unguarded face he showed when she touched him. She could not explain how both could be true while her skin still hurt. She kissed him again, more firmly, before either of them tried to turn the moment into reassurance.
 
 When they pulled apart, Gabriel brushed her cheek with his thumb. Ava caught his hand and kissed the knuckle where his glove had rubbed it raw.
 

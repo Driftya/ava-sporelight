@@ -34,11 +34,25 @@ Dr. Laird shook his head slowly. “We’re doing everything we can to understan
 
 Ava stared at the folder. Dr. Laird had closed it before saying *terminal*, as if there were nothing left to consult.
 
+She waited for the rest of the sentence. Terminal unless they tried something. Terminal according to a test that might be wrong. The doctor was still there, still holding the folder; surely he had another word to give her.
+
+Yesterday she had wanted a bath. She had been annoyed about the weight of her equipment. Those complaints now seemed to belong to an impossibly fortunate woman, someone she would have begged to exchange places with. She could not understand how she had been that woman so recently and failed to notice.
+
+“How long?”
+
+“I can’t give you a reliable answer yet.”
+
+Then how could he give her the other one? She wanted to shout it. Instead she found herself trying to sit straighter, to look like a patient worth the trouble of another test.
+
 “The sample,” she said. “Someone needs to seal my lab.”
 
 He wrote that down. She wanted him to cross out the diagnosis instead. Two nurses arrived to take her to a private room.
 
-That night, she watched fluid collect and fall inside the IV chamber. She counted the drops until she lost her place, started over, and eventually slept. In her dreams she kept trying to close the sample container. The lid would not catch.
+That night, she watched fluid collect and fall inside the IV chamber. She thought about asking someone to contact her family, then about the words they would have to use. No diagnosis she could explain. No treatment she could ask them to bring her home after. She kept postponing the request until the next nurse came, as though there might be better news by then.
+
+Once the footsteps outside passed without stopping, she cried. Quietly at first, because she could hear someone talking in the next room and felt absurdly rude. Then she could no longer manage quietly. She wanted her own bed and the option of wasting another day. She wanted years she had never made plans for.
+
+She counted the drops until she lost her place, started over, and eventually slept. In her dreams she kept trying to close the sample container. The lid would not catch.
 
 Heavy footsteps woke her. Three figures entered without turning on the overhead light. Their masks were not the ones the nurses wore. Ava reached for the call button.
 

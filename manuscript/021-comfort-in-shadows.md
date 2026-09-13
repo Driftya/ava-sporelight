@@ -28,6 +28,14 @@ Ava sat beside him, her legs crossed beneath her. She glanced at him, noticing t
 
 He looked ready to argue, then gave it to her.
 
+There was a crease down one side of his face where he had rested it against the rifle sling. Ava wanted to smooth it with her thumb. In their quarters she could have done that, then drawn him down beside her until he stopped pretending he was awake. Here people needed breakfast and the space at the door needed watching.
+
+“You don’t have to earn sleep,” she said.
+
+“Neither do you.”
+
+She looked at him. It annoyed her that he had an answer, and more that it was a fair one. They divided the remaining food before either could turn care into another contest.
+
 Morning light reached the dented cans beyond the cabinet. None had moved.
 
 “Do you think they’ll trust me?” Ava asked, watching the survivors begin to wake.
@@ -53,3 +61,13 @@ Gabriel raised an eyebrow but didn’t question him. “Alright. Just stay close
 Harrow checked the survivors behind him before answering. “I’ll tell you on the way.”
 
 She did not like that answer. For now, there were water containers to fill. She set the detector where she could see it and sent Gabriel to sleep.
+
+The older man brought one container to the entrance and stopped just short of her hand. Ava put it down between them after filling it. He picked it up by the same handle.
+
+“How much for each?” he asked.
+
+“One cup now. We’ll count what’s left afterward.”
+
+He nodded and went to distribute it. She watched him measure a little less for himself. Last night she had wanted him reduced to the man who called her a monster; it would have been easier to dislike him that way.
+
+When he came back, she told him he could take the full cup. He did not thank her. He did take it.

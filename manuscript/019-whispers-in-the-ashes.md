@@ -12,6 +12,10 @@ Ava found Gabriel checking his pack beneath the observation-deck stairs. He look
 
 She caught his hand briefly before they went down. “For the briefing.”
 
+His thumb moved once against hers before he released her. Nobody stopped carrying supplies. Nobody looked astonished that she had touched him. She had imagined their new intimacy would be visible on her skin, as unmistakable as the amber veins; the crew’s indifference was almost disappointing.
+
+That morning he had kissed her while looking for a clean shirt. An absent-minded kiss, part of getting dressed. She had been thinking about it ever since. She wanted a hundred mornings casual enough to be forgotten, and could already tell she would remember this one too carefully.
+
 In the docking bay below, Jenna stood at the center of the bustling activity, clipboard in hand, her sharp eyes scanning every detail. She was a commanding presence, her voice cutting through the noise with practiced authority.
 
 “Ava, Gabriel,” Jenna called, spotting them as they approached. “We need to go over the plan one last time.”
@@ -31,6 +35,16 @@ Jenna shot him a look that was equal parts amusement and warning before turning 
 Ava nodded, the words both reassuring and a reminder of the burden she carried. “Understood.”
 
 “Good,” Jenna said, stepping back as the crew loaded the last of the supplies onto the transport vehicle. “Watch each other’s backs out there. The vehicle takes you to the road break; after that, you walk.”
+
+Ava stayed beside the map for a moment. The Ruined Heartland spread beneath Jenna’s route marks: highways ending in blank stretches, buildings identified by what could still be recovered from them. Hospital. Fuel store. Possible shelter.
+
+“What was the city called?” she asked.
+
+Jenna checked the margin. “This copy doesn’t say.”
+
+The omission hurt in a way Ava could not justify to a woman counting supplies. People had once given addresses here. Met someone at a corner, complained about the journey home. Now a city could be reduced to the things it might surrender before killing you.
+
+She traced the route without touching the fragile paper. At the hospital she would look for something that still bore its name.
 
 Two days later, the sun reached the street through gaps in a collapsed tower. Ava picked her way between panes of glass welded together by old heat. The vehicle was long behind them. Beside her, Gabriel checked his detector and shifted the weight of his pack.
 

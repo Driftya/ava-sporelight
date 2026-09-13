@@ -86,6 +86,14 @@ It was not permission. It was the answer she had asked for.
 
 Jenna began taking pages down from the wall. The meeting was over because Ava had said it was.
 
+In the corridor, Ava waited for Gabriel to catch up on his crutches. She wanted to ask him whether her refusal would change the way the crew looked at her. Karrow had said no sample would be taken. He had not said the disappointment would be easy to live beside.
+
+She pictured the greenhouse door, people collecting leaves without looking at her, a conversation ending as she entered. Then she recognized the scene. She was taking the old fear of losing her place and using it to answer a question nobody had yet asked.
+
+“I want to get out of this corridor,” she said.
+
+Gabriel nodded toward their quarters. She matched his pace instead of rushing ahead.
+
 In their quarters, she opened the journal to the entry about the first bean seedling. Gabriel sat on the floor with his back against the bed, giving his injured leg the space Malik had ordered.
 
 “The people who took me said I could save lives,” Ava said.
@@ -105,6 +113,12 @@ Ava glanced at him. “That metaphor was terrible.”
 “I live with a botanist. It creates pressure.”
 
 She smiled, then returned to the blank page. “I want to do it.”
+
+Before the meeting she had thought there would be one honest reason and a collection of reasons she ought to be ashamed of. She wanted the injured man from the subway to have a chance. She wanted Malik to have something better to offer the next patient. She also wanted to sleep without examining her hands when she woke, and to believe she might grow older beside Gabriel in a body she could still recognize.
+
+Nobody had promised that last thing. Karrow had spoken about assays, not a treatment for her. She made herself keep the distinction even while she wanted more than he had offered.
+
+She looked at the early greenhouse pages. The woman who wrote them had been frightened too. Ava could care about strangers and still want something for that woman. She could be curious about a result without forgiving the people who had made her afraid of a laboratory.
 
 Gabriel said nothing.
 
@@ -141,6 +155,10 @@ Dark red climbed the short tube and entered the vial.
 Gabriel released the band and removed the needle. “Done.”
 
 Ava pressed gauze to the puncture. Her body had already begun closing it.
+
+Her arm felt almost ordinary. She had imagined a great difference between the old needle and this one, something she would know at once in her skin. The prick had hurt in the same place. The difference was in the room: Gabriel waiting for her to move, Jenna putting the unused materials away, the door still open where Malik had cleared the path.
+
+She let herself sit a little longer. Nobody announced another phase. When she was ready, she lowered her arm.
 
 Karrow did not reach for the vial. He waited until Jenna placed it in a coded carrier and Ava nodded.
 

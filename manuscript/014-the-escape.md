@@ -16,6 +16,10 @@ Ava nodded, pulling open cabinets and stuffing medical kits, food rations, and w
 
 Ava kept looking behind them. At each intersection she waited for the others she had heard screaming. No one followed.
 
+Her bag struck her hip as she walked. Food, water, medical kits: things a person took because she expected another day. The weight of them felt presumptuous. Somewhere behind her were people who would never need anything again.
+
+She checked a half-open doorway while Gabriel watched the junction. An overturned chair, an empty coat, nobody she could reach. She called once, quietly. When no answer came, she followed him, carrying supplies she had already begun to think of as theirs.
+
 “We’re almost there,” Gabriel said. He kept scanning the path ahead, rifle stock tight against his shoulder, ready for trouble before it showed itself.
 
 When they reached the dock, it was a scene of destruction. Broken crates and abandoned vehicles were scattered everywhere. Several transport vehicles were destroyed, their frames twisted and charred. Gabriel scanned the area desperately.
@@ -54,6 +58,16 @@ Gabriel glanced at her. “Jenna’s resourceful. If anyone could get people out
 
 Gabriel gripped the steering wheel tightly. “We’ll make it.”
 
+She wished he had said it less firmly. She could bear his uncertainty; she had seen him afraid in the cell and had still opened the door. This confidence left her alone with what neither of them knew.
+
+“You can tell me when you don’t know,” she said.
+
+Gabriel kept his eyes on the rough ground. For several moments she thought he had not heard.
+
+“I don’t know how much fuel is left,” he said at last. “The gauge keeps sticking.”
+
+It was a smaller answer than she meant. She accepted it anyway. At the next bump, she leaned forward to watch the needle with him.
+
 Hours passed in relative silence, broken only by the hum of the engine. Across the frozen plain, Ava saw a bank of lights too broad to belong to their rescue transport. Gabriel picked up the radio. “Haven’s Vanguard. This is Gabriel. Two coming in from the fortress.”
 
 “We’re close,” he said.
@@ -89,6 +103,10 @@ The survivors murmured among themselves, uneasy glances darting toward Ava. Whis
 Gabriel’s jaw tightened. “You don’t know that,” he snapped, his frustration boiling over. “If it weren’t for her, none of us would even be here!”
 
 No one answered. One survivor drew a child behind his coat. Ava looked down at the red crescents still beneath her nails.
+
+She wanted to tell the child she would not hurt her. Her mouth had already begun forming the words when she remembered the guard’s hand trapped beneath his body. She folded her fingers into her sleeves instead.
+
+The child peered around the coat. Curious now, perhaps, or checking whether Ava had moved. Ava turned slightly to leave the way past her open. It cost her more than she expected to stand there and let them choose the distance.
 
 Jenna stepped forward, her expression softening. “Gabriel, I—”
 

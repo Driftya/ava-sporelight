@@ -12,6 +12,12 @@ A technician changed a setting on a ventilator. Ava watched the gloved finger mo
 
 She pushed herself upright. Someone had changed her into a thin hospital gown while she was unconscious. She pulled the open back together before approaching the glass.
 
+The ties were too short to knot where she could reach them. She tried twice, fumbling behind her, aware of the people on the other side. None looked embarrassed. That made it worse. Her bare back was an inconvenience only to her.
+
+She had undressed without thinking in her own room, left damp clothes over a chair, examined a scratch or a bruise because she wanted to know what had caused it. Now even turning to check her skin offered a new angle to whoever was watching. She wanted ten minutes unwitnessed. A towel. Something so small they might give it without a discussion.
+
+She nearly asked politely. The habit disgusted her, and she pulled the gown tighter instead.
+
 Ava pressed her palm against the glass. “What is this? Where am I?” she demanded, her voice hoarse. “Let me out!”
 
 No one responded. One of the figures—a woman, judging by her frame—briefly glanced at Ava before turning back to her tablet. Ava slammed her fist against the glass, but it didn’t even shudder under the force.
@@ -25,6 +31,10 @@ The intercom clicked off while she was still speaking.
 She backed away. At the hospital the dark lines had stopped below her elbows. Now they passed beneath the gown’s sleeves. The needle marks between them were disappearing.
 
 She traced one line with a fingertip. Heat followed its course beneath the skin.
+
+The closing wounds should have relieved her. She had spent yesterday terrified that her body was dying. Now it was repairing itself in front of her, and she wanted the old bruises back. A bruise at least belonged to something that had happened. These lines kept travelling.
+
+She turned her hand palm upward. The creases were still familiar. She followed the deepest one from its beginning to its end, refusing for a moment to look at anything the scientists would find interesting.
 
 “What are you doing to me?” she whispered, her voice trembling.
 

@@ -38,6 +38,12 @@ Jenna cut away the ruined shirt and cleaned the wound while Ava stood beside the
 
 The dressing reddened before she had finished fastening it. Ava watched Gabriel try to hide a flinch.
 
+She had been thinking about his mouth that morning. While he was bleeding somewhere beyond the carrier, she had been deciding whether to let her hand stay against his the next time they worked together. The contrast made her feel obscene, though she knew the thought had hurt nobody.
+
+“Two didn’t come back,” he said when Jenna turned to the tray.
+
+Ava looked at the dressing again. She could not summon those two people properly. Her relief that he was here took up too much room. She would learn their names, she decided, and listen when the crew spoke of them. For now she moved the water within his reach because it was something she could do without pretending to feel better than she did.
+
 She couldn’t stand by any longer.
 
 That evening, as Gabriel rested, Ava approached Jenna. “I want to help with the scavenging missions.”
@@ -51,6 +57,16 @@ Jenna studied her for a long moment before nodding. “I’ll talk to Gabriel. B
 “He can argue all he wants,” Ava said quietly. “I’m not changing my mind.”
 
 Gabriel wasn’t happy when he found out, but after hours of heated discussions, he reluctantly agreed. “If you’re going out there, I’m going with you,” he insisted.
+
+“I’m asking you to teach me,” she said. “I’m not asking you to become impossible to kill.”
+
+He looked away. She had meant to win the argument and hated the wound she found instead. For a while they listened to the medical bay’s ventilation.
+
+“You can be angry,” she said. “I was.”
+
+“Was?”
+
+She almost smiled. “Am.”
 
 ***
 
@@ -98,6 +114,10 @@ They survived that mission, but Ava couldn’t forget how close she had come to 
 
 Still, she refused to quit.
 
+That did not mean she wanted the next mission. In the training space, where nothing screamed back, she could want it very convincingly. At the airlock she sometimes wished for a fault in the vehicle, a delay nobody could blame on her.
+
+After the failed run, she wrote the retreat down before she wrote the attack: three steps, rubble under her heel, the handle. She had been able to count. The entry looked pitiful beside the pages of drills. She kept it because it was the part she had actually managed when it mattered.
+
 Gabriel didn’t give up on her either. After each mission, he reviewed what went wrong and how to improve. She worked harder, learning to anticipate her fear instead of running from it. She learned how to fight with control, how to channel her power without letting it consume her.
 
 On the next rescue assignment, she checked the route herself before Gabriel asked.
@@ -143,6 +163,8 @@ She opened her fingers. He put the gauze over her palm, and she pressed it down 
 “Then we practice that.”
 
 He wanted to say something else. She could see him looking at the soaked dressing.
+
+She wanted him to be proud of her. She wanted to hide the hand behind her back so he could be proud without that look. The two impulses belonged to the same exhausted minute, and neither made the wound hurt less.
 
 “Don’t,” she said. “I know what it cost.”
 

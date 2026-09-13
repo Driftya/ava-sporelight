@@ -66,6 +66,10 @@ Water knocked through the pipes. Harrow whimpered behind her. Gabriel stood clos
 
 Ava lowered the blade.
 
+She had stopped because he gave her something to do. Find the route. Leave. The instruction remained simple while she obeyed it; afterward she would have to remember that she had needed an instruction to stop stabbing something already dead.
+
+The identification band lay against the floor. She could not read it. She did not try. That refusal would stay with her too.
+
 The cut in her palm was already pulling shut, leaving blood drying between her fingers. Nausea replaced the violent clarity. She turned from the body and vomited against the wall.
 
 Gabriel waited until she could breathe before offering a cloth. “Can you walk?”
@@ -77,6 +81,10 @@ Gabriel waited until she could breathe before offering a cloth. “Can you walk?
 “No.” She wiped her mouth. “But I can walk.”
 
 Harrow stared at the inert mutant. “You could have done that from the start.”
+
+For a second she imagined handing him the knife and offering her palm. Show her how little it cost, then. Tell her exactly how much of herself he thought they should spend getting out of here.
+
+She kept the knife. The anger made speaking easier, but she did not want him to see how near she was to crying.
 
 Ava looked at the cut she had made. “It isn’t free.”
 

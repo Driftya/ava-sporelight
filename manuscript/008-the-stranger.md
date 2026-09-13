@@ -57,3 +57,13 @@ Jenna frowned. “Well, she’s not dying now. In fact, her vitals are… unusua
 They fell into silence, both of them staring at the frightened woman on the other side of the glass.
 
 “She’s terrified,” Jenna said softly. “We need to figure out what she is, Gabe. Before someone else does.”
+
+***
+
+Inside the tent, Ava had found a loose thread in the blanket. She wound it around one finger, unwound it before it tightened, and began again. The people outside were speaking beyond the reach of the intercom. Occasionally one looked in.
+
+She could remember the creature falling. Her own blood on it. The wrongness of that result would not fit beside the hospital, where her blood had meant she was going to die. Had they cured her? The thought offered a moment of relief so desperate she almost called to ask.
+
+Then she saw her reflection in the observation panel. Amber where green should have been. She moved her face, and the eyes followed. She remembered being watched through another pane, although she could not yet hold the room around it in her mind.
+
+Her name was still Ava. She had managed to tell them that. Now she mouthed it without making a sound, testing whether it belonged to the face in the glass. She wished they would call her again so she could answer.

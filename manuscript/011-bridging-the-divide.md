@@ -30,6 +30,10 @@ Ava’s lips parted as if to speak, but no words came.
 
 “I was wrong about you,” Jenna continued. “I let my fear get the better of me, and I misjudged you. I’m sorry.”
 
+For a moment Ava wanted to make it easy for her. Say it was all right, accept the apology, keep this new version of Jenna from leaving. The wish was so quick she nearly spoke before understanding it.
+
+It had not been all right. She still watched the door when she ate. A voice through the intercom could leave her unable to swallow. Jenna was standing here regretting something Ava had to go on feeling, and the difference made her angry. She had not expected an apology to do that.
+
 Ava’s shoulders sagged slightly, and she looked down at her hands. “I didn’t want to hurt you,” she said softly. “I was just… scared.”
 
 “I know,” Jenna said. “And I wasn’t exactly helping, walking in here looking like some kind of alien myself.” She offered a small, self-deprecating smile.
@@ -63,6 +67,14 @@ Jenna smiled faintly, then gestured to the scanner on the table. “Would it be 
 “Show me what it does first,” Ava said.
 
 Jenna passed the scanner over her own wrist and turned the display so Ava could see. Only then did Ava extend her arm.
+
+“If I move it back, don’t follow me.”
+
+Jenna lowered the instrument a little. “All right.”
+
+Ava had expected to be told to keep still. The unused argument left her uncertain what to do with herself. She watched the scanner cross her wrist and allowed herself to become curious about the numbers. For a few seconds she wanted to know what the instrument could see. Then it passed over the old punctures, and she wanted it finished.
+
+Both wishes were hers. She did not have to choose the one that would please Jenna.
 
 The examination was brief, and Jenna worked in silence, her movements careful and deliberate. When she finished, she set the scanner aside and looked at Ava.
 

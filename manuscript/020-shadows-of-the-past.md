@@ -50,6 +50,12 @@ The other survivors looked from Harrow to Gabriel. The older man kept his pipe r
 
 Ava stepped back before the pipe could reach her. Gabriel touched her elbow, and she held his wrist for a moment. She wanted to leave. Instead, she made herself look beyond the man to the child crouching against the wall.
 
+She had become used to being touched without hesitation. A hand at her waist while she worked, knees sharing the space beneath a table. She had let that small circle of ease convince her that something about her had changed enough for strangers to see it too.
+
+The pipe said otherwise. So did the child pressing into her mother. Ava had no new answer to give them. She could not bring the greenhouse here, or make them sit through every evening that had taught Gabriel to remain beside her.
+
+She loosened her grip on his wrist. He needed the hand free. So did she.
+
 “Lower the pipe,” she said. “You’re frightening her.”
 
 He looked behind him. His arm dropped.
@@ -69,6 +75,10 @@ A sudden screech pierced the air, and one of the survivors flinched. Gabriel rai
 They moved deeper into the same garage, into a store room with one doorway and a narrow ventilation grille. Gabriel checked the air while Ava helped shift a cabinet across the entrance. The survivors carried blankets and the last dry supplies in after them.
 
 They left a gap to watch through and hung cans on a string beyond it. Harrow coaxed a small fire into life in a metal tray beneath the open grille. Its smoke drew outward. Gabriel kept the detector beside him until the reading settled, then told the survivors they could uncover their faces.
+
+The mother unwound a cloth from the child’s mouth and folded it carefully, saving even that inadequate thing. Ava began to understand the camp through what people kept within reach. A cup nested inside another cup. Thread wound around a broken comb. A shoe with its opening stuffed against the cold. Leaving had required deciding which fragments of a household deserved carrying.
+
+She wondered what she would have taken from her own room. The notebook, of course. After that the picture failed her. Someone had made the decision while she could not speak, and had taken nothing.
 
 Ava could hear claws somewhere beyond the shattered gate. Each time they stopped, she looked toward the cans.
 
