@@ -6,6 +6,8 @@ title: "A Botanist’s World"
 
 # Chapter 1: A Botanist’s World
 
+![Ava discovers pale-blue bioluminescent fungus in the jungle](images/001/ava-discovers-bioluminescent-fungus.png)
+
 The jungle hummed with cicadas and distant bird calls. From the high canopy to the moss-covered floor, every layer competed for light. Ava knelt in the dirt and eased back a tangle of vines. Beneath them, a cluster of bioluminescent caps glowed at the base of an ancient tree.
 
 “You’re a beauty,” she whispered, tilting her headlamp away. The fungus kept its pale blue glow when the beam moved off it. Ava watched until her own shadow stopped confusing the observation. If it could grow in this soil, she wanted to know how.

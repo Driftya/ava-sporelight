@@ -6,6 +6,8 @@ title: "The Unseen Threat"
 
 # Chapter 2: The Unseen Threat
 
+![Ava examines the fungus’s alien filaments under a microscope](images/002/ava-examines-alien-filaments.png)
+
 Ava stayed at the window until her eyes ached from trying to distinguish one patch of darkness from another. Nothing moved. She turned back toward the bench, leaving the window at the edge of her vision.
 
 She switched the bench lamp on again. Its light caught the sample container and the unused slide beside it. A sequence she knew: gloves, scalpel, specimen, cover slip. Her hands could still do that.

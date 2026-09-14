@@ -17,7 +17,7 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ### 2026-09-13 — Author-decided — Chapter illustration documentation and placement
 
-The author establishes `canon/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused or book-level assets. Written story canon and the target chapter govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, and `canon/visual/01-ava-sporelight-image-guideline.md`.
+The author establishes `canon/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, `manuscript/images/000/` as the home for approved cover/front-matter art, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused assets. Written story canon and the target text govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, and the illustrated manuscript files.
 
 ### 2026-09-13 — Author-decided — Recovered sanctuary relationship scenes
 

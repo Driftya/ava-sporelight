@@ -6,6 +6,8 @@ title: "A Prison of Steel"
 
 # Chapter 3: A Prison of Steel
 
+![Ava lies restrained as researchers prepare the first forced injection](images/003/ava-restrained-before-first-injection.png)
+
 The table was cold against Ava’s cheek. She tried to turn away from the light and found she could move her head only a little. A strap crossed her chest. Metal cuffs held her wrists and ankles.
 
 She tested each restraint, slowly at first, then hard enough to scrape skin from her wrist. A machine beside the table began beeping faster. Beyond an observation pane, someone leaned toward a screen.

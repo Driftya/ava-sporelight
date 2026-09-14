@@ -6,6 +6,8 @@ type: front-matter
 
 # Ava: Sporelight
 
+![Ava: Sporelight cover](images/000/cover-image.png)
+
 *A light novel of science fiction, post-apocalyptic horror, action, and romance*
 
 *Intended readership: 17+*
@@ -85,4 +87,3 @@ Website: <https://driftya.com>
 33. [The Scientist’s Proposal](033-the-scientists-proposal.md)
 34. [A New Dawn](034-a-new-dawn.md)
 35. [Epilogue](035-epilogue.md)
-

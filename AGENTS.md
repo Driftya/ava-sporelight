@@ -64,8 +64,9 @@ Use this routing table:
 
 ## Image Invariants
 
+- Cover and front-matter images live under `manuscript/images/000/`.
 - Approved chapter-specific images live under `manuscript/images/NNN/`, where `NNN` is the chapter’s zero-padded number from `001` through `035`.
-- `manuscript/images/shared/` is only for assets intentionally reused across chapters or for book-level presentation.
+- `manuscript/images/shared/` is only for assets intentionally reused across multiple manuscript sections.
 - `concepts/` contains generation anchors and development references. Its files are not publishable manuscript images and do not establish story canon by themselves.
 - Story canon and the target chapter govern depicted facts. The visual guideline governs their rendering. A concept image or generated image may not override either.
 - Images must depict the correct chapter moment, character state, mutation stage, relationships, location, equipment, and technology.
@@ -103,6 +104,6 @@ After manuscript or canon changes, verify:
 - no `source:` metadata has returned to manuscript files;
 - files contain no corrupted UTF-8 sequences or replacement characters;
 - changed prose complies with the relevant canon documents;
-- every added manuscript image is in the correct chapter directory (or is genuinely shared), resolves from its Markdown link, and complies with the target chapter, story canon, and visual guideline;
+- every added manuscript image is in `000/` for front matter, the correct numbered chapter directory, or `shared/` when genuinely reused; resolves from its Markdown link; and complies with the target text, story canon, and visual guideline;
 - concept references remain under `concepts/` rather than being treated as publishable chapter assets;
 - new decisions are recorded in `canon/07-decisions-and-continuity-ledger.md` with a clear status: established, author-decided, supporting canon, unknown, or reserved.

@@ -71,6 +71,7 @@ concepts/
   ava_cryopod_scene.png.png
 manuscript/
   images/
+    000/
     001/
     002/
     ...
@@ -545,8 +546,9 @@ Before approval, compare the candidate with the target chapter and governing sto
 
 ## Chapter Illustration Placement
 
+- Put approved cover and front-matter art in `manuscript/images/000/` and link it relative to the consuming Markdown file.
 - Put each approved chapter-specific image in `manuscript/images/NNN/`, using the chapter’s three-digit stable number.
-- Use `manuscript/images/shared/` only when the same asset is intentionally used in more than one chapter or belongs to book-level presentation.
+- Use `manuscript/images/shared/` only when the same asset is intentionally used in multiple manuscript sections.
 - Use descriptive lowercase kebab-case filenames, such as `ava-wakes-in-cryopod.png`; the parent directory already carries the chapter number.
 - Link from the chapter Markdown with a relative path such as `images/009/ava-wakes-in-cryopod.png`.
 - Keep generation prompts, rejected candidates, and production notes out of numbered chapter files.
