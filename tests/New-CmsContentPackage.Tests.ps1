@@ -25,8 +25,10 @@ Describe "New-CmsContentPackage" {
         $manifest.pages.Count | Should Be 35
         $manifest.pages[0].slug | Should Be "ava-sporelight-chapter-001"
         $manifest.pages[34].slug | Should Be "ava-sporelight-chapter-035"
+        @($manifest.pages | Where-Object pageType -ne "page").Count | Should Be 0
         $manifest.pages[0].summary | Should Be "Before the world learns to fear the spores, a young botanist follows her curiosity into the jungle. Ava’s search for an extraordinary specimen begins with wonder and a quiet sense that she is not alone."
         $manifest.collection.coverMedia | Should Be "media/000/01-cover-image.webp"
+        $manifest.collection.pageType | Should Be "collection"
         $manifest.pages[0].coverMedia | Should Be "media/001/01-ava-discovers-bioluminescent-fungus.webp"
         $manifest.media.Count | Should Be 4
         @($manifest.media | Where-Object { $_.source -notlike "*.webp" }).Count | Should Be 0
@@ -93,7 +95,7 @@ Describe "New-CmsContentPackage" {
             culture = "en"
             metadata = [ordered]@{ directory = "publishing/cms/pages"; limits = [ordered]@{ summary = 320; seoTitle = 51; metaDescription = 165; coverImageAlt = 165 } }
             collection = [ordered]@{ source = "manuscript/000-front-matter.md"; slug = "ordered-images"; title = "Ordered Images"; author = "Test Author"; metaKeywords = "ordered images"; robotsPolicy = "noindex" }
-            bookPages = [ordered]@{ sourceDirectory = "manuscript"; expectedCount = 1; slugTemplate = "ordered-images-{chapter:000}"; titleTemplate = "Chapter {chapter}: {title}"; author = "Test Author"; robotsPolicy = "noindex" }
+            pages = [ordered]@{ sourceDirectory = "manuscript"; expectedCount = 1; slugTemplate = "ordered-images-{chapter:000}"; titleTemplate = "Chapter {chapter}: {title}"; author = "Test Author"; robotsPolicy = "noindex" }
             media = [ordered]@{ outputFormat = "original"; quality = 96 }
         }
         [System.IO.File]::WriteAllText((Join-Path $fixtureRoot "publishing/cms-collection.json"), ($configuration | ConvertTo-Json -Depth 12), $utf8)
@@ -120,6 +122,7 @@ Describe "New-CmsContentPackage" {
         $packagedCollection | Should Match "## Copyright"
         $packagedCollection | Should Match "Keep this section\."
         $fixtureManifest.pages[0].coverMedia | Should Be "media/001/01-cover.png"
+        $fixtureManifest.pages[0].pageType | Should Be "page"
         @($fixtureManifest.pages[0].relatedMedia).Count | Should Be 2
         $fixtureManifest.pages[0].relatedMedia[0] | Should Be "media/001/02-second-scene.png"
         $fixtureManifest.pages[0].relatedMedia[1] | Should Be "media/001/03-third-scene.png"
@@ -141,7 +144,7 @@ Describe "New-CmsContentPackage" {
 
     It "rejects a publishing configuration whose chapter count does not match the manuscript" {
         $configuration = Get-Content -LiteralPath (Join-Path $repositoryRoot "publishing/cms-collection.json") -Raw | ConvertFrom-Json
-        $configuration.bookPages.expectedCount = 34
+        $configuration.pages.expectedCount = 34
         $invalidManifest = Join-Path $TestDrive "invalid-count.json"
         [System.IO.File]::WriteAllText($invalidManifest, ($configuration | ConvertTo-Json -Depth 12), (New-Object System.Text.UTF8Encoding($false)))
 

@@ -361,9 +361,9 @@ if ($null -ne $collectionContent.CoverMedia) {
     $mediaByPackagePath[$collectionContent.CoverMedia].altText = [string]$collectionMetadata.coverImageAlt
 }
 
-$chapterDirectory = Resolve-RepositoryPath -RelativePath $configuration.bookPages.sourceDirectory -RepositoryRoot $repositoryRoot
+$chapterDirectory = Resolve-RepositoryPath -RelativePath $configuration.pages.sourceDirectory -RepositoryRoot $repositoryRoot
 $chapterFiles = @(Get-ChildItem -LiteralPath $chapterDirectory -File -Filter "*.md" | Where-Object { $_.Name -match '^(?<chapter>[0-9]{3})-.+\.md$' -and $Matches["chapter"] -ne "000" } | Sort-Object Name)
-$expectedCount = [int]$configuration.bookPages.expectedCount
+$expectedCount = [int]$configuration.pages.expectedCount
 if ($chapterFiles.Count -ne $expectedCount) {
     throw "Expected $expectedCount numbered chapters but found $($chapterFiles.Count)."
 }
@@ -390,16 +390,16 @@ for ($chapter = 1; $chapter -le $expectedCount; $chapter++) {
     }
     $page = [ordered]@{
         source = "pages/$number.md"
-        slug = Expand-Template -Template $configuration.bookPages.slugTemplate -Chapter $chapter -Title $title
-        pageType = "bookPage"
-        title = Expand-Template -Template $configuration.bookPages.titleTemplate -Chapter $chapter -Title $title
+        slug = Expand-Template -Template $configuration.pages.slugTemplate -Chapter $chapter -Title $title
+        pageType = "page"
+        title = Expand-Template -Template $configuration.pages.titleTemplate -Chapter $chapter -Title $title
         sortOrder = $chapter
         summary = [string]$pageMetadata.summary
         seoTitle = [string]$pageMetadata.seoTitle
         metaDescription = [string]$pageMetadata.metaDescription
     }
-    Add-OptionalProperty -Object $page -Name "author" -Value $configuration.bookPages.author
-    Add-OptionalProperty -Object $page -Name "robotsPolicy" -Value $configuration.bookPages.robotsPolicy
+    Add-OptionalProperty -Object $page -Name "author" -Value $configuration.pages.author
+    Add-OptionalProperty -Object $page -Name "robotsPolicy" -Value $configuration.pages.robotsPolicy
     Add-OptionalProperty -Object $page -Name "coverMedia" -Value $content.CoverMedia
     $pageCoverAlt = $pageMetadata.psobject.Properties["coverImageAlt"]
     Add-OptionalProperty -Object $page -Name "coverImageAlt" -Value $(if ($null -eq $pageCoverAlt) { $null } else { $pageCoverAlt.Value })

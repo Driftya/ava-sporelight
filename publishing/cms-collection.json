@@ -20,7 +20,7 @@
     "metaKeywords": "Ava Sporelight, post-apocalyptic science fiction, science fiction romance, light novel",
     "robotsPolicy": "index,follow"
   },
-  "bookPages": {
+  "pages": {
     "sourceDirectory": "manuscript",
     "expectedCount": 35,
     "slugTemplate": "ava-sporelight-chapter-{chapter:000}",
