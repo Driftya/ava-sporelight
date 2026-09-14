@@ -1,5 +1,7 @@
 # Ava: Sporelight
 
+![Ava: Sporelight cover](manuscript/images/000/cover-image.png)
+
 This repository contains the canonical Markdown edition of *Ava: Sporelight*: a post-apocalyptic science-fiction light novel combining Ava’s origin, awakening, sanctuary, field missions, romance, betrayal, research, and future into one continuous 35-chapter story.
 
 ## Start Here
@@ -15,7 +17,7 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 | Path | Purpose | Authority |
 | --- | --- | --- |
 | `manuscript/` | The publishable novel: front matter, 35 numbered chapters, and back-cover copy. | Canonical prose, constrained by `canon/`. |
-| `manuscript/images/` | Approved publishable illustrations, grouped in zero-padded chapter folders (`001/`–`035/`) with `shared/` for genuinely reusable assets. | Canonical presentation assets, constrained by story and visual canon. |
+| `manuscript/images/` | Approved publishable illustrations: `000/` for cover/front-matter art, zero-padded chapter folders (`001/`–`035/`), and `shared/` for genuinely reusable assets. | Canonical presentation assets, constrained by story and visual canon. |
 | `canon/` | Authoritative chronology, characters, biology, world, combat, continuity rules, and decision history. | Governs manuscript changes. |
 | `canon/visual/` | Visual and production rules for depicting the novel consistently. | Governs image generation without overriding story canon. |
 | `concepts/` | Character, creature, environment, and style reference images used as generation anchors. | Development references; not publishable manuscript assets or independent story canon. |
@@ -54,7 +56,7 @@ story canon + chapter prose
 
 Read the target chapter and every canon document governing what the image depicts before generation. Use only the relevant files from `concepts/` as visual anchors. Concepts may clarify appearance, palette, composition, and production style, but they cannot introduce or override story facts.
 
-Place an approved chapter-specific image in the matching zero-padded directory—for example, chapter 7 assets belong in `manuscript/images/007/`. Reserve `manuscript/images/shared/` for assets intentionally reused across multiple chapters or book-level presentation. Link chapter images from Markdown with paths relative to the chapter file, such as `images/007/example-scene.png`.
+Place cover and front-matter art in `manuscript/images/000/`. Place an approved chapter-specific image in the matching zero-padded directory—for example, chapter 7 assets belong in `manuscript/images/007/`. Reserve `manuscript/images/shared/` for assets intentionally reused across multiple manuscript sections. Link images from Markdown with paths relative to the consuming file, such as `images/007/example-scene.png` from a chapter.
 
 ## Novel Reading Order
 
