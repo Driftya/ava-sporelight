@@ -96,15 +96,30 @@ For image work, also verify the target chapter, mutation stage, character identi
 
 ## Driftya CMS Package
 
-Build the uploadable CMS package with Windows PowerShell:
+Open PowerShell in the repository root. The default WebP conversion requires ImageMagick's `magick` command to be available on `PATH`.
 
 ```powershell
 .\scripts\New-CmsContentPackage.ps1
 ```
 
-The default output is `dist/ava-sporelight.cms-package.zip`. Use `-OutputPath` to select another destination and `-Force` to replace an existing package. Shared package settings are maintained in [`publishing/cms-collection.json`](publishing/cms-collection.json), while every manuscript page has a stable-ID-bound SEO sidecar under [`publishing/cms/pages/`](publishing/cms/README.md).
+This reads `publishing/cms-collection.json` and creates `dist/ava-sporelight.cms-package.zip`. If that ZIP already exists, rebuild it with:
 
-The builder validates all 35 chapter numbers and stable IDs, requires exactly one matching metadata sidecar per imported manuscript page, enforces the configured CMS field budgets, excludes `back-cover.md`, and resolves only approved files under `manuscript/images/`. External, embedded, reference-style, and raw-HTML image sources are rejected. Local image references must be contiguous and ordered by their filename prefixes (`01-`, `02-`, ...). The first image becomes `coverMedia` and is removed from packaged Markdown to prevent double rendering; later images remain inline and are emitted as ordered `relatedMedia`. The builder creates checksums for every packaged page, image, and manifest. Source images are left unchanged; package media is converted with ImageMagick to WebP at quality 96, as configured in `cms-collection.json`. Set `media.outputFormat` to `jpeg` or `original` when a different package format is required. Driftya then previews media reuse/uploads and page changes before anything is applied.
+```powershell
+.\scripts\New-CmsContentPackage.ps1 -Force
+```
+
+To select a different manifest or output file, pass explicit repository-relative or absolute paths:
+
+```powershell
+.\scripts\New-CmsContentPackage.ps1 `
+    -Manifest .\publishing\cms-collection.json `
+    -OutputPath .\dist\ava-sporelight.cms-package.zip `
+    -Force
+```
+
+Upload the resulting ZIP on the Driftya CMS content-package import page, review the preview, and then apply it. Shared package settings are maintained in [`publishing/cms-collection.json`](publishing/cms-collection.json), while every manuscript page has a stable-ID-bound SEO sidecar under [`publishing/cms/pages/`](publishing/cms/README.md).
+
+The builder validates all 35 chapter numbers and stable IDs, requires exactly one matching metadata sidecar per imported manuscript page, enforces the configured CMS field budgets, excludes `back-cover.md`, and strips the source front matter's `## Table of Contents` section because the CMS renders collection navigation. It resolves only approved files under `manuscript/images/`. External, embedded, reference-style, and raw-HTML image sources are rejected. Local image references must be contiguous and ordered by their filename prefixes (`01-`, `02-`, ...). The first image becomes `coverMedia` and is removed from packaged Markdown to prevent double rendering; later images remain inline and are emitted as ordered `relatedMedia`. The builder creates checksums for every packaged page, image, and manifest. Source images are left unchanged; package media is converted with ImageMagick to WebP at quality 96, as configured in `cms-collection.json`. Set `media.outputFormat` to `jpeg` or `original` when a different package format is required. Driftya then previews media reuse/uploads and page changes before anything is applied.
 
 Run the focused builder tests with:
 

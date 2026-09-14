@@ -17,6 +17,7 @@ $script:ImagePattern = [regex]::new('!\[(?<alt>[^\]\r\n]*)\]\(\s*<?(?<url>[^\s)>
 $script:StandaloneImagePattern = [regex]::new('(?m)^[ \t]*!\[(?<alt>[^\]\r\n]*)\]\(\s*<?(?<url>[^\s)>]+)>?(?:\s+(?:"[^"\r\n]*"|''[^''\r\n]*''))?\s*\)[ \t]*(?:\r?\n)?', [System.Text.RegularExpressions.RegexOptions]::CultureInvariant)
 $script:ReferenceStyleImagePattern = [regex]::new('!\[[^\]\r\n]*\]\[[^\]\r\n]*\]|!\[[^\]\r\n]+\](?!\s*[\(\[])', [System.Text.RegularExpressions.RegexOptions]::CultureInvariant)
 $script:RawImageElementPattern = [regex]::new('<\s*(?:img|picture|source)\b', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase -bor [System.Text.RegularExpressions.RegexOptions]::CultureInvariant)
+$script:TableOfContentsPattern = [regex]::new('^[ \t]{0,3}##[ \t]+Table[ \t]+of[ \t]+Contents[ \t]*(?:\r?\n|$).*?(?=^[ \t]{0,3}#{1,2}(?:[ \t]+|$)|\z)', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase -bor [System.Text.RegularExpressions.RegexOptions]::Multiline -bor [System.Text.RegularExpressions.RegexOptions]::Singleline -bor [System.Text.RegularExpressions.RegexOptions]::CultureInvariant)
 $script:AllowedImageExtensions = @(".png", ".jpg", ".jpeg", ".webp")
 
 function Resolve-FullPath {
@@ -221,6 +222,12 @@ function Convert-MarkdownForPackage {
     }
 }
 
+function Remove-TableOfContents {
+    param([Parameter(Mandatory = $true)][string] $Body)
+
+    return $script:TableOfContentsPattern.Replace($Body, "").Trim()
+}
+
 function Add-OptionalProperty {
     param([Parameter(Mandatory = $true)] $Object, [Parameter(Mandatory = $true)][string] $Name, $Value)
     if ($null -ne $Value -and -not [string]::IsNullOrWhiteSpace([string]$Value)) {
@@ -347,7 +354,8 @@ $collectionDocument = Read-FrontMatterDocument -Path $collectionSourcePath
 if ($collectionDocument.Metadata["id"] -ne "ava-sporelight-front-matter" -or $collectionDocument.Metadata["type"] -ne "front-matter") {
     throw "Collection source must be the canonical Ava: Sporelight front matter."
 }
-$collectionContent = Convert-MarkdownForPackage -Body $collectionDocument.Body -MarkdownPath $collectionSourcePath -RepositoryRoot $repositoryRoot -MediaByPackagePath $mediaByPackagePath
+$collectionBody = Remove-TableOfContents -Body $collectionDocument.Body
+$collectionContent = Convert-MarkdownForPackage -Body $collectionBody -MarkdownPath $collectionSourcePath -RepositoryRoot $repositoryRoot -MediaByPackagePath $mediaByPackagePath
 $collectionMetadata = Read-CmsPageMetadata -ManuscriptPath $collectionSourcePath -ExpectedId "ava-sporelight-front-matter" -MetadataDirectory $metadataDirectory -Limits $metadataLimits -HasCoverImage ($null -ne $collectionContent.CoverMedia) -UsedMetadataFiles $usedMetadataFiles
 if ($null -ne $collectionContent.CoverMedia) {
     $mediaByPackagePath[$collectionContent.CoverMedia].altText = [string]$collectionMetadata.coverImageAlt

@@ -35,4 +35,6 @@ AI-assisted drafts must be reviewed against the target chapter and canon before 
 
 Every local manuscript image uses a contiguous two-digit prefix in Markdown order: `01-`, `02-`, and so on. `01-...` must be the first standalone image. The package builder promotes it to `coverMedia`, uses the sidecar `coverImageAlt`, and removes that one occurrence from packaged Markdown. Remaining images stay inline in their original positions and are emitted as ordered `relatedMedia`. This prevents the cover from appearing twice while preserving multi-image chapter layout.
 
+The builder also removes the front matter's `## Table of Contents` section from `pages/collection.md`. The source manuscript keeps its canonical linked contents, while the CMS supplies collection navigation without duplicating or publishing stale chapter links.
+
 Only inline Markdown image syntax pointing to approved local files under `manuscript/images/` is accepted. External URLs, protocol-relative URLs, embedded `data:` sources, fragments, reference-style images, and raw HTML image elements are rejected before a package is created. Driftya applies the same internal-image policy during ZIP parsing, ordinary CMS saves, and final rendering.
