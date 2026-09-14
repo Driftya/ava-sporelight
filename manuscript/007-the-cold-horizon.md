@@ -6,6 +6,8 @@ title: "The Cold Horizon"
 
 # Chapter 7: The Cold Horizon
 
+![Gabriel discovers Ava sleeping inside a functioning cryopod beneath the ruined town](images/007/01-gabriel-discovers-avas-cryopod.png)
+
 Damp had reached the padding inside Gabriel’s filter mask. He pressed its seal against his cheek and checked the detector on his chest before surveying the town square. Vines buried the benches and climbed the evacuation markers. He turned up the radio over the rasp of his breathing.
 
 “Bravo team, report. Any movement?”

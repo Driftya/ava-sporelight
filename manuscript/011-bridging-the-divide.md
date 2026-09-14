@@ -6,6 +6,8 @@ title: "Bridging the Divide"
 
 # Chapter 11: Bridging the Divide
 
+![Jenna enters the quarantine chamber to speak with Ava](images/011/01-bridging-the-divide.png)
+
 Jenna had been outside the glass for several minutes. Ava watched her look from Gabriel to the results on her tablet. He had submitted to a health check every morning; every morning he came back and told Ava it was clear.
 
 This time Jenna spoke through the intercom.

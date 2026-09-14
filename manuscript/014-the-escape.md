@@ -6,6 +6,8 @@ title: "The Escape"
 
 # Chapter 14: The Escape
 
+![Ava tears open Gabriel’s cell door during the checkpoint collapse](images/014/01-the-escape.png)
+
 Ava hooked her fingers around the edge of Gabriel’s cell door and pulled. The latch tore through its housing. She let go at once, startled by how easily it gave, and backed away while he stepped through.
 
 He retrieved his mask and rifle from the abandoned guard station. The filter seal held when he tested it; the radio gave only static. They moved into the corridor as a crack travelled across the ceiling and plaster fell between them.

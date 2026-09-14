@@ -6,6 +6,8 @@ title: "Shadows of the Past"
 
 # Chapter 12: Shadows of the Past
 
+![Ava stands at Haven’s Vanguard’s open loading hatch above a snowy settlement](images/012/01-shadows-of-the-past.png)
+
 Ava stood inside the transport’s open loading hatch while the crew checked a landing pad below. Cold reached beneath her borrowed coat. Beyond the safety rail, snow filled the streets of a settlement she would never have known how to find.
 
 Jenna had cleared her to move through the staff compartments. The hatch was as far as she could go. Ava put one hand around the rail and felt the difference between a boundary she could see over and a locked door.

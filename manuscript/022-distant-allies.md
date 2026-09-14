@@ -6,6 +6,8 @@ title: "Distant Allies"
 
 # Chapter 22: Distant Allies
 
+![Jenna’s scouts arrive to escort survivors toward the railway station](images/022/01-distant-allies.png)
+
 Jenna’s scouts arrived the following morning. Gabriel checked their call sign over the radio before Ava moved the cabinet. The older man carried the child’s blankets; her mother fastened the replacement mask the scouts had brought.
 
 “We’ll take them to the railway station,” the detail leader said. “Vehicle meets us there. Our forward pair will check your rendezvous route.”

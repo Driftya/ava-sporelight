@@ -6,6 +6,8 @@ title: "Unspoken"
 
 # Chapter 16: Unspoken
 
+![Ava and Gabriel tend the greenhouse aboard Haven’s Vanguard](images/016/01-unspoken.png)
+
 By the fourth week, the greenhouse had acquired its own weather.
 
 Condensation gathered on the underside of the grow lamps and fell in slow, fat drops. Warm soil breathed against the carrier’s colder metal. The beans had climbed their first strings, lettuce crowded the shallow trays, and a tray of herbs refused every kindness Ava offered it.

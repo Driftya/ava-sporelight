@@ -6,6 +6,8 @@ title: "The Breaking Point"
 
 # Chapter 13: The Breaking Point
 
+![Armed guards board the transport at the checkpoint](images/013/01-the-breaking-point.png)
+
 Frost filled the seams of the checkpoint’s outer doors. Ava watched them part from the transport window. Beyond lay a dock with armed guards already waiting beside the marked boarding lane.
 
 Through the open control-room door, she heard Jenna finish the arrival report: civilians stable, no new encounters, Gabriel’s contact with Ava recorded as a breach of protocol.

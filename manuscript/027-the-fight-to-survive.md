@@ -6,6 +6,8 @@ title: "The Fight to Survive"
 
 # Chapter 27: The Fight to Survive
 
+![Ava and Gabriel hurry toward the subway firefight](images/027/01-the-fight-to-survive.png)
+
 Ava heard a burst of gunfire, a pause, then three separate shots. Gabriel hurried toward the subway entrance with his rifle raised. Harrow stayed behind Ava, close enough to strike her pack whenever she stopped.
 
 “That’s Jenna’s forward team,” Gabriel said, glancing over his shoulder. His voice was calm, but Ava could sense the tension beneath it. “Stay close. If they’re in trouble, we’ll need to help.”

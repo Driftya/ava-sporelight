@@ -6,6 +6,8 @@ title: "Hope"
 
 # Chapter 15: Hope
 
+![Ava and Gabriel look across the frozen city from Haven’s Vanguard](images/015/01-hope.png)
+
 Ava learned the carrier through her bare feet.
 
 The deck plates trembled when *Haven’s Vanguard* lifted, a low vibration that climbed her bones and settled behind her teeth. When the engines throttled down, she could feel pumps working somewhere below—the brief shudder of a valve opening, the steadier pulse that followed. Two centuries had made the world unknowable. Machinery, at least, still confessed what it was doing.

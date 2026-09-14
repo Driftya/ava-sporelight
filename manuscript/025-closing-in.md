@@ -6,6 +6,8 @@ title: "Closing In"
 
 # Chapter 25: Closing In
 
+![Ava, Gabriel, and Harrow retreat from the hospital laboratory](images/025/01-closing-in.png)
+
 The clicking followed them out of the laboratory.
 
 It travelled through the hospital walls in quick, uneven bursts: claws inside a ventilation shaft, then silence, then claws again. Ava carried the research folders in a sealed bag against her back. Harrow had refused to surrender the notebook he called his sister’s and held it beneath his coat with one hand.

@@ -6,6 +6,8 @@ title: "A Fragile Confession"
 
 # Chapter 18: A Fragile Confession
 
+![Ava and Gabriel share a fragile confession beside the greenhouse trellis](images/018/01-a-fragile-confession.png)
+
 Three nights after the factory settlement, Ava found Gabriel repairing a greenhouse trellis he had no business touching.
 
 “That isn’t broken,” she said.

@@ -6,6 +6,8 @@ title: "Fragile Paths"
 
 # Chapter 23: Fragile Paths
 
+![Ava, Gabriel, and Harrow cross the ruined city toward the hospital](images/023/01-fragile-paths.png)
+
 The detour took the hospital out of sight. Harrow stumbled at a broken kerb and steadied himself against Ava’s pack without asking. She stopped until he had his balance, then pointed him toward the clear pavement.
 
 “We need to stop soon,” Gabriel said, glancing at Ava. “The light’s fading, and we can’t risk getting caught out in the open at night.”

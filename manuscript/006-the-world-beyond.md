@@ -6,6 +6,8 @@ title: "The World Beyond"
 
 # Chapter 6: The World Beyond
 
+![Ava sleeps in her frost-covered cryopod as roots and alien growth consume the ruined laboratory](images/006/01-avas-cryopod-beneath-the-changed-world.png)
+
 Spores escaped through the laboratory’s broken vents and settled on the wet jungle floor. Rain carried them into drainage channels. Birds moved through the contaminated canopy and flew beyond it. Within days, leaves around the facility had begun to darken.
 
 Some plants grew faster than their stems could support. Branches split beneath unfamiliar weight. Animals stopped feeding or turned on others of their own kind. Birds carried contamination in their feathers to farms the laboratory’s staff had never visited.

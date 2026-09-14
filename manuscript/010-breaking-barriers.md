@@ -6,6 +6,8 @@ title: "Breaking Barriers"
 
 # Chapter 10: Breaking Barriers
 
+![Gabriel sits with Ava inside the quarantine chamber](images/010/01-breaking-barriers.png)
+
 Gabriel sat just inside the quarantine chamber with his hands on his knees. Ava watched him from the far corner. The ridges along her face had receded, but she kept one palm pressed over her forearm.
 
 Equipment rattled behind the observation glass. He waited until Ava stopped looking toward it.

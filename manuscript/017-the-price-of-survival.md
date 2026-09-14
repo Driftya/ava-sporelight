@@ -6,6 +6,8 @@ title: "The Price of Survival"
 
 # Chapter 17: The Price of Survival
 
+![Ava and Gabriel move through a ruined grocery store during field training](images/017/01-the-price-of-survival.png)
+
 Gabriel stopped at the corner of the grocery store and checked the detector. His mask had begun to chafe beneath his chin. Across the street, branches grew through the windows of a house, lifting its roof a little farther from the walls. He signalled the team to follow him inside.
 
 They found sealed supplies in the rear stockroom. Most of the food had spoiled; Gabriel left cans swollen at the seams on the shelf. The team packed what they could use and cleared a path back to the vehicle.

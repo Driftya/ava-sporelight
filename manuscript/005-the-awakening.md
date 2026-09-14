@@ -6,6 +6,8 @@ title: "The Awakening"
 
 # Chapter 5: The Awakening
 
+![Ava's first violent transformation shatters the laboratory containment glass](images/005/01-ava-shatters-laboratory-containment.png)
+
 Ava could still feel the shape of the floor seam pressed into her cheek. She had tried to reach the door. Now she could not lift her head. The skin along her forearms tugged each time she moved her fingers, too tight for whatever was growing beneath it.
 
 “Begin phase two,” the intercom said.

@@ -6,6 +6,8 @@ title: "Comfort in Shadows"
 
 # Chapter 21: Comfort in Shadows
 
+![Ava keeps watch beside Gabriel and the survivors in the barricaded garage](images/021/01-comfort-in-shadows.png)
+
 At dawn, Ava woke to Gabriel repeating the garage coordinates into his radio. Static interrupted him twice. Then Jenna answered: an extraction detail would reach them the following morning if the roads held.
 
 “Keep them inside until the handoff,” Jenna said. “We’ll send scouts ahead of the vehicle.”

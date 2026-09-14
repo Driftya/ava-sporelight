@@ -6,6 +6,8 @@ title: "Isolation"
 
 # Chapter 4: Isolation
 
+![Ava kneels in the spore-filled isolation chamber while researchers observe through reinforced glass](images/004/01-ava-in-spore-isolation-chamber.png)
+
 Ava woke on her side with one arm trapped beneath her. She freed it carefully. The wrist still hurt, but the scraped skin had closed. Beyond her fingertips stood a glass wall; beyond that, another room of suited people and machines.
 
 A technician changed a setting on a ventilator. Ava watched the gloved finger move, then looked for the vent inside her enclosure. It was above the door, out of reach.

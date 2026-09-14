@@ -6,6 +6,8 @@ title: "The Stranger"
 
 # Chapter 8: The Stranger
 
+![Gabriel races Ava’s awakening cryopod toward Haven’s Vanguard](images/008/01-the-stranger.png)
+
 Gabriel rammed the cart toward the transport. Jenna had sent two crew members back to help haul the pod upstairs; they were ahead now, clearing the ramp. Disconnecting the pod’s old supply had started its emergency revival sequence. The indicator above the lid counted down while a wheel dragged sideways through the rubble.
 
 A creature struck from behind. Its claws tore his sleeve and scored the protective layer beneath it. Pain ran down his arm, but he kept both hands on the cart. He could inspect the damage if he reached the ramp.

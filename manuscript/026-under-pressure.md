@@ -6,6 +6,8 @@ title: "Under Pressure"
 
 # Chapter 26: Under Pressure
 
+![Ava, Gabriel, and Harrow move beyond the hospital maintenance yard](images/026/01-under-pressure.png)
+
 Beyond the hospital’s maintenance yard, Gabriel led them along the wall until they could no longer hear claws striking the hatch. Ava kept her wrapped hand against her pack. Every step jarred the cut. Harrow followed with the notebook held beneath his coat.
 
 “How far to the next safe zone?” Harrow asked, his voice shaky.

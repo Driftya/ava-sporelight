@@ -6,6 +6,8 @@ title: "Whispers in the Ashes"
 
 # Chapter 19: Whispers in the Ashes
 
+![Ava and Gabriel prepare sealed supplies for the hospital mission](images/019/01-whispers-in-the-ashes.png)
+
 Ava found Gabriel checking his pack beneath the observation-deck stairs. He looked up, and she had to resist touching the place at his collar where she had kissed him that morning. Around them, crew members carried sealed supplies down to the docking bay.
 
 “Ready?” he asked.

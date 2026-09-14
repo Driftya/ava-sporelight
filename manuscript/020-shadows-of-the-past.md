@@ -6,6 +6,8 @@ title: "Shadows of the Past"
 
 # Chapter 20: Shadows of the Past
 
+![Ava, Gabriel, and Harrow shelter among abandoned vehicles at moonrise](images/020/01-shadows-of-the-past.png)
+
 By moonrise, Harrow was dragging one foot. Ava had counted three turns since the hospital disappeared behind the buildings. At each one, Gabriel stopped to check the map. They were covering less ground each time.
 
 “We can’t keep going all night,” Gabriel said, his voice breaking the silence. He glanced back at Ava and Harrow, his features hard in the dim light. “We need to set up camp.”

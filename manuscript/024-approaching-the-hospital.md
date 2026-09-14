@@ -6,6 +6,8 @@ title: "Approaching the Hospital"
 
 # Chapter 24: Approaching the Hospital
 
+![Ava and Gabriel face the overgrown hospital courtyard](images/024/01-approaching-the-hospital.png)
+
 Gabriel halted at the edge of the hospital courtyard. A wheelchair lay on its side beside the entrance, one wheel still turning in the wind. Ava followed his line of sight upward. Growth packed the broken windows, leaving dark gaps between the leaves.
 
 “We’re close,” he said, his voice low but resolute. “Let’s make this quick. No unnecessary risks.”

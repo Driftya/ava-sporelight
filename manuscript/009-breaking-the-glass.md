@@ -6,6 +6,8 @@ title: "Breaking the Glass"
 
 # Chapter 9: Breaking the Glass
 
+![Ava watches Gabriel and Jenna through the quarantine glass](images/009/01-breaking-the-glass.png)
+
 The transport’s observation room was too narrow to pace in. Gabriel stood beside the glass, watching Ava track the camera whenever its lens moved. She had chosen the corner farthest from the chamber door.
 
 “I’m going in,” Jenna announced, breaking the tense silence.
