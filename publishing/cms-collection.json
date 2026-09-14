@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "kind": "book",
+  "packageKey": "ava-sporelight",
+  "culture": "en",
+  "metadata": {
+    "directory": "publishing/cms/pages",
+    "limits": {
+      "summary": 320,
+      "seoTitle": 51,
+      "metaDescription": 165,
+      "coverImageAlt": 165
+    }
+  },
+  "collection": {
+    "source": "manuscript/000-front-matter.md",
+    "slug": "ava-sporelight",
+    "title": "Ava: Sporelight",
+    "author": "XzaR (Niclas G. Reed)",
+    "metaKeywords": "Ava Sporelight, post-apocalyptic science fiction, science fiction romance, light novel",
+    "robotsPolicy": "index,follow"
+  },
+  "bookPages": {
+    "sourceDirectory": "manuscript",
+    "expectedCount": 35,
+    "slugTemplate": "ava-sporelight-chapter-{chapter:000}",
+    "titleTemplate": "Chapter {chapter}: {title}",
+    "author": "XzaR (Niclas G. Reed)",
+    "robotsPolicy": "index,follow"
+  },
+  "media": {
+    "outputFormat": "webp",
+    "quality": 96
+  }
+}

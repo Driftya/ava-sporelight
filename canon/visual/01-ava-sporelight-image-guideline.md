@@ -549,8 +549,10 @@ Before approval, compare the candidate with the target chapter and governing sto
 - Put approved cover and front-matter art in `manuscript/images/000/` and link it relative to the consuming Markdown file.
 - Put each approved chapter-specific image in `manuscript/images/NNN/`, using the chapter’s three-digit stable number.
 - Use `manuscript/images/shared/` only when the same asset is intentionally used in multiple manuscript sections.
-- Use descriptive lowercase kebab-case filenames, such as `ava-wakes-in-cryopod.png`; the parent directory already carries the chapter number.
-- Link from the chapter Markdown with a relative path such as `images/009/ava-wakes-in-cryopod.png`.
+- Prefix descriptive lowercase kebab-case filenames with their two-digit display order inside the manuscript page, such as `01-ava-wakes-in-cryopod.png`, `02-ava-sees-the-rescue-team.png`, and so on; the parent directory already carries the chapter number.
+- Start each illustrated manuscript page at `01` and keep the sequence contiguous. Markdown image references must appear in the same order as their prefixes.
+- Treat `01-...` as the page’s cover image and place it as the first standalone Markdown image. The CMS package promotes it to the cover and strips that single Markdown occurrence to prevent double rendering; images `02-...` and later remain inline.
+- Link from the chapter Markdown with a relative path such as `images/009/01-ava-wakes-in-cryopod.png`.
 - Keep generation prompts, rejected candidates, and production notes out of numbered chapter files.
 - Do not move a chapter image merely because its chapter title or Markdown filename changes; the stable chapter number controls its directory.
 

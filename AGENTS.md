@@ -66,13 +66,16 @@ Use this routing table:
 
 - Cover and front-matter images live under `manuscript/images/000/`.
 - Approved chapter-specific images live under `manuscript/images/NNN/`, where `NNN` is the chapter’s zero-padded number from `001` through `035`.
+- Every manuscript image filename starts with its two-digit order within the consuming manuscript page: `01-`, `02-`, and so on. The sequence is contiguous and the Markdown references use the same order.
+- The first image (`01-...`) is the manuscript page’s cover image and must be a standalone Markdown image. CMS packaging promotes it to the cover and removes that one Markdown occurrence so it is not rendered twice; `02-...` and later images remain inline.
 - `manuscript/images/shared/` is only for assets intentionally reused across multiple manuscript sections.
 - `concepts/` contains generation anchors and development references. Its files are not publishable manuscript images and do not establish story canon by themselves.
 - Story canon and the target chapter govern depicted facts. The visual guideline governs their rendering. A concept image or generated image may not override either.
 - Images must depict the correct chapter moment, character state, mutation stage, relationships, location, equipment, and technology.
 - Haven’s Vanguard must remain a terrestrial/atmospheric Titan-class hover carrier, never a spacecraft.
 - Generated candidates become publishable assets only after continuity and visual-consistency review.
-- Chapter Markdown must reference images with relative links, for example `images/007/example-scene.png`.
+- Chapter Markdown must reference images with relative links, for example `images/007/01-example-scene.png` followed by `images/007/02-second-scene.png`.
+- Manuscript images must use inline Markdown image syntax and resolve to approved files under `manuscript/images/`. External, protocol-relative, embedded `data:`, fragment, reference-style, and raw-HTML image sources are not publishable.
 
 ## Canon Boundaries
 
@@ -104,6 +107,6 @@ After manuscript or canon changes, verify:
 - no `source:` metadata has returned to manuscript files;
 - files contain no corrupted UTF-8 sequences or replacement characters;
 - changed prose complies with the relevant canon documents;
-- every added manuscript image is in `000/` for front matter, the correct numbered chapter directory, or `shared/` when genuinely reused; resolves from its Markdown link; and complies with the target text, story canon, and visual guideline;
+- every added manuscript image is in `000/` for front matter, the correct numbered chapter directory, or `shared/` when genuinely reused; has the correct contiguous `NN-` order prefix; resolves from its Markdown link in that order; and complies with the target text, story canon, and visual guideline;
 - concept references remain under `concepts/` rather than being treated as publishable chapter assets;
 - new decisions are recorded in `canon/07-decisions-and-continuity-ledger.md` with a clear status: established, author-decided, supporting canon, unknown, or reserved.

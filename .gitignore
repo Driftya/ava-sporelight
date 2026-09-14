@@ -1,5 +1,6 @@
 temp_source/
+dist/
 .meridian/cache/indexer-files-aea4225db4af.json
-.meridian/session/
 .codex/config.toml
 .vscode/mcp.json
+.meridian/sessions/

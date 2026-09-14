@@ -6,7 +6,7 @@ type: front-matter
 
 # Ava: Sporelight
 
-![Ava: Sporelight cover](images/000/cover-image.png)
+![Ava: Sporelight cover](images/000/01-cover-image.png)
 
 *A light novel of science fiction, post-apocalyptic horror, action, and romance*
 

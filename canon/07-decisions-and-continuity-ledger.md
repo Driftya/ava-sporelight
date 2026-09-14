@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-14 — Author-decided — Ordered manuscript images and CMS cover promotion
+
+The author establishes a contiguous two-digit filename prefix (`01-`, `02-`, and so on) as the display order for images within each manuscript page. The first standalone image (`01-...`) is the page cover; CMS packaging removes that one occurrence from the packaged Markdown to avoid duplicate cover rendering, while later images remain inline in prefix order. This is a production rule and does not change the depicted story content. Affected files: `AGENTS.md`, `README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, illustrated manuscript files, and the CMS package builder.
+
 ### 2026-09-13 — Author-decided — Chapter illustration documentation and placement
 
 The author establishes `canon/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, `manuscript/images/000/` as the home for approved cover/front-matter art, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused assets. Written story canon and the target text govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, and the illustrated manuscript files.

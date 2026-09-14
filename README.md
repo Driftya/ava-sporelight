@@ -1,6 +1,6 @@
 # Ava: Sporelight
 
-![Ava: Sporelight cover](manuscript/images/000/cover-image.png)
+![Ava: Sporelight cover](manuscript/images/000/01-cover-image.png)
 
 This repository contains the canonical Markdown edition of *Ava: Sporelight*: a post-apocalyptic science-fiction light novel combining Ava’s origin, awakening, sanctuary, field missions, romance, betrayal, research, and future into one continuous 35-chapter story.
 
@@ -56,7 +56,7 @@ story canon + chapter prose
 
 Read the target chapter and every canon document governing what the image depicts before generation. Use only the relevant files from `concepts/` as visual anchors. Concepts may clarify appearance, palette, composition, and production style, but they cannot introduce or override story facts.
 
-Place cover and front-matter art in `manuscript/images/000/`. Place an approved chapter-specific image in the matching zero-padded directory—for example, chapter 7 assets belong in `manuscript/images/007/`. Reserve `manuscript/images/shared/` for assets intentionally reused across multiple manuscript sections. Link images from Markdown with paths relative to the consuming file, such as `images/007/example-scene.png` from a chapter.
+Place cover and front-matter art in `manuscript/images/000/`. Place an approved chapter-specific image in the matching zero-padded directory—for example, chapter 7 assets belong in `manuscript/images/007/`. Prefix every image filename with its two-digit order inside that manuscript page: `01-...`, `02-...`, and so on. The `01-...` image is the page cover and must be the first standalone image link; later numbered images remain inline. Reserve `manuscript/images/shared/` for assets intentionally reused across multiple manuscript sections. Link images from Markdown with paths relative to the consuming file, such as `images/007/01-example-scene.png` from a chapter.
 
 ## Novel Reading Order
 
@@ -93,6 +93,24 @@ The narrative red line is:
 6. Verify numbering, stable IDs, links, encoding, and the manuscript invariants in `AGENTS.md`.
 
 For image work, also verify the target chapter, mutation stage, character identity, location, equipment, chronology, reference links, and final `manuscript/images/` placement against the visual guideline.
+
+## Driftya CMS Package
+
+Build the uploadable CMS package with Windows PowerShell:
+
+```powershell
+.\scripts\New-CmsContentPackage.ps1
+```
+
+The default output is `dist/ava-sporelight.cms-package.zip`. Use `-OutputPath` to select another destination and `-Force` to replace an existing package. Shared package settings are maintained in [`publishing/cms-collection.json`](publishing/cms-collection.json), while every manuscript page has a stable-ID-bound SEO sidecar under [`publishing/cms/pages/`](publishing/cms/README.md).
+
+The builder validates all 35 chapter numbers and stable IDs, requires exactly one matching metadata sidecar per imported manuscript page, enforces the configured CMS field budgets, excludes `back-cover.md`, and resolves only approved files under `manuscript/images/`. External, embedded, reference-style, and raw-HTML image sources are rejected. Local image references must be contiguous and ordered by their filename prefixes (`01-`, `02-`, ...). The first image becomes `coverMedia` and is removed from packaged Markdown to prevent double rendering; later images remain inline and are emitted as ordered `relatedMedia`. The builder creates checksums for every packaged page, image, and manifest. Source images are left unchanged; package media is converted with ImageMagick to WebP at quality 96, as configured in `cms-collection.json`. Set `media.outputFormat` to `jpeg` or `original` when a different package format is required. Driftya then previews media reuse/uploads and page changes before anything is applied.
+
+Run the focused builder tests with:
+
+```powershell
+Invoke-Pester .\tests\New-CmsContentPackage.Tests.ps1
+```
 
 ## External Reference Material
 
