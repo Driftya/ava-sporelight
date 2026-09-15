@@ -28,6 +28,10 @@ The desk itself unsettled her more. She could imagine standing there with her fi
 
 *Someone should be here.*
 
+Ava placed her fingertips on the dusty counter. “I’m sick,” she said to the empty reception station. “I need help.”
+
+The words came out in the careful tone she must have used two centuries ago. For one humiliating second, she waited for an answer.
+
 “We need to find the lab,” Harrow said, his voice trembling. “It’s on the lower level.”
 
 Gabriel glanced at him, his expression unreadable. “We’ll get there. Stay focused.”

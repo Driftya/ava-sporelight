@@ -72,4 +72,8 @@ Then she saw her reflection in the observation panel. Amber where green should h
 
 *Those aren’t my eyes.*
 
-Her name was still Ava. She had managed to tell them that. Now she mouthed it without making a sound, testing whether it belonged to the face in the glass. She wished they would call her again so she could answer.
+Her name was still Ava. She had managed to tell them that. Now she tested it against the face in the glass.
+
+“Ava,” she said. Her voice shook, so she said it again. “My name is Ava.”
+
+Nobody answered through the intercom. She kept the name anyway.

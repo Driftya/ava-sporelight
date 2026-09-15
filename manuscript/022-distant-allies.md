@@ -102,6 +102,12 @@ They crossed the next street beneath the shadow of a collapsed rail line. As the
 
 “That’s what she called it. I don’t know how close she got.”
 
+“I want that to be true,” Ava said. “That’s why I don’t trust myself to decide whether you’re lying.”
+
+“I’m not lying.”
+
+“You don’t know what’s left in there. Wanting it isn’t the same as knowing.”
+
 “And you believed her?”
 
 His eyes stayed on the hospital. “I needed to.”

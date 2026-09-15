@@ -28,7 +28,11 @@ Gabriel adjusted the strap of his rifle and nodded. “We’re ready.”
 
 Jenna’s gaze lingered on Ava, softening slightly. “How are you holding up? This isn’t going to be an easy run.”
 
-“I’m fine,” Ava replied, keeping her tone steady. Jenna had supported her training, but Ava still heard the quarantine intercom sometimes when the commander asked about her health.
+“I’m afraid I’ll fail when someone needs me,” Ava said. The honesty made her want to snatch the words back. “I’m going anyway. If I feel the change starting, I’ll say it before Gabriel has to guess.”
+
+Jenna nodded once. “That’s an answer I can plan around.”
+
+Jenna had supported her training, but Ava still heard the quarantine intercom sometimes when the commander asked about her health.
 
 “Good,” Jenna said. “The hospital is at least a few days away on foot. We’ve mapped the safest route we could, but you know how quickly things can change out there. Stick together, avoid unnecessary risks, and keep communication open.”
 

@@ -192,7 +192,31 @@ His forehead touched hers. He was smiling. Ava caught the edge of the sheet and 
 
 *I don’t want to hide. Not now.*
 
-The worn sheets caught beneath Ava’s knee. Gabriel laughed into her shoulder when his injured ribs objected, and she called him an idiot before kissing him again. They made love slowly. Once she caught herself listening for the corridor and tightened her hand on his arm.
+The worn sheets caught beneath Ava’s knee. Gabriel laughed into her shoulder when his injured ribs objected, and she called him an idiot before kissing him again.
+
+His hand moved along the outside of her thigh and paused. Ava took his wrist and guided it inward.
+
+“Here,” she said. The word shook, but she did not take it back.
+
+His fingers found the wet heat between her thighs. The room narrowed to his hand, the rough sheet beneath her, and the breath she kept losing against his neck. When she tried to quiet herself, he kissed the corner of her mouth.
+
+“You don’t have to hide from me,” he whispered.
+
+“Then don’t make me do all the talking.”
+
+His laugh broke into a groan when she drew him over her. Hearing the want in him loosened something inside her. She opened her legs and looked at him before saying, “I want you closer.”
+
+When he entered her, unfamiliar pressure tightened through her body. Gabriel stopped at once. Ava gripped his shoulder, caught between the urge to retreat and the ache that had brought her this far.
+
+“Don’t leave,” she whispered. “Just wait.”
+
+He stayed still until her breathing changed. She moved beneath him first.
+
+“Now.”
+
+They found an uneven rhythm, broken whenever his ribs hurt or her knee caught in the sheet. Nothing about it was graceful. Ava wanted him with a clarity that survived every awkward correction.
+
+Once she caught herself listening for the corridor and tightened her hand on his arm.
 
 “Stay close,” she whispered.
 

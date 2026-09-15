@@ -42,9 +42,15 @@ By the last turn she was thinking about washing her hair. She wanted clean cloth
 
 She rehearsed how she would describe the blue caps to someone who had never cared about fungi. Little lamps, perhaps. No, that made them sound ordinary. She wanted someone to understand why she had stayed so late. She wanted, with equal force, someone to tell her she could leave the work until tomorrow.
 
+“You could have gone home at four,” she told the sample as she unlocked the lab. “One sensible afternoon. Imagine that.”
+
+Her own voice made the room feel emptier. Still, she smiled as she set the container down.
+
 Back in the lab, she put the sample on a clear corner of the desk and peeled off her gloves. The cuff snapped against her wrist. She meant to record the collection time before sitting down. Instead, she woke in the chair with the notebook open on her lap.
 
 Pain gripped her chest. Ava pressed a hand beneath her ribs and tried a careful breath. Carrying too much equipment, she told herself. Tomorrow she would leave half of it behind.
+
+*I can still go home.*
 
 The specimen still glowed. She switched on the bench lamp and reached for a fresh pair of gloves. Outside, something scraped against the window frame.
 

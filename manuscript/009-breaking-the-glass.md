@@ -56,7 +56,7 @@ Her face was inches away, her features twisted with fear and fury, her glowing v
 
 “I’m not—I swear,” Jenna stammered, but her words were drowned out by the sound of the door slamming open.
 
-Gabriel pulled his mask into place and hit the release. He rushed in, he grabbed Jenna by the arm and pulled her out of Ava’s grasp. The motion startled Ava, who stumbled back, her glowing eyes flickering.
+Gabriel pulled his mask into place and hit the release. He rushed in, grabbed Jenna by the arm, and pulled her out of Ava’s grasp. The motion startled Ava, who stumbled back, her glowing eyes flickering.
 
 The door hissed shut behind them, leaving Ava alone.
 
@@ -69,6 +69,8 @@ She rubbed her palms on her knees, then stopped to examine them. Gabriel had see
 He leaned toward the speaker.
 
 “Sorry,” she said again.
+
+Her fingers closed on empty air where Jenna’s suit had been. “I heard myself saying no,” she whispered. “I still couldn’t make my hands let go.”
 
 Jenna looked up. Ava was facing the empty place where the scanner had fallen, apparently unaware they could hear her.
 

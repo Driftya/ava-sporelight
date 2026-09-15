@@ -32,6 +32,8 @@ The man nodded, stepping closer to the table. He reached out, placing a heavily 
 
 Ava’s eyes widened in shock. “What are you talking about? Let me go!”
 
+She twisted hard enough to reopen her wrist. “You can ask me. Do you understand? I’m right here. You can still fucking ask me.”
+
 He ignored her outburst, motioning to the woman, who handed him a syringe filled with a glowing green liquid. “Begin with regenerative stress testing,” he instructed. “We’ll need to establish her baseline before introducing the spores.”
 
 “Spores? What spores?” Ava tried to pull her arm beneath the chest strap. “I’m already sick. What are you putting in me?”
@@ -47,6 +49,10 @@ The burning reached her elbow, then her shoulder. Ava bit the inside of her chee
 Through the haze of agony, Ava managed to spit out, “You’re killing me.”
 
 The man leaned over her, his expression unreadable. “No,” he said coldly. “We’re learning.”
+
+“Then learn my name.” Ava tasted blood where she had bitten her cheek. “Say it.”
+
+Neither of them did.
 
 She knew that word. She had used it to explain long days, failed samples, the reason she needed to go back into the jungle. Hearing it here made her feel briefly stupid for having expected it to protect her.
 

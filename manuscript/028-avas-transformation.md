@@ -90,6 +90,14 @@ Gabriel reached into his pack. She saw the coat coming and almost said she did n
 
 He laid it there and let her arrange the front. She kept her face down while he finished. The survivors had seen her body open itself into a weapon. Soon someone might thank her, and she would have to decide what expression to wear.
 
+“You saved us,” a woman said from the stairs.
+
+Ava shut her eyes. Gratitude struck the same raw place as fear.
+
+“I know,” she said, because denying it would make the woman comfort her. “Please give me a minute before you need anything else.”
+
+The woman nodded and turned to help the injured man stand.
+
 For now she pressed the cloth to her back and listened to the team leader asking who could still walk. She raised her hand only as far as it would go.
 
 “Let’s move,” Gabriel said, his voice steady. “The safe zone’s compromised. We’ll regroup at the extraction point.”

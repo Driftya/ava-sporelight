@@ -86,6 +86,16 @@ The mother unwound a cloth from the child’s mouth and folded it carefully, sav
 
 She wondered what she would have taken from her own room. The notebook, of course. After that the picture failed her. Someone had made the decision while she could not speak, and had taken nothing.
 
+“They left my clothes under the hospital bed,” she said.
+
+Gabriel looked over from the doorway.
+
+“The people who took me. They didn’t bring my bag.” Ava pushed one hand deeper into his borrowed sleeve. “I woke two hundred years later with nothing anyone had chosen because it belonged to me.”
+
+“What would you choose now?” he asked.
+
+She looked at the jacket around her, then at the knife by her knee. “Ask me when I know it’s my choice.”
+
 Ava could hear claws somewhere beyond the shattered gate. Each time they stopped, she looked toward the cans.
 
 “Get some rest,” Gabriel said, his tone softer than before. “I’ll take first watch.”

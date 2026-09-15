@@ -34,6 +34,10 @@ Ava’s heart sank. “Unidentified? What does that even mean? Is there a treatm
 
 Dr. Laird shook his head slowly. “We’re doing everything we can to understand it, but the prognosis isn’t good. Your condition is… terminal. I’m so sorry.”
 
+“No.” The word came out hard enough to startle her. “Run it again. Send it to someone else. You don’t get to say that and close the folder.”
+
+Dr. Laird opened it again, though the pages had not changed. “I’ve requested another review. I won’t stop looking. I also won’t lie to you about what we know now.”
+
 Ava stared at the folder. Dr. Laird had closed it before saying *terminal*, as if there were nothing left to consult.
 
 *No. He skipped something.*
@@ -57,6 +61,12 @@ That night, she watched fluid collect and fall inside the IV chamber. She though
 *Call them. Pick up the phone and call them.*
 
 She reached once. Her hand stopped above the receiver. She could not bear to hear a familiar voice become frightened because of her.
+
+On the second attempt she lifted it as far as her mouth.
+
+“Mum, I—”
+
+No number had been dialled. Ava held the dead receiver until the silence became unbearable, then returned it to its cradle.
 
 Once the footsteps outside passed without stopping, she cried. Quietly at first, because she could hear someone talking in the next room and felt absurdly rude. Then she could no longer manage quietly. She wanted her own bed and the option of wasting another day. She wanted years she had never made plans for.
 

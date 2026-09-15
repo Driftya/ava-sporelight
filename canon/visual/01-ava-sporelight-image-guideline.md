@@ -487,6 +487,11 @@ Choose one:
 ### Step 2 — Choose anchor references
 Use only the most relevant ones.
 
+### Step 2.5 — Define Spatial and Temporal Isolation
+Before drafting any image prompt, the agent must explicitly answer these internal guardrail checks:
+1. Does this scene take place in the same physical room/environment as the previous image? (If NO: Add a strict negative prompt banner forbidding all environmental elements from the previous image).
+2. What is the single, exact second of action being frozen from the text? (Ignore all actions, characters, or assets that occur before or after this specific second).
+
 #### For Ava scenes
 Use:
 - `Ava turnaround`
@@ -569,6 +574,20 @@ Create a new Ava: Sporelight image.
 
 Image type: [character sheet / keyframe / creature sheet / world concept / etc.]
 Primary references: [list the exact anchor references]
+
+[COMPOSITIONAL ARCHITECTURE & ANTI-REPETITION MANDATE]
+- Compositional Mode: Story Keyframe Mode. Prioritize atmospheric depth, focal clarity, and emotional truth over asset density.
+- Asset Budgeting: Limit active subjects. If a crowd or background elements are mentioned, render only 2 to 3 distinct, non-identical silhouettes to establish scale. Do not tile, duplicate, or clone character models or poses.
+- Text & Signage Rule: ABSOLUTE TEXT BAN BY DEFAULT. Completely omit floating digital overlays, labels, or repeating warning signs unless an exact string of text is explicitly requested in quotes (e.g., "TEXT"). Any requested text must be rendered exactly once as a weathered, stenciled, or integrated environmental asset.
+- Camera & Framing: Use a wide-angle 24mm anamorphic lens perspective with a distinct cinematic aspect ratio (e.g., 16:9 or 21:9). Establish three distinct planes of depth: a clear foreground anchor, a sharply focused middleground focal subject, and a atmospheric background.
+- Rendering Style: Hard focus on the primary subject. Apply a shallow depth of field to naturally blur background details, preventing visual noise and keeping the environment clean.
+
+[Border & Presentation]: The image is enclosed in a heavy, rough charcoal and graphite sketch vignette border. The outer edges resemble distressed, weathered paper with visible cross-hatched pencil lines and smudged dark borders, framing the scene like an artbook illustration.
+
+[STRICT TASK COMPARTMENTALIZATION / CONTEXT FLUSH]
+- Treat every chapter illustration as an entirely isolated project. 
+- You must NEVER carry over environments, weather, props, or background assets from a previous chapter generation to the next, unless the current text explicitly states the characters are still in the exact same location.
+- Before writing a new image prompt, completely flush your memory of the previous background. Rebuild the set design entirely from scratch using ONLY the spatial boundaries defined in the current target text.
 
 Preserve:
 - [character identity]

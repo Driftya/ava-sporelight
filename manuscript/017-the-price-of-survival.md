@@ -88,7 +88,15 @@ The training wasn’t just physical. Gabriel also taught her about the dangers o
 
 “If you panic, you make mistakes,” he said, handing her the practice knife hilt first. Her fingers slipped on the grip, slick with sweat. “And out there? One mistake can get you—or someone else—killed.”
 
-Ava swallowed, gripping the knife tighter. She understood that better than anyone.
+“What if I freeze?” Ava asked. “Not in here. When it has a face and it’s coming at me.”
+
+“Say it if you can. Look for me if you can’t.” Gabriel tapped the floor twice with his boot. “I’ll give you one movement. You do that one, then I give you the next.”
+
+“And if I change?”
+
+He did not pretend he had a clean answer. “Then I keep talking until you tell me you can hear me.”
+
+Ava swallowed, gripping the knife tighter. “Again.”
 
 Her first mission didn’t go as planned.
 
@@ -148,9 +156,13 @@ Ava froze for only a second—then she saw Gabriel among the chaos, trying to he
 
 Heat spread into her hands. She was afraid, and the mutation answered. Ava planted her feet as Gabriel had taught her, then moved before the pressure could choose a shape of its own.
 
-She charged at the creature, dodging its massive claws. The fight was brutal—every punch and kick she landed felt like hitting solid steel, and the creature’s strikes left her bruised and battered. But she refused to back down.
+She charged at the creature, ducking beneath one massive claw. Her fist struck its jaw and pain burst through her knuckles. The bone barely moved. It raked her ribs on the return swing, tearing cloth and leaving four hot lines across her skin.
 
-It lunged, knocking her to the ground, its maw snapping inches from her face. Her heart pounded, and for a terrifying moment, she felt that old fear creeping in.
+“Left!” Gabriel shouted.
+
+“I see it!” Ava barely did. She drove her heel into the joint he had shown her, felt it buckle, and hated the quick rush of satisfaction when the creature dropped to one side.
+
+It lunged, knocking her to the ground, its maw snapping inches from her face. Saliva struck her cheek. The factory roof became laboratory glass for one blinding instant, and she forgot which direction Gabriel had called.
 
 “The child’s clear!” Gabriel shouted. “Room on your left!”
 

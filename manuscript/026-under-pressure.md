@@ -64,6 +64,14 @@ The trio bolted into the adjoining room, their breaths ragged as they barricaded
 
 She nodded, though her hands trembled slightly. “Just… tired.”
 
+Gabriel kept looking at her.
+
+“Don’t ask me if I’m all right,” Ava said. “Ask me how much farther. I can answer that.”
+
+“Two rooms and an alley to the street.”
+
+“Then I can do two rooms and an alley.”
+
 *I can’t keep doing this.*
 
 “We can’t stay here,” Harrow said, his voice rising in panic. “They’ll find a way in.”

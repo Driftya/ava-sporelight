@@ -12,7 +12,7 @@ Ava heard a burst of gunfire, a pause, then three separate shots. Gabriel hurrie
 
 “That’s Jenna’s forward team,” Gabriel said, glancing over his shoulder. His voice was calm, but Ava could sense the tension beneath it. “Stay close. If they’re in trouble, we’ll need to help.”
 
-The trio picked up their pace, weaving through the wreckage of abandoned streets. The gunfire grew louder, accompanied by guttural screeches and the unmistakable clicking of mutants. Ava’s heart pounded as they rounded a corner and spotted the firefight ahead.
+The trio picked up their pace, weaving through the wreckage of abandoned streets. The gunfire grew louder, accompanied by guttural screeches and the unmistakable clicking of mutants. Ava’s blade rattled once against the buckle at her hip before she forced her hand steady. They rounded a corner and found the firefight ahead.
 
 The forward team was pinned against the wall of an old subway entrance. Behind them, a handful of civilians crouched on the stairs. They must have found more people while checking the route. A crew member held a spare mask against an injured man’s face as the others fired at the advancing mutants. The creatures moved with terrifying speed, their grotesque forms illuminated by the muzzle flashes of the team’s weapons.
 
@@ -44,7 +44,15 @@ He did not look back. “Move them!”
 
 Gabriel was still firing. Ava wanted to turn toward him so badly that the injured civilian became, for one shameful instant, a weight keeping her from the person she loved.
 
-The man tried to stand without her and nearly fell. She caught him beneath the arm. He was frightened too; she could hear him trying to apologize for how slowly his feet moved. She told him where to put the next one. Gabriel had given her the same kind of instruction when she could manage nothing larger.
+The man tried to stand without her and nearly fell. She caught him beneath the arm. His weight sagged into her; each step stopped halfway. Gabriel had given Ava the same kind of instruction when she could manage nothing larger.
+
+“Sorry,” he gasped. “I’m slowing you down.”
+
+“Then we go slowly.” Ava tightened her arm around him. “Left foot. Put it past the broken tile. Good. Now the right.”
+
+“You should go back for him.”
+
+“Don’t make me choose out loud,” she said. “Move.”
 
 Ava put a civilian’s arm over her shoulder and followed the retreating team, forcing a reaching claw aside with her blade. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
 

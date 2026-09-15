@@ -32,7 +32,13 @@ Her body struck again.
 
 The nearest monitor broke under her hand. Red alarm light swept over people slipping in the mist. Guards pushed through the doorway and fired. A man whose neck had already swollen against his collar burst apart at the shoulder; spores billowed from the damaged tissue. Ava flinched from the gunshot and drove an arm through the console beside him.
 
-Through the mayhem, Ava’s monstrous form rampaged, her amber spikes tearing through steel and flesh alike. She couldn’t control herself; her body moved on instinct, driven by the agony and the overwhelming surge of power. Her breaths came in ragged gasps, each exhalation fogging the air around her with heat.
+“Get away from me!” Ava tried to retreat and her altered heel crushed a hand reaching across the floor. The scream beneath her did not sound like any of the people who had watched her through glass. It sounded human. She lifted her foot too late.
+
+A spike drove through a guard’s abdomen and caught beneath his ribs. Ava felt the resistance in her shoulder, then the wet release as her arm tore free. She tried to drop the weapon and found it was part of her.
+
+“I can’t stop!” The words broke beneath another roar. Her body chose the nearest movement and completed it with terrible strength. “Please—run!”
+
+Those who could still move were already running. Her breaths came in ragged gasps, each exhalation fogging the blood-slick faceplate of a scientist trapped against the console.
 
 One of the scientists, a middle-aged man clutching his side where blood seeped through a tear in his suit, crawled toward a console. His trembling hand reached for a syringe loaded with a potent tranquilizer. With what little strength he had left, he lunged toward Ava as she loomed above him, her spikes dripping with blood and ichor. With a desperate cry, he drove the syringe into her neck, pressing the plunger.
 
@@ -41,6 +47,8 @@ Ava roared, her body convulsing as the tranquilizer took hold. Her vision blurre
 The scientist crawled toward a pod built into the wall. He dragged one leg behind him and left a smear of blood at every push. Ava tried to move in the other direction. Her hand slid on the floor.
 
 “You have to survive,” he rasped.
+
+“I killed them.” Ava could barely hear herself beneath the alarms. “I told them to run.”
 
 He activated the pod, then caught her beneath the arms. She could still feel his gloves as he hauled her inside, but she could not make him stop.
 

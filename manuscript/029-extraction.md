@@ -34,11 +34,21 @@ The first mutants emerged from the shadows, their grotesque forms scuttling towa
 
 “Keep them off us!” one of the transport team members shouted from the vehicle. “Almost done here!”
 
-The battle intensified as more mutants poured in, their screeches echoing off the station walls. Ava fought with a mix of precision and desperation, the fresh blood still wet along her blade. Each strike sent another creature crumpling to the ground, but the effort left her trembling.
+More mutants poured beneath the broken station canopy. One climbed over the body of another and came at Ava on all fours. She drove the blade into its open mouth. The wet edge took hold, but its momentum carried it against her knees.
+
+“Get it off me!” Her wounded hand slipped on the hilt. “Gabriel!”
+
+He kicked the collapsing body sideways and caught her harness before she fell with it. Another creature shrieked from the platform.
+
+“Still with me?” he asked.
+
+“Barely.” Ava reset her feet. Her arms shook hard enough to make the blade flicker in the dawn light. “Tell them to hurry.”
 
 Gabriel’s voice cut through the chaos. “Fall back! They’re closing in too fast!”
 
-Ava hesitated, her instincts screaming to stay and fight. But she caught the look in Gabriel’s eyes—a mix of determination and fear. Reluctantly, she retreated toward the transport vehicle, her blade still ready.
+Ava hesitated, every altered sense insisting that she finish what was moving in front of her. Then she saw Gabriel’s rifle muzzle waver a fraction as he searched for her through the spores.
+
+“I’m coming,” she shouted, forcing herself toward the transport with the blade still raised.
 
 At the step, her knee failed to lift high enough. The guard caught her elbow and hauled her the rest of the way. Ava let herself be pulled. Her first impulse was to apologize; her second was to hold on until she was certain the floor would stay beneath her.
 
@@ -59,5 +69,9 @@ Inside, the survivors sat in tense silence, their breaths heavy with relief. Ava
 *I don’t want to be brave again today.*
 
 Ava watched the blanket shift with the vehicle. She had expected saving people to produce a feeling she could recognize as good. Mostly she wanted water and for nobody to ask her to stand again.
+
+“I don’t have another fight in me,” she told Gabriel.
+
+He checked the rear window before answering. “Then nobody gets to ask for one.”
 
 The child’s mother reached across the aisle with a flask. Ava drank, careful not to touch the rim with her bandaged hand. For once she accepted something without first explaining what she could offer in return. The woman took the flask back and tucked the blanket around the child’s feet.

@@ -34,6 +34,14 @@ He paused, choosing the next truth with care. “A meteor brought the organism t
 
 Ava stared at him. “No. Say a different number.”
 
+Gabriel’s face tightened. “I wish I could.”
+
+“Two hundred years?” Her voice climbed with every word. “Everyone I knew—everyone who might know me—” She pressed a fist to her mouth, then forced it down. “They’re dead.”
+
+“Nobody from your life could still be waiting,” Gabriel said.
+
+“I didn’t ask them to wait.” Ava struck the floor once with the heel of her hand. “I was supposed to come back.”
+
 Ava’s fingers tightened around her knees. Her voice was barely above a whisper when she finally spoke. “Am I… one of them?”
 
 Gabriel hesitated. He wasn’t sure how to answer. “You’re… different,” he said carefully. “But you’re not like them. Not completely.”

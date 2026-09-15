@@ -20,6 +20,10 @@ She had undressed without thinking in her own room, left damp clothes over a cha
 
 She nearly asked politely. The habit disgusted her, and she pulled the gown tighter instead.
 
+“Could I have something to cover myself?” she asked the nearest technician. When he continued entering figures, she raised her voice. “A blanket. A towel. Anything.”
+
+He finished the line before walking away.
+
 *Stop looking at me.*
 
 Ava pressed her palm against the glass. “What is this? Where am I?” she demanded, her voice hoarse. “Let me out!”
@@ -51,6 +55,8 @@ Through the haze, she saw the scientists watching her intently, their visors ref
 “Spore exposure?” She tried holding her breath, but the cough forced her to inhale again. There was nowhere inside the enclosure the mist had not reached.
 
 “Turn it off!” She struck the glass with both palms. “Please! I’ll do whatever you want. Just turn it off!”
+
+The heat beneath her veins split into branching paths. Ava clawed at her sleeve. “It’s moving,” she gasped. “I can feel it moving under my skin. Please—get it out.”
 
 She fell to her knees. Light threaded the black veins, dim at first, then bright enough to show through her sleeve. The pressure shifted beneath her skin as if something were testing where it could grow. She dug her fingers into the floor seam and screamed.
 

@@ -54,6 +54,14 @@ She caught his sleeve before he moved away and kissed him. It was brief, awkward
 
 The word came with enough heat that she was glad he could not hear it.
 
+“When we get back,” she whispered, “I want our door shut.”
+
+“It usually is.”
+
+“Locked, Gabriel.”
+
+Understanding reached him. “Locked.”
+
 “Wake me,” he said.
 
 “When it’s your turn.”

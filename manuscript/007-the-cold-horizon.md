@@ -20,6 +20,12 @@ He stepped back to cover the street while the last civilians boarded. A shape st
 
 At the ramp, a woman was trying to bring a planting box aboard. Someone had told her there was no space for the soil. She held it against her coat while a crew member waited with an empty sack for the roots. Gabriel watched her loosen her grip one finger at a time.
 
+“My husband planted these,” she said. “I can carry them on my knees. I won’t ask for anything else.”
+
+The crew member looked toward Gabriel.
+
+“Keep the roots,” Gabriel said. “Lose the soil and make room by the heater.”
+
 He knew that delay. People who had followed every order could stop at a doorway over an object that looked worthless. He had once argued for a whole minute about a man’s broken kettle before learning it had belonged to his wife. Since then he tried to leave room for an explanation, though some days there was no room and no minute.
 
 The woman tipped the soil out beside the ramp and gathered the plants into the sack herself. Gabriel looked back toward the vines. He could do his job better if he stopped watching her.
@@ -45,6 +51,8 @@ A cryopod stood among collapsed equipment racks. Rust covered its lower housing,
 He wiped the lid with his glove. A woman lay inside, dark hair spread around her head, silver strands caught against the lining. Her face looked no older than his. He pressed his light nearer the glass, looking for any sign that the status light was telling the truth.
 
 *Please be alive.*
+
+“Come on,” he whispered to the woman beneath the frost. “Give me one more.”
 
 “Gabe, what’s the hold-up?” Jenna’s voice crackled.
 
