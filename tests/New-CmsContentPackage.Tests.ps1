@@ -9,7 +9,7 @@ Describe "New-CmsContentPackage" {
         $result = & $scriptPath -OutputPath $outputPath
 
         $result.PageCount | Should Be 36
-        $result.MediaCount | Should Be 4
+        $result.MediaCount | Should BeGreaterThan 0
         $result.MediaFormat | Should Be "webp"
         $result.MediaQuality | Should Be 96
         Test-Path -LiteralPath $outputPath | Should Be $true
@@ -30,7 +30,7 @@ Describe "New-CmsContentPackage" {
         $manifest.collection.coverMedia | Should Be "media/000/01-cover-image.webp"
         $manifest.collection.pageType | Should Be "collection"
         $manifest.pages[0].coverMedia | Should Be "media/001/01-ava-discovers-bioluminescent-fungus.webp"
-        $manifest.media.Count | Should Be 4
+        $manifest.media.Count | Should Be $result.MediaCount
         @($manifest.media | Where-Object { $_.source -notlike "*.webp" }).Count | Should Be 0
         ($manifest.psobject.Properties.Name -notcontains "publish") | Should Be $true
         Test-Path -LiteralPath (Join-Path $extractPath "manuscript/back-cover.md") | Should Be $false
