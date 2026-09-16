@@ -188,6 +188,20 @@ The touch sent a warm pulse between her legs. Ava’s hips shifted toward him be
 
 “No, that’s—” She pulled him closer, her face hot. “I liked that.”
 
+His mouth found the hollow of her throat. Heat followed it down. When his palm covered her breast, she arched into the contact without thinking, startled by how quickly her body answered him. The pad of his thumb brushed her nipple; the sensation went straight through her, light and insistent, and she made another small sound against his hair.
+
+“Gabriel—”
+
+He lifted his head. “Too much?”
+
+“No.” She guided his mouth back. “Just—stay there a moment.”
+
+Skin to skin, the room felt smaller. His chest was warm against hers. She ran her hand down the unhurt side of his ribs, then lower, until she felt him hard against her hip. Curiosity overtook shyness. She closed her fingers around him, learning the heat and weight of him, and his breath broke against her collarbone.
+
+“Ava.”
+
+“I want to know you,” she whispered. “Not only the parts that get hurt.”
+
 His forehead touched hers. He was smiling. Ava caught the edge of the sheet and let it go.
 
 *I don’t want to hide. Not now.*
@@ -216,6 +230,8 @@ He stayed still until her breathing changed. She moved beneath him first.
 
 They found an uneven rhythm, broken whenever his ribs hurt or her knee caught in the sheet. Nothing about it was graceful. Ava wanted him with a clarity that survived every awkward correction.
 
+Each slow push filled her more completely. The stretch eased into a deep, gathering heat. She hooked her calf over his, holding him inside her, and the next movement sent a shiver all the way to her toes. Pleasure stayed close to the surface—tender, not frantic—but it was unmistakably sexual, her body wet around him, his breath catching each time she lifted to meet him.
+
 Once she caught herself listening for the corridor and tightened her hand on his arm.
 
 “Stay close,” she whispered.
@@ -241,6 +257,8 @@ He brushed the damp hair from her face. Ava caught his hand before it left her c
 His thumb moved once beneath her eye. She kissed his palm and drew him back to her.
 
 Afterward, Ava lay on her side with one leg across his. Sweat cooled at the back of her neck. Gabriel rested his hand on her arm. She moved it to her waist and kept it there.
+
+His fingers traced the small of her back, lazy and unhurried. The afterglow left her skin sensitive; even that light path made her shiver. She was still wet where they had been joined. The knowledge felt private and ordinary at once, a fact of her body she did not want to hide from him.
 
 She was hungry. The discovery made her laugh under her breath; after everything she had been afraid to want, her body had produced an ordinary complaint. Gabriel asked what was funny, and she told him. He offered half a ration from the desk drawer as if it were a delicacy.
 

@@ -36,6 +36,8 @@ The nearest monitor broke under her hand. Red alarm light swept over people slip
 
 A spike drove through a guard’s abdomen and caught beneath his ribs. Ava felt the resistance in her shoulder, then the wet release as her arm tore free. She tried to drop the weapon and found it was part of her.
 
+Amber plates along her back tore through the gown. Another spike punched a second visor; the man behind it went down clutching a face that was no longer a face. Someone screamed and did not finish the sound. Ava’s next swing opened a suit from collarbone to hip. Blood and ichor ran together down the spike, dripping onto the floor she could not keep her feet from crushing.
+
 “I can’t stop!” The words broke beneath another roar. Her body chose the nearest movement and completed it with terrible strength. “Please—run!”
 
 Those who could still move were already running. Her breaths came in ragged gasps, each exhalation fogging the blood-slick faceplate of a scientist trapped against the console.

@@ -168,7 +168,9 @@ It lunged, knocking her to the ground, its maw snapping inches from her face. Sa
 
 Ava rolled into the space he had called. A claw scraped her knuckles as she got her feet beneath her. She caught the damaged edge of a metal panel and tore her palm open against it. The pain made her stomach turn.
 
-When the creature lunged again, she drove her bleeding hand beneath its breastbone. The tissue gave around her fingers. Its weight carried her down, but the legs had already begun to fold. She crawled out as the body collapsed without a spore burst.
+When the creature lunged again, she drove her bleeding hand beneath its breastbone. The tissue gave around her fingers. Heat followed—her blood searing through the wound, cooking the meat from the inside. The beast let out a final, guttural roar. Its maw snapped once more, close enough that she felt the wet heat of its breath, then the jaws went slack.
+
+Its weight carried her down, but the legs had already begun to fold. She crawled out as the body collapsed without a spore burst. Blood—hers and its—slicked her knuckles. She had torn her own palm to get the toxin into it, and the open skin pulsed with every heartbeat.
 
 Ava stumbled back, breathing hard. The settlement was silent, everyone staring at her. Some with awe, others with fear.
 

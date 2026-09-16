@@ -30,7 +30,7 @@ The group entered cautiously, the survivors huddling close as Gabriel and Ava sw
 
 She drew fresh blood from the torn skin beneath her dressing and wiped it along the blade. Her fingertips had begun to feel cold. The next fight would have to be short.
 
-The first attack came without warning. A mutant burst through a side door, its claws slashing through the air. Ava reacted instinctively, her blade slicing through its arm, her toxic blood taking hold. The creature screeched and collapsed, but its cry echoed through the building, drawing more of its kind.
+The first attack came without warning. A mutant burst through a side door, its claws slashing through the air. Ava reacted instinctively, her blade slicing through its arm, her toxic blood taking hold. The severed limb hit the floor still twitching. Dark fluid sprayed the wall. The creature screeched and collapsed, but its cry echoed through the building, drawing more of its kind.
 
 “They’re coming!” Gabriel shouted. “Get the survivors to the upper level!”
 
@@ -38,7 +38,7 @@ Ava stayed behind with Gabriel, her blade cutting through the mutants as they fl
 
 Then it happened.
 
-A mutant lunged at Ava from the side, its claws grazing her shoulder before she could react. Pain shot through her body as she stumbled, her blade slipping from her grasp. Gabriel’s rifle cracked. The mutant fell, spores streaming from its ruptured neck. His detector sounded as he backed clear. Ava was already shaking; the ache beneath her shoulder blades spread into her jaw.
+A mutant lunged at Ava from the side. Claws raked her shoulder, opening the skin in three hot lines. Pain shot through her body as she stumbled, her blade slipping from her grasp. Blood ran under her collar. Gabriel’s rifle cracked. The mutant’s head snapped back; the neck ruptured, and spores streamed from the wound in a grey jet. His detector sounded as he backed clear. Ava was already shaking; the ache beneath her shoulder blades spread into her jaw.
 
 “Ava!” Gabriel shouted, his voice laced with panic. “Hold on!”
 

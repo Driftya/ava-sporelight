@@ -104,7 +104,9 @@ Ava’s lips twitched into a faint smile, though her eyes remained sad. She lean
 
 Gabriel stepped closer, his hand brushing against hers before he wrapped his arms around her in a firm embrace. “I’m not going anywhere, Ava,” he murmured, his voice steady and warm.
 
-She rested her head against his chest, listening until she could distinguish his breathing from the wind at the barricade. Ava tilted her face upward, meeting his gaze, and Gabriel leaned down to kiss her. She wanted to be alone with him. The wanting felt almost extravagant after the day they had survived, and she held him closer because she could still feel it.
+She rested her head against his chest, listening until she could distinguish his breathing from the wind at the barricade. Ava tilted her face upward, meeting his gaze, and Gabriel leaned down to kiss her. The first touch of his mouth was careful. The second was not. She opened to him, tasting dust and the salt of his lip, and the heat that had been waiting since the greenhouse rose low in her belly. She wanted to be alone with him—door shut, his hands under her shirt, the weight of him learned again after a day that had nearly taken it away. The wanting felt almost extravagant after the day they had survived, and she held him closer because she could still feel it.
+
+Her breasts pressed against the hard line of his coat. Even that contact made her breath catch. She slipped her fingers inside the unfastened edge of his collar, finding warm skin, and felt him still against her.
 
 *I still want him. Even like this.*
 

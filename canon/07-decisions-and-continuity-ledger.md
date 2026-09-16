@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-16 — Author-decided — Restore light erotic and grim source beats by append
+
+The author asks that missing light-erotic and grim/violent material from the temporary source stories be restored without cutting existing manuscript prose. Adult intimacy after the chapter 18 confession is expanded with concrete, consensual, 17+ sensory detail (body, pleasure, afterglow) rather than fade-to-black euphemism; later couple scenes in chapters 23 and 30 carry that wanting without adding a second full sexual encounter. Grim restoration returns source-level viscera to the laboratory awakening, fortress massacre, factory blood kill, factory-refuge transformation fight, and Harrow’s demolition blast, including self-torn skin, searing toxic blood, shrapnel to Ava’s back, and spore-burst casualties already implied by canon. Source files remain unchanged. No chronology, biology, or character-identity change. Affected files: `manuscript/005-the-awakening.md`, `013-the-breaking-point.md`, `017-the-price-of-survival.md`, `018-a-fragile-confession.md`, `023-fragile-paths.md`, `028-avas-transformation.md`, `030-breathing-space.md`, `031-harrows-betrayal.md`.
+
 ### 2026-09-14 — Author-decided — Ordered manuscript images and CMS cover promotion
 
 The author establishes a contiguous two-digit filename prefix (`01-`, `02-`, and so on) as the display order for images within each manuscript page. The first standalone image (`01-...`) is the page cover; CMS packaging removes that one occurrence from the packaged Markdown to avoid duplicate cover rendering, while later images remain inline in prefix order. This is a production rule and does not change the depicted story content. Affected files: `AGENTS.md`, `README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, illustrated manuscript files, and the CMS package builder.

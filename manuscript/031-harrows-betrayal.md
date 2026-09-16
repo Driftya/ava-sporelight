@@ -70,9 +70,11 @@ He threw the charge at the ceiling.
 
 Ava hit Gabriel before the blast did.
 
-Concrete and rusted pipe came down in a single grey wave. Something tore across her back. A jagged slab struck Gabriel’s leg; she heard him cry out before his head hit the edge of a valve housing.
+The charge went off against the ceiling. The explosion ripped the chamber open. Concrete and rusted pipe came down in a single grey wave. Shrapnel tore across Ava’s back, shredding cloth and skin in a wide, burning strip. A jagged slab struck Gabriel’s leg; she heard him cry out before his head hit the edge of a valve housing.
 
-When Ava could hear again, the tunnel had changed shape.
+When she could hear again, the smell of scorched dust filled her mouth. Blood ran warm down her spine. The torn flesh of her back pulled and failed, then pulled again as the mutation tried to close what the blast had opened.
+
+The tunnel had changed shape.
 
 Rubble sealed half the chamber. Harrow’s lamp jerked through a gap on the far side. Beneath Ava, Gabriel did not move. Blood ran from his temple into the dust.
 

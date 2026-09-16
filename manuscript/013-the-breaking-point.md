@@ -76,6 +76,8 @@ Blood cooled between her toes. She tried to remember which of these men had brou
 
 She stepped over bodies, her bare feet splashing in pools of crimson. Most of the guards were dead, their expressions frozen in terror. The air smelled of death and decay.
 
+One man had been opened along the ribs; the wound steamed in the cold. Another still held his rifle, the barrel bent where her arm had struck it. A visor lay a few steps from the face it had covered. Ava’s claws had done this. She could see the marks: parallel rents, too deep for any tool she remembered holding. Her stomach heaved. She swallowed it down because there was nowhere clean to be sick.
+
 She stumbled through the carnage until she heard it—a faint, desperate voice calling her name.
 
 “Ava!”

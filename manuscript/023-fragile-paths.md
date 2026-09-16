@@ -50,6 +50,8 @@ Gabriel put his folded coat beside her watch position.
 
 She caught his sleeve before he moved away and kissed him. It was brief, awkward beside the doorframe, and made her want a great deal more than the room allowed. When he touched her cheek afterward she turned into his hand for one private second.
 
+His thumb rested near the corner of her mouth. She thought of his quarters: the crooked desk, the belt hitting the floor, the way he had waited inside her until she moved first. Heat gathered between her thighs, unhelpful and vivid. She pressed her knees together and kept her face against his palm until it passed enough to speak.
+
 *More.*
 
 The word came with enough heat that she was glad he could not hear it.
