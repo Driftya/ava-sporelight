@@ -8,8 +8,8 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 
 - Read the novel from [`manuscript/000-front-matter.md`](manuscript/000-front-matter.md).
 - Consult authoritative story rules from [`canon/README.md`](canon/README.md).
-- Continue the established voice with [`canon/08-prose-style-guide.md`](canon/08-prose-style-guide.md).
-- For chapter illustrations, follow [`canon/visual/01-ava-sporelight-image-guideline.md`](canon/visual/01-ava-sporelight-image-guideline.md) and use the anchors in [`concepts/`](concepts/).
+- Continue the established voice with [`canon/internal/08-prose-style-guide.md`](canon/internal/08-prose-style-guide.md).
+- For chapter illustrations, follow [`canon/internal/visual/01-ava-sporelight-image-guideline.md`](canon/internal/visual/01-ava-sporelight-image-guideline.md) and use the anchors in [`concepts/`](concepts/).
 - Read contributor and agent constraints in [`AGENTS.md`](AGENTS.md).
 
 ## Repository Structure
@@ -18,9 +18,10 @@ This repository contains the canonical Markdown edition of *Ava: Sporelight*: a 
 | --- | --- | --- |
 | `manuscript/` | The publishable novel: front matter, 35 numbered chapters, and back-cover copy. | Canonical prose, constrained by `canon/`. |
 | `manuscript/images/` | Approved publishable illustrations: `000/` for cover/front-matter art, zero-padded chapter folders (`001/`–`035/`), and `shared/` for genuinely reusable assets. | Canonical presentation assets, constrained by story and visual canon. |
-| `canon/` | Authoritative chronology, characters, biology, world, combat, continuity rules, and decision history. | Governs manuscript changes. |
-| `canon/visual/` | Visual and production rules for depicting the novel consistently. | Governs image generation without overriding story canon. |
-| `concepts/` | Character, creature, environment, and style reference images used as generation anchors. | Development references; not publishable manuscript assets or independent story canon. |
+| `canon/` | Authoritative chronology, characters, biology, world, combat, continuity rules, and decision history. | Governs manuscript changes; only the curated public projection is published. |
+| `canon/public/` | Publishable story canon: timeline, characters, biology, creatures, world, carrier, and concept-art gallery. | Public lore reference, constrained by the manuscript. |
+| `canon/internal/` | Decisions, continuity and writing rules, development uncertainties, and visual-production instructions. | Internal authoring constraints. |
+| `concepts/` | Character, creature, environment, and style reference images used as generation anchors and linked by selected public canon pages. | Development references; not publishable manuscript assets or independent story canon. |
 
 ## Canon and Manuscript Relationship
 
@@ -87,7 +88,7 @@ The narrative red line is:
 
 1. Identify the chapter or canon topic being changed.
 2. Read the relevant document linked from `canon/README.md`.
-3. Check `canon/07-decisions-and-continuity-ledger.md` for earlier conflict resolutions.
+3. Check `canon/internal/07-decisions-and-continuity-ledger.md` for earlier conflict resolutions.
 4. Make the smallest change that satisfies the story goal without breaking canon.
 5. Update canon and its decision ledger if the author intentionally changes continuity.
 6. Verify numbering, stable IDs, links, encoding, and the manuscript invariants in `AGENTS.md`.
@@ -117,7 +118,7 @@ To select a different manifest or output file, pass explicit repository-relative
     -Force
 ```
 
-Upload the resulting ZIP on the Driftya CMS content-package import page, review the preview, and then apply it. Shared package settings are maintained in [`publishing/cms-collection.json`](publishing/cms-collection.json), while every manuscript page has a stable-ID-bound SEO sidecar under [`publishing/cms/pages/`](publishing/cms/README.md).
+Upload the resulting ZIP on the Driftya CMS content-package import page, review the preview, and then apply it. The package contains the manuscript chapters plus the public canon pages configured in [`publishing/cms-collection.json`](publishing/cms-collection.json). Shared package settings are maintained there, while manuscript page metadata has stable-ID-bound SEO sidecars under [`publishing/cms/pages/`](publishing/cms/README.md).
 
 The builder validates all 35 chapter numbers and stable IDs, requires exactly one matching metadata sidecar per imported manuscript page, enforces the configured CMS field budgets, excludes `back-cover.md`, and strips the source front matter's `## Table of Contents` section because the CMS renders collection navigation. It resolves only approved files under `manuscript/images/`. External, embedded, reference-style, and raw-HTML image sources are rejected. Local image references must be contiguous and ordered by their filename prefixes (`01-`, `02-`, ...). The first image becomes `coverMedia` and is removed from packaged Markdown to prevent double rendering; later images remain inline and are emitted as ordered `relatedMedia`. The builder creates checksums for every packaged page, image, and manifest. Source images are left unchanged; package media is converted with ImageMagick to WebP at quality 96, as configured in `cms-collection.json`. Set `media.outputFormat` to `jpeg` or `original` when a different package format is required. Driftya then previews media reuse/uploads and page changes before anything is applied.
 

@@ -21,11 +21,11 @@ The author asks that missing light-erotic and grim/violent material from the tem
 
 ### 2026-09-14 — Author-decided — Ordered manuscript images and CMS cover promotion
 
-The author establishes a contiguous two-digit filename prefix (`01-`, `02-`, and so on) as the display order for images within each manuscript page. The first standalone image (`01-...`) is the page cover; CMS packaging removes that one occurrence from the packaged Markdown to avoid duplicate cover rendering, while later images remain inline in prefix order. This is a production rule and does not change the depicted story content. Affected files: `AGENTS.md`, `README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, illustrated manuscript files, and the CMS package builder.
+The author establishes a contiguous two-digit filename prefix (`01-`, `02-`, and so on) as the display order for images within each manuscript page. The first standalone image (`01-...`) is the page cover; CMS packaging removes that one occurrence from the packaged Markdown to avoid duplicate cover rendering, while later images remain inline in prefix order. This is a production rule and does not change the depicted story content. Affected files: `AGENTS.md`, `README.md`, `canon/internal/visual/01-ava-sporelight-image-guideline.md`, illustrated manuscript files, and the CMS package builder.
 
 ### 2026-09-13 — Author-decided — Chapter illustration documentation and placement
 
-The author establishes `canon/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, `manuscript/images/000/` as the home for approved cover/front-matter art, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused assets. Written story canon and the target text govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, `canon/visual/01-ava-sporelight-image-guideline.md`, and the illustrated manuscript files.
+The author establishes `canon/internal/visual/01-ava-sporelight-image-guideline.md` as visual / production canon, `concepts/` as the reference library for image generation, `manuscript/images/000/` as the home for approved cover/front-matter art, and `manuscript/images/NNN/` as the destination for approved chapter-specific novel illustrations, with `manuscript/images/shared/` reserved for intentionally reused assets. Written story canon and the target text govern depicted facts; visual references govern rendering and cannot override continuity or create story canon by implication. Affected files: `README.md`, `AGENTS.md`, `canon/README.md`, `canon/internal/visual/01-ava-sporelight-image-guideline.md`, and the illustrated manuscript files.
 
 ### 2026-09-13 — Author-decided — Recovered sanctuary relationship scenes
 
@@ -49,7 +49,7 @@ The interiority revision adds scene-level recollections and private journal entr
 
 ### 2026-09-13 — Author-decided — Intended readership and mature voice
 
-The author specifies an intended readership of 17+ and asks that the novel retain its daring style, including adult sexual intimacy, profanity, violence, and body horror. This is an audience designation, not an externally awarded rating. Ava and Gabriel remain adults; their first sexual relationship remains after the confession in chapter 18. Copyediting may improve specificity, consent, and rhythm without treating mature content as an error. Affected files: `canon/06-continuity-and-writing-guide.md`, `canon/08-prose-style-guide.md`, `manuscript/000-front-matter.md`, and the chapter-by-chapter copyedit. This clarifies the existing mature-content rule without changing character ages or relationship order.
+The author specifies an intended readership of 17+ and asks that the novel retain its daring style, including adult sexual intimacy, profanity, violence, and body horror. This is an audience designation, not an externally awarded rating. Ava and Gabriel remain adults; their first sexual relationship remains after the confession in chapter 18. Copyediting may improve specificity, consent, and rhythm without treating mature content as an error. Affected files: `canon/internal/06-continuity-and-writing-guide.md`, `canon/internal/08-prose-style-guide.md`, `manuscript/000-front-matter.md`, and the chapter-by-chapter copyedit. This clarifies the existing mature-content rule without changing character ages or relationship order.
 
 ### 2026-09-13 — Established — Rescue transitions and hospital handoffs
 
@@ -65,15 +65,15 @@ Harrow claims his sister worked on mutation research at the hospital and identif
 
 ### 2026-09-13 — Author-decided — Prose style standard
 
-Future manuscript work follows `08-prose-style-guide.md`: close, character-filtered third person; concrete human detail; physically grounded action and body horror; earned intimacy; and active removal of development artifacts, generic emotional shorthand, and accidental repetition. This extends the tone rules in `06-continuity-and-writing-guide.md` without changing story continuity. Affected files: `canon/06-continuity-and-writing-guide.md`, `canon/08-prose-style-guide.md`, and all future manuscript revisions.
+Future manuscript work follows `08-prose-style-guide.md`: close, character-filtered third person; concrete human detail; physically grounded action and body horror; earned intimacy; and active removal of development artifacts, generic emotional shorthand, and accidental repetition. This extends the tone rules in `06-continuity-and-writing-guide.md` without changing story continuity. Affected files: `canon/internal/06-continuity-and-writing-guide.md`, `canon/internal/08-prose-style-guide.md`, and all future manuscript revisions.
 
 ### 2026-09-13 — Established — Jenna’s sister
 
-Jenna lost her younger sister to infection. Chapter 16 now establishes the loss through a private conversation with Ava; it explains Jenna’s investment in protocol and rescue work but does not excuse her earlier treatment of Ava. Affected files: `canon/02-characters-and-relationships.md` and `manuscript/016-unspoken.md`.
+Jenna lost her younger sister to infection. Chapter 16 now establishes the loss through a private conversation with Ava; it explains Jenna’s investment in protocol and rescue work but does not excuse her earlier treatment of Ava. Affected files: `canon/public/02-characters-and-relationships.md` and `manuscript/016-unspoken.md`.
 
 ### 2026-09-13 — Established — Epilogue timing and first child
 
-Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after the blood research; chapter 35 follows six days later. The earlier toddler scene and second-pregnancy implication were removed because they created an unmarked additional time jump and contradicted the canonical end state. The daughter is healthy by available tests, but her long-term inheritance remains unknown. Affected files: `canon/01-story-and-timeline.md`, `manuscript/034-a-new-dawn.md`, and `manuscript/035-epilogue.md`.
+Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after the blood research; chapter 35 follows six days later. The earlier toddler scene and second-pregnancy implication were removed because they created an unmarked additional time jump and contradicted the canonical end state. The daughter is healthy by available tests, but her long-term inheritance remains unknown. Affected files: `canon/public/01-story-and-timeline.md`, `manuscript/034-a-new-dawn.md`, and `manuscript/035-epilogue.md`.
 
 1. **Haven’s Vanguard is not a spacecraft.** It is a terrestrial/atmospheric Titan-class hover carrier. Star and void language in the manuscript is night imagery.
 2. **Ava is immune to the ordinary fatal mutation process, not to transformation.** Her body survives and integrates the mutation, but she continues becoming more monstrous over time and can lose control. Ordinary mutants degrade; Ava’s anomaly lets her survive the progression, creating the risk of a permanent monster state.
@@ -98,14 +98,14 @@ Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after
 
 ## Consolidation Decisions
 
-- The story chronology is maintained once in `01-story-and-timeline.md` rather than repeated across separate outlines.
-- Character information is consolidated by character in `02-characters-and-relationships.md`.
-- Ava’s immunity, progressive mutation, toxic biology, and vaccine logic are reconciled in `03-spores-mutation-and-ava.md`.
-- Canonical mutant classes and unused naming ideas are separated in `03b-mutant-bestiary.md`.
-- Only locations and social rules relevant to this novel are established in `04-world-locations-and-society.md`.
-- Carrier specifications, rescue doctrine, and combat rules are unified in `05-ship-rescue-and-combat.md`.
+- The story chronology is maintained once in `public/01-story-and-timeline.md` rather than repeated across separate outlines.
+- Character information is consolidated by character in `public/02-characters-and-relationships.md`.
+- Ava’s immunity, progressive mutation, toxic biology, and vaccine logic are reconciled in `public/03-spores-mutation-and-ava.md`.
+- Canonical mutant classes and unused naming ideas are separated in `public/03b-mutant-bestiary.md`.
+- Only locations and social rules relevant to this novel are established in `public/04-world-locations-and-society.md`.
+- Carrier specifications, rescue doctrine, and combat rules are unified in `public/05-ship-rescue-and-combat.md`.
 - Combat techniques shown in the manuscript are distinguished from techniques that are merely available for later use.
-- Editorial constraints are kept in `06-continuity-and-writing-guide.md` rather than mixed with world facts.
+- Editorial constraints are kept in `internal/06-continuity-and-writing-guide.md` rather than mixed with world facts.
 - Repeated introductions, greenhouse explanations, and equivalent emotional beats were removed during the chapter 15–16 integration.
 - Interactive player-choice branches were removed from chapters 22 and 25; the novel now follows one continuous, canon-compliant route through those scenes.
 - Mature language and content were retained rather than softened.

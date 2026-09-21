@@ -1,4 +1,12 @@
+---
+id: ava-sporelight-canon-biology-and-mutation
+summary: Understand the spores, the ordinary mutation process, Ava’s unusual biology, and why transformation is still a threat.
+seoTitle: Ava: Sporelight Biology and Mutation
+metaDescription: Explore the spores, mutation, Ava’s immunity to fatal degradation, her continuing transformation, and the science behind the vaccine.
+---
 # Spores, Mutation, and Ava
+
+![The visual language of the spores](../../concepts/the_spore_visual_language_guide.png)
 
 ## Table of Contents
 
@@ -9,7 +17,6 @@
 5. [Transformation and Loss of Control](#transformation-and-loss-of-control)
 6. [Toxic Biology](#toxic-biology)
 7. [Research and Vaccine](#research-and-vaccine)
-8. [Unknowns](#unknowns)
 
 ## Origin and Spread
 
@@ -85,15 +92,3 @@ Hospital records provide partial research methods and blood-assay context. Jenna
 Ava’s consent distinguishes this work from the original experiments. She sets conditions and allows Gabriel, under Jenna’s guidance, to draw blood. Two years later, a limited vaccine derived from her blood is helping communities resist or treat the alien mutation.
 
 The vaccine is effective but scarce. It does not instantly restore the planet, reverse every existing mutant, or eliminate environmental spores.
-
-## Unknowns
-
-The following remain intentionally undefined:
-
-- the exact extraterrestrial taxonomy of the spores;
-- whether the organism has collective intelligence or only adaptive biological behavior;
-- the precise molecular mechanism of Ava’s toxic fluids;
-- whether her progressive transformation can be permanently halted;
-- what biological traits, if any, Ava’s daughter inherits;
-- whether the vaccine prevents infection, arrests early mutation, or performs both functions in different doses.
-

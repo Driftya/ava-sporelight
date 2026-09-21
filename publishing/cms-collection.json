@@ -28,8 +28,17 @@
     "author": "XzaR (Niclas G. Reed)",
     "robotsPolicy": "index,follow"
   },
+  "canonPages": [
+    { "source": "canon/public/01-story-and-timeline.md", "slug": "ava-sporelight-story-and-timeline", "title": "Story and Timeline", "sortOrder": 36 },
+    { "source": "canon/public/02-characters-and-relationships.md", "slug": "ava-sporelight-characters", "title": "Characters", "sortOrder": 37 },
+    { "source": "canon/public/03-spores-mutation-and-ava.md", "slug": "ava-sporelight-biology-and-mutation", "title": "Biology and Mutation", "sortOrder": 38 },
+    { "source": "canon/public/03b-mutant-bestiary.md", "slug": "ava-sporelight-mutant-bestiary", "title": "Mutant Bestiary", "sortOrder": 39 },
+    { "source": "canon/public/04-world-locations-and-society.md", "slug": "ava-sporelight-world-and-havens-vanguard", "title": "World and Haven’s Vanguard", "sortOrder": 40 },
+    { "source": "canon/public/06-concept-art.md", "slug": "ava-sporelight-concept-art", "title": "Concept Art", "sortOrder": 41 }
+  ],
   "media": {
     "outputFormat": "webp",
-    "quality": 96
+    "quality": 96,
+    "maxPackageBytes": 104857600
   }
 }

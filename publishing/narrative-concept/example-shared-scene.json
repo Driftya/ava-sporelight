@@ -1,0 +1,23 @@
+{
+  "sceneId": "example-carrier-meeting",
+  "packageKey": "ava-sporelight",
+  "packageVersion": "1.0.0",
+  "epochKey": "rescue-era",
+  "instanceKey": "example-shared-world",
+  "placeKey": "havens-vanguard",
+  "zoneKey": "crew-deck",
+  "revision": 1,
+  "status": "open",
+  "capacity": 3,
+  "participants": [
+    {
+      "journeyId": "example-journey",
+      "joinedAtUtc": "2099-01-01T00:00:00Z"
+    },
+    {
+      "journeyId": "example-nearby-journey",
+      "joinedAtUtc": "2099-01-01T00:00:01Z"
+    }
+  ],
+  "sharedFacts": {}
+}

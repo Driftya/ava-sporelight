@@ -1,4 +1,12 @@
+---
+id: ava-sporelight-canon-world-and-havens-vanguard
+summary: See the ruined regions, survivor settlements, and terrestrial carrier that connect Ava’s story across the changed world.
+seoTitle: Ava: Sporelight World and Haven’s Vanguard
+metaDescription: Explore the fallen world, survivor society, and Haven’s Vanguard, the terrestrial Titan-class hover carrier at the heart of Ava’s rescue story.
+---
 # World, Locations, and Society
+
+![Haven’s Vanguard interior](../../concepts/haven_s_vanguard_interior_bible.png)
 
 ## Table of Contents
 
@@ -7,7 +15,6 @@
 3. [Survivor Society](#survivor-society)
 4. [Technology Level](#technology-level)
 5. [Regional Names and Faction Background](#regional-names-and-faction-background)
-6. [Reserved World Material](#reserved-world-material)
 
 ## The Fallen World
 
@@ -85,8 +92,3 @@ The author's 2026-09-13 request permits selective use of development/game locati
 
 Scene-level examples of barter, repaired equipment, shared growing space, and supply records elaborate existing scarcity and survivor society. They do not establish universal prices or currency. The manuscript introduces no faction campaign or new destination beyond its established journey.
 
-## Reserved World Material
-
-Large regional lists, named factions, shops, equipment economies, and mission hubs from game or sequel development are not automatically canon to this novel.
-
-The Horizon Initiative, The Frostborn Vanguard, The Sporelands, The White Graveyard, The Lost Ocean, and the remaining region taxonomy are reserved. The limited promotions above do not import game alignments, faction rivalries, headquarters, capture plots, equipment systems, or sequel events.

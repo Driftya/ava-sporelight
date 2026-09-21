@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:ava-sporelight:narrative-runtime-extension:1",
+  "title": "Ava: Sporelight runtime extension v1",
+  "type": "object",
+  "required": ["player", "extensions"],
+  "properties": {
+    "player": { "type": "object", "required": ["role"], "properties": { "role": { "const": "support-operative" } } },
+    "extensions": {
+      "type": "object",
+      "required": ["ava"],
+      "properties": {
+        "ava": {
+          "type": "object", "additionalProperties": false,
+          "required": ["sporeExposure", "protectiveGear", "currentActivity", "teamAssignment", "supportFocus"],
+          "properties": {
+            "sporeExposure": { "enum": ["unknown", "none-observed", "possible", "confirmed"] },
+            "protectiveGear": { "type": "array", "maxItems": 12, "uniqueItems": true, "items": { "type": "string", "minLength": 1, "maxLength": 80 } },
+            "currentActivity": { "type": "string", "minLength": 1, "maxLength": 160 },
+            "teamAssignment": { "enum": ["carrier-support", "hospital-support", "field-support"] },
+            "supportFocus": { "enum": ["medical", "logistics", "scouting", "engineering", "greenhouse"] }
+          }
+        }
+      }
+    }
+  }
+}

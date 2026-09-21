@@ -1,0 +1,41 @@
+{
+  "packageKey": "ava-sporelight",
+  "packageVersion": "1.0.0",
+  "journeyId": "example-journey",
+  "revision": 0,
+  "world": {
+    "epochKey": "rescue-era",
+    "instanceKey": "example-shared-world",
+    "chapterKey": "chapter-015",
+    "facts": {}
+  },
+  "player": {
+    "role": "support-operative",
+    "resources": {},
+    "knownFacts": []
+  },
+  "presence": {
+    "epochKey": "rescue-era",
+    "instanceKey": "example-shared-world",
+    "placeKey": "havens-vanguard",
+    "zoneKey": "crew-deck",
+    "posture": "standing",
+    "relativePosition": "near the crew briefing area",
+    "availability": "available",
+    "joinPreference": "ask",
+    "expiresAtUtc": "2099-01-01T00:00:00Z"
+  },
+  "scene": {
+    "sceneId": null,
+    "revision": 0
+  },
+  "extensions": {
+    "ava": {
+      "sporeExposure": "unknown",
+      "protectiveGear": [],
+      "currentActivity": "preparing supplies for Ava and Gabriel",
+      "teamAssignment": "carrier-support",
+      "supportFocus": "logistics"
+    }
+  }
+}

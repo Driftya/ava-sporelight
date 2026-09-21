@@ -1,4 +1,12 @@
+---
+id: ava-sporelight-canon-mutant-bestiary
+summary: A field guide to the recurring mutant classes shaped by the spore ecology of Ava: Sporelight.
+seoTitle: Ava: Sporelight Mutant Bestiary
+metaDescription: Meet the Feral Howler, Husked Lurker, Emberfang, Spitter, Grubspawn, Rooting Spore Pod, Cryospine Wretch, and Tanglejaw Ravager.
+---
 # Mutant Bestiary
+
+![Spore creature taxonomy](../../concepts/spore_creature_taxonomy_field_guide.png)
 
 ## Table of Contents
 

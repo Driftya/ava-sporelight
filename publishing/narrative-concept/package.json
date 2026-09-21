@@ -1,0 +1,840 @@
+{
+  "formatVersion": 1,
+  "packageKey": "ava-sporelight",
+  "packageVersion": "1.0.0",
+  "title": "Ava: Sporelight playable world",
+  "sourceRefs": [
+    {
+      "key": "chapter-001",
+      "kind": "manuscript",
+      "path": "manuscript/001-a-botanists-world.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-002",
+      "kind": "manuscript",
+      "path": "manuscript/002-the-unseen-threat.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-003",
+      "kind": "manuscript",
+      "path": "manuscript/003-a-prison-of-steel.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-004",
+      "kind": "manuscript",
+      "path": "manuscript/004-isolation.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-005",
+      "kind": "manuscript",
+      "path": "manuscript/005-the-awakening.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-006",
+      "kind": "manuscript",
+      "path": "manuscript/006-the-world-beyond.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-007",
+      "kind": "manuscript",
+      "path": "manuscript/007-the-cold-horizon.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-008",
+      "kind": "manuscript",
+      "path": "manuscript/008-the-stranger.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-009",
+      "kind": "manuscript",
+      "path": "manuscript/009-breaking-the-glass.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-010",
+      "kind": "manuscript",
+      "path": "manuscript/010-breaking-barriers.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-011",
+      "kind": "manuscript",
+      "path": "manuscript/011-bridging-the-divide.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-012",
+      "kind": "manuscript",
+      "path": "manuscript/012-shadows-of-the-past.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-013",
+      "kind": "manuscript",
+      "path": "manuscript/013-the-breaking-point.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-014",
+      "kind": "manuscript",
+      "path": "manuscript/014-the-escape.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-015",
+      "kind": "manuscript",
+      "path": "manuscript/015-hope.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-016",
+      "kind": "manuscript",
+      "path": "manuscript/016-unspoken.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-017",
+      "kind": "manuscript",
+      "path": "manuscript/017-the-price-of-survival.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-018",
+      "kind": "manuscript",
+      "path": "manuscript/018-a-fragile-confession.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-019",
+      "kind": "manuscript",
+      "path": "manuscript/019-whispers-in-the-ashes.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-020",
+      "kind": "manuscript",
+      "path": "manuscript/020-shadows-of-the-past.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-021",
+      "kind": "manuscript",
+      "path": "manuscript/021-comfort-in-shadows.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-022",
+      "kind": "manuscript",
+      "path": "manuscript/022-distant-allies.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-023",
+      "kind": "manuscript",
+      "path": "manuscript/023-fragile-paths.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-024",
+      "kind": "manuscript",
+      "path": "manuscript/024-approaching-the-hospital.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-025",
+      "kind": "manuscript",
+      "path": "manuscript/025-closing-in.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-026",
+      "kind": "manuscript",
+      "path": "manuscript/026-under-pressure.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-027",
+      "kind": "manuscript",
+      "path": "manuscript/027-the-fight-to-survive.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-028",
+      "kind": "manuscript",
+      "path": "manuscript/028-avas-transformation.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-029",
+      "kind": "manuscript",
+      "path": "manuscript/029-extraction.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-030",
+      "kind": "manuscript",
+      "path": "manuscript/030-breathing-space.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-031",
+      "kind": "manuscript",
+      "path": "manuscript/031-harrows-betrayal.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-032",
+      "kind": "manuscript",
+      "path": "manuscript/032-safe-harbor.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-033",
+      "kind": "manuscript",
+      "path": "manuscript/033-the-scientists-proposal.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-034",
+      "kind": "manuscript",
+      "path": "manuscript/034-a-new-dawn.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "chapter-035",
+      "kind": "manuscript",
+      "path": "manuscript/035-epilogue.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "canon-timeline",
+      "kind": "publicCanon",
+      "path": "canon/public/01-story-and-timeline.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "canon-characters",
+      "kind": "publicCanon",
+      "path": "canon/public/02-characters-and-relationships.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "canon-biology",
+      "kind": "publicCanon",
+      "path": "canon/public/03-spores-mutation-and-ava.md",
+      "visibility": "narratorOnly"
+    },
+    {
+      "key": "canon-world",
+      "kind": "publicCanon",
+      "path": "canon/public/04-world-locations-and-society.md",
+      "visibility": "narratorOnly"
+    }
+  ],
+  "epochs": [
+    {
+      "key": "before-fall",
+      "label": "Before the Fall: backstory only"
+    },
+    {
+      "key": "rescue-era",
+      "label": "Rescue era"
+    },
+    {
+      "key": "renewal-era",
+      "label": "Renewal, roughly two years later"
+    }
+  ],
+  "places": [
+    {
+      "key": "havens-vanguard",
+      "epochKey": "rescue-era",
+      "label": "Haven's Vanguard",
+      "zones": [
+        {
+          "key": "crew-deck",
+          "label": "Crew Deck"
+        },
+        {
+          "key": "greenhouse",
+          "label": "Greenhouse"
+        },
+        {
+          "key": "medical-bay",
+          "label": "Medical Bay"
+        },
+        {
+          "key": "hangar",
+          "label": "Hangar"
+        }
+      ]
+    },
+    {
+      "key": "hospital-city",
+      "epochKey": "rescue-era",
+      "label": "Hospital city",
+      "zones": [
+        {
+          "key": "approach",
+          "label": "Approach"
+        },
+        {
+          "key": "hospital-interior",
+          "label": "Hospital Interior"
+        }
+      ]
+    },
+    {
+      "key": "ruined-heartland",
+      "epochKey": "rescue-era",
+      "label": "Ruined heartland",
+      "zones": [
+        {
+          "key": "travel-route",
+          "label": "Travel Route"
+        },
+        {
+          "key": "field-camp",
+          "label": "Field Camp"
+        }
+      ]
+    },
+    {
+      "key": "ruined-discovery-town",
+      "epochKey": "rescue-era",
+      "label": "Ruined discovery town",
+      "zones": [
+        {
+          "key": "evacuation-square",
+          "label": "Evacuation Square"
+        },
+        {
+          "key": "cryopod-sublevel",
+          "label": "Cryopod Sublevel"
+        }
+      ]
+    },
+    {
+      "key": "rescue-transit",
+      "epochKey": "rescue-era",
+      "label": "Rescue transit",
+      "zones": [
+        {
+          "key": "transport-interior",
+          "label": "Transport Interior"
+        }
+      ]
+    },
+    {
+      "key": "frozen-fortress",
+      "epochKey": "rescue-era",
+      "label": "Frozen fortress",
+      "zones": [
+        {
+          "key": "approach",
+          "label": "Approach"
+        },
+        {
+          "key": "interior",
+          "label": "Interior"
+        }
+      ]
+    },
+    {
+      "key": "railway-station",
+      "epochKey": "rescue-era",
+      "label": "Railway station",
+      "zones": [
+        {
+          "key": "platform",
+          "label": "Platform"
+        }
+      ]
+    },
+    {
+      "key": "outpost",
+      "epochKey": "rescue-era",
+      "label": "Outpost",
+      "zones": [
+        {
+          "key": "compound",
+          "label": "Compound"
+        }
+      ]
+    },
+    {
+      "key": "havens-vanguard-renewal",
+      "epochKey": "renewal-era",
+      "label": "Haven's Vanguard during renewal",
+      "zones": [
+        {
+          "key": "lounge",
+          "label": "Lounge"
+        },
+        {
+          "key": "greenhouse",
+          "label": "Greenhouse"
+        },
+        {
+          "key": "maintenance-bay",
+          "label": "Maintenance bay"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "key": "chapter-001",
+      "sourceKey": "chapter-001",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-002"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-002",
+      "sourceKey": "chapter-002",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-003"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-003",
+      "sourceKey": "chapter-003",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-004"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-004",
+      "sourceKey": "chapter-004",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-005"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-005",
+      "sourceKey": "chapter-005",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-006"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-006",
+      "sourceKey": "chapter-006",
+      "epochKey": "before-fall",
+      "likelyNextChapterKeys": [
+        "chapter-007"
+      ],
+      "playable": false
+    },
+    {
+      "key": "chapter-007",
+      "sourceKey": "chapter-007",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-008"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-008",
+      "sourceKey": "chapter-008",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-009"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-009",
+      "sourceKey": "chapter-009",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-010"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-010",
+      "sourceKey": "chapter-010",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-011"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-011",
+      "sourceKey": "chapter-011",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-012"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-012",
+      "sourceKey": "chapter-012",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-013"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-013",
+      "sourceKey": "chapter-013",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-014"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-014",
+      "sourceKey": "chapter-014",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-015"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-015",
+      "sourceKey": "chapter-015",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-016"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-016",
+      "sourceKey": "chapter-016",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-017"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-017",
+      "sourceKey": "chapter-017",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-018"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-018",
+      "sourceKey": "chapter-018",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-019"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-019",
+      "sourceKey": "chapter-019",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-020"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-020",
+      "sourceKey": "chapter-020",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-021"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-021",
+      "sourceKey": "chapter-021",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-022"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-022",
+      "sourceKey": "chapter-022",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-023"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-023",
+      "sourceKey": "chapter-023",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-024"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-024",
+      "sourceKey": "chapter-024",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-025"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-025",
+      "sourceKey": "chapter-025",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-026"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-026",
+      "sourceKey": "chapter-026",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-027"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-027",
+      "sourceKey": "chapter-027",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-028"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-028",
+      "sourceKey": "chapter-028",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-029"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-029",
+      "sourceKey": "chapter-029",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-030"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-030",
+      "sourceKey": "chapter-030",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-031"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-031",
+      "sourceKey": "chapter-031",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-032"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-032",
+      "sourceKey": "chapter-032",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-033"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-033",
+      "sourceKey": "chapter-033",
+      "epochKey": "rescue-era",
+      "likelyNextChapterKeys": [
+        "chapter-034"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-034",
+      "sourceKey": "chapter-034",
+      "epochKey": "renewal-era",
+      "likelyNextChapterKeys": [
+        "chapter-035"
+      ],
+      "playable": true
+    },
+    {
+      "key": "chapter-035",
+      "sourceKey": "chapter-035",
+      "epochKey": "renewal-era",
+      "playable": true
+    }
+  ],
+  "roles": [
+    {
+      "key": "support-operative",
+      "kind": "original-support",
+      "description": "An original carrier or field support person who assists Ava and Gabriel while retaining their own identity and choices."
+    }
+  ],
+  "entrypoints": [
+    {
+      "key": "carrier-support-chapter-015",
+      "chapterKey": "chapter-015",
+      "epochKey": "rescue-era",
+      "placeKey": "havens-vanguard",
+      "zoneKey": "crew-deck",
+      "roleKey": "support-operative",
+      "roleHint": "Join the carrier crew as an original support operative; help Ava and Gabriel without taking either role."
+    },
+    {
+      "key": "hospital-support-chapter-019",
+      "chapterKey": "chapter-019",
+      "epochKey": "rescue-era",
+      "placeKey": "havens-vanguard",
+      "zoneKey": "hangar",
+      "roleKey": "support-operative",
+      "roleHint": "Join preparations for the hospital expedition as an original support operative."
+    }
+  ],
+  "multiplayer": {
+    "discoveryOnEveryTurn": true,
+    "presenceTtlSeconds": 120,
+    "invitationRequired": true,
+    "allowSolo": true,
+    "maxSceneParticipants": 3,
+    "matchingHint": "Find consenting nearby support players in the same package, epoch, instance and zone. Rank by compatible activity. Do not bridge the renewal time jump or reveal later chapters."
+  },
+  "narrativePolicy": {
+    "protectedCanonIdentityKeys": [
+      "ava",
+      "gabriel"
+    ],
+    "immutableCanonSourceKeys": [
+      "chapter-001",
+      "chapter-002",
+      "chapter-003",
+      "chapter-004",
+      "chapter-005",
+      "chapter-006",
+      "chapter-007",
+      "chapter-008",
+      "chapter-009",
+      "chapter-010",
+      "chapter-011",
+      "chapter-012",
+      "chapter-013",
+      "chapter-014",
+      "chapter-015",
+      "chapter-016",
+      "chapter-017",
+      "chapter-018",
+      "chapter-019",
+      "chapter-020",
+      "chapter-021",
+      "chapter-022",
+      "chapter-023",
+      "chapter-024",
+      "chapter-025",
+      "chapter-026",
+      "chapter-027",
+      "chapter-028",
+      "chapter-029",
+      "chapter-030",
+      "chapter-031",
+      "chapter-032",
+      "chapter-033",
+      "chapter-034",
+      "chapter-035",
+      "canon-timeline",
+      "canon-characters",
+      "canon-biology",
+      "canon-world"
+    ],
+    "allowCanonMutation": false,
+    "spoilerPolicy": "current-and-next-narrator-only",
+    "guidance": "The player is an original third person supporting Ava and Gabriel. Keep their identities, agency, relationships and authored novel events intact. Playable events are noncanonical unless separately promoted. Preserve chapter-era knowledge and the roughly two-year renewal jump. The narrator may inspect the declared next chapter to validate a transition, but must not reveal future events to the player before the transition commits."
+  },
+  "writePolicy": {
+    "llmWritablePrefixes": [
+      "/world/facts",
+      "/player/resources",
+      "/player/knownFacts",
+      "/extensions/ava/currentActivity",
+      "/extensions/ava/sporeExposure",
+      "/extensions/ava/protectiveGear"
+    ]
+  },
+  "limits": {
+    "maxArchiveBytes": 12000000,
+    "maxExpandedBytes": 48000000,
+    "maxSourceDocuments": 48,
+    "maxSourceDocumentBytes": 160000,
+    "maxSchemaBytes": 32000,
+    "maxStateBytes": 16000,
+    "maxTurnInputBytes": 4000,
+    "maxDraftBytes": 6000,
+    "maxContextBytes": 32000,
+    "maxToolResponseBytes": 24000,
+    "maxSearchQueryChars": 120,
+    "maxSearchResults": 6,
+    "maxRetrievedDocumentsPerTurn": 5,
+    "maxToolCallsPerTurn": 14,
+    "maxHostedModelCallsPerTurn": 3,
+    "maxRetryCount": 1,
+    "maxPatchOperations": 12,
+    "maxCandidatePlayers": 5,
+    "maxInvitationsPerHour": 6,
+    "maxSceneParticipants": 3,
+    "maxSceneEventsPerPoll": 30,
+    "maxSceneEventBytes": 2000,
+    "maxConcurrentTurnsPerJourney": 1,
+    "maxTurnsPerMinutePerUser": 8,
+    "maxTurnsPerDayPerUser": 240,
+    "maxPresenceTtlSeconds": 180,
+    "minPollIntervalSeconds": 8,
+    "maxSceneDurationSeconds": 7200,
+    "maxCandidateTokenSeconds": 45,
+    "maxTurnsPerMinutePerClient": 40,
+    "maxTurnsPerMinutePerIp": 80
+  },
+  "stateSchemas": {
+    "globalCore": "driftya-narrative-runtime-state-v1",
+    "sharedSceneCore": "driftya-narrative-shared-scene-v1",
+    "packageExtension": "publishing/narrative-concept/ava-runtime-extension.schema.json"
+  }
+}

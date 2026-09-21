@@ -1,4 +1,12 @@
+---
+id: ava-sporelight-canon-story-and-timeline
+summary: Follow Ava’s journey from botanist and unwilling test subject to survivor, partner, and part of humanity’s fragile future.
+seoTitle: Ava: Sporelight Story and Timeline
+metaDescription: The public story guide to Ava: Sporelight, from the first spores and Ava’s transformation through rescue, betrayal, and a new dawn.
+---
 # Story and Timeline
+
+![Ava before the fall](../../concepts/ava_botanist_before_the_fall.png)
 
 ## Table of Contents
 

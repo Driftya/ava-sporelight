@@ -88,32 +88,32 @@ Create numbered image directories as chapters receive approved artwork; empty pl
 These are the current recommended anchor references.
 
 ### Visual Direction References
-- [Ava — Visual Direction](../../concepts/ava_visual_direction.png)
+- [Ava — Visual Direction](../../../concepts/ava_visual_direction.png)
 
 ### Primary Character References
 
-- [Ava — Definitive Character Turnaround](../../concepts/ava_definitive_character_turnaround.png)
-- [Ava — Expression & Emotional Range](../../concepts/ava_expressions_and_emotional_range.png)
-- [Ava — Mutation Progression / 5 Forms](../../concepts/ava_reference_sheet_5_forms.png)
-- [Ava — Before the Fall](../../concepts/ava_botanist_before_the_fall.png)
-- [Gabriel — Character Sheet](../../concepts/gabriel_character_sheet.png)
-- [Jenna — Character Sheet](../../concepts/jenna_character_sheet.png)
+- [Ava — Definitive Character Turnaround](../../../concepts/ava_definitive_character_turnaround.png)
+- [Ava — Expression & Emotional Range](../../../concepts/ava_expressions_and_emotional_range.png)
+- [Ava — Mutation Progression / 5 Forms](../../../concepts/ava_reference_sheet_5_forms.png)
+- [Ava — Before the Fall](../../../concepts/ava_botanist_before_the_fall.png)
+- [Gabriel — Character Sheet](../../../concepts/gabriel_character_sheet.png)
+- [Jenna — Character Sheet](../../../concepts/jenna_character_sheet.png)
 
 ### Relationship / Story References
 
-- [Ava + Gabriel — Bond & Body Language](../../concepts/ava_gabriel_bond_body_language.png)
-- [Ava — Cryopod Scene](../../concepts/ava_cryopod_scene.png.png)
-- [Subject 017 — Laboratory Origins](../../concepts/subject_017_laboratory_origins.png)
+- [Ava + Gabriel — Bond & Body Language](../../../concepts/ava_gabriel_bond_body_language.png)
+- [Ava — Cryopod Scene](../../../concepts/ava_cryopod_scene.png.png)
+- [Subject 017 — Laboratory Origins](../../../concepts/subject_017_laboratory_origins.png)
 
 ### World / Environment References
 
-- [Sporelight — World Concepts](../../concepts/sporelight_world_concepts.png)
-- [Haven’s Vanguard — Interior Bible](../../concepts/haven_s_vanguard_interior_bible.png)
+- [Sporelight — World Concepts](../../../concepts/sporelight_world_concepts.png)
+- [Haven’s Vanguard — Interior Bible](../../../concepts/haven_s_vanguard_interior_bible.png)
 
 ### Creature / Threat References
 
-- [Spore Creature Taxonomy](../../concepts/spore_creature_taxonomy_field_guide.png)
-- [The Spore — Visual Language Guide](../../concepts/the_spore_visual_language_guide.png)
+- [Spore Creature Taxonomy](../../../concepts/spore_creature_taxonomy_field_guide.png)
+- [The Spore — Visual Language Guide](../../../concepts/the_spore_visual_language_guide.png)
 
 ---
 

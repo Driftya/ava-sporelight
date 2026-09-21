@@ -1,6 +1,6 @@
 # CMS page metadata
 
-This directory contains the web-publishing projection for each canonical manuscript page. It does not replace or modify manuscript front matter, story canon, or prose.
+This directory contains the web-publishing projection for each canonical manuscript page and the curated public canon. It does not replace or modify manuscript front matter, story canon, or prose.
 
 ## Structure
 
@@ -12,6 +12,10 @@ publishing/cms/pages/001-a-botanists-world.json
 ```
 
 The sidecar `id` must equal the stable manuscript ID. The package builder rejects missing, extra, mismatched, or unsupported sidecars so metadata cannot silently drift to another chapter.
+
+## Public canon pages
+
+`canon/public/` contains the CMS-facing editorial layer: story and timeline, characters, biology and mutation, the mutant bestiary, the world and Haven’s Vanguard, and concept art. These are the authoritative story-canon files, with front matter and inline concept-image links for publishing. The builder imports them as ordinary Driftya CMS `page` entries after the 35 chapters; the package format does not add a custom page type. The decision ledger, prose style guide, continuity checklist, uncertainty notes, and visual-generation workflow live under `canon/internal/` and remain internal. Concept images are linked from `concepts/` and packaged as CMS media; they are not promoted to manuscript images.
 
 ## Editorial red line
 
@@ -37,4 +41,6 @@ Every local manuscript image uses a contiguous two-digit prefix in Markdown orde
 
 The builder also removes the front matter's `## Table of Contents` section from `pages/collection.md`. The source manuscript keeps its canonical linked contents, while the CMS supplies collection navigation without duplicating or publishing stale chapter links.
 
-Only inline Markdown image syntax pointing to approved local files under `manuscript/images/` is accepted. External URLs, protocol-relative URLs, embedded `data:` sources, fragments, reference-style images, and raw HTML image elements are rejected before a package is created. Driftya applies the same internal-image policy during ZIP parsing, ordinary CMS saves, and final rendering.
+Manuscript pages use inline Markdown image syntax pointing to approved local files under `manuscript/images/`; public canon pages use the same syntax for approved files under `concepts/`. External URLs, protocol-relative URLs, embedded `data:` sources, fragments, reference-style images, and raw HTML image elements are rejected before a package is created. Driftya applies the same internal-image policy during ZIP parsing, ordinary CMS saves, and final rendering.
+
+For each public canon page, the builder promotes its first standalone image to `coverMedia`, uses that image's Markdown alt text as `coverImageAlt`, and removes that occurrence from the packaged body. Later images remain inline and appear in `relatedMedia`. Inline table-of-contents links remain in canon Markdown and jump to the page's rendered headings in Driftya CMS.

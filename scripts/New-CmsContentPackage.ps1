@@ -148,6 +148,30 @@ function Write-PackageMedia {
     }
 }
 
+function Write-NormalizedZipArchive {
+    param(
+        [Parameter(Mandatory = $true)][string] $SourceDirectory,
+        [Parameter(Mandatory = $true)][string] $DestinationPath
+    )
+
+    $stream = [System.IO.File]::Open($DestinationPath, [System.IO.FileMode]::Create, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
+    try {
+        $archive = New-Object System.IO.Compression.ZipArchive($stream, [System.IO.Compression.ZipArchiveMode]::Create, $false)
+        try {
+            foreach ($file in (Get-ChildItem -LiteralPath $SourceDirectory -File -Recurse | Sort-Object FullName)) {
+                $relativePath = $file.FullName.Substring($SourceDirectory.Length + 1).Replace([System.IO.Path]::DirectorySeparatorChar, '/')
+                $entry = $archive.CreateEntry($relativePath, [System.IO.Compression.CompressionLevel]::Optimal)
+                $input = [System.IO.File]::OpenRead($file.FullName)
+                $output = $entry.Open()
+                try { $input.CopyTo($output) }
+                finally { $output.Dispose(); $input.Dispose() }
+            }
+        }
+        finally { $archive.Dispose() }
+    }
+    finally { $stream.Dispose() }
+}
+
 function Convert-MarkdownForPackage {
     param(
         [Parameter(Mandatory = $true)][string] $Body,
@@ -226,6 +250,52 @@ function Remove-TableOfContents {
     param([Parameter(Mandatory = $true)][string] $Body)
 
     return $script:TableOfContentsPattern.Replace($Body, "").Trim()
+}
+
+function Convert-CanonMarkdownForPackage {
+    param(
+        [Parameter(Mandatory = $true)][string] $Body,
+        [Parameter(Mandatory = $true)][string] $MarkdownPath,
+        [Parameter(Mandatory = $true)][string] $RepositoryRoot,
+        [Parameter(Mandatory = $true)][hashtable] $MediaByPackagePath
+    )
+    if ($script:ReferenceStyleImagePattern.IsMatch($Body) -or $script:RawImageElementPattern.IsMatch($Body)) { throw "CMS canon pages require inline Markdown image syntax: $MarkdownPath" }
+    $conceptsRoot = [System.IO.Path]::GetFullPath((Join-Path $RepositoryRoot "concepts"))
+    $conceptsPrefix = $conceptsRoot.TrimEnd([System.IO.Path]::DirectorySeparatorChar) + [System.IO.Path]::DirectorySeparatorChar
+    $rewritten = $script:ImagePattern.Replace($Body, [System.Text.RegularExpressions.MatchEvaluator]{
+        param($match)
+        if (Test-DisallowedImageReference $match.Groups["url"].Value) { throw "Invalid public canon image source: $($match.Groups['url'].Value) in $MarkdownPath" }
+        $reference = [System.Uri]::UnescapeDataString($match.Groups["url"].Value.Trim('<', '>'))
+        $sourcePath = [System.IO.Path]::GetFullPath((Join-Path (Split-Path $MarkdownPath -Parent) ($reference -replace '/', [System.IO.Path]::DirectorySeparatorChar)))
+        if (-not $sourcePath.StartsWith($conceptsPrefix, [System.StringComparison]::OrdinalIgnoreCase) -or -not (Test-Path -LiteralPath $sourcePath -PathType Leaf)) { throw "Public canon images must resolve to files under concepts/: $reference in $MarkdownPath" }
+        $packagePath = "media/concepts/" + $sourcePath.Substring($conceptsPrefix.Length).Replace([System.IO.Path]::DirectorySeparatorChar, '/')
+        if ($script:MediaOutputFormat -ne "original") { $packagePath = [System.IO.Path]::ChangeExtension($packagePath, $(if ($script:MediaOutputFormat -eq "webp") { ".webp" } else { ".jpg" })).Replace('\', '/') }
+        if (-not $MediaByPackagePath.ContainsKey($packagePath)) {
+            $alt = $match.Groups["alt"].Value
+            $MediaByPackagePath[$packagePath] = [pscustomobject]@{ source = $packagePath; title = if ([string]::IsNullOrWhiteSpace($alt)) { [System.IO.Path]::GetFileNameWithoutExtension($sourcePath) } else { $alt }; altText = if ([string]::IsNullOrWhiteSpace($alt)) { $null } else { $alt }; sourcePath = $sourcePath }
+        }
+        return $match.Value.Replace($match.Groups["url"].Value, "../$packagePath")
+    })
+    $related = @($script:ImagePattern.Matches($Body) | ForEach-Object {
+        $ref = [System.Uri]::UnescapeDataString($_.Groups["url"].Value.Trim('<', '>'))
+        $source = [System.IO.Path]::GetFullPath((Join-Path (Split-Path $MarkdownPath -Parent) ($ref -replace '/', [System.IO.Path]::DirectorySeparatorChar)))
+        $path = "media/concepts/" + $source.Substring($conceptsPrefix.Length).Replace([System.IO.Path]::DirectorySeparatorChar, '/')
+        if ($script:MediaOutputFormat -ne "original") { $path = [System.IO.Path]::ChangeExtension($path, $(if ($script:MediaOutputFormat -eq "webp") { ".webp" } else { ".jpg" })).Replace('\', '/') }
+        $path
+    } | Select-Object -Unique)
+    $coverMedia = $null
+    $coverAlt = $null
+    $firstImage = $script:ImagePattern.Match($rewritten)
+    if ($firstImage.Success) {
+        $firstUrl = $firstImage.Groups["url"].Value
+        $standalone = @($script:StandaloneImagePattern.Matches($rewritten) | Where-Object { $_.Index -le $firstImage.Index -and ($_.Index + $_.Length) -ge ($firstImage.Index + $firstImage.Length) } | Select-Object -First 1)
+        if ($standalone.Count -eq 0) { throw "The first public canon image must be a standalone Markdown image so it can be promoted to the cover: $MarkdownPath" }
+        $coverMedia = $firstUrl.Substring(3)
+        $coverAlt = $firstImage.Groups["alt"].Value
+        $rewritten = $rewritten.Remove($standalone[0].Index, $standalone[0].Length)
+        $related = @($related | Where-Object { $_ -ne $coverMedia })
+    }
+    return [pscustomobject]@{ Body = $rewritten.Trim(); CoverMedia = $coverMedia; CoverAlt = $coverAlt; RelatedMedia = $related }
 }
 
 function Add-OptionalProperty {
@@ -329,6 +399,7 @@ if ((Test-Path -LiteralPath $outputFullPath) -and -not $Force) {
 
 $script:MediaOutputFormat = "original"
 $script:MediaQuality = 96
+$script:MaxPackageBytes = 100MB
 if ($null -ne $configuration.media -and $null -ne $configuration.media.outputFormat) {
     $script:MediaOutputFormat = ([string]$configuration.media.outputFormat).Trim().ToLowerInvariant()
 }
@@ -341,6 +412,8 @@ if ($null -ne $configuration.media -and $null -ne $configuration.media.quality) 
 if ($script:MediaQuality -lt 1 -or $script:MediaQuality -gt 100) {
     throw "Media quality must be between 1 and 100."
 }
+if ($null -ne $configuration.media -and $configuration.media.psobject.Properties.Name -contains "maxPackageBytes") { $script:MaxPackageBytes = [long]$configuration.media.maxPackageBytes }
+if ($script:MaxPackageBytes -lt 1 -or $script:MaxPackageBytes -gt 100MB) { throw "media.maxPackageBytes must be positive and cannot exceed 100 MB." }
 if ($script:MediaOutputFormat -ne "original") {
     $script:ImageMagick = Get-Command magick -CommandType Application -ErrorAction SilentlyContinue
     if ($null -eq $script:ImageMagick) {
@@ -408,6 +481,24 @@ for ($chapter = 1; $chapter -le $expectedCount; $chapter++) {
     $matches[0] | Add-Member -NotePropertyName PackageBody -NotePropertyValue $content.Body
 }
 
+$canonFiles = @()
+$configuredCanonPages = @()
+if ($configuration.psobject.Properties.Name -contains "canonPages") { $configuredCanonPages = @($configuration.canonPages) }
+foreach ($canonPage in $configuredCanonPages) {
+    $canonPath = Resolve-RepositoryPath -RelativePath ([string]$canonPage.source) -RepositoryRoot $repositoryRoot
+    $document = Read-FrontMatterDocument -Path $canonPath
+    foreach ($field in @("id", "summary", "seoTitle", "metaDescription")) { if ([string]::IsNullOrWhiteSpace([string]$document.Metadata[$field])) { throw "Public canon page is missing '$field': $canonPath" } }
+    $content = Convert-CanonMarkdownForPackage -Body $document.Body -MarkdownPath $canonPath -RepositoryRoot $repositoryRoot -MediaByPackagePath $mediaByPackagePath
+    $page = [ordered]@{ source = "pages/canon-$($canonPage.slug).md"; slug = [string]$canonPage.slug; pageType = "page"; title = [string]$canonPage.title; sortOrder = [int]$canonPage.sortOrder; summary = [string]$document.Metadata.summary; seoTitle = [string]$document.Metadata.seoTitle; metaDescription = [string]$document.Metadata.metaDescription }
+    Add-OptionalProperty -Object $page -Name "author" -Value $configuration.pages.author
+    Add-OptionalProperty -Object $page -Name "robotsPolicy" -Value $configuration.pages.robotsPolicy
+    Add-OptionalProperty -Object $page -Name "coverMedia" -Value $content.CoverMedia
+    Add-OptionalProperty -Object $page -Name "coverImageAlt" -Value $content.CoverAlt
+    if ($content.RelatedMedia.Count -gt 0) { $page["relatedMedia"] = @($content.RelatedMedia) }
+    $pages += [pscustomobject]$page
+    $canonFiles += [pscustomobject]@{ PackageName = "canon-$($canonPage.slug).md"; PackageBody = $content.Body }
+}
+
 $metadataFiles = @(Get-ChildItem -LiteralPath $metadataDirectory -File -Filter "*.json")
 if ($metadataFiles.Count -ne $usedMetadataFiles.Count -or $metadataFiles.Where({ -not $usedMetadataFiles.ContainsKey($_.FullName) }).Count -gt 0) {
     throw "CMS page metadata must contain exactly one sidecar for the collection and each numbered chapter."
@@ -453,6 +544,9 @@ try {
         $number = $chapterFile.Name.Substring(0, 3)
         [System.IO.File]::WriteAllText((Join-Path $temporaryRoot "pages/$number.md"), [string]$chapterFile.PackageBody, $script:Utf8NoBom)
     }
+    foreach ($canonFile in $canonFiles) {
+        [System.IO.File]::WriteAllText((Join-Path $temporaryRoot "pages/$($canonFile.PackageName)"), [string]$canonFile.PackageBody, $script:Utf8NoBom)
+    }
     foreach ($media in $mediaByPackagePath.Values) {
         $target = Join-Path $temporaryRoot ($media.source -replace '/', [System.IO.Path]::DirectorySeparatorChar)
         New-Item -ItemType Directory -Path (Split-Path $target -Parent) -Force | Out-Null
@@ -469,8 +563,9 @@ try {
     $outputDirectory = Split-Path $outputFullPath -Parent
     if (-not (Test-Path -LiteralPath $outputDirectory)) { New-Item -ItemType Directory -Path $outputDirectory -Force | Out-Null }
     if (Test-Path -LiteralPath $outputFullPath) { Remove-Item -LiteralPath $outputFullPath -Force }
-    Add-Type -AssemblyName System.IO.Compression.FileSystem
-    [System.IO.Compression.ZipFile]::CreateFromDirectory($temporaryRoot, $outputFullPath, [System.IO.Compression.CompressionLevel]::Optimal, $false)
+    Add-Type -AssemblyName System.IO.Compression
+    Write-NormalizedZipArchive -SourceDirectory $temporaryRoot -DestinationPath $outputFullPath
+    if ((Get-Item -LiteralPath $outputFullPath).Length -gt $script:MaxPackageBytes) { throw "CMS package exceeds the configured size limit of $script:MaxPackageBytes bytes: $outputFullPath" }
 }
 finally {
     if (Test-Path -LiteralPath $temporaryRoot) { Remove-Item -LiteralPath $temporaryRoot -Recurse -Force }

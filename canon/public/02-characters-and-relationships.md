@@ -1,4 +1,12 @@
+---
+id: ava-sporelight-canon-characters
+summary: Meet Ava, Gabriel, Jenna, Harrow, and Dr. Elias Karrow—the people whose choices shape survival after the fall.
+seoTitle: Ava: Sporelight Characters
+metaDescription: A spoiler-aware character guide to Ava: Sporelight, including Ava, Gabriel, Jenna, Harrow, and Dr. Elias Karrow.
+---
 # Characters and Relationships
+
+![Ava and Gabriel](../../concepts/ava_gabriel_bond_body_language.png)
 
 ## Table of Contents
 

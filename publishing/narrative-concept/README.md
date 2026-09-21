@@ -1,0 +1,11 @@
+﻿# Ava: Sporelight playable world contract
+
+[The package descriptor](package.json) references all 35 manuscript chapters and four public canon documents. Chapters 1–6 are backstory. A player enters chapter 15 with the carrier crew or chapter 19 during hospital mission preparation as an **original support operative**. The player is a third person with their own choices, never Ava or Gabriel. Chapter 34 begins a separate renewal epoch roughly two years later, so nearby search cannot cross that time jump.
+
+The [Ava runtime extension](ava-runtime-extension.schema.json) fixes the role and records the support assignment, focus, activity, protective gear, and the player's observed spore exposure. It does not grant Ava's biology. The [sample state](example-player-state.json) and [sample scene](example-shared-scene.json) show two support journeys aboard Haven's Vanguard. Scene participants are journey IDs, not canon characters.
+
+Manuscript and public canon are immutable source material. The player can affect their journey and shared-scene facts; they cannot rewrite authored novel events or impersonate Ava or Gabriel. The narrator may inspect the next declared chapter to validate a transition, but must not reveal it before that transition commits. Interactive branches are noncanonical until the repository's canon process promotes them. The older `temp_source/dataset/game/` files supply no canonical mechanics, coordinates, missions, or rewards.
+
+The package has tighter local limits than Driftya's operator-owned `docs/schemas/narrative-global-policy.json`: 4 KB input, 32 KB context, 6 KB draft, 14 tool calls, 3 hosted model calls, one retry, five multiplayer candidates, three scene participants, and eight turns per minute per user, among other caps. The lower maximum and higher minimum always apply. These are initial operational caps; a later package version can tune them after measured traffic. Rate limits, byte counts, retrieval bounds, and consent enforcement belong to the server.
+
+Driftya's `.ai/validate-narrative-concept.py` validates the schemas and fixtures. They are implementation contracts; importer, storage, turn orchestration, and MCP tools remain to be built. The sample's future presence expiry is fixture data. A running server issues its own short lease from server time.

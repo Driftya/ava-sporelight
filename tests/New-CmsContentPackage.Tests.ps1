@@ -5,27 +5,40 @@ Describe "New-CmsContentPackage" {
     $scriptPath = Join-Path $repositoryRoot "scripts/New-CmsContentPackage.ps1"
     $outputPath = Join-Path $TestDrive "ava-sporelight.cms-package.zip"
 
-    It "builds a complete checksummed package for the collection and 35 chapters" {
+    It "builds a complete checksummed package for the collection, chapters, and public canon" {
         $result = & $scriptPath -OutputPath $outputPath
 
-        $result.PageCount | Should Be 36
+        $result.PageCount | Should Be 42
         $result.MediaCount | Should BeGreaterThan 0
         $result.MediaFormat | Should Be "webp"
         $result.MediaQuality | Should Be 96
         Test-Path -LiteralPath $outputPath | Should Be $true
-        (Get-Item -LiteralPath $outputPath).Length | Should BeLessThan (25 * 1024 * 1024)
+        (Get-Item -LiteralPath $outputPath).Length | Should BeLessThan (100 * 1024 * 1024)
 
         Add-Type -AssemblyName System.IO.Compression.FileSystem
         $extractPath = Join-Path $TestDrive "package"
         [System.IO.Compression.ZipFile]::ExtractToDirectory($outputPath, $extractPath)
         $manifest = Get-Content -LiteralPath (Join-Path $extractPath "manifest.json") -Raw | ConvertFrom-Json
         $checksums = Get-Content -LiteralPath (Join-Path $extractPath "checksums.json") -Raw | ConvertFrom-Json
+        $archive = [IO.Compression.ZipFile]::OpenRead($outputPath)
+        try { @($archive.Entries | Where-Object FullName -match '\\').Count | Should Be 0 }
+        finally { $archive.Dispose() }
 
         $manifest.packageKey | Should Be "ava-sporelight"
-        $manifest.pages.Count | Should Be 35
+        $manifest.pages.Count | Should Be 41
         $manifest.pages[0].slug | Should Be "ava-sporelight-chapter-001"
         $manifest.pages[34].slug | Should Be "ava-sporelight-chapter-035"
+        @($manifest.pages | Where-Object pageType -eq "page").Count | Should Be 41
         @($manifest.pages | Where-Object pageType -ne "page").Count | Should Be 0
+        $manifest.pages[35].slug | Should Be "ava-sporelight-story-and-timeline"
+        $manifest.pages[40].slug | Should Be "ava-sporelight-concept-art"
+        $manifest.pages[35].coverMedia | Should Be "media/concepts/ava_botanist_before_the_fall.webp"
+        $manifest.pages[35].coverImageAlt | Should Be "Ava before the fall"
+        @($manifest.pages[35].relatedMedia | Where-Object { $null -ne $_ }).Count | Should Be 0
+        $manifest.pages[40].coverMedia | Should Be "media/concepts/ava_definitive_character_turnaround.webp"
+        @($manifest.pages[40].relatedMedia).Count | Should Be 7
+        @($manifest.media | Where-Object source -like "media/concepts/*").Count | Should Be 13
+        (Get-Item -LiteralPath $outputPath).Length | Should BeLessThan (100 * 1024 * 1024)
         $manifest.pages[0].summary | Should Be "Before the world learns to fear the spores, a young botanist follows her curiosity into the jungle. Ava’s search for an extraordinary specimen begins with wonder and a quiet sense that she is not alone."
         $manifest.collection.coverMedia | Should Be "media/000/01-cover-image.webp"
         $manifest.collection.pageType | Should Be "collection"
@@ -39,6 +52,9 @@ Describe "New-CmsContentPackage" {
         $packagedCollection | Should Not Match "(?im)^## Table of Contents\s*$"
         $packagedCollection | Should Not Match "001-a-botanists-world\.md"
         (Get-Content -LiteralPath (Join-Path $extractPath "pages/001.md") -Raw) | Should Not Match "01-ava-discovers-bioluminescent-fungus"
+        $packagedCanon = Get-Content -LiteralPath (Join-Path $extractPath "pages/canon-ava-sporelight-story-and-timeline.md") -Raw
+        $packagedCanon | Should Not Match "ava_botanist_before_the_fall"
+        $packagedCanon | Should Match "\[Part I.*\]\(#part-i--the-last-experiment\)"
 
         $mediaSources = @($manifest.media | ForEach-Object { $_.source })
         foreach ($page in (@($manifest.collection) + @($manifest.pages))) {

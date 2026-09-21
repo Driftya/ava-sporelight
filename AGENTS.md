@@ -14,7 +14,7 @@ When a proposed manuscript change conflicts with canon:
 2. Identify the exact canon rule and affected chapter.
 3. Preserve the existing manuscript until the conflict is deliberately resolved.
 4. If the author approves a continuity change, update canon first or in the same change.
-5. Record the decision and its reason in `canon/07-decisions-and-continuity-ledger.md`.
+5. Record the decision and its reason in `canon/internal/07-decisions-and-continuity-ledger.md`.
 
 An explicit current instruction from the author may change canon. Agent inference may not.
 
@@ -29,23 +29,23 @@ Before changing any manuscript file, read:
 Before generating, selecting, editing, or placing a manuscript image, also read:
 
 4. The target chapter
-5. `canon/visual/01-ava-sporelight-image-guideline.md`
+5. `canon/internal/visual/01-ava-sporelight-image-guideline.md`
 6. Only the concept references relevant to that image
 
 Use this routing table:
 
 | Change concerns | Required canon reference |
 | --- | --- |
-| Plot order, chapter placement, or time | `canon/01-story-and-timeline.md` |
-| Character identity, motive, or relationship | `canon/02-characters-and-relationships.md` |
-| Spores, Ava’s immunity, transformation, blood, or vaccine | `canon/03-spores-mutation-and-ava.md` |
-| Mutant anatomy, abilities, or naming | `canon/03b-mutant-bestiary.md` |
-| Setting, society, location, or economy | `canon/04-world-locations-and-society.md` |
-| Haven’s Vanguard, rescue procedure, equipment, or combat | `canon/05-ship-rescue-and-combat.md` |
-| Voice, terminology, mature content, or continuity checks | `canon/06-continuity-and-writing-guide.md` |
-| Prose voice, viewpoint, dialogue, rhythm, or line editing | `canon/08-prose-style-guide.md` |
-| Uncertainty, resolved contradictions, or prior decisions | `canon/07-decisions-and-continuity-ledger.md` |
-| Chapter illustration, character appearance, visual mood, composition, or image placement | `canon/visual/01-ava-sporelight-image-guideline.md` plus the story-canon documents governing the depicted content |
+| Plot order, chapter placement, or time | `canon/public/01-story-and-timeline.md` |
+| Character identity, motive, or relationship | `canon/public/02-characters-and-relationships.md` |
+| Spores, Ava’s immunity, transformation, blood, or vaccine | `canon/public/03-spores-mutation-and-ava.md` |
+| Mutant anatomy, abilities, or naming | `canon/public/03b-mutant-bestiary.md` |
+| Setting, society, location, or economy | `canon/public/04-world-locations-and-society.md` |
+| Haven’s Vanguard, rescue procedure, equipment, or combat | `canon/public/05-ship-rescue-and-combat.md` |
+| Voice, terminology, mature content, or continuity checks | `canon/internal/06-continuity-and-writing-guide.md` |
+| Prose voice, viewpoint, dialogue, rhythm, or line editing | `canon/internal/08-prose-style-guide.md` |
+| Uncertainty, resolved contradictions, or prior decisions | `canon/internal/07-decisions-and-continuity-ledger.md` |
+| Chapter illustration, character appearance, visual mood, composition, or image placement | `canon/internal/visual/01-ava-sporelight-image-guideline.md` plus the story-canon documents governing the depicted content |
 
 ## Manuscript Invariants
 
@@ -109,4 +109,4 @@ After manuscript or canon changes, verify:
 - changed prose complies with the relevant canon documents;
 - every added manuscript image is in `000/` for front matter, the correct numbered chapter directory, or `shared/` when genuinely reused; has the correct contiguous `NN-` order prefix; resolves from its Markdown link in that order; and complies with the target text, story canon, and visual guideline;
 - concept references remain under `concepts/` rather than being treated as publishable chapter assets;
-- new decisions are recorded in `canon/07-decisions-and-continuity-ledger.md` with a clear status: established, author-decided, supporting canon, unknown, or reserved.
+- new decisions are recorded in `canon/internal/07-decisions-and-continuity-ledger.md` with a clear status: established, author-decided, supporting canon, unknown, or reserved.

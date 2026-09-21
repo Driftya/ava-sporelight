@@ -7,7 +7,6 @@
 3. [Rescue Doctrine](#rescue-doctrine)
 4. [Ava in Combat](#ava-in-combat)
 5. [Gabriel in Combat](#gabriel-in-combat)
-6. [Resolved Combat Duplicates](#resolved-combat-duplicates)
 
 ## Haven’s Vanguard
 
@@ -69,15 +68,6 @@ Gabriel’s conflict with Jenna after the fortress is a doctrine failure: protoc
 - Training teaches stance, footwork, weapon handling, threat anticipation, restraint, and emotional regulation.
 - She prefers controlled action over surrendering to the mutated form.
 
-### Supporting but not yet dramatized as standard practice
-
-- coating a blade with fresh blood;
-- using debris to create barriers or indirect attacks;
-- luring mutants into prepared traps;
-- creating very short-lived deterrent lines with fresh blood.
-
-These tactics may be used later, but they must respect the limited potency and bodily cost of Ava’s blood.
-
 ## Gabriel in Combat
 
 Gabriel is a rescuer first. His combat style protects civilians, creates movement windows, and avoids spore release.
@@ -85,13 +75,3 @@ Gabriel is a rescuer first. His combat style protects civilians, creates movemen
 Established methods include firearms used for distraction or controlled defense, close rescue under pressure, tactical commands, first aid, route planning, and physically shielding others. Supporting equipment may include tranquilizer darts, flash devices, smoke, snares, and light exosuit assistance.
 
 Gabriel remains fully vulnerable to infection. Mask integrity, skin protection, replacement filters, and decontamination are mandatory. His equipment favors mobility and casualty extraction over heavy armour.
-
-## Resolved Combat Duplicates
-
-The old combat notes gave “Dodge” and “Guard” the same description. Canon separates them:
-
-- **Dodge:** use speed, anticipation, and footwork to leave the attack path.
-- **Guard:** brace with enhanced strength or use an object as a shield when escape is impossible or someone else needs cover.
-
-Speculative combat moves in old notes are options, not abilities Ava has already mastered. Game move identifiers such as `BioCoatedBlade`, `SpikeMutation`, and `TrapLure` are implementation labels, not prose terminology.
-
