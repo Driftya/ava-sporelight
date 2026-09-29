@@ -34,6 +34,8 @@ There was a crease down one side of his face where he had rested it against the 
 
 *If we were home, I would make you lie down.*
 
+The thought went further than sleep. She wanted the weight of him, his mouth slow at her throat, his hand under her shirt where no one on this carrier was allowed to look at her like a problem. She wanted to be wanted in a room with a door. The wanting sat beside a quieter hurt: the child across the garage had flinched from Ava’s shadow at dusk and then pretended she had only been cold. Ava had smiled so the mother would not have to apologize. The smile still ached.
+
 “You don’t have to earn sleep,” she said.
 
 “Neither do you.”

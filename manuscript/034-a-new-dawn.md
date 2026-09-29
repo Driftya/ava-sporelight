@@ -26,6 +26,10 @@ She and Gabriel had talked about the uncertainty before choosing this. Choosing 
 
 Then the baby would shift, pressing against her ribs with what felt like an impatient heel, and Ava would put her hand there. Whoever this small person became, she already had a talent for interrupting an argument.
 
+Under the heel, the old laboratory scar pulled. Some nights the pull was only pain. Some nights it arrived with the memory of begging through glass, and Ava would lie very still so Gabriel would not wake and ask which century she was in. She mourned her parents in a new way then. They would never put a hand on this belly and argue about names. The child would grow up inside a story that started with people calling her mother a weapon.
+
+Gabriel found her like that once, awake in the dark with both palms over the baby. He did not ask her to be brave. He fit himself along her back, one arm careful beneath her breasts, his mouth at the place where her neck met her shoulder. The kiss was not urgent. It was the kind that said he still wanted the woman under the scars, not the idea of her. Ava closed her eyes and let herself be held until the pain and the grief agreed to wait until morning.
+
 Jenna glanced at the folded list on Ava’s knee. “Malik has checked the delivery supplies three times. I’ve checked them twice.”
 
 “Gabriel’s working through his own list,” Ava said. “Mostly things he thinks I shouldn’t carry. He tried to take a pillow off me this morning.”

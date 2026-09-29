@@ -34,6 +34,8 @@ In the cold settlements, growing rooms became as necessary as walls. People queu
 
 Ava’s working world vanished unevenly. Words for plants survived in books after the plants disappeared from the places described. The useful measurements were copied; the names at the top of a page sometimes were not. Two hundred years held enough ordinary mornings for a whole life to be lived and forgotten more than once. None reached the woman beneath the frost.
 
+Inside the pod she did not dream of centuries. The cold held her at the last moment of the laboratory: glass in her palms, a scream that had nowhere to go, the shame of having asked them to stop. If any part of her still felt, it felt that. The world above learned new griefs. Hers stayed exactly as large as the room they had locked her in.
+
 Gabriel’s squad worked two hundred years after the breach. They ferried survivors north in repaired transports, sometimes returning for people they had lacked room to carry on the first trip. Masks passed from gloved hands to smaller hands. At each departure, someone counted the empty seats.
 
 Forests shone at night. In abandoned streets, living growth pulled buildings apart from within. Elsewhere, people mended roofs, raised children, and marked the routes where a rescue vehicle had last got through.

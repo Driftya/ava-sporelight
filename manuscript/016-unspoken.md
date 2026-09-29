@@ -38,7 +38,7 @@ Gabriel had been gone for six days on a supply run to two abandoned outposts. Si
 
 She had begun saving things to tell him. Marcus’s wrench. A leaf that smelled unexpectedly of lemon when crushed. The argument she had won with Cora and the better answer she had thought of afterward. By evening the list could make his absence feel crowded.
 
-It irritated her that she knew which shirt he wore off duty. She could remember the stretched collar, the dark patch where he had carried something wet against his shoulder. Yesterday, washing soil from her forearms, she had imagined his hands there and turned the tap off too hard. There had been nothing frightening about the thought until she realized she wanted to keep it.
+It irritated her that she knew which shirt he wore off duty. She could remember the stretched collar, the dark patch where he had carried something wet against his shoulder. Yesterday, washing soil from her forearms, she had imagined his hands there and turned the tap off too hard. The thought had not stopped at her arms. She had pictured his mouth at the inside of her wrist, where the amber lines were brightest, and the low sound he might make if she pulled him closer by the belt. Heat had gathered between her legs so fast she stood very still under the water, ashamed of how specific the wanting had become. There had been nothing frightening about the thought until she realized she wanted to keep it. Missing him hurt in the same place. Six days, and her body had started keeping a list he had never been invited to read.
 
 “They’re safe?” she asked.
 
@@ -323,6 +323,12 @@ Someone passed outside. Ava pulled the shirt back on, though the door was shut, 
 *I wanted him to kiss me.*
 
 There it was. No mention of being rescued, no argument about whether she deserved it. She touched the end of the sentence with the pencil, tempted to add an explanation, and closed the book instead.
+
+The next morning she found a dead seedling on the greenhouse threshold. Someone had pulled it up by the roots and left it where her boot would find it. On the tray behind it, written in the condensation with a finger, were three words: *monster’s garden*.
+
+Ava stood with the little plant in her palm until the soil dried against her skin. It was only a seedling. It was also the first thing on the carrier that had been entirely hers to keep alive. She did not cry in the corridor, where anyone passing could decide what the tears meant. She cried later, bent over the empty row, one hand pressed to the old seam under her ribs because the grief had decided to live there.
+
+She replanted what could be saved. She did not tell Jenna who she suspected. Cole’s friends had stopped lowering their voices when she entered a room. Naming them would turn a small cruelty into a hearing, and she was tired of hearings.
 
 Over the next several days, Ava found reasons to work near the vehicle bay when Gabriel had a shift. He found reasons to inspect irrigation fittings that had not leaked once. Neither mentioned the water tank.
 

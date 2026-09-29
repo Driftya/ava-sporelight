@@ -16,6 +16,10 @@ Sweat ran into her eye. She wiped it with her sleeve, leaving a smear of soil at
 
 She liked herself best at this hour, before she had to make the work sound impressive to anyone. Here she could be wrong, turn a leaf over, and look again. At twenty-two she still sometimes rehearsed explanations before giving them, worried that a pause would be mistaken for ignorance. The jungle allowed longer pauses.
 
+The department had not. In the last seminar before this trip, Dr. Pell had waited until she finished a sentence and then repeated it in a smaller voice, as if translating her for the room. Two of the postdocs had laughed. One of them, Ellis, had started calling her Field Notes whenever she asked a question he did not want to answer. She had smiled the first time because correcting him in front of the others would have made the joke last longer. Afterward she had stood in the stairwell with her face hot and her notes crushed in one fist, furious that a nickname could make her feel twelve.
+
+Nobody out here knew that name. The relief was so sharp it felt like sadness.
+
 Even so, she imagined her name beneath a photograph of the caps. She caught herself arranging the sentence that would announce the discovery and smiled at her own vanity. First identify the damn thing. Publication could wait until she knew whether she was kneeling beside something remarkable or something another botanist had described a hundred years ago.
 
 *Please be new.*
@@ -38,7 +42,7 @@ Since the meteor struck far to the north, she had been crossing out measurements
 
 On the return path, she checked each strip of survey tape before trusting the turn. The jungle looked different in the lowering light. Twice she stopped at a rustle behind her; twice she found only leaves settling against leaves.
 
-By the last turn she was thinking about washing her hair. She wanted clean clothes, something hot to eat, a conversation in which she would not have to write down the interesting parts. Solitude had been her choice that morning. Now she felt the small resentment of having to make every sound herself.
+By the last turn she was thinking about washing her hair. She wanted clean clothes, something hot to eat, a conversation in which she would not have to write down the interesting parts. She wanted, with a bluntness that embarrassed her, a body on the other side of a narrow bed: a knee against hers, a hand careless at her waist, the ordinary heat of someone who had chosen to stay. There was no one she could name for the wanting. That made it worse. Solitude had been her choice that morning. Now she felt the small resentment of having to make every sound herself.
 
 She rehearsed how she would describe the blue caps to someone who had never cared about fungi. Little lamps, perhaps. No, that made them sound ordinary. She wanted someone to understand why she had stayed so late. She wanted, with equal force, someone to tell her she could leave the work until tomorrow.
 

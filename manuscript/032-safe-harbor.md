@@ -36,6 +36,18 @@ Malik wrote it down without looking at Gabriel to see whether it was true.
 
 She agreed to the examination. His uncertainty was difficult to sit through. She had imagined relief once she told someone; instead the facts were now on a page, and neither of them could put them back inside her where she had been able to avoid them.
 
+On the way out, two crewmen at the med-bay hatch stopped talking. One of them looked at her hand as if it might open by itself.
+
+“Back already,” he said. “Guess the monsters missed their pet.”
+
+Gabriel shifted his weight onto the good leg. Ava touched his wrist before he could spend the injury on her behalf.
+
+“Say it to me,” she told the crewman. Her voice shook, which made her angrier. “I’m standing here.”
+
+He looked at the floor. The other man pulled him down the corridor. The insult stayed. So did the pain in her fingers, a wrongness no apology was going to put back.
+
+Later, in Gabriel’s quarters, she sat on the edge of his cot while he unwrapped the temple dressing she had been afraid to touch in public. She kissed the unhurt skin beside it, then the corner of his mouth, careful of the bruise. He made a low sound and drew her in by the hip. For a little while there was only warmth, his hand spread over her ribs, her forehead against his, the simple fact of being allowed to want him without an audience. When her hand cramped, he held it until the cramp let go. Neither of them called that small mercy what it was.
+
 *That’s me on the page now.*
 
 When he finished, she asked to read the notes. He turned them toward her. She corrected the order of two things: the hand had kept striking before she caught it in the pillar. He changed the entry while she watched.

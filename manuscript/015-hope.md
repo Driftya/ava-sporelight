@@ -134,7 +134,9 @@ The room loosened by degrees. No one apologized. No one offered Ava another seat
 
 Afterward, Ava hid in an unused cargo hold.
 
-Before she reached it, she stopped in a washroom and checked that it was empty. There was food caught between two teeth. She stared at it in the scratched mirror, then began to cry with an anger that made the first sound almost a laugh. She had sat before all those people trying to answer for the dead, and part of her was humiliated because she had looked untidy.
+In the corridor a woman she did not know stepped wide to avoid her sleeve, then said to the man beside her, loud enough to be a choice, “Don’t let it touch the trays. We still have to eat.” The man laughed once, the short laugh people use when they want to be seen agreeing. Ava’s ribs answered before her mouth did. The old puncture beneath them burned as if the needle were still in it. She kept walking. If she turned around, she was not sure which of them would be more afraid.
+
+Before she reached the hold, she stopped in a washroom and checked that it was empty. There was food caught between two teeth. She stared at it in the scratched mirror, then began to cry with an anger that made the first sound almost a laugh. She had sat before all those people trying to answer for the dead, and part of her was humiliated because she had looked untidy.
 
 “This?” she demanded of the woman in the mirror. “This is what breaks me?”
 

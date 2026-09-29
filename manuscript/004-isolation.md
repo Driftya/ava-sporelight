@@ -60,7 +60,9 @@ The heat beneath her veins split into branching paths. Ava clawed at her sleeve.
 
 She fell to her knees. Light threaded the black veins, dim at first, then bright enough to show through her sleeve. The pressure shifted beneath her skin as if something were testing where it could grow. She dug her fingers into the floor seam and screamed.
 
-Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
+She thought of her mother saying her name the ordinary way, from another room, already halfway to something else. The thought did not help. Pain took the rest of the memory and left only the sound.
+
+Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The absence hurt in a different place. She had begged. They had written it down. Somewhere a woman with a tablet would call that data. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
 
 The intercom crackled again. “Subject 017’s resistance levels are remarkable,” the same voice said, this time with a note of fascination. “Prepare for phase two.”
 
