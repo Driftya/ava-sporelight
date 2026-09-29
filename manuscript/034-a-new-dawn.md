@@ -30,6 +30,14 @@ Under the heel, the old laboratory scar pulled. Some nights the pull was only pa
 
 Gabriel found her like that once, awake in the dark with both palms over the baby. He did not ask her to be brave. He fit himself along her back, one arm careful beneath her breasts, his mouth at the place where her neck met her shoulder. The kiss was not urgent. It was the kind that said he still wanted the woman under the scars, not the idea of her. Ava closed her eyes and let herself be held until the pain and the grief agreed to wait until morning.
 
+In that morning she told him. Not all of it. Enough: the scar, her parents, the word *weapon*, and the fact that she still wanted their daughter. He listened without sanding the story into something easier. Then the baby kicked his forearm where it lay across her, a blunt ordinary thump, and Ava laughed because joy had shoved its way into the same minute as the mourning. Gabriel laughed with her, helpless and bright.
+
+“She’s strong,” Ava said.
+
+“So are you,” he answered.
+
+She let the sentence stand. The night’s grief remained true. So did this: she trusted him with both, and the happiness did not have to win by erasing what hurt. It only had to be allowed in the room. By the time Jenna found her in the lounge, Ava was still carrying all of it, and she was glad.
+
 Jenna glanced at the folded list on Ava’s knee. “Malik has checked the delivery supplies three times. I’ve checked them twice.”
 
 “Gabriel’s working through his own list,” Ava said. “Mostly things he thinks I shouldn’t carry. He tried to take a pillow off me this morning.”

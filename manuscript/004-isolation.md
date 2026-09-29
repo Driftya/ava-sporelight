@@ -62,7 +62,7 @@ She fell to her knees. Light threaded the black veins, dim at first, then bright
 
 She thought of her mother saying her name the ordinary way, from another room, already halfway to something else. The thought did not help. Pain took the rest of the memory and left only the sound.
 
-Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The absence hurt in a different place. She had begged. They had written it down. Somewhere a woman with a tablet would call that data. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
+Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The absence hurt in a different place. She had begged. They had written it down. Somewhere a woman with a tablet would call that data. Ava hated them for it, and the hate steadied her. Hate meant some part of her had not agreed to become a result. Her name was still Ava. She kept it the way she kept her breath: because it was hers, and because she meant to be using it when the door opened. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
 
 The intercom crackled again. “Subject 017’s resistance levels are remarkable,” the same voice said, this time with a note of fascination. “Prepare for phase two.”
 

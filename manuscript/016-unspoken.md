@@ -340,7 +340,17 @@ One night she found him outside the greenhouse door with a mug in each hand.
 
 “This is how people show affection now. Civilization changed.”
 
-She accepted the mug. Below the carrier, a settlement’s work lights marked a rough square in the snow. Figures crossed between them, unloading medicine and repaired filters from *Haven’s Vanguard*. No grand future waited beyond the glass. There were only people still awake because something needed doing.
+She accepted the mug. Then, because trust had to be practiced on something that still hurt, she told him about the seedling and the words in the condensation. She did not ask him to find out who had written them.
+
+Gabriel was quiet long enough that she thought he might refuse the limit. “What do you want done?” he asked.
+
+“The row stays. I replanted it. If you pull Cole into a hearing, the garden becomes their story.”
+
+“All right.” He looked toward the beds, not toward the door. “Show me which ones you saved.”
+
+They stood over the thin replacements. Two had already lifted a pale hook of stem. Ava laughed once, surprised by it, and did not take the laugh back. The cruel words were still on the glass if the lamps fogged again. The living row was also true. Gabriel stayed beside it, as if the second fact were allowed to count.
+
+Below the carrier, a settlement’s work lights marked a rough square in the snow. Figures crossed between them, unloading medicine and repaired filters from *Haven’s Vanguard*. No grand future waited beyond the glass. There were only people still awake because something needed doing.
 
 Gabriel touched his cup to hers. “To the fourth basil planting.”
 

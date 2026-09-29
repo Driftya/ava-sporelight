@@ -36,18 +36,6 @@ Malik wrote it down without looking at Gabriel to see whether it was true.
 
 She agreed to the examination. His uncertainty was difficult to sit through. She had imagined relief once she told someone; instead the facts were now on a page, and neither of them could put them back inside her where she had been able to avoid them.
 
-On the way out, two crewmen at the med-bay hatch stopped talking. One of them looked at her hand as if it might open by itself.
-
-“Back already,” he said. “Guess the monsters missed their pet.”
-
-Gabriel shifted his weight onto the good leg. Ava touched his wrist before he could spend the injury on her behalf.
-
-“Say it to me,” she told the crewman. Her voice shook, which made her angrier. “I’m standing here.”
-
-He looked at the floor. The other man pulled him down the corridor. The insult stayed. So did the pain in her fingers, a wrongness no apology was going to put back.
-
-Later, in Gabriel’s quarters, she sat on the edge of his cot while he unwrapped the temple dressing she had been afraid to touch in public. She kissed the unhurt skin beside it, then the corner of his mouth, careful of the bruise. He made a low sound and drew her in by the hip. For a little while there was only warmth, his hand spread over her ribs, her forehead against his, the simple fact of being allowed to want him without an audience. When her hand cramped, he held it until the cramp let go. Neither of them called that small mercy what it was.
-
 *That’s me on the page now.*
 
 When he finished, she asked to read the notes. He turned them toward her. She corrected the order of two things: the hand had kept striking before she caught it in the pillar. He changed the entry while she watched.
@@ -64,6 +52,16 @@ Gabriel shifted, wincing slightly as he adjusted his leg. “We didn’t do it a
 
 Jenna’s gaze softened as she looked at him. “Modesty doesn’t suit you, Gabriel. You both went above and beyond. That’s not something I’ll forget.”
 
+On the way out, two crewmen at the med-bay hatch stopped talking. One of them looked at Ava’s hand as if it might open by itself.
+
+“Back already,” he said. “Guess the monsters missed their pet.”
+
+Gabriel shifted his weight onto the good leg. Ava touched his wrist before he could spend the injury on her behalf.
+
+“Say it to me,” she told the crewman. Her voice shook, which made her angrier. “I’m standing here.”
+
+He looked at the floor. The other man pulled him down the corridor. The insult stayed. So did the pain in her fingers, a wrongness no apology was going to put back. What also stayed was the choice she had just made: she had spoken, and Gabriel had let her. Jenna, still in the doorway, had heard every word and did not reopen it into a hearing. Ava was grateful for the restraint. Strength, today, was being believed without being displayed.
+
 Later, Ava found herself wandering the quiet corridors of the ship. The events of the past days played through her mind, each memory sharp and vivid. She stopped by the greenhouse, the familiar scent of soil and growing plants grounding her.
 
 Someone had watered in her absence. Too generously at the shallow trays, but the beans were standing and a new tie held one heavy stem upright. Ava touched the knot. The work had continued without her, which ought to have pleased her. It did, after the first small sting.
@@ -77,6 +75,18 @@ She fetched the journal from their quarters and opened it at the planting table.
 She wrote the soil on the sleeve, the open notebook, the light of the specimen on the desk. These were memories rather than evidence of a failure she had to explain to Malik. She did not know how to make them useful. She kept writing until she reached the moment before the pain woke her, and stopped there.
 
 Below it she added the one thing she had nearly left out: *I liked my work.*
+
+She found Gabriel in their quarters afterward, temple dressing half undone, trying to be patient with his own hands. She finished the unwrap for him. Then she kissed the unhurt skin beside the bruise, and the corner of his mouth. He made a low sound and drew her in by the hip. The corridor’s word was still in her ears. His hands were also on her, careful, wanted, sure of welcome. She laughed against his shoulder when her cramped fingers refused a button, and he held them until they eased, smiling as if the ordinary trouble delighted him.
+
+“I told Malik the truth,” she said.
+
+“I know. I watched you correct him.”
+
+“And I liked the beans. Someone kept them alive.”
+
+“Marcus. He was very proud. Try not to let it go to his head.”
+
+She kissed him again, slower, happiness and love arriving in the same room as the insult and not asking it to leave first. The pain in her hand did not vanish. She trusted him with it anyway. That was the part she meant to keep.
 
 Gabriel arrived later on crutches, pausing at the doorway to rest his weight on the pads. “Thought I’d find you here.”
 

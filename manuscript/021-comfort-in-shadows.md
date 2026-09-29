@@ -79,3 +79,5 @@ The older man brought one container to the entrance and stopped just short of he
 He nodded and went to distribute it. She watched him measure a little less for himself. Last night she had wanted him reduced to the man who called her a monster; it would have been easier to dislike him that way.
 
 When he came back, she told him he could take the full cup. He did not thank her. He did take it.
+
+The child would not take a cup from Ava’s hand. She took it from her mother, who had taken it from the row Ava poured. Ava let that distance stand. Forcing the girl to be brave would only repeat the flinch, and Ava was not owed a quicker forgiveness than the child could give.

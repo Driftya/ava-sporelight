@@ -10,6 +10,14 @@ title: "Distant Allies"
 
 Jenna’s scouts arrived the following morning. Gabriel checked their call sign over the radio before Ava moved the cabinet. The older man carried the child’s blankets; her mother fastened the replacement mask the scouts had brought.
 
+At the cabinet the girl stopped. She did not take Ava’s hand. She did look at her, a long careful look, and then she lifted the cup she had carried all night — the one poured from Ava’s row — to show she still had it.
+
+“She wouldn’t leave it,” her mother said. Not an apology. A fact offered across the remaining distance.
+
+Ava nodded. The gladness came late, which was how she trusted it. “Keep it. The station will have water.”
+
+The girl went with her mother. Gabriel, waiting at the radio, saw Ava’s face when she turned back and did not ask her to explain. He only shifted the pack on his shoulder so their arms touched as they started for the hospital. Love, just then, was letting the small victory stay small.
+
 “We’ll take them to the railway station,” the detail leader said. “Vehicle meets us there. Our forward pair will check your rendezvous route.”
 
 Gabriel passed over the count and waited for the leader to repeat it. Only after the last survivor had left with the detail did he turn toward the hospital.

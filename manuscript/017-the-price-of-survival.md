@@ -138,6 +138,12 @@ Gabriel didn’t give up on her either. After each mission, he reviewed what wen
 
 On the next rescue assignment, she checked the route herself before Gabriel asked.
 
+The evening before they left, she went to the mess without waiting to see who was already there. Cole was. So was the woman from the corridor. Ava filled her cup at the machine and sat at the long table, not the far one. Her hands stayed on the metal where anyone could see them.
+
+Gabriel came in late from the vehicle bay. He looked at the room, looked at her, and sat down with his own cup beside hers. He did not make a speech. He drank. After a moment Rhea dropped into the seat across from them and complained about the caf as if the conversation had never had a gap in it.
+
+Cole did not apologize. He also did not leave. Ava ate. The corridor sentence was still true, and so was this: she had come back in the open, and the man she trusted had let the crew watch him share the table. Happiness was too large a word. She was proud of the smaller one. She had stayed.
+
 ***
 
 They set out with a smaller team, this time heading to a makeshift settlement built within the ruins of an old factory. The survivors there had done their best to fortify the area with scrap metal and barbed wire, but their resources were dwindling, and their defenses weren’t enough to keep the mutations at bay.

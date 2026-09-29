@@ -152,6 +152,12 @@ Gabriel arrived carrying her abandoned cup and a tray gone cold.
 
 “You picked the one room without a working lock.”
 
+“In the corridor they told each other not to let me touch the food.” She watched his face to see whether he would stand up and make it worse. He stayed where he was. The tightness in his jaw was real. So was the choice not to spend it. “I didn’t hide my hands,” she added.
+
+“Good,” he said.
+
+He did not promise to fix the mess hall. She was not ready to walk back into it, and she was grateful he could tell. Trust, if it came, would have to survive longer than this room.
+
 He sat on the deck opposite her. He did not tell her Cole was wrong. That would have been too simple, and both of them knew it.
 
 “I killed people,” she said. “Some were already changing. Some were trying to kill me. I don’t remember enough to know whether that makes a difference.”
