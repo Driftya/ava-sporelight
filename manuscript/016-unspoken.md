@@ -324,11 +324,11 @@ Someone passed outside. Ava pulled the shirt back on, though the door was shut, 
 
 There it was. No mention of being rescued, no argument about whether she deserved it. She touched the end of the sentence with the pencil, tempted to add an explanation, and closed the book instead.
 
-The next morning she found a dead seedling on the greenhouse threshold. Someone had pulled it up by the roots and left it where her boot would find it. On the tray behind it, written in the condensation with a finger, were three words: *monster’s garden*.
+The next morning she found a dead seedling on the greenhouse threshold. Someone had pulled it up by the roots and left it where her boot would find it. On the tray behind it, written in the condensation with a finger, were two words: *monster’s garden*.
 
-Ava stood with the little plant in her palm until the soil dried against her skin. It was only a seedling. It was also the first thing on the carrier that had been entirely hers to keep alive. She did not cry in the corridor, where anyone passing could decide what the tears meant. She cried later, bent over the empty row, one hand pressed to the old seam under her ribs because the grief had decided to live there.
+Ava stood with the little plant in her palm until the soil dried against her skin. She remembered checking it before bed, touching the soil to see whether it needed water. She did not cry in the corridor, where anyone passing could decide what the tears meant. She cried later, bent over the gap in the row, one hand pressed to the old seam under her ribs because the grief had decided to live there.
 
-She replanted what could be saved. She did not tell Jenna who she suspected. Cole’s friends had stopped lowering their voices when she entered a room. Naming them would turn a small cruelty into a hearing, and she was tired of hearings.
+She sowed two seeds in the gap. She did not tell Jenna who she suspected. Cole’s friends had stopped lowering their voices when she entered a room. That did not tell her who had pulled the plant. Naming them would turn a small cruelty into a hearing, and she was tired of hearings.
 
 Over the next several days, Ava found reasons to work near the vehicle bay when Gabriel had a shift. He found reasons to inspect irrigation fittings that had not leaked once. Neither mentioned the water tank.
 
@@ -340,15 +340,15 @@ One night she found him outside the greenhouse door with a mug in each hand.
 
 “This is how people show affection now. Civilization changed.”
 
-She accepted the mug. Then, because trust had to be practiced on something that still hurt, she told him about the seedling and the words in the condensation. She did not ask him to find out who had written them.
+She accepted the mug. Then, because trust had to be practiced on something that still hurt, she told him about the seedling and the words on the tray. “I don’t know who did it,” she said. “I don’t want you going after Cole because I’m angry.”
 
 Gabriel was quiet long enough that she thought he might refuse the limit. “What do you want done?” he asked.
 
-“The row stays. I replanted it. If you pull Cole into a hearing, the garden becomes their story.”
+“Come and look. I planted the gap again. If you pull Cole into a hearing, the garden becomes their story.”
 
-“All right.” He looked toward the beds, not toward the door. “Show me which ones you saved.”
+“All right.” He followed her between the beds.
 
-They stood over the thin replacements. Two had already lifted a pale hook of stem. Ava laughed once, surprised by it, and did not take the laugh back. The cruel words were still on the glass if the lamps fogged again. The living row was also true. Gabriel stayed beside it, as if the second fact were allowed to count.
+Two pale hooks of stem had lifted through the soil. Ava laughed once, surprised by it, and did not take the laugh back. By the door, the words showed again where condensation gathered on the tray. She turned back to the new shoots. The living row was also true. Gabriel stayed beside it, as if the second fact were allowed to count.
 
 Below the carrier, a settlement’s work lights marked a rough square in the snow. Figures crossed between them, unloading medicine and repaired filters from *Haven’s Vanguard*. No grand future waited beyond the glass. There were only people still awake because something needed doing.
 

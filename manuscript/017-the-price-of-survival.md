@@ -136,13 +136,13 @@ After the failed run, she wrote the retreat down before she wrote the attack: th
 
 Gabriel didn’t give up on her either. After each mission, he reviewed what went wrong and how to improve. She worked harder, learning to anticipate her fear instead of running from it. She learned how to fight with control, how to channel her power without letting it consume her.
 
-On the next rescue assignment, she checked the route herself before Gabriel asked.
+Before the next rescue assignment, she checked the planned route herself before Gabriel asked.
 
 The evening before they left, she went to the mess without waiting to see who was already there. Cole was. So was the woman from the corridor. Ava filled her cup at the machine and sat at the long table, not the far one. Her hands stayed on the metal where anyone could see them.
 
 Gabriel came in late from the vehicle bay. He looked at the room, looked at her, and sat down with his own cup beside hers. He did not make a speech. He drank. After a moment Rhea dropped into the seat across from them and complained about the caf as if the conversation had never had a gap in it.
 
-Cole did not apologize. He also did not leave. Ava ate. The corridor sentence was still true, and so was this: she had come back in the open, and the man she trusted had let the crew watch him share the table. Happiness was too large a word. She was proud of the smaller one. She had stayed.
+Cole did not apologize. He also did not leave. Ava took a mouthful while Rhea complained about the caf. Nobody stopped her. She reached for another.
 
 ***
 

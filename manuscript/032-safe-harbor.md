@@ -60,7 +60,7 @@ Gabriel shifted his weight onto the good leg. Ava touched his wrist before he co
 
 “Say it to me,” she told the crewman. Her voice shook, which made her angrier. “I’m standing here.”
 
-He looked at the floor. The other man pulled him down the corridor. The insult stayed. So did the pain in her fingers, a wrongness no apology was going to put back. What also stayed was the choice she had just made: she had spoken, and Gabriel had let her. Jenna, still in the doorway, had heard every word and did not reopen it into a hearing. Ava was grateful for the restraint. Strength, today, was being believed without being displayed.
+He looked at the floor. Jenna stepped into the doorway. “Enough. Back to your posts.” The other man pulled him down the corridor. She did not ask Ava to explain herself. Gabriel was still beside her, his wrist beneath her hand. He had not spoken over her. The pain in her fingers remained; so did the insult. Ava released his wrist when she was ready to walk.
 
 Later, Ava found herself wandering the quiet corridors of the ship. The events of the past days played through her mind, each memory sharp and vivid. She stopped by the greenhouse, the familiar scent of soil and growing plants grounding her.
 
@@ -76,7 +76,7 @@ She wrote the soil on the sleeve, the open notebook, the light of the specimen o
 
 Below it she added the one thing she had nearly left out: *I liked my work.*
 
-She found Gabriel in their quarters afterward, temple dressing half undone, trying to be patient with his own hands. She finished the unwrap for him. Then she kissed the unhurt skin beside the bruise, and the corner of his mouth. He made a low sound and drew her in by the hip. The corridor’s word was still in her ears. His hands were also on her, careful, wanted, sure of welcome. She laughed against his shoulder when her cramped fingers refused a button, and he held them until they eased, smiling as if the ordinary trouble delighted him.
+She found Gabriel sitting on their bed afterward, his crutches against the wall and his temple dressing half undone. She finished the unwrap for him. Then she kissed the unhurt skin beside the bruise, and the corner of his mouth. He made a low sound and drew her in by the hip. The corridor’s word was still in her ears. His hands were also on her, careful, wanted, sure of welcome. She laughed against his shoulder when her cramped fingers refused a button, and he held them until they eased, smiling as if the ordinary trouble delighted him.
 
 “I told Malik the truth,” she said.
 
@@ -86,7 +86,7 @@ She found Gabriel in their quarters afterward, temple dressing half undone, tryi
 
 “Marcus. He was very proud. Try not to let it go to his head.”
 
-She kissed him again, slower, happiness and love arriving in the same room as the insult and not asking it to leave first. The pain in her hand did not vanish. She trusted him with it anyway. That was the part she meant to keep.
+She kissed him again, slower, happiness and love arriving in the same room as the insult and not asking it to leave first. The pain in her hand did not vanish. She trusted him with it anyway. That was the part she meant to keep. Her hand still hurt when she rested it against his chest. She left him sitting on the bed, took the watering cans from outside their door, and returned to the greenhouse.
 
 Gabriel arrived later on crutches, pausing at the doorway to rest his weight on the pads. “Thought I’d find you here.”
 

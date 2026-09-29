@@ -34,7 +34,7 @@ There was a crease down one side of his face where he had rested it against the 
 
 *If we were home, I would make you lie down.*
 
-The thought went further than sleep. She wanted the weight of him, his mouth slow at her throat, his hand under her shirt where no one on this carrier was allowed to look at her like a problem. She wanted to be wanted in a room with a door. The wanting sat beside a quieter hurt: the child across the garage had flinched from Ava’s shadow at dusk and then pretended she had only been cold. Ava had smiled so the mother would not have to apologize. The smile still ached.
+The thought went further than sleep. She wanted the weight of him, his mouth slow at her throat, his hand under her shirt. Back in their quarters aboard the carrier, they could shut the door and be wanted where no one looked at her like a problem. Here, the child across the garage had flinched from Ava’s shadow at dusk and then pretended she had only been cold. Ava had smiled so the mother would not have to apologize. The smile still ached.
 
 “You don’t have to earn sleep,” she said.
 
@@ -80,4 +80,4 @@ He nodded and went to distribute it. She watched him measure a little less for h
 
 When he came back, she told him he could take the full cup. He did not thank her. He did take it.
 
-The child would not take a cup from Ava’s hand. She took it from her mother, who had taken it from the row Ava poured. Ava let that distance stand. Forcing the girl to be brave would only repeat the flinch, and Ava was not owed a quicker forgiveness than the child could give.
+The child would not take a cup from Ava’s hand. She took it from her mother, who had lifted it from the row of cups Ava had filled. Ava let that distance stand. The girl drank without looking at her. That was enough for now.
