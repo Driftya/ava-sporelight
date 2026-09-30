@@ -22,6 +22,32 @@ She recorded each failure in the journal Gabriel had given her.
 
 She had just underlined the last entry when Marcus arrived with a crate balanced against his hip.
 
+He stopped beside the lettuce and sniffed. “Is any of that for eating yet, or are we still admiring it?”
+
+Ava took the smallest clean tray from the shelf. “Put the crate down. You can earn your lunch by washing this.”
+
+“I thought I earned lunch by carrying the crate.”
+
+“That earned you a complaint about carrying the crate.”
+
+He put it down with exaggerated care. She showed him which outer leaves to take. On the third plant he waited for her nod, then stopped waiting once his hands knew the difference. Ava noticed that she had stopped watching them.
+
+They split a damaged leaf over the wash basin. Marcus chewed thoughtfully.
+
+“So?” she asked.
+
+“Tastes like lettuce.”
+
+She stared at him until he laughed. Then she laughed too, annoyed and pleased, and gave him the rest of the leaf.
+
+When he reached for the crate again, she caught a frayed seam at his cuff. “Give me that before it gets worse.”
+
+“You mend clothes?”
+
+“Badly. Sit down and lower your expectations.”
+
+He sat. She took a needle and thread from the greenhouse repair kit. For ten minutes neither of them asked what her blood could do.
+
 “Before you accuse me,” he said, “there are no tools in this one.”
 
 Inside were filter mesh, irrigation clamps, and three jars of seeds with their labels worn away.
@@ -270,7 +296,7 @@ The greenhouse pumps clicked on. Water travelled through the tubes in a series o
 
 Ava understood the shape of his kindness then. It was not certainty. It was an old refusal sharpened into a profession.
 
-“My parents never knew what happened to me,” she said. “That hurts more than knowing they’re dead. They might have searched. They might have blamed each other. For them, I never stopped being missing.”
+“I don’t know if my parents ever learned what happened to me,” she said. “That hurts more than knowing they’re dead. They might have searched. They might have blamed each other. What if I never stopped being missing to them?”
 
 Gabriel did not tell her they would have been proud. He looked down at his injured hand and said, “That’s cruel.”
 
@@ -329,6 +355,32 @@ The next morning she found a dead seedling on the greenhouse threshold. Someone 
 Ava stood with the little plant in her palm until the soil dried against her skin. She remembered checking it before bed, touching the soil to see whether it needed water. She did not cry in the corridor, where anyone passing could decide what the tears meant. She cried later, bent over the gap in the row, one hand pressed to the old seam under her ribs because the grief had decided to live there.
 
 She sowed two seeds in the gap. She did not tell Jenna who she suspected. Cole’s friends had stopped lowering their voices when she entered a room. That did not tell her who had pulled the plant. Naming them would turn a small cruelty into a hearing, and she was tired of hearings.
+
+Rhea came in for a length of tubing and stopped at the gap.
+
+“Did you move one?”
+
+Ava shook her head. She wished Rhea would collect the tubing and go. She wished, with equal force, that somebody would see what had happened without making her describe it.
+
+Rhea read the words on the tray. “That’s fucking ugly.”
+
+“I don’t know who did it.”
+
+“I didn’t ask who.” She took a clean cloth from the shelf, then waited. “Want them gone?”
+
+Ava nodded.
+
+Rhea wiped the condensation away. It left a dull smear. She wiped again while Ava steadied the tray with both hands.
+
+“I’m here after second shift,” Rhea said. “If you want company.”
+
+“I’m not going to talk about it all evening.”
+
+“Good. I need to complain about Gabriel.”
+
+Ava managed a breath that was almost a laugh. “You can complain while you water.”
+
+The words would show again when the moisture returned. Ava knew that. For now somebody else was holding the cloth.
 
 Over the next several days, Ava found reasons to work near the vehicle bay when Gabriel had a shift. He found reasons to inspect irrigation fittings that had not leaked once. Neither mentioned the water tank.
 

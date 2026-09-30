@@ -15,6 +15,14 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-30 — Established — Fresh-blood blade coating
+
+Fresh-blood blade coating is established in chapters 25 and 27–29. It requires fresh blood, loses usefulness as the coating dries, and causes pain and cumulative cost when Ava reopens a wound. It is not a standardized trained technique and is not a stronger or longer-lasting toxin than the biology already allows. Affected files: `canon/internal/09-development-and-uncertainty-notes.md`, `manuscript/025-closing-in.md`, `manuscript/027-the-fight-to-survive.md`, `manuscript/028-avas-transformation.md`, and `manuscript/029-extraction.md`.
+
+### 2026-09-30 — Established — Hospital forward team and remote command
+
+Chapter 22 sends a forward team, not a pair, to check the rendezvous route. Chapters 26–29 already name that element a forward team. Chapter 27 shows the team low on ammunition and down two men; those two are casualties, and the prose does not establish that they were killed. Gabriel’s status question in that fight is to the local team leader. Jenna remains in radio command aboard the carrier. Gabriel’s sleeve cut in the spore-contaminated factory is cleaned, dressed, and logged for an exposure check; the breach is a physical injury and possible exposure, not immunity and not a confirmed infection. Affected chapters: 22 and 26–32.
+
 ### 2026-09-16 — Author-decided — Restore light erotic and grim source beats by append
 
 The author asks that missing light-erotic and grim/violent material from the temporary source stories be restored without cutting existing manuscript prose. Adult intimacy after the chapter 18 confession is expanded with concrete, consensual, 17+ sensory detail (body, pleasure, afterglow) rather than fade-to-black euphemism; later couple scenes in chapters 23 and 30 carry that wanting without adding a second full sexual encounter. Grim restoration returns source-level viscera to the laboratory awakening, fortress massacre, factory blood kill, factory-refuge transformation fight, and Harrow’s demolition blast, including self-torn skin, searing toxic blood, shrapnel to Ava’s back, and spore-burst casualties already implied by canon. Source files remain unchanged. No chronology, biology, or character-identity change. Affected files: `manuscript/005-the-awakening.md`, `013-the-breaking-point.md`, `017-the-price-of-survival.md`, `018-a-fragile-confession.md`, `023-fragile-paths.md`, `028-avas-transformation.md`, `030-breathing-space.md`, `031-harrows-betrayal.md`.

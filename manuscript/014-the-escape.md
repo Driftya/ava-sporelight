@@ -98,9 +98,9 @@ Jenna looked away, her fingers tightening at her sides.
 
 The survivors murmured among themselves, uneasy glances darting toward Ava. Whispers of uncertainty spread through the group, hushed but unmistakable. Some clutched their weapons a little tighter, while others instinctively put distance between themselves and her.
 
-“She’s dangerous,” one of them muttered, his voice laced with fear. “I saw what she did back there. That thing touched her, and it just—died. No spores, no struggle. Just gone.”
+“She’s dangerous,” one of them muttered, his voice laced with fear. “I saw the thing that cut her during the evacuation. It touched her, and it just—died. No spores, no struggle. Just gone. What happens if she gets scared in here?”
 
-“She walked through them like they weren’t even a threat,” another added, shaking his head. “What kind of person can do that?”
+“She came out of the fortress covered in blood,” another said. “Do we even know whose?”
 
 “She’s not like us,” a woman near the back said warily. “And if she turns on us? Who’s going to stop her?”
 

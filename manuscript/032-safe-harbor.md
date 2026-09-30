@@ -8,6 +8,8 @@ title: "Safe Harbor"
 
 By the time they reached *Haven’s Vanguard*, Gabriel’s temple dressing had dried stiff at the edges. Malik took him straight from decontamination to the medical bay. Ava stood at the window while the medic checked his leg. Below the carrier, engine wash chased snow across a dark ridge.
 
+Malik checked the cut beneath Gabriel’s sleeve patch as well as the blast injuries. He logged the factory exposure for follow-up. Ava waited while he worked, remembering how little room she had given Gabriel after calling him closer.
+
 Gabriel sat on a cot with his leg freshly bandaged and supported. When Malik finished checking his eyes, he turned toward Ava.
 
 “You should rest,” he said gently, his voice cutting through the quiet.
@@ -65,6 +67,32 @@ He looked at the floor. Jenna stepped into the doorway. “Enough. Back to your 
 Later, Ava found herself wandering the quiet corridors of the ship. The events of the past days played through her mind, each memory sharp and vivid. She stopped by the greenhouse, the familiar scent of soil and growing plants grounding her.
 
 Someone had watered in her absence. Too generously at the shallow trays, but the beans were standing and a new tie held one heavy stem upright. Ava touched the knot. The work had continued without her, which ought to have pleased her. It did, after the first small sting.
+
+Cole stopped at the doorway with a grow-lamp bracket under one arm.
+
+“Cora said this one needed replacing.”
+
+Ava looked up at the loose fitting. “It does.”
+
+He waited for her to move back before entering. She did, and hated how quickly she knew the distance he wanted.
+
+“I still don’t like what happened at the fortress,” he said while setting down his tools.
+
+“Neither do I.”
+
+“That’s not what I meant.”
+
+“I know.”
+
+He worked for a while. When the old bracket came loose, he asked her to hold the lamp steady. His fingers touched hers once at the base and he did not snatch them away.
+
+“I heard you got people out,” he said.
+
+“Other people helped.”
+
+“Doesn’t mean you didn’t.”
+
+He checked the fitting twice and left without staying for a drink. Ava switched the lamp on. She did not have to turn the visit into friendship to be glad he had come.
 
 *You waited for me anyway.*
 

@@ -184,6 +184,30 @@ He pushed the tray toward her. “And you haven’t eaten.”
 
 She managed half the ration and made him finish the caf.
 
+Jenna found them as Gabriel gathered the tray. She stayed by the open door.
+
+“I left without confirming whether you were alive,” she said. “Both of you.”
+
+Gabriel put the tray down again.
+
+“People on the transport needed me. That was true.” Jenna looked at Ava. “I used it to stop asking what was happening to you.”
+
+Ava pulled one thumb beneath the blanket. “I don’t know what you could have done.”
+
+“I should have kept trying to find out.”
+
+“I’m still angry.”
+
+“I know.”
+
+Jenna did not step closer. She explained how Ava could reach her from the hold, waited while Gabriel checked the call panel, and left when Ava said she wanted to sleep.
+
+The next morning Ava tested it. Jenna answered on the second tone. Ava had no emergency ready, only the sound of an answer she had needed to hear.
+
+“The hold’s cold,” she said at last.
+
+“I’ll ask Cora to check the vent.”
+
 During the next few days, the hold kept drawing her back. Cargo crews had abandoned several sacks of seed there: old rescue stock, scavenged packets, grains kept too long in cracked seals. Ava opened them one at a time. She rolled seeds beneath her fingertips, split a few with a scalpel, and sorted the living from the dead.
 
 When Gabriel found her again, she had covered the deck with labelled cups.

@@ -17,7 +17,9 @@ Large regional lists, named factions, shops, equipment economies, and mission hu
 
 ## Supporting combat options
 
-The following are not yet dramatized as standard practice: coating a blade with fresh blood; using debris to create barriers or indirect attacks; luring mutants into prepared traps; and creating very short-lived deterrent lines with fresh blood. Any later use must respect the limited potency and bodily cost of Ava’s blood.
+Fresh-blood blade coating is established in chapters 25 and 27–29. It requires fresh blood, loses usefulness as the coating dries, and causes pain and cumulative cost when Ava reopens a wound. It is not established as a standardized trained technique.
+
+Using debris to create barriers or indirect attacks, luring mutants into prepared traps, and creating very short-lived deterrent lines with fresh blood remain supporting options rather than established standard practices. Any later use must respect Ava’s biological limits and bodily cost.
 
 ## Resolved combat terminology
 

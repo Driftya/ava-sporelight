@@ -202,6 +202,26 @@ He nodded and helped her stand. The older child was waiting beside the gate with
 
 By the time they returned to the ship, they had recruited a few survivors from the settlement—people willing to work and help rebuild. The atmosphere on the ship was tense but hopeful.
 
+At the inner airlock, the older child from the gate waited while his mother collected their blankets. He still wore the spare mask.
+
+“This keeps slipping,” he told Ava.
+
+She knelt, keeping her bandaged hand against her knee, and showed him where to fold the loose strap back through the buckle. He tried it himself before she corrected him.
+
+“Like that?”
+
+“Better.”
+
+His mother watched from two paces away. When he reached for Ava’s good hand to stand, she did not pull him back.
+
+Only after they had gone did Ava realize she was still crouching. The place where his fingers had closed around hers felt startlingly ordinary.
+
+Rhea held the door while she got up. “Mess first?”
+
+Ava looked at the dressing. “I’ll drip on the table.”
+
+“Then we get a cloth.”
+
 That night, Ava sat between the greenhouse beds, keeping her bandaged hand clear of the soil. Gabriel came in carrying a chair but left it beside her and sat on the floor instead. He had cleaned the blood from his face. The cut above his eye pulled each time he frowned.
 
 When he finally spoke, his voice was quiet but firm. “You were brave today.”

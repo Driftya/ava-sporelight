@@ -22,6 +22,12 @@ Ava exchanged a glance with Gabriel. “We need to get moving,” she said. “H
 
 “We can leave as soon as everyone’s loaded,” the woman replied. “But we’ll need cover. The mutants won’t wait politely for us to finish.”
 
+Gabriel shifted the research pack under his rifle to pass it aboard.
+
+“Underneath,” Ava said. “You’ll tear the pages.”
+
+He moved the rifle clear and supported the pack with both hands before handing it to the loader.
+
 The transport team worked quickly, helping the survivors into the vehicle and securing the supplies. Gabriel and Ava stayed near the perimeter, their weapons ready as the first faint chittering noise crept through the silence, sending a chill down their spines.
 
 “They’re coming,” Gabriel said, his voice grim. He turned to Ava. “You ready?”

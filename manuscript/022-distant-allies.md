@@ -18,7 +18,7 @@ Ava nodded. The gladness came late, which was how she trusted it. “Keep it. Th
 
 The girl went with her mother. Gabriel, waiting at the radio, saw Ava’s face when she turned back and did not ask her to explain. He shifted the pack on his shoulder, letting his arm brush hers while they waited for the detail leader. Love, just then, was letting the small victory stay small.
 
-“We’ll take them to the railway station,” the detail leader said. “Vehicle meets us there. Our forward pair will check your rendezvous route.”
+“We’ll take them to the railway station,” the detail leader said. “Vehicle meets us there. Our forward team will check your rendezvous route.”
 
 Gabriel passed over the count and waited for the leader to repeat it. Only after the last survivor had left with the detail did he turn toward the hospital.
 

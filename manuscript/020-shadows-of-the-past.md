@@ -80,6 +80,8 @@ A sudden screech pierced the air, and one of the survivors flinched. Gabriel rai
 
 They moved deeper into the same garage, into a store room with one doorway and a narrow ventilation grille. Gabriel checked the air while Ava helped shift a cabinet across the entrance. The survivors carried blankets and the last dry supplies in after them.
 
+Gabriel took off his jacket and passed it to Ava. She pulled it on before settling against the wall.
+
 They left a gap to watch through and hung cans on a string beyond it. Harrow coaxed a small fire into life in a metal tray beneath the open grille. Its smoke drew outward. Gabriel kept the detector beside him until the reading settled, then told the survivors they could uncover their faces.
 
 The mother unwound a cloth from the child’s mouth and folded it carefully, saving even that inadequate thing. Ava began to understand the camp through what people kept within reach. A cup nested inside another cup. Thread wound around a broken comb. A shoe with its opening stuffed against the cold. Leaving had required deciding which fragments of a household deserved carrying.
@@ -102,7 +104,7 @@ Ava could hear claws somewhere beyond the shattered gate. Each time they stopped
 
 Ava hesitated, glancing at Harrow before stepping closer to Gabriel. She didn’t say anything at first, her thoughts too tangled to form words. Gabriel noticed her hesitation and, instead of speaking, he gave her a small nod and sat down beside her near the fire.
 
-He laid his jacket beside her. She put it on, pulling her hands inside the sleeves, and watched him replace the filter in his mask. He tested the seal before returning to the doorway.
+She pulled her hands inside the jacket’s sleeves and watched him replace the filter in his mask. He tested the seal before returning to the doorway.
 
 “Thank you,” she said quietly, her voice barely audible.
 

@@ -96,6 +96,22 @@ She pictured the greenhouse door, people collecting leaves without looking at he
 
 Gabriel nodded toward their quarters. She matched his pace instead of rushing ahead.
 
+Marcus caught them at the lift with a leaking irrigation clamp wrapped in a rag.
+
+“Tomorrow?” he asked Ava. “If you’ve got time.”
+
+“I might be in medical.” She heard how quickly she made it an excuse. “Or I might not.”
+
+He shifted the rag when water reached his wrist. “Then the day after.”
+
+“Jenna and Karrow want to study my blood. Would it bother you if I said no?”
+
+Marcus looked toward Gabriel. Ava almost took the question back. Then Marcus looked at her again.
+
+“I’d be disappointed if it could help and we couldn’t try. I won’t pretend otherwise.” He held the clamp over his boot instead of letting it drip on her. “I’d still want you to look at this. And sit with us at supper.”
+
+She had been braced for a better answer, one that cost him nothing. This one stayed with her as the lift doors closed.
+
 In their quarters, she opened the journal to the entry about the first bean seedling. Gabriel sat on the floor with his back against the bed, giving his injured leg the space Malik had ordered.
 
 “The people who took me said I could save lives,” Ava said.

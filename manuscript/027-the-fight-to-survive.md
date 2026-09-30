@@ -26,9 +26,9 @@ A mutant lunged toward the crew member holding the mask. Ava struck across its s
 
 The soldier she saved gave her a wide-eyed nod of thanks before turning back to the fight. Ava paused for a moment, her breath unsteady, before pushing herself to refocus. She reset her feet as Gabriel had taught her. The next creature was already coming.
 
-Gabriel’s voice rang out over the din. “Jenna! What’s your status?”
+Gabriel turned toward the forward-team leader. “What’s your status?”
 
-One of the transport team’s leaders shouted over the chaos, their voice breathless but steady. “Low on ammo and down two men. We need to fall back!”
+“Low on ammo and down two men!” the leader shouted over the gunfire. “We need to fall back!”
 
 “Cover us!” Gabriel shouted, motioning for Ava to regroup. She sprinted back, her breath coming in sharp bursts as mutants closed in on the team’s position.
 
@@ -54,7 +54,7 @@ The man tried to stand without her and nearly fell. She caught him beneath the a
 
 “Don’t make me choose out loud,” she said. “Move.”
 
-Ava put a civilian’s arm over her shoulder and followed the retreating team, forcing a reaching claw aside with her blade. They scrambled down a side alley, the sound of Gabriel’s gunfire echoing behind them. When they reached a defensible position, Ava turned back, her heart in her throat.
+Keeping the man’s arm over her shoulder, Ava followed the retreating team and forced a reaching claw aside with her blade. They scrambled down a side alley, Gabriel’s gunfire echoing behind them. When they reached a defensible position, she turned back, her heart in her throat.
 
 Gabriel appeared moments later, his rifle smoking as he backed into the alley. “Let’s move!” he ordered, his voice sharp with urgency.
 

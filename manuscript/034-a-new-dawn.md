@@ -10,6 +10,14 @@ Two years after the first blood draw, Ava watched a vaccine cooler being strappe
 
 Producing it had taken more work than the first vial promised: assays repeated, methods revised, further samples taken only when Ava agreed. Now the carrier brought doses to the same places it had once visited only to evacuate. People could begin repairing a home without knowing they would have to abandon it. Filters and quarantine checks remained part of every stop.
 
+Once, early in the work, she had arrived at medical and found she could not sit in the chair. Jenna sent Karrow back to his assays. Nobody argued that the lost morning belonged to the people waiting outside the carrier.
+
+Ava spent it in the greenhouse with Cora, stripping a damaged lamp. They quarrelled about whether the fault was in the cable or the fitting. At supper Cora was still insisting it had been the cable.
+
+That was the day Ava began to believe refusal could survive the walk out of medical. The next sample was her choice too.
+
+Trust had accumulated in less dramatic ways afterward: Marcus leaving her the last usable pencil, Rhea asking for company without bringing a task, crew members arguing with her over a table instead of moving to another one. Not everyone stayed. Enough people did that she stopped counting the empty chairs first.
+
 On the cart, a Northern Coalition supply form had been fastened beneath the carrier’s own list. The same settlements appeared in different orders. Ava had learned how much work could hide inside the word *distribution*: a road lost to weather, a cooler waiting for a repaired connection, an argument over how long a clinic could hold its remaining stock.
 
 She asked the crew member strapping down the cooler to leave her a copy of the final route. There were places she had only learned by growing herbs for them. She wanted to know which would have to wait.
@@ -100,7 +108,13 @@ Word of the pregnancy travelled with the vaccine deliveries. Folded baby clothes
 
 Ava continued working in the greenhouse while following Malik’s advice to rest, though by the final week she mostly sat at the planting table and corrected other people’s labels. Preparing for their daughter did not erase her fear. It gave the fear a crib, a stack of folded cloth, and a list of practical things to do before morning.
 
-As the due date approached, the entire ship buzzed with anticipation. Malik and Jenna prepared the medical bay, with Karrow reviewing Ava’s latest blood results, while the crew rallied around Ava and Gabriel, offering their unwavering support.
+The vaccine had changed the supply lists. It had not stopped the light moving beneath her skin. Malik still compared her grip with earlier records; Ava still told him when something felt different, including changes she was tempted to call nothing.
+
+On a bad morning she put down the pruning blade before she trusted her fingers with it. Rhea finished the row. Ava stayed at the table, irritating her with advice until Rhea told her to either help with the labels or let the plants suffer in peace.
+
+She did the labels. The work remained hers even when somebody else had to hold the blade.
+
+As the due date approached, people Ava had learned to trust found practical reasons to stop by. Malik and Jenna prepared the medical bay, Karrow reviewed her latest blood results, and Marcus kept bringing cloths after she told him they had enough. Some crew members still passed the greenhouse without looking in. Others left supper outside her door when she was too tired to come to the mess.
 
 When labour began, Gabriel carried the bag Ava had packed and forgot the blanket lying on top of it. She sent him back for it between contractions. Hours later, beside the bed, he let her grip his hand hard enough to hurt and fetched water whenever she asked.
 

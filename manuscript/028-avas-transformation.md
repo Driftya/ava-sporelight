@@ -78,7 +78,7 @@ He moved close enough to support her. A remaining spike scored his sleeve and ca
 
 “Yes. It’s shallow.” He kept the torn sleeve clear of the spike. “Give that one room.”
 
-She waited until it withdrew before letting him touch her again. The team leader patched his sleeve while Ava sat on the lowest stair, holding a cloth to the skin her own growth had torn. Above her, the survivors were quiet. One lowered his weapon when she looked up; another did not.
+She waited until it withdrew before letting him touch her again. While Ava sat on the lowest stair, pressing a cloth to the skin her own growth had torn, the team leader cleaned Gabriel’s cut and sealed a dressing beneath a sleeve patch. Gabriel reported the breach over the radio for an exposure check when they reached shelter. Above her, the survivors were quiet. One lowered his weapon when she looked up; another did not.
 
 Her clothes hung open at the shoulder and down part of her back. She tried pulling the torn edges together, then stopped because the movement hurt and exposed more than it covered. She had no spare hand for modesty.
 

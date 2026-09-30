@@ -52,7 +52,25 @@ Gabriel and Ava stepped out last. The outpost crew took them through decontamina
 
 The crew found her a clean shirt while her torn things went with the contaminated gear. Gabriel’s coat came back from cleaning damp at the seams; she returned it without trying to brush the damage smooth. It had covered her when she could not bear being seen. She wanted to thank him for that, but he was already fastening it, and she let the moment pass.
 
-Harrow joined them in the inner court, clutching the notebook tightly. His eyes darted around the outpost, taking in every detail. “What now?” he asked, his voice tinged with unease.
+“At the subway,” Ava said, “you told me to go like you’d already decided which of us was allowed to die.”
+
+Gabriel stopped fastening the coat. “I was keeping the alley open.”
+
+“I know what you were doing. I was still there.”
+
+“There wasn’t time to discuss it.”
+
+That was true, and she hated him for having a true answer ready.
+
+“Then tell me where you’re coming after us. Give me something besides your back.”
+
+He looked toward the courtyard gate. “I should have called when I moved.”
+
+“Yes.”
+
+She waited for the promise that he would never frighten her again. He did not make it. When he asked whether she wanted company at the barricade, she said she needed five minutes first.
+
+Harrow joined them in the inner court after those minutes, clutching the notebook tightly. His eyes darted around the outpost, taking in every detail. “What now?” he asked, his voice tinged with unease.
 
 “We regroup,” Gabriel replied. “Jenna’s arranging for reinforcements. Until then, we wait.”
 

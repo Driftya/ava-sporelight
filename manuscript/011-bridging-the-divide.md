@@ -26,7 +26,7 @@ Jenna entered and put the scanner on the table before moving closer. Gabriel sto
 
 Ava stiffened, her gaze darting between Jenna and Gabriel.
 
-“You don’t have to be afraid,” Jenna said gently. She set the scanner down on a nearby table and took a cautious step closer. “I’ve been listening to you and Gabriel these past few days. I know you didn’t mean to hurt me.”
+“You don’t have to be afraid,” Jenna said gently. She kept her hands away from the scanner. “I’ve been listening to you and Gabriel these past few days. I know you didn’t mean to hurt me.”
 
 Ava’s lips parted as if to speak, but no words came.
 

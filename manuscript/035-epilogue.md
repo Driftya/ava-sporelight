@@ -20,6 +20,26 @@ Behind them, Cora stepped out of the lift. “He’s making everybody nervous.�
 
 Cora left a small parcel on the planting table. Gabriel opened it for Ava: infant socks knitted from orange wool unravelled from an old sweater. One was larger than the other.
 
+“I can’t help with the lamps today,” Ava said.
+
+Cora looked at her. “Did I bring a lamp?”
+
+“No.”
+
+“Then stop answering a question I didn’t ask.” She turned the larger sock over in Gabriel’s hand. “That one’s bad. Keep it anyway.”
+
+Ava laughed, then pressed a hand to her sore abdomen.
+
+Cora waited until she could breathe easily again. “Tea?”
+
+“Only if you sit down.”
+
+“I’ve got maintenance.”
+
+“Five minutes.”
+
+Cora checked the time and pulled out the other chair.
+
 The greenhouse had outgrown the cargo hold’s original boundaries. Bean vines climbed cable trellises. Trays of medicinal herbs occupied the warmer wall, each tagged for one of the settlements on Jenna’s distribution map. Near the water tank stood the descendant of the first crooked seedling, now dry-podded and waiting to be harvested.
 
 Ava settled into a chair Gabriel had repaired twice before admitting it needed to be replaced. Their daughter slept against her chest, one fist tucked beneath a round cheek.

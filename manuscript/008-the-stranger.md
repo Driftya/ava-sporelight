@@ -52,7 +52,7 @@ Jenna joined him with the monitor she had been using inside. She had spent the p
 
 Gabriel looked at the new dressing beneath his sleeve. “She said she was dying,” he murmured, his brow furrowing. “Some disease.”
 
-Jenna frowned. “Well, she’s not dying now. In fact, her vitals are… unusual. Elevated heart rate, but no signs of infection. And then there’s the alien she killed.”
+Jenna frowned. “Her organs aren’t failing. Her heart rate is elevated, but the scanner isn’t showing the breakdown we usually see in infected patients. That doesn’t explain her eyes, or what happened to the creature.”
 
 “Yeah,” Gabriel muttered. “Her blood killed it. No spores.”
 
