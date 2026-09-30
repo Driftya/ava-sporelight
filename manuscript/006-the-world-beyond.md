@@ -22,6 +22,8 @@ Beneath the surface of the chaos, there were those who saw opportunity. Governme
 
 Under the fallen laboratory, Ava’s cryopod kept running. Soil washed into the passage outside. Roots entered the cracks in the ceiling. The frost on the lid concealed her from everything that came after.
 
+Generations later, people built above the laboratory’s buried walls without knowing what lay beneath their floors. Cold reached a region Ava had known for wet heat and crowded leaves. It slowed the spores but did not empty the ruins, and the pod kept its place below the settlement as buildings rose and failed over it.
+
 Over two centuries, roads disappeared beneath growth and settlements formed around whatever shelter remained. Humanity retreated toward the cold, where spores spread more slowly. Rescue crews learned to travel between those refuges and the people stranded beyond them. Filters, fuel, and an open route home mattered more than the number of creatures a squad could kill.
 
 The first evacuees carried keys. Even when a road closed, even when the house behind them could no longer be seen through the growth, they kept a small piece of metal in a pocket. Later generations carried spare filter seals, sewing needles, the part a mechanic had said could not be made again. Children learned which possessions to fetch at an alarm and which to leave.

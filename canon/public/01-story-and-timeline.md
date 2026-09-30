@@ -53,7 +53,7 @@ The facility’s breach accelerates the wider ecological catastrophe. Plants, an
 
 ### Chapters 7–10: discovery and quarantine
 
-Roughly two hundred years after the original outbreak, Gabriel finds Ava’s functioning cryopod during an evacuation. Her awakening is disoriented and violent. Her fresh blood or direct biological contact kills mutant life forms without producing the same spore-release danger as ordinary weapons.
+Roughly two hundred years after the original outbreak, Gabriel finds Ava’s functioning cryopod during an evacuation in a settlement built over the buried laboratory. The once-humid region is cold enough for frost by his era; the pod was never moved. Her awakening is disoriented and violent. Her fresh blood or direct biological contact kills mutant life forms without producing the same spore-release danger as ordinary weapons.
 
 Gabriel sees both her danger and her personhood. Jenna and the rescue organization initially emphasize quarantine, examination, and protocol. Ava’s fear of being used again makes clinical treatment especially destabilizing.
 

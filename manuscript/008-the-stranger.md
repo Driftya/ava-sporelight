@@ -8,6 +8,10 @@ title: "The Stranger"
 
 The cryopod was too damn heavy for this. Gabriel dropped his shoulder and drove his whole body into the cart, boots slipping as he wrestled it toward the transport. Jenna had sent two crew members back to help haul the pod upstairs; they were ahead now, clearing the ramp. Disconnecting the pod’s old supply had started its emergency revival sequence. The indicator above the lid counted down while one wheel dragged sideways through the rubble, fighting every shove.
 
+Jenna’s voice broke through the radio. “The Block A group reached the ramp with the other search crew. Keep moving, Gabe.”
+
+Gabriel looked once toward the upper landing. The two crew members ahead of him had cleared a path wide enough for the cart. He put his shoulder back against it.
+
 A creature struck from behind. Its claws tore his sleeve and scored the protective layer beneath it. Pain ran down his arm, but he kept both hands on the cart. He could inspect the damage if he reached the ramp.
 
 The pod vented and its lid lifted. Inside, the woman stirred. Her eyes fluttered open, and she gasped—sharp and terrified. She tried to sit up, her movements jerky and disoriented. The cart’s uneven wheels hit a crack in the pavement, causing the pod to tilt. The woman tumbled out, landing heavily on the ground.

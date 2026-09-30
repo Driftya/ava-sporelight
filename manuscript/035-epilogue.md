@@ -40,6 +40,8 @@ Cora waited until she could breathe easily again. “Tea?”
 
 Cora checked the time and pulled out the other chair.
 
+Cora poured tea from a flask in her tool bag. She stayed while Ava drank enough to warm her hands around the cup. When her wrist unit called her back to the aft fan, she rose with a complaint about the timing and left the flask within Ava’s reach.
+
 The greenhouse had outgrown the cargo hold’s original boundaries. Bean vines climbed cable trellises. Trays of medicinal herbs occupied the warmer wall, each tagged for one of the settlements on Jenna’s distribution map. Near the water tank stood the descendant of the first crooked seedling, now dry-podded and waiting to be harvested.
 
 Ava settled into a chair Gabriel had repaired twice before admitting it needed to be replaced. Their daughter slept against her chest, one fist tucked beneath a round cheek.

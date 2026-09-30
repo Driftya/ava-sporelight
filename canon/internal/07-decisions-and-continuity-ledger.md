@@ -15,6 +15,10 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-09-30 — Author-decided — Discovery settlement over the original laboratory
+
+The later settlement was built over the buried remains of Ava’s original laboratory. During two centuries of ecological and climatic change, that once-humid region became cold enough for frost and protective winter gear. The spores and their altered life forms remained active. The pod was never moved from the laboratory before Gabriel found it. This is regional climatic change, not a global ice age, and it assigns no exact coordinates. Affected files: `canon/public/04-world-locations-and-society.md`, `canon/public/01-story-and-timeline.md`, and `manuscript/006-the-world-beyond.md`.
+
 ### 2026-09-30 — Established — Fresh-blood blade coating
 
 Fresh-blood blade coating is established in chapters 25 and 27–29. It requires fresh blood, loses usefulness as the coating dries, and causes pain and cumulative cost when Ava reopens a wound. It is not a standardized trained technique and is not a stronger or longer-lasting toxin than the biology already allows. Affected files: `canon/internal/09-development-and-uncertainty-notes.md`, `manuscript/025-closing-in.md`, `manuscript/027-the-fight-to-survive.md`, `manuscript/028-avas-transformation.md`, and `manuscript/029-extraction.md`.

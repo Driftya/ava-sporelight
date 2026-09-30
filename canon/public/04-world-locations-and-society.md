@@ -32,6 +32,8 @@ Ava’s original botanical work and the underground laboratory are located in a 
 
 Gabriel discovers Ava during a civilian evacuation in a settlement consumed by alien growth. Her cryopod remains functional inside the ruins. This area is cold enough to require protective gear but still supports active mutants.
 
+The discovery settlement grew over the buried remains of Ava’s original laboratory. During the two centuries of ecological and climatic change, the once-humid region became cold enough for frost and protective winter gear, though the spores and their altered life forms remained active. The pod was never moved from the laboratory before Gabriel found it.
+
 ### Fortress in the frozen region
 
 The fortress is a large organized refuge governed by strict security and quarantine practices. It is vulnerable despite the cold. The outbreak and structural collapse demonstrate that fortification without trust or adaptable judgment is not safety.

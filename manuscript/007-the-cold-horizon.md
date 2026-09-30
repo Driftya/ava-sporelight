@@ -56,6 +56,8 @@ He wiped the lid with his glove. A woman lay inside, dark hair spread around her
 
 “We’ve got a survivor,” he said. “Cold sleep. I don’t know how long.” He checked the life-sign display against the woman behind the frost. The trace moved.
 
+Below the moving life-sign trace, a second gauge hovered near empty. Its label had worn away. Whatever had kept the pod alive beneath the ruins was running out.
+
 He could hear Jenna cursing faintly on the other end. “Can you move her?”
 
 “Pod looks portable, but I’ll need backup. This thing’s heavy.”

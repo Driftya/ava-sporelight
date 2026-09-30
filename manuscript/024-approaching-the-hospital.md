@@ -42,6 +42,8 @@ Navigating the hospital was like walking through a graveyard. Every creak of the
 
 As they descended, the air grew colder, carrying with it a damp, metallic scent. The faint hum of generators somewhere deep in the building sent vibrations through the walls, a reminder that not all the hospital’s systems had failed.
 
+The cable feeding the emergency lights had been spliced with newer insulation. Someone had kept part of this level working after the rest of the hospital failed. Ava looked at Harrow. Repairs meant people had been here; they did not tell her whether one of them was his sister.
+
 The trio reached the lower level, the corridor stretching out before them like a yawning maw. Flickering emergency lights cast erratic shadows on the walls, making the space feel alive.
 
 “Let’s find that lab,” Gabriel said, his voice steady. “And stay alert. This place feels wrong.”
