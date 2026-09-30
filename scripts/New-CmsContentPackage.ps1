@@ -375,6 +375,9 @@ $configuration = [System.IO.File]::ReadAllText($manifestFullPath, [System.Text.E
 if ($configuration.schemaVersion -ne 1 -or $configuration.kind -ne "book" -or [string]::IsNullOrWhiteSpace($configuration.packageKey) -or [string]::IsNullOrWhiteSpace($configuration.culture)) {
     throw "Publishing manifest is invalid or unsupported: $manifestFullPath"
 }
+if ($null -eq $configuration.collection.minimumAge -or [int]$configuration.collection.minimumAge -lt 1) {
+    throw "Collection minimumAge must be a positive integer."
+}
 
 $metadataDirectory = Resolve-RepositoryPath -RelativePath $configuration.metadata.directory -RepositoryRoot $repositoryRoot
 if (-not (Test-Path -LiteralPath $metadataDirectory -PathType Container)) {
@@ -509,6 +512,7 @@ $collection = [ordered]@{
     slug = [string]$configuration.collection.slug
     pageType = "collection"
     title = [string]$configuration.collection.title
+    minimumAge = [int]$configuration.collection.minimumAge
     sortOrder = 0
     summary = [string]$collectionMetadata.summary
     seoTitle = [string]$collectionMetadata.seoTitle

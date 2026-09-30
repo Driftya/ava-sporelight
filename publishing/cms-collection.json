@@ -16,6 +16,7 @@
     "source": "manuscript/000-front-matter.md",
     "slug": "ava-sporelight",
     "title": "Ava: Sporelight",
+    "minimumAge": 17,
     "author": "XzaR (Niclas G. Reed)",
     "metaKeywords": "Ava Sporelight, post-apocalyptic science fiction, science fiction romance, light novel",
     "robotsPolicy": "index,follow"

@@ -41,6 +41,8 @@ Every local manuscript image uses a contiguous two-digit prefix in Markdown orde
 
 The builder also removes the front matter's `## Table of Contents` section from `pages/collection.md`. The source manuscript keeps its canonical linked contents, while the CMS supplies collection navigation without duplicating or publishing stale chapter links.
 
+The book collection's `minimumAge` is configured as `17` in `publishing/cms-collection.json` and emitted only on the collection entry in the package manifest. Chapter and public-canon page entries leave this optional field unset.
+
 Manuscript pages use inline Markdown image syntax pointing to approved local files under `manuscript/images/`; public canon pages use the same syntax for approved files under `concepts/`. External URLs, protocol-relative URLs, embedded `data:` sources, fragments, reference-style images, and raw HTML image elements are rejected before a package is created. Driftya applies the same internal-image policy during ZIP parsing, ordinary CMS saves, and final rendering.
 
 For each public canon page, the builder promotes its first standalone image to `coverMedia`, uses that image's Markdown alt text as `coverImageAlt`, and removes that occurrence from the packaged body. Later images remain inline and appear in `relatedMedia`. Inline table-of-contents links remain in canon Markdown and jump to the page's rendered headings in Driftya CMS.

@@ -42,6 +42,8 @@ Describe "New-CmsContentPackage" {
         $manifest.pages[0].summary | Should Be "Before the world learns to fear the spores, a young botanist follows her curiosity into the jungle. Ava’s search for an extraordinary specimen begins with wonder and a quiet sense that she is not alone."
         $manifest.collection.coverMedia | Should Be "media/000/01-cover-image.webp"
         $manifest.collection.pageType | Should Be "collection"
+        $manifest.collection.minimumAge | Should Be 17
+        @($manifest.pages | Where-Object { $_.psobject.Properties.Name -contains "minimumAge" }).Count | Should Be 0
         $manifest.pages[0].coverMedia | Should Be "media/001/01-ava-discovers-bioluminescent-fungus.webp"
         $manifest.media.Count | Should Be $result.MediaCount
         @($manifest.media | Where-Object { $_.source -notlike "*.webp" }).Count | Should Be 0
@@ -110,7 +112,7 @@ Describe "New-CmsContentPackage" {
             packageKey = "ordered-images"
             culture = "en"
             metadata = [ordered]@{ directory = "publishing/cms/pages"; limits = [ordered]@{ summary = 320; seoTitle = 51; metaDescription = 165; coverImageAlt = 165 } }
-            collection = [ordered]@{ source = "manuscript/000-front-matter.md"; slug = "ordered-images"; title = "Ordered Images"; author = "Test Author"; metaKeywords = "ordered images"; robotsPolicy = "noindex" }
+            collection = [ordered]@{ source = "manuscript/000-front-matter.md"; slug = "ordered-images"; title = "Ordered Images"; minimumAge = 17; author = "Test Author"; metaKeywords = "ordered images"; robotsPolicy = "noindex" }
             pages = [ordered]@{ sourceDirectory = "manuscript"; expectedCount = 1; slugTemplate = "ordered-images-{chapter:000}"; titleTemplate = "Chapter {chapter}: {title}"; author = "Test Author"; robotsPolicy = "noindex" }
             media = [ordered]@{ outputFormat = "original"; quality = 96 }
         }
