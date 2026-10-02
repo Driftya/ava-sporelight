@@ -24,7 +24,7 @@ Gabriel passed over the count and waited for the leader to repeat it. Only after
 
 By midday, the ruined city had become an oven.
 
-Heat lifted tar from the road in black strings. Gabriel’s mask rasped with every breath, the filter already grey around its rim. Harrow wore his badly, one strap twisted above his ear, and kept tugging the seal loose to wipe sweat from his mouth.
+Heat lifted tar from the road in black strings. Gabriel’s mask rasped with every breath, the filter already grey around its rim. Harrow wore his badly, the strap too loose now that he had given his last good filter to Lila, and kept tugging the seal loose to wipe sweat from his mouth.
 
 “Touch it again,” Gabriel said, “and we go back.”
 

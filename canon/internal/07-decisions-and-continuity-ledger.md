@@ -29,7 +29,7 @@ The later settlement was built over the buried remains of Ava’s original labor
 
 ### 2026-09-30 — Established — Fresh-blood blade coating
 
-Fresh-blood blade coating is established in chapters 25 and 27–29. It requires fresh blood, loses usefulness as the coating dries, and causes pain and cumulative cost when Ava reopens a wound. It is not a standardized trained technique and is not a stronger or longer-lasting toxin than the biology already allows. Affected files: `canon/internal/09-development-and-uncertainty-notes.md`, `manuscript/025-closing-in.md`, `manuscript/027-the-fight-to-survive.md`, `manuscript/028-avas-transformation.md`, and `manuscript/029-extraction.md`.
+Fresh-blood blade coating is established in chapters 25 and 27–29. It requires fresh blood, loses usefulness as the coating dries, and causes pain and cumulative cost when Ava reopens a wound. It is not a standardized trained technique and is not a stronger or longer-lasting toxin than the biology already allows. Affected files: `canon/internal/09-development-and-uncertainty-notes.md`, `manuscript/025-closing-in.md`, `manuscript/027-dont-make-me-choose.md`, `manuscript/028-avas-transformation.md`, and `manuscript/029-extraction.md`.
 
 ### 2026-09-30 — Established — Hospital forward team and remote command
 
@@ -93,7 +93,7 @@ Jenna lost her younger sister to infection. Chapter 16 now establishes the loss 
 
 ### 2026-09-13 — Established — Epilogue timing and first child
 
-Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after the blood research; chapter 35 follows six days later. The earlier toddler scene and second-pregnancy implication were removed because they created an unmarked additional time jump and contradicted the canonical end state. The daughter is healthy by available tests, but her long-term inheritance remains unknown. Affected files: `canon/public/01-story-and-timeline.md`, `manuscript/034-a-new-dawn.md`, and `manuscript/035-epilogue.md`.
+Chapter 34 establishes the birth of Ava and Gabriel’s daughter two years after the blood research; chapter 35 follows six days later. The earlier toddler scene and second-pregnancy implication were removed because they created an unmarked additional time jump and contradicted the canonical end state. The daughter is healthy by available tests, but her long-term inheritance remains unknown. Affected files: `canon/public/01-story-and-timeline.md`, `manuscript/034-the-work-after-hope.md`, and `manuscript/035-epilogue.md`.
 
 1. **Haven’s Vanguard is not a spacecraft.** It is a terrestrial/atmospheric Titan-class hover carrier. Star and void language in the manuscript is night imagery.
 2. **Ava is immune to the ordinary fatal mutation process, not to transformation.** Her body survives and integrates the mutation, but she continues becoming more monstrous over time and can lose control. Ordinary mutants degrade; Ava’s anomaly lets her survive the progression, creating the risk of a permanent monster state.

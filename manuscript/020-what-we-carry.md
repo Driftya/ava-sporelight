@@ -6,7 +6,7 @@ title: "What We Carry"
 
 # Chapter 20: What We Carry
 
-![Ava, Gabriel, and Harrow shelter among abandoned vehicles at moonrise](images/020/01-shadows-of-the-past.png)
+![Ava, Gabriel, and Harrow shelter among abandoned vehicles at moonrise](images/020/01-what-we-carry.png)
 
 By moonrise, Harrow was dragging one foot. Ava had counted three turns since the hospital disappeared behind the buildings. At each one, Gabriel stopped to check the map. They were covering less ground each time.
 

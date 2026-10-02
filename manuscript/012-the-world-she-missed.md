@@ -6,7 +6,7 @@ title: "The World She Missed"
 
 # Chapter 12: The World She Missed
 
-![Ava stands at the rescue transport’s open loading hatch above a snowy settlement](images/012/01-shadows-of-the-past.png)
+![Ava stands at the rescue transport’s open loading hatch above a snowy settlement](images/012/01-the-world-she-missed.png)
 
 Ava stood inside the transport’s open loading hatch while the crew checked a landing pad below. Cold reached beneath her borrowed coat. Beyond the safety rail, snow filled the streets of a settlement she would never have known how to find.
 

@@ -6,7 +6,7 @@ title: "Two Rooms and an Alley"
 
 # Chapter 26: Two Rooms and an Alley
 
-![Ava, Gabriel, and Harrow move beyond the hospital maintenance yard](images/026/01-under-pressure.png)
+![Ava, Gabriel, and Harrow move beyond the hospital maintenance yard](images/026/01-two-rooms-and-an-alley.png)
 
 Beyond the hospital’s maintenance yard, Gabriel led them along the wall until they could no longer hear claws striking the hatch. Ava kept her wrapped hand against her pack. Every step jarred the cut. Harrow followed with the notebook held beneath his coat.
 
@@ -60,7 +60,7 @@ Harrow went first with the pack, head down, choosing the footing where the alley
 
 The folders were there. The scanner was there. Nothing in the pack had moved into his coat.
 
-Ava and Gabriel both looked at the open flap, then at him. Gabriel took the pack back himself. “You had the records,” he said. “You gave them back.”
+Ava took the pack from Harrow and slung it over her good shoulder. Gabriel watched the transfer, then looked at Harrow. “You had the records,” he said. “You gave them back.”
 
 Harrow shrugged, already reaching for his own notebook. “I said two rooms. I’m not your saint.”
 

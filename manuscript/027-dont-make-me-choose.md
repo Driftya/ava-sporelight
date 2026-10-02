@@ -6,7 +6,7 @@ title: "Don’t Make Me Choose"
 
 # Chapter 27: Don’t Make Me Choose
 
-![Ava and Gabriel hurry toward the subway firefight](images/027/01-the-fight-to-survive.png)
+![Ava and Gabriel hurry toward the subway firefight](images/027/01-dont-make-me-choose.png)
 
 Ava heard a burst of gunfire, a pause, then three separate shots. Gabriel hurried toward the subway entrance with his rifle raised. Harrow stayed behind Ava, close enough to strike her pack whenever she stopped.
 
