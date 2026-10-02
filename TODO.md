@@ -303,5 +303,6 @@ Goal: preserve the definitive ending while making vaccine development, the choic
 - [x] Verify no `source:` metadata appears in manuscript chapters.
 - [x] Verify UTF-8 text contains no corrupted sequences or replacement characters.
 - [x] Verify all manuscript image references still resolve in contiguous `NN-` order and remain in the correct numbered directories.
+- [ ] Review the chapter 12 illustration: it appears to depict a medical examination, while the chapter depicts Ava at the transport hatch overlooking a snowy settlement. If confirmed, replace it with a chapter-accurate image and update its alt text.
 - [x] Run the repository's focused CMS/package tests and any manuscript validation scripts after the prose work.
 - [x] Confirm every durable continuity decision has a dated status entry—author-decided, established, supporting canon, unknown, or reserved—in `canon/internal/07-decisions-and-continuity-ledger.md`.
