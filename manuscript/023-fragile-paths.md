@@ -16,17 +16,11 @@ Ava surveyed the area, her instincts sharpened by the tension in the air. “The
 
 Gabriel nodded, leading the way toward the building. They entered cautiously, stepping over shattered glass and broken furniture. The air inside was stale, but it felt safer than the exposed streets.
 
-“We’ll clear the area and secure it,” Gabriel instructed. “Harrow, stay here.”
+Harrow stopped them inside the first office. “Don’t trust that floor.” He knelt and pressed two fingers to a tile that looked whole. It flexed. Beneath the seam, the subfloor had rotted into a drop Ava could not see until he lifted the edge with his knife. “Service room’s under it. We go by the corridor wall, or one of us goes through.”
 
-Harrow nodded, sinking onto a dust-covered chair. “Not going anywhere,” he muttered.
+They went by the wall. At the stair he found a door whose hinges still held and a landing that took their weight. The route cost them the rooms Gabriel had meant to clear. It also got them above the open street before the light failed.
 
-Ava and Gabriel checked the office rooms one at a time. She tested each door while he covered the passage behind her. In the last room a window frame knocked against the wall; she wedged it still before giving him the all-clear.
-
-Gabriel checked the detector in the room they had chosen. “Air’s clear too.”
-
-She nodded, though her grip on her blade didn’t relax. “Let’s set up some alarms. We can’t afford any surprises.”
-
-Together, they rigged a simple warning system using cans and string, draping the makeshift alarms across the entrances and stairwells. By the time they finished, the last rays of sunlight had disappeared, leaving the building cloaked in darkness.
+In the room the landing opened into, Harrow set his pack down and did not ask permission to drink first. Ava hated that. She also hated that the route had been his. Gabriel marked the bad tile on the map without looking at either of them, and the three of them sat with the disagreement unfinished between them.
 
 The trio sat around a dim lantern in the center of the room they’d chosen as their base for the night. Harrow’s face was drawn, his eyes distant as he stared at the flame. Ava could see the weight of the journey wearing on him, though he remained silent.
 
@@ -70,12 +64,10 @@ Understanding reached him. “Locked.”
 
 She watched him settle on the floor. A few nights ago she had learned the weight of him beside her; now the space between their blankets felt chosen by someone else. She took the coat and put it beneath her elbow, where she could feel it while watching the stairs.
 
-Ava took the first watch. When Gabriel tried to stay beside her, she pointed him toward his blanket. He slept until she woke him for the changeover. Neither heard the cans move. At dawn they packed the lantern and took the alarms down.
+Ava took the first watch. When Gabriel tried to stay beside her, she pointed him toward his blanket. He slept until she woke him for the changeover. At dawn Gabriel checked the map against the wall route Harrow had found and kept that line. The cleared-room plan was already obsolete; the map now carried the only path that had held their weight.
 
 Morning exposed what darkness had hidden: buckled streets, stripped towers, and vines spanning whole intersections. When the mist thinned, the hospital emerged ahead, its upper floors sagging beneath alien growth.
 
 Ava checked the nearby paving for subsidence before trusting that this route would hold.
-
-“Stay sharp,” Gabriel said, his voice low but firm. “We’re almost there, but that’s when things tend to go wrong.”
 
 Ava shifted the blade to her other hand. Harrow stopped at the corner to wait for Gabriel’s signal; ahead of them, the hospital courtyard lay open to every window above it.

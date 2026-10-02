@@ -10,13 +10,13 @@ title: "The Awakening"
 
 Ava could still feel the shape of the floor seam pressed into her cheek. She had tried to reach the door. Now she could not lift her head. The skin along her forearms tugged each time she moved her fingers, too tight for whatever was growing beneath it.
 
-“Begin phase two,” the intercom said.
+“Vial three,” the intercom said. “Full dose. Restraints stay on.”
 
 The vent opened before she could beg them to wait. Machinery shook the glass around her. Mist rolled across the floor and entered her mouth with the first cough. She tried pulling the gown over her nose; the thin cloth grew damp against her lips.
 
 Heat drove her upright. She clutched her arms, trying to keep the swelling still. Through the mist, the woman with the tablet moved closer to the glass. Ava could see her own bent reflection in the visor.
 
-The pain reached an unbearable crescendo. Ava’s frame twisted uncontrollably, her back arching as her veins glowed an eerie amber. Her eyes burned. In the glass, the green of her irises disappeared beneath amber light. Something deep within her snapped, and a guttural scream escaped her lips as her body transformed.
+The pain tore down her spine in separate blows. Her shoulders wrenched back against the restraints until the left cuff cut to bone. Amber light forced itself along the veins of her throat. In the glass, the green of her irises went out under it. Bone shifted under the skin of her forearms, splitting it, and the scream that left her was wet and animal. Spikes punched through the opened flesh. She felt each one leave her.
 
 Hard plates formed beneath her skin. When she struck the wall, a spike tore out along her forearm and punched through the glass. Cracks spread from it. She struck again. The wall broke, and her next wild swing caught the suits of the scientists crowding the breach. Vials shattered beneath the falling glass.
 
@@ -42,9 +42,9 @@ Amber plates along her back tore through the gown. Another spike punched a secon
 
 Those who could still move were already running. Her breaths came in ragged gasps, each exhalation fogging the blood-slick faceplate of a scientist trapped against the console.
 
-One of the scientists, a middle-aged man clutching his side where blood seeped through a tear in his suit, crawled toward a console. His trembling hand reached for a syringe loaded with a potent tranquilizer. With what little strength he had left, he lunged toward Ava as she loomed above him, her spikes dripping with blood and ichor. With a desperate cry, he drove the syringe into her neck, pressing the plunger.
+One of the scientists, a middle-aged man clutching his side where blood seeped through a tear in his suit, crawled toward a console. His trembling hand closed on a syringe whose label she could still read: SEDATIVE — VETERINARY — 10 mL. With what little strength he had left, he lunged toward Ava as she loomed above him, her spikes dripping with blood and ichor. With a desperate cry, he drove the syringe into her neck, pressing the plunger until the barrel emptied.
 
-Ava roared, her body convulsing as the tranquilizer took hold. Her vision blurred, the searing heat of her transformation ebbing as her spikes slowly retracted. The glow in her veins flickered and dimmed, leaving her weak and disoriented. She collapsed to her knees, her amber eyes filled with exhaustion and the fading remnants of resistance.
+Ava roared. The drug hit like a fist behind her eyes. Her knees struck the floor. The spikes dragged back through the same torn skin, catching on muscle, and she screamed at the retreat as much as she had at their arrival. The amber in her veins stuttered. She stayed on her hands in the scientists’ blood, shaking, still trying to lift her head.
 
 The scientist crawled toward a pod built into the wall. He dragged one leg behind him and left a smear of blood at every push. Ava tried to move in the other direction. Her hand slid on the floor.
 

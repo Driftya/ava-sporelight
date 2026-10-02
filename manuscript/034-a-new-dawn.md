@@ -1,20 +1,44 @@
 ---
 id: ava-sporelight-chapter-034
 chapter: 34
-title: "A New Dawn"
+title: "The Work After Hope"
 ---
 
-# Chapter 34: A New Dawn
+# Chapter 34: The Work After Hope
 
 Two years after the first blood draw, Ava watched a vaccine cooler being strapped onto a supply cart outside the lounge. The crew checked the contents against a list and crossed out the settlements that would have to wait for the next batch. The vaccine worked. There was still never enough of it.
 
 Producing it had taken more work than the first vial promised: assays repeated, methods revised, further samples taken only when Ava agreed. Now the carrier brought doses to the same places it had once visited only to evacuate. People could begin repairing a home without knowing they would have to abandon it. Filters and quarantine checks remained part of every stop.
 
-Once, early in the work, she had arrived at medical and found she could not sit in the chair. Jenna sent Karrow back to his assays. Nobody argued that the lost morning belonged to the people waiting outside the carrier.
+***
 
-Ava spent it in the greenhouse with Cora, stripping a damaged lamp. They quarrelled about whether the fault was in the cable or the fitting. At supper Cora was still insisting it had been the cable.
+Early in the work, she reached the medical chair and could not make herself sit.
 
-That was the day Ava began to believe refusal could survive the walk out of medical. The next sample was her choice too.
+The cuff was already open. Karrow had the next vial rack labelled with her number and the hour. “If we lose the morning, the culture window closes,” he said. “Every delay costs the people on the ramp.”
+
+“Then the window closes,” Jenna said. She put her hand on the rack, not on Ava. “Pack it. She isn’t sitting.”
+
+Karrow looked at the ramp, then at Ava’s face, and capped the marker. “Understood.” The word cost him. He took the lost work back to the assays without touching her arm.
+
+Ava spent the morning in the greenhouse with Cora, stripping a damaged lamp. They quarrelled about whether the fault was in the cable or the fitting. At supper Cora was still insisting it had been the cable.
+
+The next sample was Ava’s. She walked back to medical on a later day, sat because she decided to, and watched the needle go in. Refusal had survived the walk out. Consent had to survive the walk back.
+
+***
+
+The decision to try for a child had happened in their quarters, not in a briefing.
+
+Gabriel had the mutation notes open and could not look at them. “We can’t test what we don’t have a name for,” he said. “If something in you passes to her, I won’t know until it happens. I am afraid of that. I’m not going to tell you the fear gets a vote you don’t.”
+
+Ava had her left hand in her lap, the last two fingers curled short of the page. “The tests we have are the tests we have. The body is mine. The risk is mine to take, and yours to live beside if you stay. I want to try. If you can’t stand next to that, say so now. Don’t dress it up as protecting me.”
+
+He was quiet long enough that she felt the anger rise, hot and ready. Then he closed the notes. “I can stand next to it. I can’t pretend I’m not scared.”
+
+“Good,” she said. “Scared is allowed. A veto isn’t.”
+
+She kissed him after that, hard, because the decision had left her shaken and wanting him anyway. His hand stayed where she put it. He did not try to gentle the choice into something smaller.
+
+***
 
 Trust had accumulated in less dramatic ways afterward: Marcus leaving her the last usable pencil, Rhea asking for company without bringing a task, crew members arguing with her over a table instead of moving to another one. Not everyone stayed. Enough people did that she stopped counting the empty chairs first.
 
@@ -110,7 +134,7 @@ Ava continued working in the greenhouse while following Malik’s advice to rest
 
 The vaccine had changed the supply lists. It had not stopped the light moving beneath her skin. Malik still compared her grip with earlier records; Ava still told him when something felt different, including changes she was tempted to call nothing.
 
-On a bad morning she put down the pruning blade before she trusted her fingers with it. Rhea finished the row. Ava stayed at the table, irritating her with advice until Rhea told her to either help with the labels or let the plants suffer in peace.
+On a bad morning the adapted shears still needed a steadier left hand than she had. The last two fingers would not close on the smaller loop. She put the blade in Rhea’s hand and kept the judgment: which stem, how far, what to spare. The vaccine had not given those fingers back. Rhea finished the row. Ava stayed at the table, irritating her with advice until Rhea told her to either help with the labels or let the plants suffer in peace. Ava switched the pencil to her right hand and wrote the labels herself.
 
 She did the labels. The work remained hers even when somebody else had to hold the blade.
 

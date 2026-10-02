@@ -12,9 +12,11 @@ Hospital blood assays hung beside Ava’s medical scans. Notes climbed around th
 
 Dr. Elias Karrow stood beneath it with a capped marker in one hand.
 
-He had arrived aboard *Haven’s Vanguard* with the survivors from the eastern outpost: forty-two years old, thin from rationing, and too interested in Ava to hide it well. He introduced himself as Dr. Elias Karrow and immediately asked to see the recovered assay tables.
+She knew the name before he said it. Jenna had put Dr. Elias Karrow in the margin of the hospital route, and his reply to the redacted index had already named the missing stabilizing agent and the assay method worth keeping. He had arrived now with the survivors from the eastern outpost: forty-two years old, thin from rationing, and too interested in Ava to hide it well. He did not need to introduce himself. He asked at once to see the recovered assay tables, as if the wall were a conversation they had already started.
 
-“The hospital team was searching for a stabilizing agent,” he said. “They tested blood from patients whose mutations progressed unusually slowly. None of it worked.”
+“You wrote that the hospital team was searching for a stabilizing agent,” Ava said. “And that none of the slow-progressing blood worked.”
+
+“It still hasn’t,” he said. The pressure in his attention did not ease because she had caught him up. “What Jenna reviewed, and what I could see from the index, gets us to the same gap. I did not invent it by walking into this room.”
 
 Ava sat nearest the door. Gabriel occupied the chair beside her, his injured leg extended beneath the table. Jenna remained standing.
 

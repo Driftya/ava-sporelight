@@ -83,7 +83,7 @@ The factory settlement mission proves that she can act through fear without surr
 
 ### Chapters 19–25: the hospital mission
 
-Ava is already an active fighter, the greenhouse already exists, and her romantic relationship with Gabriel has begun. The team enters ruined territory to recover medical research from a hospital. The mission introduces Harrow as a useful but unreliable scavenger.
+Ava is already an active fighter, the greenhouse already exists, and her romantic relationship with Gabriel has begun. The team enters ruined territory to recover medical research from a hospital. Jenna names Dr. Elias Karrow in the briefing as the eastern-outpost biologist who wants that archive. The mission introduces Harrow as a useful but unreliable scavenger who also performs real, limited help before the betrayal.
 
 ### Chapters 26–32: pressure, transformation, and betrayal
 
@@ -95,7 +95,7 @@ Harrow betrays the group and escapes with part of the research. Ava and Gabriel 
 
 ### Chapter 33: consent and research
 
-Jenna catalogs the surviving hospital notes and cross-references their blood work with Ava’s medical data. Dr. Elias Karrow proposes controlled study of Ava’s blood as a possible basis for treatment.
+Jenna catalogs the surviving hospital notes and cross-references their blood work with Ava’s medical data. Dr. Elias Karrow, already in contact through the briefing and a consented redacted index, arrives with the eastern-outpost survivors and proposes controlled study of Ava’s blood as a possible basis for treatment. The proposal follows the archive, Jenna’s review, and his earlier remote note. It does not mean he invented the vaccine path alone.
 
 The ethical center is consent. Ava has been used as a specimen before. This time she chooses whether to participate, establishes conditions, and trusts Gabriel to perform the blood draw under Jenna’s guidance.
 
@@ -103,7 +103,7 @@ The ethical center is consent. Ava has been used as a specimen before. This time
 
 Two years later, a vaccine derived from Ava’s blood is effective in limited production. Humanity is not restored overnight, but communities have a credible path away from extinction.
 
-Ava gives birth to Gabriel’s child, and the epilogue follows six days later. The ending completes her movement from stolen body and stolen future to chosen love, chosen scientific participation, and a family she can help protect. The child’s long-term biology remains unknown.
+Ava gives birth to Gabriel’s child, and the epilogue follows six days later. The vaccine does not restore the two altered fingers of her left hand. The ending completes her movement from stolen body and stolen future to chosen love, chosen scientific participation, and a family she can help protect. The child’s long-term biology remains unknown.
 
 ## Required Ordering Rules
 

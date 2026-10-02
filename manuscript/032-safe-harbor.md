@@ -34,7 +34,7 @@ Malik wrote it down without looking at Gabriel to see whether it was true.
 
 “Can you do anything?” she asked.
 
-“I can examine the changes and compare them with what we recorded before. I can’t promise more until I know more.”
+“The blast cuts are closing. The temple bruise will fade. These two fingers are not doing either of those things.” Malik turned her left hand under the lamp. The last two digits stayed short of a full extension, and she could not feel the cloth when he drew it across their pads. “I can document this. I can watch whether it worsens. I cannot promise it will reverse. Healing, for this, may mean it stays.”
 
 She agreed to the examination. His uncertainty was difficult to sit through. She had imagined relief once she told someone; instead the facts were now on a page, and neither of them could put them back inside her where she had been able to avoid them.
 
@@ -105,6 +105,8 @@ She wrote the soil on the sleeve, the open notebook, the light of the specimen o
 Below it she added the one thing she had nearly left out: *I liked my work.*
 
 She found Gabriel sitting on their bed afterward, his crutches against the wall and his temple dressing half undone. She finished the unwrap for him. Then she kissed the unhurt skin beside the bruise, and the corner of his mouth. He made a low sound and drew her in by the hip. The corridor’s word was still in her ears. His hands were also on her, careful, wanted, sure of welcome. She laughed against his shoulder when her cramped fingers refused a button, and he held them until they eased, smiling as if the ordinary trouble delighted him.
+
+A reply from the eastern outpost had been waiting in Jenna’s queue. Karrow’s note was short enough to read standing up. The copied assays failed where a stabilizing agent should have been; he could not name the missing compound from an index. He could say the blood-assay method was the part worth repeating, and that he would not propose taking anything from a living person until he had seen the tables himself. Ava read it twice. Expertise, at a distance, was not the same as a needle. It was still a man she had not met deciding which of her captors’ methods deserved to survive.
 
 “I told Malik the truth,” she said.
 

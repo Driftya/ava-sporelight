@@ -1,10 +1,10 @@
 ---
 id: ava-sporelight-chapter-027
 chapter: 27
-title: "The Fight to Survive"
+title: "Don’t Make Me Choose"
 ---
 
-# Chapter 27: The Fight to Survive
+# Chapter 27: Don’t Make Me Choose
 
 ![Ava and Gabriel hurry toward the subway firefight](images/027/01-the-fight-to-survive.png)
 

@@ -16,7 +16,11 @@ One of the guards stepped forward, a tall woman with a no-nonsense demeanor. “
 
 Gabriel nodded. “We’ve got survivors and supplies. What’s your status?”
 
-“Vehicle’s operational, but space is tight,” the woman replied. “We picked up the survivors from the camp, and luckily, there are enough gas masks for everyone. But the barricades here won’t hold for long. Mutants have been sighted nearby.”
+“Vehicle’s operational, but space is tight,” the woman replied. “We picked up the garage survivors. Masks are one short of comfort and none short of a face. People sit before crates. Research goes under the bench, not on a lap. The barricades here won’t hold for long. Mutants have been sighted nearby.”
+
+“And her,” Gabriel said, meaning Ava.
+
+The guard looked at the shaking in Ava’s arms and at the blood already dried on her blade. “She gets a seat. I’m not spending her as cover until the rest of you are bored.”
 
 Ava exchanged a glance with Gabriel. “We need to get moving,” she said. “How long until you’re ready to go?”
 

@@ -34,7 +34,7 @@ Jenna nodded once. “That’s an answer I can plan around.”
 
 Jenna had supported her training, but Ava still heard the quarantine intercom sometimes when the commander asked about her health.
 
-“Good,” Jenna said. “The hospital is at least a few days away on foot. We’ve mapped the safest route we could, but you know how quickly things can change out there. Stick together, avoid unnecessary risks, and keep communication open.”
+“Good,” Jenna said. “The hospital is at least a few days away on foot. We’ve mapped the safest route we could, but you know how quickly things can change out there. Stick together, avoid unnecessary risks, and keep communication open.” She tapped a name written in the margin of the route. “Dr. Elias Karrow, eastern outpost. Biologist. He’s been collecting every report he can get on mutation assays, and he thinks that hospital archive is worth the walk. That’s why you’re bringing paper back, not souvenirs. If the radio holds, I’ll tell him what you actually find. Not what he hopes you’ll find.”
 
 Gabriel gave a mock salute. “Yes, ma’am.”
 

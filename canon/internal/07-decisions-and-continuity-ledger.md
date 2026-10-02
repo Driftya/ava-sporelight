@@ -15,6 +15,14 @@ This ledger preserves decisions that a future editor or agent must understand be
 
 ## Author-Decided Canon
 
+### 2026-10-01 — Author-decided — Permanent cost in Ava’s left hand
+
+After the chapter 28 transformation, the last two fingers of Ava’s left hand never recover their former articulation or fine sensation. The change is permanent. She can still use the hand; precise work requires adaptation, another hand, or help. Malik may document it and cannot promise reversal. The vaccine does not restore the fingers. This does not cure her, end the pregnancy, remove her agency, or decide the daughter’s biology. Affected files: `canon/public/02-characters-and-relationships.md`, `canon/public/03-spores-mutation-and-ava.md`, `canon/public/01-story-and-timeline.md`, and manuscript chapters 28, 30, 32, 34, and 35.
+
+### 2026-10-01 — Author-decided — Karrow is seeded before he boards
+
+Dr. Elias Karrow is named in full during the chapter 19 briefing as an eastern-outpost biologist collecting mutation-assay reports. Ava later permits a redacted hospital index and refuses default sharing of her medical file. His remote reply identifies the missing stabilizing agent and the assay method before he proposes any extraction. He still arrives with the eastern-outpost survivors in chapter 33. He remains unrelated to Harrow. Harrow’s sister stays unverified. Affected files: `canon/public/01-story-and-timeline.md`, `canon/public/02-characters-and-relationships.md`, and manuscript chapters 19, 30, 32, and 33.
+
 ### 2026-09-30 — Author-decided — Discovery settlement over the original laboratory
 
 The later settlement was built over the buried remains of Ava’s original laboratory. During two centuries of ecological and climatic change, that once-humid region became cold enough for frost and protective winter gear. The spores and their altered life forms remained active. The pod was never moved from the laboratory before Gabriel found it. This is regional climatic change, not a global ice age, and it assigns no exact coordinates. Affected files: `canon/public/04-world-locations-and-society.md`, `canon/public/01-story-and-timeline.md`, and `manuscript/006-the-world-beyond.md`.

@@ -80,4 +80,20 @@ He nodded and went to distribute it. She watched him measure a little less for h
 
 When he came back, she told him he could take the full cup. He did not thank her. He did take it.
 
-The child would not take a cup from Ava’s hand. She took it from her mother, who had lifted it from the row of cups Ava had filled. Ava let that distance stand. The girl drank without looking at her. That was enough for now.
+Nia would not take a cup from Ava’s hand. She took it from Lila, who had lifted it from the row of cups Ava had filled. Ava let that distance stand. The girl drank without looking at her. That was enough for now.
+
+Harrow had been watching the row. He took a grey filter cartridge from the inside pocket of his coat, turned it once, and set it beside Lila’s cup. The housing was cracked along one seam and patched with tape. “It still pulls,” he said. “Give it to the kid if the air goes bad before your people get here. Don’t waste it on me.”
+
+Lila closed her hand over it before anyone could argue.
+
+Harrow looked at Gabriel. “Your ship owes me a whole one. I’m not donating the last thing in my pocket out of charity. I want the replacement when the truck comes, and I want it in my hand before we leave this garage.”
+
+Gabriel studied the cracked housing. “If Jenna’s detail has a spare, it’s yours. If they don’t, you get the next one off the carrier. I’m not promising a cartridge I haven’t seen.”
+
+“Write it down,” Harrow said.
+
+Gabriel did.
+
+Ava had been ready to count the gift as another bargain. He had given the filter away before naming the price. She still did not like him. She stopped watching his hands every time he crossed the room.
+
+By the next morning the extraction detail had the names. Tomas, water and the gate count. Lila, seam repair, and Nia with her. Harrow stood where Gabriel had told him to stand, at the ramp, checking masks without being asked to carry a weapon. Ava let him keep that job. She did not give him the research notes.

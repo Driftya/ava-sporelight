@@ -48,7 +48,7 @@ While Cora went to fetch a pair of smaller boots, Ava studied the crates outside
 
 “They supply us?” she asked when Cora returned.
 
-“Sometimes. They keep settlements running up north. We bring parts, they have things we need. When the inventory agrees with what’s in the box.” Cora set the boots down. “Those cost us a repaired pump.”
+“Sometimes. They keep settlements running up north. We bring parts, they have things we need. When the inventory agrees with what’s in the box.” Cora set the boots down. “Those cost us a repaired pump.” She nodded at a manifest clipped to the crate. “And somebody at the river clinic wants feverleaf if we can spare a tray. They sent a cracked lamp housing with the request. No coin. Just the part and the ask.”
 
 Ava drew back her foot.
 

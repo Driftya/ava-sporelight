@@ -28,7 +28,7 @@ Two people entered in full hazmat suits. Through the visors, Ava could make out 
 
 “Subject is awake,” the woman said, not bothering to meet Ava’s frantic gaze. She tapped a few notes into her tablet before glancing at the man. “Vitals are stable. Shall we proceed?”
 
-The man nodded, stepping closer to the table. He reached out, placing a heavily gloved hand on Ava’s arm, ignoring the way she flinched at his touch. “You’ve been selected for an important study,” he said, his voice devoid of emotion. “Your cooperation is… irrelevant. But your survival is critical.”
+The man nodded, stepping closer to the table. He reached out, placing a heavily gloved hand on Ava’s arm, ignoring the way she flinched at his touch. A strip on the syringe read DOSE A — DO NOT DILUTE. The woman said, “The consent line is blank.” He answered, “The order doesn’t use that line,” and fitted the needle.
 
 Ava’s eyes widened in shock. “What are you talking about? Let me go!”
 
@@ -48,7 +48,7 @@ The burning reached her elbow, then her shoulder. Ava bit the inside of her chee
 
 Through the haze of agony, Ava managed to spit out, “You’re killing me.”
 
-The man leaned over her, his expression unreadable. “No,” he said coldly. “We’re learning.”
+The man leaned over her, his expression unreadable. He checked the plunger, not her face. “Dose delivered,” he told the woman. “Log the time. Don’t engage.”
 
 “Then learn my name.” Ava tasted blood where she had bitten her cheek. “Say it.”
 

@@ -57,7 +57,8 @@ That survival is not immunity to change. Ava is already mutated, and the mutatio
 - amber bioluminescence in her eyes and veins;
 - toxic blood and other body fluids;
 - stress-driven spikes, chitin-like structures, claws, and increasingly predatory movement;
-- extreme energy use, pain, exhaustion, and psychological strain.
+- extreme energy use, pain, exhaustion, and psychological strain;
+- one permanent cost after the chapter 28 transformation: the last two fingers of Ava’s left hand heal into the altered articulation and dulled sensation rather than back to their former use.
 
 Cryogenic suspension slowed the conflict long enough for a survivable equilibrium to form. It did not cure her.
 

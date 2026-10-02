@@ -44,7 +44,7 @@ Cora poured tea from a flask in her tool bag. She stayed while Ava drank enough 
 
 The greenhouse had outgrown the cargo hold’s original boundaries. Bean vines climbed cable trellises. Trays of medicinal herbs occupied the warmer wall, each tagged for one of the settlements on Jenna’s distribution map. Near the water tank stood the descendant of the first crooked seedling, now dry-podded and waiting to be harvested.
 
-Ava settled into a chair Gabriel had repaired twice before admitting it needed to be replaced. Their daughter slept against her chest, one fist tucked beneath a round cheek.
+Ava settled into a chair Gabriel had repaired twice before admitting it needed to be replaced. Their daughter slept against her chest, one fist tucked beneath a round cheek. When the blanket slipped, Ava reached with her left hand and felt the last two fingers miss the fold. She used her right, tucked the cloth, and let the altered hand rest on the baby’s back where pressure mattered more than precision. The child slept through the change. The hand stayed as the transformation had left it. Motherhood had not cured it, and it had not made her dangerous to the small weight on her chest.
 
 She had wanted an hour alone this morning. The thought had come while the baby cried and Gabriel searched for a clean cloth: an hour in which no one needed any part of her body. Then the crying stopped, and she felt guilty for having wanted it.
 
@@ -82,7 +82,7 @@ This morning their daughter had objected furiously to a cold cloth. Yesterday sh
 
 Outside, *Haven’s Vanguard* rested on a basalt shelf above the settlement. Its engines were silent for maintenance, and without them the greenhouse seemed too still. Through the reinforced window, Ava could see people moving between the carrier and the new clinic. They hauled vaccine coolers down the ramp and returned with empty water drums, damaged filters, and a child on a stretcher whose mother refused to release his hand.
 
-The vaccine had not healed the world. It had made different work possible.
+The vaccine had not healed the world. It had made different work possible. At the clinic door two people were arguing where Ava could hear them: the cooler held six doses, the road east would close by dark, and an exposed household was still an hour out. The medic wanted the doses for the people already in the cots. A driver wanted two saved for the household if the road held. Neither of them was winning. Jenna would have to choose badly, in public, before eighteen hundred. The Northern Coalition form on the counter did not settle it. People did.
 
 Jenna entered with a tablet under one arm. “Departure moved to eighteen hundred. Weather front from the west.”
 

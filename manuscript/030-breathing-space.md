@@ -38,6 +38,8 @@ Gabriel waited through the rattle of the vehicle.
 
 “After I changed. I wasn’t tired in the same way. I didn’t have to work out what to do.” She looked at her hand. “I wanted that part.”
 
+She tried to fasten the cuff of her bandage with her left thumb and forefinger. The last two fingers would not oppose. The clasp slipped, struck her knee, and lay there. She picked it up with her right hand. Rest would not have closed that gap. The transformed state had been easier. This was what coming back had cost, and it had not come back all the way.
+
 *What is wrong with me?*
 
 His eyes went to the dressing, then back to her face. “Tell him that too.”
@@ -75,6 +77,14 @@ Harrow joined them in the inner court after those minutes, clutching the noteboo
 “We regroup,” Gabriel replied. “Jenna’s arranging for reinforcements. Until then, we wait.”
 
 Inside, Ava watched the crew transfer the hospital folders and ledgers from her pack into two storage cases. She checked the contents before they sealed the lids. Gabriel handed over the scanner separately, identifying its incomplete copy of Harrow’s notebook for the records log.
+
+He gave Harrow one job before the cases were locked: the courtyard lamp and a count of who came through the inner door. Not a weapon. Not the records. Harrow took the lamp as if it might be taken back. Ava let him walk the door without following him every step. She still knew where the cases were.
+
+Jenna’s voice came through the outpost set after the log was closed. “Karrow wants an index of what you recovered. Redacted. Methods and gaps, not your medical file. I won’t send your chart unless you say so. I won’t send the index either, until you say so.”
+
+Ava looked at the sealed cases. “The index. Not my file. And he doesn’t get a sample of me because he asked for paper.”
+
+“That’s the message I’ll send,” Jenna said.
 
 Ava wandered to the edge of the barricade, her gaze fixed on the horizon. The sun was setting, painting the sky in hues of orange and red. It was a rare moment of beauty in a world that seemed to offer so little of it.
 

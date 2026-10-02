@@ -28,6 +28,7 @@ metaDescription: A spoiler-aware character guide to Ava: Sporelight, including A
 - Original eyes: emerald green.
 - Post-mutation eyes: permanently amber, brightening when the mutation is active.
 - Post-mutation hair: dark, ink-like hair with silver strands.
+- After the chapter 28 transformation, the last two fingers of her left hand never recover their former articulation or fine sensation. She can still use the hand. Precise work needs adaptation, rest, or help. The vaccine does not restore those fingers.
 - Build: slim, agile, and visibly strong rather than bulky.
 
 Ava is not an engineered person or an artificial organism. She was human before infection. Researchers selected her because she survived initial exposure unusually well, then forced the concentrated experimentation that created her current condition.
@@ -76,7 +77,9 @@ Jenna lost a younger sister to the infection, helping explain why rescue and mut
 - Role: biologist and researcher specializing in disease, virology, and mutation.
 - Combat status: non-combatant.
 
-Karrow joins with a later group of survivors and recognizes that Ava’s blood may enable a treatment. He is intellectually forceful and scientifically fascinated by her. His proposal echoes the language of the people who harmed Ava, whether or not his intentions are different.
+Before he boards the carrier, Jenna names him in the chapter 19 briefing as an eastern-outpost biologist collecting mutation-assay reports and treating the hospital archive as scientifically valuable. After the recovery, Ava allows a redacted index of the hospital material to be sent to him and refuses any default sharing of her medical file. His reply identifies the missing stabilizing agent and the value of the blood-assay method. He does not propose an extraction from Ava until he arrives.
+
+Karrow joins with a later group of survivors and recognizes that Ava’s blood may enable a treatment. He is intellectually forceful and scientifically fascinated by her. His proposal builds on the hospital archive, Jenna’s review, and that earlier remote assessment. It echoes the language of the people who harmed Ava, whether or not his intentions are different.
 
 Karrow is not granted automatic moral trust by his expertise. The canonical safeguards are Ava’s consent, Jenna’s oversight, Gabriel’s presence, minimal extraction, and Ava’s right to stop. His function is to make ethical science possible only after the story confronts unethical science.
 
@@ -86,7 +89,7 @@ Karrow is not granted automatic moral trust by his expertise. The canonical safe
 - Reference age: 37.
 - Role: scavenger and temporary guide during the hospital mission.
 
-Harrow survives through caution, evasiveness, improvisation, and opportunism rather than strength. He can display flashes of sympathy, but self-preservation wins when he steals part of the hospital research and abandons the group.
+Harrow survives through caution, evasiveness, improvisation, and opportunism rather than strength. He can give up a scarce thing without first naming a price — a damaged filter for a child — and then bargain for his replacement. He can carry the research pack through a dangerous stretch and return it unopened. Gabriel later trusts him with one bounded outpost task. None of that makes him noble. Self-preservation still wins when he steals part of the hospital research and abandons the group.
 
 Harrow’s betrayal should remain human in scale. He is neither a scientific mastermind nor a mutant. He demonstrates that desperation, greed, and fear can threaten survivors as seriously as the alien ecology.
 

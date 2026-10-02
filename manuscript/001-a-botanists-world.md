@@ -34,6 +34,8 @@ The wish was embarrassingly childish. It was also hers.
 
 - Initial sample taken, approximately 10 grams.
 
+She turned one cap with the flat of her pencil. The gills underneath were already dry, though the wood beneath them was wet enough to darken her knee. A fungus that fruited into dryness while its host stayed soaked was doing something she had no name for. The pleasure of the find thinned. Her wrist itched where a spore-bright fleck had settled on the sweat, and rubbing it only drove the itch deeper.
+
 Her pencil stopped halfway through the date. She had forgotten the month. A moment later it returned, absurdly ordinary, and she blamed the long day. She sealed the sample in its sterile container and checked the lid twice.
 
 When she stood, the pressure behind her breastbone made her bend over the notebook. She waited for it to pass before putting the pencil away. Cicadas buzzed overhead; the birds she had heard earlier had stopped.

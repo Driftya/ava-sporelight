@@ -1,10 +1,10 @@
 ---
 id: ava-sporelight-chapter-012
 chapter: 12
-title: "Shadows of the Past"
+title: "The World She Missed"
 ---
 
-# Chapter 12: Shadows of the Past
+# Chapter 12: The World She Missed
 
 ![Ava stands at the rescue transport’s open loading hatch above a snowy settlement](images/012/01-shadows-of-the-past.png)
 
@@ -106,4 +106,6 @@ She looked at him, her amber eyes searching his. “Why do you care so much?”
 
 For a moment, Ava didn’t say anything. Then, slowly, she nodded.
 
-That night, Ava lay awake listening to the transport change speed. One day, the display had said. She counted each passage of boots outside her door, waiting for the pair she recognized.
+Near dusk the transport passed a settlement built against a warehouse wall. Ava stood at the window long enough to learn three rules by watching people obey them. A board by the gate listed heat hours in two shifts; a woman turned a family back when their mark was still on the later column. Doorframes carried yellow quarantine slashes, and a man carrying a child waited outside a slashed door until someone inside set a bowl on the step. Beside the pump, people had chalked their names under a repair queue. The woman at the front did not push ahead of the names above hers, even when the wind cut through her coat.
+
+That night, Ava lay awake listening to the transport change speed. One day, the display had said. She counted each passage of boots outside her door, waiting for the pair she recognized. The settlement’s board stayed with her. People still had turns, doors, and a line for a broken pump. The world she had missed was poorer than the one she remembered, and it was still being lived in.

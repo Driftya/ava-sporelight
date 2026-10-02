@@ -102,4 +102,4 @@ For now she pressed the cloth to her back and listened to the team leader asking
 
 “Let’s move,” Gabriel said, his voice steady. “The safe zone’s compromised. We’ll regroup at the extraction point.”
 
-Before leaving, Ava retrieved the knife from beneath a fallen creature. Gabriel carried the research pack; she could barely lift her own arms. Outside, she tried to close her hand around it. Her fingers would not settle in their old places. She adjusted the grip twice before following the others.
+Before leaving, Ava retrieved the knife from beneath a fallen creature. Gabriel carried the research pack; she could barely lift her own arms. Outside, she tried to close her hand around it. The last two fingers of her left hand stayed bent, dull at the tips, and would not seat against the hilt no matter how she forced them. The pain of trying was ordinary. The failure was not fatigue. She adjusted the grip twice, then stopped pretending the hand would finish the motion, and followed the others with the knife in her right.

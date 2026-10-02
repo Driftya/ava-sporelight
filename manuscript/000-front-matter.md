@@ -54,7 +54,7 @@ Website: <https://driftya.com>
 9. [Breaking the Glass](009-breaking-the-glass.md)
 10. [Breaking Barriers](010-breaking-barriers.md)
 11. [Bridging the Divide](011-bridging-the-divide.md)
-12. [Shadows of the Past](012-shadows-of-the-past.md)
+12. [The World She Missed](012-shadows-of-the-past.md)
 13. [The Breaking Point](013-the-breaking-point.md)
 14. [The Escape](014-the-escape.md)
 
@@ -68,14 +68,14 @@ Website: <https://driftya.com>
 ### Part IV — Scavengers in the Shadows
 
 19. [Whispers in the Ashes](019-whispers-in-the-ashes.md)
-20. [Shadows of the Past](020-shadows-of-the-past.md)
+20. [What We Carry](020-shadows-of-the-past.md)
 21. [Comfort in Shadows](021-comfort-in-shadows.md)
 22. [Distant Allies](022-distant-allies.md)
 23. [Fragile Paths](023-fragile-paths.md)
 24. [Approaching the Hospital](024-approaching-the-hospital.md)
 25. [Closing In](025-closing-in.md)
-26. [Under Pressure](026-under-pressure.md)
-27. [The Fight to Survive](027-the-fight-to-survive.md)
+26. [Two Rooms and an Alley](026-under-pressure.md)
+27. [Don’t Make Me Choose](027-the-fight-to-survive.md)
 28. [Ava’s Transformation](028-avas-transformation.md)
 29. [Extraction](029-extraction.md)
 30. [Breathing Space](030-breathing-space.md)
@@ -85,5 +85,5 @@ Website: <https://driftya.com>
 ### Part V — A New Dawn
 
 33. [The Scientist’s Proposal](033-the-scientists-proposal.md)
-34. [A New Dawn](034-a-new-dawn.md)
+34. [The Work After Hope](034-a-new-dawn.md)
 35. [Epilogue](035-epilogue.md)

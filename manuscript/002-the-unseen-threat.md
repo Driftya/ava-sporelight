@@ -28,11 +28,11 @@ The hospital gown smelled of hot laundry. Her field clothes lay folded in a bag 
 
 Ava lay on the examination table as doctors performed countless tests. Their faces grew more grim with each result. Finally, her attending physician, Dr. Laird, entered the room with a folder in his hands, his expression heavy with concern.
 
-“Miss Ava,” he began, his voice carefully measured, “we’ve analyzed your samples and compared them with the symptoms you’ve described. I… I’m sorry to inform you that you’re suffering from an aggressive, unidentified illness. Whatever this is, it’s attacking your immune system and spreading rapidly through your body.”
+“Miss Ava,” he began, and stopped to turn a page he had already read. “Your white count is falling. The cultures from your arm haven’t grown anything we can name. The black lines under the skin are in the biopsy, and none of the stains match a known infection.” He looked at the page instead of her. “I don’t have a diagnosis. I have a direction. It’s moving faster than anything I’ve treated.”
 
-Ava’s heart sank. “Unidentified? What does that even mean? Is there a treatment?”
+Ava’s heart sank. “Then it isn’t unidentified. You have findings. Which ones fail a treatment? What did you already try?”
 
-Dr. Laird shook his head slowly. “We’re doing everything we can to understand it, but the prognosis isn’t good. Your condition is… terminal. I’m so sorry.”
+Dr. Laird shook his head slowly. “Supportive care. Two antifungals. They did nothing we can measure.” He turned the chart so she could see the empty result column. “I asked for another laboratory. They sent the same blanks back. If this continues the way the last twelve hours went, I don’t think we can stop it. I’m so sorry.”
 
 “No.” The word came out hard enough to startle her. “Run it again. Send it to someone else. You don’t get to say that and close the folder.”
 

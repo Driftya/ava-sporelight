@@ -30,7 +30,7 @@ Ava pressed her palm against the glass. “What is this? Where am I?” she dema
 
 No one responded. One of the figures—a woman, judging by her frame—briefly glanced at Ava before turning back to her tablet. Ava slammed her fist against the glass, but it didn’t even shudder under the force.
 
-The intercom crackled to life, and a calm, clinical voice filled the chamber. “Subject 017, remain calm. Your elevated heart rate is being monitored.”
+The intercom crackled to life. A voice read numbers without greeting her. “One-seven. Pulse one-sixty-two. Temperature forty-point-one. Veins advancing past the elbow. Hold for the next draw.” Someone off the microphone said, quieter, “She’s looking at the lens,” and the first voice did not answer.
 
 “Subject?” Ava spat, her anger bubbling to the surface. “I have a name. I’m a person!”
 
@@ -64,7 +64,7 @@ She thought of her mother saying her name the ordinary way, from another room, a
 
 Then, as suddenly as it had begun, the pain stopped. Ava collapsed onto the floor, her body trembling. The absence hurt in a different place. She had begged. They had written it down. Somewhere a woman with a tablet would call that data. Ava hated them for it, and the hate steadied her. Hate meant some part of her had not agreed to become a result. Her name was still Ava. She kept it the way she kept her breath: because it was hers, and because she meant to be using it when the door opened. The mist began to dissipate, sucked away by unseen vents. She lay there, gasping for air, her sweat-soaked hair clinging to her face.
 
-The intercom crackled again. “Subject 017’s resistance levels are remarkable,” the same voice said, this time with a note of fascination. “Prepare for phase two.”
+The intercom crackled again. “One-seven still conscious after the second draw,” the same voice said. A pause. Paper moved. “Schedule the next vial. Don’t wait for the fever to break.”
 
 Ava dragged herself back to the door. A faint current of air touched her damp face at the bottom seam. She laid her cheek against the floor and watched that narrow gap.
 

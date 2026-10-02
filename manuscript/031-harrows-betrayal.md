@@ -64,7 +64,9 @@ Gabriel kept the rifle trained low, away from the pack. “Put the trigger down.
 
 “Back alive.”
 
-For one moment, Harrow looked tired enough to agree. Then footsteps sounded in the tunnel behind Ava and Gabriel. The outpost guard called for them to wait. Harrow jerked toward the voice, his hand closing around the trigger.
+For one moment, Harrow looked tired enough to agree. Ava thought of the filter he had put beside Lila’s cup, and of the research pack he had carried and returned with the folders still inside. Gabriel had given him the outpost lamp. They had given him a place and a task. The theft landed in that place, not only in the missing pages.
+
+Then footsteps sounded in the tunnel behind Ava and Gabriel. The outpost guard called for them to wait. Harrow jerked toward the voice, his hand closing around the trigger.
 
 He threw the charge at the ceiling.
 

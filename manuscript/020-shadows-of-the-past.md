@@ -1,10 +1,10 @@
 ---
 id: ava-sporelight-chapter-020
 chapter: 20
-title: "Shadows of the Past"
+title: "What We Carry"
 ---
 
-# Chapter 20: Shadows of the Past
+# Chapter 20: What We Carry
 
 ![Ava, Gabriel, and Harrow shelter among abandoned vehicles at moonrise](images/020/01-shadows-of-the-past.png)
 
@@ -36,9 +36,9 @@ The group moved cautiously, their footsteps echoing off the concrete walls. Gabr
 
 A faint noise—a shuffling, wet sound—drifted from deeper within the garage. Ava tensed, her grip tightening on her blade. Gabriel signaled for silence, his gaze fixed on the darkened corridor ahead.
 
-They followed the sound to a recess beneath the garage ramp. People huddled behind stacked crates, their mouths and noses covered with whatever cloth they had found. An older man raised a broken pipe. When his gaze reached Ava, he lurched backward.
+They followed the sound to a recess beneath the garage ramp. People huddled behind stacked crates, their mouths and noses covered with whatever cloth they had found. An older man, Tomas, raised a broken pipe. When his gaze reached Ava, he lurched backward.
 
-“Monster!” he screamed, stumbling backward. His voice echoed through the garage, drawing startled gasps from the others. A woman shrieked, pulling a child closer to her as her eyes locked on the faint amber veins visible on Ava’s cheek.
+“Monster!” he screamed, stumbling backward. His voice echoed through the garage, drawing startled gasps from the others. A woman—Lila, she would snap later, when someone called her only the mother—shrieked and pulled her daughter Nia closer. Her eyes locked on the faint amber veins visible on Ava’s cheek.
 
 “No! She’s not—” Harrow started, his voice cracking as he raised his hands to calm them. “She and Gabriel saved me! Gabriel let me follow, and she protected me!”
 

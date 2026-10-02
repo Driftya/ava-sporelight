@@ -1,10 +1,10 @@
 ---
 id: ava-sporelight-chapter-026
 chapter: 26
-title: "Under Pressure"
+title: "Two Rooms and an Alley"
 ---
 
-# Chapter 26: Under Pressure
+# Chapter 26: Two Rooms and an Alley
 
 ![Ava, Gabriel, and Harrow move beyond the hospital maintenance yard](images/026/01-under-pressure.png)
 
@@ -40,43 +40,31 @@ Gabriel’s gaze flicked toward her. “Doesn’t matter why they failed. What m
 
 Harrow nodded, his face pale. “I just… I hope it’s worth it.”
 
-Ava looked at Harrow’s notebook. She had needed Gabriel to help wrap her hand; Harrow had not once offered to carry her pack.
+Ava looked at Harrow’s notebook. She had needed Gabriel to help wrap her hand. Blood had soaked through the gauze again, and the pack strap sawed at the same wrist.
 
-*Ask him. Stop waiting to be noticed.*
+Harrow saw it. He did not wait to be asked. He took the research pack off her shoulder, settled the cut strap over his own, and re-rigged the broken buckle with a strip of wire from his pocket. “I can carry it through the next two rooms,” he said. “Your hand’s useless on that buckle. Don’t thank me until you see I didn’t open it.”
 
-She had been storing each failure as another reason to distrust him while pretending the weight was nothing.
+The relief made her angry. She wanted to take the pack back out of spite and could not close her fingers well enough to do it.
 
-“Hold this while I adjust the strap.”
+They left the doorway when the radio coughed a partial grid from Jenna’s forward team. Gabriel held the handset to his ear and repeated the only words that survived the static: alley, then west, then a count of minutes before the team moved. Distant gunfire answered him, already thinner than it had been at the hospital wall.
 
-Harrow looked up. She eased the pack down between them before he could misunderstand. He took it with his free hand, the other still pressed over the notebook.
+“If we take the alley, we reach them,” he said. “If we wait for a cleaner signal, they may be gone. Two rooms and an alley. That’s the decision.”
 
-For a moment her shoulder lifted without resistance. The relief was so great she wanted to sit and leave the pack with him. Instead she tightened the fastening, took it back, and said, “Thanks.” He had done one thing she asked. She could allow that much without deciding he was safe.
-
-A sudden noise shattered the quiet—the unmistakable clicking of a mutant echoing through the hallway. Gabriel motioned for silence, his rifle trained on the door. Ava gripped her blade tightly, her muscles coiled and ready to strike.
-
-The door creaked open slowly, and a grotesque form stepped into view. The mutant’s twisted body moved with unnerving speed, its glowing eyes locking onto the trio. Gabriel fired when it blocked the only clear exit. Spores lifted from the wound as it fell. His detector chirped; Harrow clamped both hands over his mask seal.
-
-“Move!” he barked, shoving Harrow toward the opposite door. Ava followed, using the flat of her blade to knock a second mutant’s reaching arm aside. Its claws scraped the doorframe as she pulled clear. Behind her, more feet struck the floor.
-
-The trio bolted into the adjoining room, their breaths ragged as they barricaded the door with a heavy desk. Gabriel’s chest heaved as he reloaded his rifle, his eyes darting to Ava.
-
-“You okay?” he asked, his voice tight.
-
-She nodded, though her hands trembled slightly. “Just… tired.”
-
-Gabriel kept looking at her.
-
-“Don’t ask me if I’m all right,” Ava said. “Ask me how much farther. I can answer that.”
-
-“Two rooms and an alley to the street.”
-
-“Then I can do two rooms and an alley.”
+“Then we take it,” Ava said.
 
 *I can’t keep doing this.*
 
-“We can’t stay here,” Harrow said, his voice rising in panic. “They’ll find a way in.”
+Harrow went first with the pack, head down, choosing the footing where the alley had collapsed into rebar. A pipe scraped his mask. He stopped, resealed it with his thumb, and checked Ava’s before he moved again. At the far door he set the pack in her reach and opened the flap where she could see it.
 
-Gabriel placed a hand on Harrow’s shoulder, his grip firm. “Keep it together. We’ll get through this.”
+“Count them,” he said.
+
+The folders were there. The scanner was there. Nothing in the pack had moved into his coat.
+
+Ava and Gabriel both looked at the open flap, then at him. Gabriel took the pack back himself. “You had the records,” he said. “You gave them back.”
+
+Harrow shrugged, already reaching for his own notebook. “I said two rooms. I’m not your saint.”
+
+Ava stopped watching his hands. The trust was small and specific, and she felt it anyway. Gabriel, later, at the outpost, gave Harrow the lamp and the door count and nothing else. One job. Not the cases.
 
 The faint sound of distant gunfire echoed from outside, drawing their attention. Gabriel’s expression hardened. “Could be the forward team.” He pressed the radio switch. “Identify. We’re south of your gunfire.”
 
